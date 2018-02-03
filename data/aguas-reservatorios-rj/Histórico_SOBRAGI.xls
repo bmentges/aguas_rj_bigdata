@@ -1,0 +1,1535 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>45,84</td><td>45,84</td><td>2,00</td><td>44,00</td><td>48,57</td><td>&nbsp;</td><td>48,57</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>40,05</td><td>40,05</td><td>2,00</td><td>38,00</td><td>43,41</td><td>&nbsp;</td><td>43,41</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>46,56</td><td>46,56</td><td>2,00</td><td>45,00</td><td>51,89</td><td>&nbsp;</td><td>51,89</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>67,96</td><td>67,96</td><td>3,11</td><td>65,00</td><td>63,18</td><td>&nbsp;</td><td>63,18</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>66,89</td><td>66,89</td><td>2,00</td><td>65,00</td><td>66,48</td><td>&nbsp;</td><td>66,48</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>58,49</td><td>58,49</td><td>2,39</td><td>54,00</td><td>58,03</td><td>&nbsp;</td><td>58,03</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>48,54</td><td>48,54</td><td>2,00</td><td>45,00</td><td>48,93</td><td>&nbsp;</td><td>48,93</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>41,47</td><td>41,47</td><td>2,00</td><td>39,00</td><td>43,41</td><td>&nbsp;</td><td>43,41</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>35,59</td><td>35,59</td><td>2,00</td><td>32,00</td><td>38,58</td><td>&nbsp;</td><td>38,58</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>36,09</td><td>36,09</td><td>2,00</td><td>33,00</td><td>36,51</td><td>&nbsp;</td><td>36,51</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>35,51</td><td>35,51</td><td>2,00</td><td>33,00</td><td>45,04</td><td>&nbsp;</td><td>45,04</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>63,79</td><td>63,67</td><td>4,18</td><td>59,00</td><td>60,72</td><td>&nbsp;</td><td>60,72</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,76</td><td>88,09</td><td>87,97</td><td>15,45</td><td>72,00</td><td>88,44</td><td>&nbsp;</td><td>88,44</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,62</td><td>115,98</td><td>115,98</td><td>31,19</td><td>85,00</td><td>119,26</td><td>&nbsp;</td><td>119,26</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,94</td><td>135,49</td><td>135,37</td><td>53,67</td><td>78,00</td><td>136,29</td><td>&nbsp;</td><td>136,29</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,42</td><td>209,80</td><td>209,68</td><td>141,75</td><td>67,00</td><td>209,64</td><td>&nbsp;</td><td>209,64</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,09</td><td>233,31</td><td>233,43</td><td>154,67</td><td>75,00</td><td>235,24</td><td>&nbsp;</td><td>235,24</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,04</td><td>211,87</td><td>211,87</td><td>81,71</td><td>82,00</td><td>211,69</td><td>&nbsp;</td><td>211,69</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,89</td><td>187,39</td><td>187,39</td><td>102,67</td><td>85,00</td><td>189,35</td><td>&nbsp;</td><td>189,35</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,03</td><td>200,08</td><td>200,08</td><td>118,46</td><td>82,00</td><td>201,96</td><td>&nbsp;</td><td>201,96</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,01</td><td>211,72</td><td>211,72</td><td>130,67</td><td>81,00</td><td>212,19</td><td>&nbsp;</td><td>212,19</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,80</td><td>166,05</td><td>166,17</td><td>83,92</td><td>82,00</td><td>165,76</td><td>&nbsp;</td><td>165,76</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,58</td><td>126,29</td><td>126,29</td><td>41,55</td><td>85,00</td><td>127,06</td><td>&nbsp;</td><td>127,06</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,47</td><td>100,83</td><td>100,95</td><td>16,55</td><td>84,00</td><td>99,45</td><td>&nbsp;</td><td>99,45</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>89,04</td><td>89,16</td><td>5,65</td><td>80,00</td><td>89,61</td><td>&nbsp;</td><td>89,61</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>84,65</td><td>84,53</td><td>3,45</td><td>78,00</td><td>86,02</td><td>&nbsp;</td><td>86,02</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>84,77</td><td>84,89</td><td>5,98</td><td>76,00</td><td>85,04</td><td>&nbsp;</td><td>85,04</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,67</td><td>104,60</td><td>104,37</td><td>20,10</td><td>81,00</td><td>106,57</td><td>&nbsp;</td><td>106,57</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,25</td><td>232,27</td><td>232,04</td><td>159,21</td><td>73,00</td><td>235,57</td><td>&nbsp;</td><td>235,57</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,08</td><td>227,23</td><td>227,35</td><td>145,71</td><td>82,00</td><td>227,63</td><td>&nbsp;</td><td>227,63</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,84</td><td>184,46</td><td>184,58</td><td>103,04</td><td>81,00</td><td>184,87</td><td>&nbsp;</td><td>184,87</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,49</td><td>116,95</td><td>117,07</td><td>32,46</td><td>85,00</td><td>117,21</td><td>&nbsp;</td><td>117,21</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>88,83</td><td>88,95</td><td>5,32</td><td>84,00</td><td>89,90</td><td>&nbsp;</td><td>89,90</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>76,88</td><td>76,88</td><td>2,00</td><td>55,00</td><td>77,71</td><td>&nbsp;</td><td>77,71</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>70,00</td><td>70,00</td><td>2,00</td><td>68,00</td><td>70,16</td><td>&nbsp;</td><td>70,16</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>63,12</td><td>63,00</td><td>2,08</td><td>61,00</td><td>64,52</td><td>&nbsp;</td><td>64,52</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>59,00</td><td>59,00</td><td>3,00</td><td>56,00</td><td>60,30</td><td>&nbsp;</td><td>60,30</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>56,88</td><td>57,00</td><td>2,40</td><td>54,00</td><td>57,60</td><td>&nbsp;</td><td>57,60</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>57,12</td><td>57,00</td><td>3,38</td><td>54,00</td><td>59,68</td><td>&nbsp;</td><td>59,68</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>59,88</td><td>60,00</td><td>3,00</td><td>57,00</td><td>57,83</td><td>&nbsp;</td><td>57,83</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>54,54</td><td>54,54</td><td>2,00</td><td>53,00</td><td>56,68</td><td>&nbsp;</td><td>56,68</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>53,19</td><td>53,07</td><td>2,22</td><td>49,00</td><td>61,94</td><td>&nbsp;</td><td>61,94</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>77,33</td><td>77,45</td><td>6,88</td><td>71,00</td><td>65,71</td><td>&nbsp;</td><td>65,71</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,14</td><td>64,91</td><td>64,91</td><td>2,00</td><td>63,00</td><td>70,06</td><td>&nbsp;</td><td>70,06</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>61,81</td><td>61,69</td><td>2,20</td><td>59,00</td><td>62,34</td><td>&nbsp;</td><td>62,34</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>58,95</td><td>58,95</td><td>3,57</td><td>53,00</td><td>59,57</td><td>&nbsp;</td><td>59,57</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,66</td><td>115,56</td><td>115,44</td><td>36,54</td><td>79,00</td><td>117,58</td><td>&nbsp;</td><td>117,58</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,52</td><td>90,88</td><td>91,00</td><td>12,00</td><td>39,00</td><td>90,22</td><td>&nbsp;</td><td>90,22</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>91,35</td><td>91,47</td><td>13,38</td><td>75,00</td><td>91,61</td><td>&nbsp;</td><td>91,61</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,53</td><td>100,01</td><td>99,89</td><td>14,97</td><td>85,00</td><td>102,37</td><td>&nbsp;</td><td>102,37</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,73</td><td>106,28</td><td>106,16</td><td>25,20</td><td>57,00</td><td>107,32</td><td>&nbsp;</td><td>107,32</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,84</td><td>147,91</td><td>147,91</td><td>68,67</td><td>57,00</td><td>148,46</td><td>&nbsp;</td><td>148,46</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,68</td><td>137,36</td><td>137,36</td><td>52,83</td><td>85,00</td><td>137,07</td><td>&nbsp;</td><td>137,07</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,50</td><td>114,72</td><td>114,84</td><td>31,00</td><td>82,00</td><td>115,56</td><td>&nbsp;</td><td>115,56</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,26</td><td>90,09</td><td>90,09</td><td>5,78</td><td>84,00</td><td>93,04</td><td>&nbsp;</td><td>93,04</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>78,44</td><td>78,56</td><td>2,00</td><td>74,00</td><td>77,30</td><td>&nbsp;</td><td>77,30</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>67,76</td><td>67,76</td><td>2,24</td><td>66,00</td><td>73,76</td><td>&nbsp;</td><td>73,76</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,56</td><td>81,00</td><td>78,52</td><td>3,00</td><td>72,00</td><td>81,87</td><td>&nbsp;</td><td>81,87</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,08</td><td>126,00</td><td>124,16</td><td>39,28</td><td>81,00</td><td>125,83</td><td>&nbsp;</td><td>125,83</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,56</td><td>138,00</td><td>136,17</td><td>62,96</td><td>73,00</td><td>138,57</td><td>&nbsp;</td><td>138,57</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>99,76</td><td>99,76</td><td>15,60</td><td>84,00</td><td>101,28</td><td>&nbsp;</td><td>101,28</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,23</td><td>87,50</td><td>87,62</td><td>7,14</td><td>81,00</td><td>88,38</td><td>&nbsp;</td><td>88,38</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>72,69</td><td>72,69</td><td>2,00</td><td>73,00</td><td>76,44</td><td>&nbsp;</td><td>76,44</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>68,73</td><td>68,73</td><td>2,00</td><td>67,00</td><td>71,99</td><td>&nbsp;</td><td>71,99</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>75,42</td><td>75,42</td><td>2,00</td><td>73,00</td><td>74,17</td><td>&nbsp;</td><td>74,17</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>75,77</td><td>75,77</td><td>2,00</td><td>74,00</td><td>75,89</td><td>&nbsp;</td><td>75,89</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,48</td><td>92,15</td><td>92,03</td><td>11,36</td><td>81,00</td><td>93,15</td><td>&nbsp;</td><td>93,15</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,19</td><td>82,16</td><td>82,28</td><td>9,85</td><td>69,00</td><td>84,03</td><td>&nbsp;</td><td>84,03</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>75,85</td><td>75,85</td><td>2,00</td><td>74,00</td><td>78,34</td><td>&nbsp;</td><td>78,34</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>67,30</td><td>67,18</td><td>2,19</td><td>65,00</td><td>72,80</td><td>&nbsp;</td><td>72,80</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,63</td><td>78,21</td><td>78,09</td><td>12,21</td><td>66,00</td><td>77,19</td><td>&nbsp;</td><td>77,19</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,25</td><td>89,41</td><td>89,53</td><td>10,23</td><td>79,00</td><td>88,67</td><td>&nbsp;</td><td>88,67</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,71</td><td>110,83</td><td>110,71</td><td>26,04</td><td>85,00</td><td>114,22</td><td>&nbsp;</td><td>114,22</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,48</td><td>110,21</td><td>110,33</td><td>28,49</td><td>82,00</td><td>103,97</td><td>&nbsp;</td><td>103,97</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>86,80</td><td>86,92</td><td>5,00</td><td>82,00</td><td>88,31</td><td>&nbsp;</td><td>88,31</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,23</td><td>78,93</td><td>78,93</td><td>2,00</td><td>74,00</td><td>81,22</td><td>&nbsp;</td><td>81,22</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>68,12</td><td>68,00</td><td>0,00</td><td>68,00</td><td>69,50</td><td>&nbsp;</td><td>69,50</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>64,33</td><td>64,33</td><td>7,12</td><td>57,00</td><td>64,52</td><td>&nbsp;</td><td>64,52</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>64,17</td><td>64,17</td><td>7,17</td><td>57,00</td><td>66,49</td><td>&nbsp;</td><td>66,49</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>66,26</td><td>66,26</td><td>9,13</td><td>57,00</td><td>64,23</td><td>&nbsp;</td><td>64,23</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>59,31</td><td>59,43</td><td>3,87</td><td>56,00</td><td>60,16</td><td>&nbsp;</td><td>60,16</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>52,13</td><td>52,13</td><td>2,00</td><td>50,00</td><td>53,06</td><td>&nbsp;</td><td>53,06</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>54,00</td><td>54,00</td><td>1,00</td><td>51,00</td><td>76,40</td><td>&nbsp;</td><td>76,40</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>82,12</td><td>82,00</td><td>8,00</td><td>72,00</td><td>65,74</td><td>&nbsp;</td><td>65,74</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,52</td><td>101,00</td><td>101,00</td><td>20,00</td><td>79,00</td><td>105,42</td><td>&nbsp;</td><td>105,42</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,68</td><td>114,12</td><td>114,00</td><td>27,00</td><td>85,00</td><td>113,08</td><td>&nbsp;</td><td>113,08</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,25</td><td>103,88</td><td>104,00</td><td>17,00</td><td>85,00</td><td>93,96</td><td>&nbsp;</td><td>93,96</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,19</td><td>76,88</td><td>77,00</td><td>0,00</td><td>75,00</td><td>81,40</td><td>&nbsp;</td><td>81,40</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,14</td><td>65,00</td><td>65,00</td><td>0,00</td><td>60,00</td><td>68,90</td><td>&nbsp;</td><td>68,90</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>63,12</td><td>63,00</td><td>3,00</td><td>58,00</td><td>63,09</td><td>&nbsp;</td><td>63,09</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>58,88</td><td>59,00</td><td>1,00</td><td>56,00</td><td>58,90</td><td>&nbsp;</td><td>58,90</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>54,00</td><td>54,00</td><td>0,00</td><td>52,00</td><td>55,15</td><td>&nbsp;</td><td>55,15</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,13</td><td>56,00</td><td>56,00</td><td>1,00</td><td>53,00</td><td>59,69</td><td>&nbsp;</td><td>59,69</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>61,00</td><td>61,00</td><td>3,00</td><td>56,00</td><td>57,01</td><td>&nbsp;</td><td>57,01</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>53,00</td><td>53,00</td><td>0,00</td><td>51,00</td><td>56,58</td><td>&nbsp;</td><td>56,58</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>53,00</td><td>53,00</td><td>0,00</td><td>51,00</td><td>52,47</td><td>&nbsp;</td><td>52,47</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>51,00</td><td>51,00</td><td>0,00</td><td>49,00</td><td>50,63</td><td>&nbsp;</td><td>50,63</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>47,84</td><td>&nbsp;</td><td>47,84</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>45,52</td><td>&nbsp;</td><td>45,52</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>45,18</td><td>&nbsp;</td><td>45,18</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>44,58</td><td>&nbsp;</td><td>44,58</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>44,00</td><td>44,00</td><td>0,00</td><td>40,00</td><td>43,36</td><td>&nbsp;</td><td>43,36</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>42,87</td><td>&nbsp;</td><td>42,87</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>42,73</td><td>&nbsp;</td><td>42,73</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>43,38</td><td>&nbsp;</td><td>43,38</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>42,00</td><td>42,00</td><td>1,00</td><td>39,00</td><td>42,66</td><td>&nbsp;</td><td>42,66</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>42,00</td><td>42,00</td><td>0,00</td><td>30,00</td><td>43,51</td><td>&nbsp;</td><td>43,51</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>43,23</td><td>&nbsp;</td><td>43,23</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>43,55</td><td>&nbsp;</td><td>43,55</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>41,48</td><td>&nbsp;</td><td>41,48</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>39,40</td><td>&nbsp;</td><td>39,40</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>38,88</td><td>&nbsp;</td><td>38,88</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>37,55</td><td>&nbsp;</td><td>37,55</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>36,21</td><td>&nbsp;</td><td>36,21</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>35,00</td><td>35,00</td><td>0,00</td><td>26,00</td><td>36,29</td><td>&nbsp;</td><td>36,29</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>34,00</td><td>34,00</td><td>0,00</td><td>32,00</td><td>36,15</td><td>&nbsp;</td><td>36,15</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>36,39</td><td>&nbsp;</td><td>36,39</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>36,75</td><td>&nbsp;</td><td>36,75</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>36,44</td><td>&nbsp;</td><td>36,44</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>35,00</td><td>35,00</td><td>0,00</td><td>33,00</td><td>38,90</td><td>&nbsp;</td><td>38,90</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>42,04</td><td>&nbsp;</td><td>42,04</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>44,60</td><td>&nbsp;</td><td>44,60</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>44,00</td><td>44,00</td><td>2,00</td><td>42,00</td><td>43,74</td><td>&nbsp;</td><td>43,74</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>42,00</td><td>42,00</td><td>2,00</td><td>40,00</td><td>41,95</td><td>&nbsp;</td><td>41,95</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>38,00</td><td>38,00</td><td>2,00</td><td>36,00</td><td>39,43</td><td>&nbsp;</td><td>39,43</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>35,62</td><td>35,62</td><td>2,00</td><td>32,00</td><td>37,99</td><td>&nbsp;</td><td>37,99</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>36,71</td><td>36,59</td><td>5,43</td><td>30,00</td><td>37,85</td><td>&nbsp;</td><td>37,85</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>38,00</td><td>38,00</td><td>8,80</td><td>30,00</td><td>37,96</td><td>&nbsp;</td><td>37,96</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>38,00</td><td>38,00</td><td>8,06</td><td>30,00</td><td>38,02</td><td>&nbsp;</td><td>38,02</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>36,00</td><td>36,00</td><td>6,55</td><td>30,00</td><td>38,14</td><td>&nbsp;</td><td>38,14</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>38,00</td><td>38,00</td><td>8,11</td><td>30,00</td><td>37,29</td><td>&nbsp;</td><td>37,29</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>36,00</td><td>36,00</td><td>4,00</td><td>30,00</td><td>37,42</td><td>&nbsp;</td><td>37,42</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>36,00</td><td>36,00</td><td>5,00</td><td>30,00</td><td>36,79</td><td>&nbsp;</td><td>36,79</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>37,00</td><td>37,00</td><td>6,00</td><td>29,00</td><td>37,74</td><td>&nbsp;</td><td>37,74</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>37,00</td><td>37,00</td><td>7,00</td><td>28,00</td><td>37,83</td><td>&nbsp;</td><td>37,83</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>37,00</td><td>37,00</td><td>7,00</td><td>28,00</td><td>38,55</td><td>&nbsp;</td><td>38,55</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,48</td><td>38,21</td><td>38,21</td><td>10,20</td><td>28,00</td><td>37,97</td><td>&nbsp;</td><td>37,97</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>37,00</td><td>37,00</td><td>12,40</td><td>25,00</td><td>37,79</td><td>&nbsp;</td><td>37,79</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>35,48</td><td>35,48</td><td>7,43</td><td>14,00</td><td>36,35</td><td>&nbsp;</td><td>36,35</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>34,00</td><td>34,00</td><td>4,00</td><td>28,00</td><td>35,79</td><td>&nbsp;</td><td>35,79</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>36,00</td><td>36,00</td><td>5,00</td><td>28,00</td><td>35,73</td><td>&nbsp;</td><td>35,73</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>33,72</td><td>33,72</td><td>6,00</td><td>27,00</td><td>36,97</td><td>&nbsp;</td><td>36,97</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>36,88</td><td>37,00</td><td>5,00</td><td>30,00</td><td>36,85</td><td>&nbsp;</td><td>36,85</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>38,86</td><td>&nbsp;</td><td>38,86</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>38,27</td><td>&nbsp;</td><td>38,27</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>35,12</td><td>35,00</td><td>2,00</td><td>31,00</td><td>36,68</td><td>&nbsp;</td><td>36,68</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>35,00</td><td>35,00</td><td>4,00</td><td>29,00</td><td>34,09</td><td>&nbsp;</td><td>34,09</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>31,00</td><td>31,00</td><td>2,00</td><td>29,00</td><td>34,03</td><td>&nbsp;</td><td>34,03</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>34,00</td><td>34,00</td><td>3,00</td><td>29,00</td><td>33,58</td><td>&nbsp;</td><td>33,58</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>33,41</td><td>&nbsp;</td><td>33,41</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>31,00</td><td>31,00</td><td>1,00</td><td>28,00</td><td>33,03</td><td>&nbsp;</td><td>33,03</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>33,20</td><td>&nbsp;</td><td>33,20</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,00</td><td>33,00</td><td>2,00</td><td>30,00</td><td>33,76</td><td>&nbsp;</td><td>33,76</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>35,80</td><td>&nbsp;</td><td>35,80</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>37,88</td><td>38,00</td><td>3,00</td><td>33,00</td><td>38,45</td><td>&nbsp;</td><td>38,45</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>42,00</td><td>42,00</td><td>0,00</td><td>42,00</td><td>41,42</td><td>&nbsp;</td><td>41,42</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>44,00</td><td>44,00</td><td>0,00</td><td>44,00</td><td>45,00</td><td>&nbsp;</td><td>45,00</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>45,59</td><td>&nbsp;</td><td>45,59</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>45,30</td><td>&nbsp;</td><td>45,30</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>44,00</td><td>44,00</td><td>0,00</td><td>40,00</td><td>47,02</td><td>&nbsp;</td><td>47,02</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>45,48</td><td>&nbsp;</td><td>45,48</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>44,88</td><td>&nbsp;</td><td>44,88</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>42,39</td><td>&nbsp;</td><td>42,39</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>39,90</td><td>&nbsp;</td><td>39,90</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,47</td><td>38,12</td><td>38,00</td><td>6,00</td><td>30,00</td><td>37,36</td><td>&nbsp;</td><td>37,36</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>34,00</td><td>34,00</td><td>5,00</td><td>27,00</td><td>35,91</td><td>&nbsp;</td><td>35,91</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>33,00</td><td>33,00</td><td>3,00</td><td>28,00</td><td>34,51</td><td>&nbsp;</td><td>34,51</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>34,00</td><td>34,00</td><td>3,00</td><td>29,00</td><td>34,39</td><td>&nbsp;</td><td>34,39</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>34,00</td><td>34,00</td><td>3,00</td><td>29,00</td><td>34,37</td><td>&nbsp;</td><td>34,37</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>33,00</td><td>33,00</td><td>2,00</td><td>30,00</td><td>33,78</td><td>&nbsp;</td><td>33,78</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>32,00</td><td>32,00</td><td>1,00</td><td>21,00</td><td>33,46</td><td>&nbsp;</td><td>33,46</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>34,00</td><td>34,00</td><td>2,00</td><td>30,00</td><td>34,09</td><td>&nbsp;</td><td>34,09</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>33,00</td><td>33,00</td><td>4,00</td><td>30,00</td><td>34,58</td><td>&nbsp;</td><td>34,58</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>34,00</td><td>34,00</td><td>2,00</td><td>30,00</td><td>34,70</td><td>&nbsp;</td><td>34,70</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>33,00</td><td>33,00</td><td>2,00</td><td>30,00</td><td>34,22</td><td>&nbsp;</td><td>34,22</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>34,13</td><td>&nbsp;</td><td>34,13</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>34,00</td><td>34,00</td><td>3,00</td><td>30,00</td><td>34,47</td><td>&nbsp;</td><td>34,47</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>34,00</td><td>34,00</td><td>2,00</td><td>30,00</td><td>34,62</td><td>&nbsp;</td><td>34,62</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>34,00</td><td>34,00</td><td>3,00</td><td>29,00</td><td>35,05</td><td>&nbsp;</td><td>35,05</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>35,00</td><td>35,00</td><td>3,00</td><td>30,00</td><td>35,53</td><td>&nbsp;</td><td>35,53</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>36,00</td><td>36,00</td><td>4,00</td><td>30,00</td><td>35,97</td><td>&nbsp;</td><td>35,97</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>35,00</td><td>35,00</td><td>3,00</td><td>30,00</td><td>35,73</td><td>&nbsp;</td><td>35,73</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,89</td><td>33,23</td><td>33,00</td><td>3,00</td><td>29,00</td><td>35,76</td><td>&nbsp;</td><td>35,76</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>34,77</td><td>35,00</td><td>4,00</td><td>29,00</td><td>35,98</td><td>&nbsp;</td><td>35,98</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>37,00</td><td>37,00</td><td>5,00</td><td>30,00</td><td>37,92</td><td>&nbsp;</td><td>37,92</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>39,00</td><td>39,00</td><td>9,00</td><td>30,00</td><td>37,69</td><td>&nbsp;</td><td>37,69</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>35,00</td><td>35,00</td><td>4,00</td><td>30,00</td><td>36,32</td><td>&nbsp;</td><td>36,32</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>34,00</td><td>34,00</td><td>4,00</td><td>29,00</td><td>35,50</td><td>&nbsp;</td><td>35,50</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>36,00</td><td>36,00</td><td>5,00</td><td>30,00</td><td>35,38</td><td>&nbsp;</td><td>35,38</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>34,00</td><td>34,00</td><td>4,00</td><td>29,00</td><td>35,32</td><td>&nbsp;</td><td>35,32</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,00</td><td>33,00</td><td>3,00</td><td>28,00</td><td>33,69</td><td>&nbsp;</td><td>33,69</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>32,00</td><td>32,00</td><td>3,00</td><td>27,00</td><td>33,43</td><td>&nbsp;</td><td>33,43</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,00</td><td>33,00</td><td>3,00</td><td>29,00</td><td>33,50</td><td>&nbsp;</td><td>33,50</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>33,44</td><td>&nbsp;</td><td>33,44</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>31,00</td><td>31,00</td><td>2,00</td><td>28,00</td><td>33,08</td><td>&nbsp;</td><td>33,08</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,54</td><td>&nbsp;</td><td>32,54</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,64</td><td>&nbsp;</td><td>32,64</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,04</td><td>&nbsp;</td><td>32,04</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>30,88</td><td>31,00</td><td>1,00</td><td>29,00</td><td>31,57</td><td>&nbsp;</td><td>31,57</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,39</td><td>&nbsp;</td><td>31,39</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,43</td><td>&nbsp;</td><td>31,43</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,83</td><td>&nbsp;</td><td>30,83</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>30,44</td><td>&nbsp;</td><td>30,44</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>30,98</td><td>&nbsp;</td><td>30,98</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>31,12</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,67</td><td>&nbsp;</td><td>31,67</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>31,00</td><td>31,00</td><td>1,00</td><td>28,00</td><td>32,15</td><td>&nbsp;</td><td>32,15</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>31,00</td><td>31,00</td><td>1,00</td><td>28,00</td><td>31,93</td><td>&nbsp;</td><td>31,93</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,23</td><td>30,88</td><td>31,00</td><td>1,00</td><td>28,00</td><td>32,34</td><td>&nbsp;</td><td>32,34</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>32,00</td><td>32,00</td><td>0,00</td><td>30,00</td><td>31,90</td><td>&nbsp;</td><td>31,90</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,73</td><td>&nbsp;</td><td>31,73</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>31,00</td><td>31,00</td><td>0,00</td><td>21,00</td><td>31,19</td><td>&nbsp;</td><td>31,19</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,42</td><td>&nbsp;</td><td>31,42</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,58</td><td>&nbsp;</td><td>31,58</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,70</td><td>&nbsp;</td><td>31,70</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,29</td><td>&nbsp;</td><td>31,29</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,25</td><td>&nbsp;</td><td>30,25</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>29,59</td><td>&nbsp;</td><td>29,59</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>19,00</td><td>28,86</td><td>&nbsp;</td><td>28,86</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>25,00</td><td>25,00</td><td>0,00</td><td>18,00</td><td>28,00</td><td>&nbsp;</td><td>28,00</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>27,26</td><td>&nbsp;</td><td>27,26</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>26,61</td><td>&nbsp;</td><td>26,61</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>26,77</td><td>&nbsp;</td><td>26,77</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>27,91</td><td>&nbsp;</td><td>27,91</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>28,48</td><td>&nbsp;</td><td>28,48</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>28,27</td><td>&nbsp;</td><td>28,27</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,27</td><td>28,12</td><td>28,00</td><td>0,00</td><td>26,00</td><td>27,16</td><td>&nbsp;</td><td>27,16</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>28,88</td><td>29,00</td><td>0,00</td><td>27,00</td><td>28,41</td><td>&nbsp;</td><td>28,41</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>29,07</td><td>&nbsp;</td><td>29,07</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>29,04</td><td>&nbsp;</td><td>29,04</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,50</td><td>&nbsp;</td><td>30,50</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>29,47</td><td>&nbsp;</td><td>29,47</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>28,43</td><td>&nbsp;</td><td>28,43</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,85</td><td>&nbsp;</td><td>27,85</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>7,00</td><td>17,00</td><td>26,62</td><td>&nbsp;</td><td>26,62</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>27,47</td><td>&nbsp;</td><td>27,47</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>28,31</td><td>&nbsp;</td><td>28,31</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>29,00</td><td>29,00</td><td>0,00</td><td>19,00</td><td>29,63</td><td>&nbsp;</td><td>29,63</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>29,06</td><td>&nbsp;</td><td>29,06</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>28,21</td><td>&nbsp;</td><td>28,21</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,30</td><td>26,12</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,96</td><td>&nbsp;</td><td>27,96</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>31,00</td><td>31,00</td><td>2,00</td><td>28,00</td><td>28,13</td><td>&nbsp;</td><td>28,13</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,88</td><td>27,00</td><td>0,00</td><td>24,00</td><td>28,96</td><td>&nbsp;</td><td>28,96</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,54</td><td>&nbsp;</td><td>27,54</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>29,72</td><td>&nbsp;</td><td>29,72</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>40,00</td><td>40,00</td><td>2,00</td><td>37,00</td><td>38,28</td><td>&nbsp;</td><td>38,28</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>40,00</td><td>40,00</td><td>2,00</td><td>37,00</td><td>38,28</td><td>&nbsp;</td><td>38,28</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>49,00</td><td>49,00</td><td>0,00</td><td>47,00</td><td>47,91</td><td>&nbsp;</td><td>47,91</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>44,82</td><td>&nbsp;</td><td>44,82</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>37,46</td><td>&nbsp;</td><td>37,46</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>33,12</td><td>33,00</td><td>1,00</td><td>30,00</td><td>33,13</td><td>&nbsp;</td><td>33,13</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>27,88</td><td>28,00</td><td>0,00</td><td>26,00</td><td>29,67</td><td>&nbsp;</td><td>29,67</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>29,14</td><td>&nbsp;</td><td>29,14</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>32,12</td><td>32,00</td><td>3,00</td><td>27,00</td><td>30,28</td><td>&nbsp;</td><td>30,28</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>30,88</td><td>31,00</td><td>1,00</td><td>27,00</td><td>29,83</td><td>&nbsp;</td><td>29,83</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>22,00</td><td>28,81</td><td>&nbsp;</td><td>28,81</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>0,00</td><td>16,00</td><td>25,91</td><td>&nbsp;</td><td>25,91</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>28,12</td><td>28,00</td><td>1,00</td><td>25,00</td><td>29,04</td><td>&nbsp;</td><td>29,04</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>30,88</td><td>31,00</td><td>1,00</td><td>27,00</td><td>26,89</td><td>&nbsp;</td><td>26,89</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>21,00</td><td>21,00</td><td>3,00</td><td>16,00</td><td>27,61</td><td>&nbsp;</td><td>27,61</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>3,00</td><td>19,00</td><td>24,71</td><td>&nbsp;</td><td>24,71</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>25,55</td><td>&nbsp;</td><td>25,55</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>28,12</td><td>28,00</td><td>1,00</td><td>25,00</td><td>27,73</td><td>&nbsp;</td><td>27,73</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>30,88</td><td>31,00</td><td>2,00</td><td>27,00</td><td>28,77</td><td>&nbsp;</td><td>28,77</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>27,45</td><td>&nbsp;</td><td>27,45</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,22</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>30,17</td><td>&nbsp;</td><td>30,17</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>33,12</td><td>33,00</td><td>5,00</td><td>26,00</td><td>27,87</td><td>&nbsp;</td><td>27,87</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,88</td><td>26,00</td><td>0,00</td><td>24,00</td><td>28,36</td><td>&nbsp;</td><td>28,36</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>26,23</td><td>&nbsp;</td><td>26,23</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>25,49</td><td>&nbsp;</td><td>25,49</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>27,74</td><td>&nbsp;</td><td>27,74</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>30,00</td><td>30,00</td><td>1,00</td><td>27,00</td><td>27,30</td><td>&nbsp;</td><td>27,30</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>30,12</td><td>30,00</td><td>1,00</td><td>27,00</td><td>33,30</td><td>&nbsp;</td><td>33,30</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>35,00</td><td>35,00</td><td>5,00</td><td>29,00</td><td>31,52</td><td>&nbsp;</td><td>31,52</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,88</td><td>27,00</td><td>0,00</td><td>25,00</td><td>29,07</td><td>&nbsp;</td><td>29,07</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>27,51</td><td>&nbsp;</td><td>27,51</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>25,39</td><td>&nbsp;</td><td>25,39</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>28,84</td><td>&nbsp;</td><td>28,84</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,12</td><td>33,00</td><td>2,00</td><td>29,00</td><td>29,60</td><td>&nbsp;</td><td>29,60</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>32,88</td><td>33,00</td><td>8,00</td><td>21,00</td><td>42,77</td><td>&nbsp;</td><td>42,77</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>62,12</td><td>62,00</td><td>19,00</td><td>34,00</td><td>56,23</td><td>&nbsp;</td><td>56,23</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,32</td><td>59,00</td><td>59,00</td><td>23,00</td><td>18,00</td><td>60,91</td><td>&nbsp;</td><td>60,91</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>49,88</td><td>50,00</td><td>18,00</td><td>30,00</td><td>49,95</td><td>&nbsp;</td><td>49,95</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>40,00</td><td>40,00</td><td>10,00</td><td>26,00</td><td>41,80</td><td>&nbsp;</td><td>41,80</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>38,12</td><td>38,00</td><td>10,00</td><td>21,00</td><td>34,79</td><td>&nbsp;</td><td>34,79</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,32</td><td>28,00</td><td>28,00</td><td>8,00</td><td>18,00</td><td>30,31</td><td>&nbsp;</td><td>30,31</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,22</td><td>25,88</td><td>26,00</td><td>6,00</td><td>18,00</td><td>26,20</td><td>&nbsp;</td><td>26,20</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>22,00</td><td>22,00</td><td>3,00</td><td>16,00</td><td>25,14</td><td>&nbsp;</td><td>25,14</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>27,12</td><td>27,00</td><td>9,00</td><td>16,00</td><td>27,48</td><td>&nbsp;</td><td>27,48</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>29,00</td><td>29,00</td><td>9,00</td><td>18,00</td><td>28,46</td><td>&nbsp;</td><td>28,46</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,88</td><td>27,00</td><td>6,00</td><td>18,00</td><td>28,21</td><td>&nbsp;</td><td>28,21</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>29,00</td><td>29,00</td><td>7,00</td><td>20,00</td><td>32,11</td><td>&nbsp;</td><td>32,11</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,44</td><td>35,12</td><td>35,00</td><td>11,00</td><td>22,00</td><td>34,42</td><td>&nbsp;</td><td>34,42</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>36,00</td><td>36,00</td><td>15,00</td><td>9,00</td><td>35,93</td><td>&nbsp;</td><td>35,93</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>33,00</td><td>33,00</td><td>3,00</td><td>28,00</td><td>31,97</td><td>&nbsp;</td><td>31,97</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>24,88</td><td>25,00</td><td>0,00</td><td>23,00</td><td>26,51</td><td>&nbsp;</td><td>26,51</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>24,50</td><td>&nbsp;</td><td>24,50</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>26,12</td><td>26,00</td><td>0,00</td><td>24,00</td><td>25,70</td><td>&nbsp;</td><td>25,70</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>26,88</td><td>27,00</td><td>0,00</td><td>25,00</td><td>24,64</td><td>&nbsp;</td><td>24,64</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>24,68</td><td>&nbsp;</td><td>24,68</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>25,10</td><td>&nbsp;</td><td>25,10</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>30,12</td><td>30,00</td><td>2,00</td><td>27,00</td><td>26,46</td><td>&nbsp;</td><td>26,46</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>26,88</td><td>27,00</td><td>0,00</td><td>25,00</td><td>28,25</td><td>&nbsp;</td><td>28,25</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>24,02</td><td>&nbsp;</td><td>24,02</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>26,03</td><td>&nbsp;</td><td>26,03</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>24,10</td><td>&nbsp;</td><td>24,10</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>26,12</td><td>&nbsp;</td><td>26,12</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>24,42</td><td>&nbsp;</td><td>24,42</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>23,49</td><td>&nbsp;</td><td>23,49</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>21,61</td><td>&nbsp;</td><td>21,61</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>24,27</td><td>&nbsp;</td><td>24,27</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,16</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>29,00</td><td>&nbsp;</td><td>29,00</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>38,12</td><td>38,00</td><td>0,00</td><td>39,00</td><td>34,34</td><td>&nbsp;</td><td>34,34</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,46</td><td>38,00</td><td>38,00</td><td>6,00</td><td>30,00</td><td>41,07</td><td>&nbsp;</td><td>41,07</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>39,00</td><td>39,00</td><td>7,00</td><td>29,00</td><td>43,80</td><td>&nbsp;</td><td>43,80</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>39,00</td><td>39,00</td><td>7,00</td><td>&nbsp;</td><td>42,45</td><td>&nbsp;</td><td>42,45</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,60</td><td>48,12</td><td>48,00</td><td>12,00</td><td>34,00</td><td>51,85</td><td>&nbsp;</td><td>51,85</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>71,77</td><td>72,00</td><td>29,00</td><td>41,00</td><td>72,52</td><td>&nbsp;</td><td>72,52</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,52</td><td>112,12</td><td>112,00</td><td>71,00</td><td>40,00</td><td>112,01</td><td>&nbsp;</td><td>112,01</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,87</td><td>139,12</td><td>139,00</td><td>82,00</td><td>55,00</td><td>141,63</td><td>&nbsp;</td><td>141,63</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,09</td><td>187,12</td><td>187,00</td><td>130,00</td><td>42,00</td><td>188,37</td><td>&nbsp;</td><td>188,37</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,24</td><td>245,12</td><td>245,00</td><td>195,00</td><td>48,00</td><td>247,03</td><td>&nbsp;</td><td>247,03</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,17</td><td>222,88</td><td>223,00</td><td>163,00</td><td>43,00</td><td>221,81</td><td>&nbsp;</td><td>221,81</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,94</td><td>207,00</td><td>207,00</td><td>144,00</td><td>62,00</td><td>204,60</td><td>&nbsp;</td><td>204,60</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,55</td><td>133,77</td><td>134,00</td><td>64,00</td><td>69,00</td><td>137,02</td><td>&nbsp;</td><td>137,02</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,32</td><td>91,00</td><td>91,00</td><td>14,00</td><td>75,00</td><td>91,28</td><td>&nbsp;</td><td>91,28</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>78,88</td><td>79,00</td><td>0,00</td><td>77,00</td><td>79,06</td><td>&nbsp;</td><td>79,06</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>68,00</td><td>68,00</td><td>0,00</td><td>66,00</td><td>67,52</td><td>&nbsp;</td><td>67,52</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>56,00</td><td>56,00</td><td>0,00</td><td>54,00</td><td>60,56</td><td>&nbsp;</td><td>60,56</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>55,12</td><td>55,00</td><td>2,00</td><td>52,00</td><td>55,97</td><td>&nbsp;</td><td>55,97</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>55,88</td><td>56,00</td><td>0,00</td><td>54,00</td><td>55,91</td><td>&nbsp;</td><td>55,91</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>55,12</td><td>55,00</td><td>1,00</td><td>54,00</td><td>52,44</td><td>&nbsp;</td><td>52,44</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>44,88</td><td>45,00</td><td>0,00</td><td>43,00</td><td>49,44</td><td>&nbsp;</td><td>49,44</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>44,62</td><td>&nbsp;</td><td>44,62</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>45,16</td><td>&nbsp;</td><td>45,16</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>52,70</td><td>&nbsp;</td><td>52,70</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,50</td><td>70,12</td><td>70,00</td><td>16,00</td><td>51,00</td><td>64,47</td><td>&nbsp;</td><td>64,47</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>68,00</td><td>68,00</td><td>8,00</td><td>58,00</td><td>71,12</td><td>&nbsp;</td><td>71,12</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>62,88</td><td>63,00</td><td>4,00</td><td>57,00</td><td>61,56</td><td>&nbsp;</td><td>61,56</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>54,00</td><td>54,00</td><td>0,00</td><td>52,00</td><td>55,02</td><td>&nbsp;</td><td>55,02</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>57,12</td><td>57,00</td><td>1,00</td><td>54,00</td><td>59,66</td><td>&nbsp;</td><td>59,66</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>72,00</td><td>72,00</td><td>26,00</td><td>45,00</td><td>70,27</td><td>&nbsp;</td><td>70,27</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,49</td><td>71,00</td><td>71,00</td><td>11,00</td><td>58,00</td><td>74,69</td><td>&nbsp;</td><td>74,69</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>65,88</td><td>66,00</td><td>7,00</td><td>57,00</td><td>63,23</td><td>&nbsp;</td><td>63,23</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>52,00</td><td>52,00</td><td>0,00</td><td>50,00</td><td>62,24</td><td>&nbsp;</td><td>62,24</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,90</td><td>77,35</td><td>77,00</td><td>40,00</td><td>34,00</td><td>77,86</td><td>&nbsp;</td><td>77,86</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,84</td><td>111,88</td><td>112,00</td><td>74,00</td><td>36,00</td><td>110,41</td><td>&nbsp;</td><td>110,41</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,73</td><td>91,00</td><td>91,00</td><td>34,00</td><td>55,00</td><td>92,25</td><td>&nbsp;</td><td>92,25</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,87</td><td>98,00</td><td>98,00</td><td>38,00</td><td>58,00</td><td>100,21</td><td>&nbsp;</td><td>100,21</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,79</td><td>123,00</td><td>123,00</td><td>67,00</td><td>53,00</td><td>122,30</td><td>&nbsp;</td><td>122,30</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,76</td><td>124,00</td><td>124,00</td><td>55,00</td><td>67,00</td><td>126,75</td><td>&nbsp;</td><td>126,75</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,11</td><td>186,12</td><td>186,00</td><td>106,00</td><td>78,00</td><td>185,76</td><td>&nbsp;</td><td>185,76</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,04</td><td>211,00</td><td>211,00</td><td>141,00</td><td>69,00</td><td>211,27</td><td>&nbsp;</td><td>211,27</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,02</td><td>192,00</td><td>192,00</td><td>147,00</td><td>43,00</td><td>193,74</td><td>&nbsp;</td><td>193,74</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,87</td><td>149,88</td><td>150,00</td><td>91,00</td><td>57,00</td><td>151,25</td><td>&nbsp;</td><td>151,25</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,72</td><td>121,00</td><td>121,00</td><td>63,00</td><td>57,00</td><td>121,83</td><td>&nbsp;</td><td>121,83</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>92,88</td><td>93,00</td><td>21,00</td><td>70,00</td><td>88,76</td><td>&nbsp;</td><td>88,76</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>59,88</td><td>60,00</td><td>0,00</td><td>58,00</td><td>72,08</td><td>&nbsp;</td><td>72,08</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,13</td><td>70,00</td><td>70,00</td><td>0,00</td><td>68,00</td><td>64,85</td><td>&nbsp;</td><td>64,85</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>64,00</td><td>64,00</td><td>0,00</td><td>62,00</td><td>64,83</td><td>&nbsp;</td><td>64,83</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>60,12</td><td>60,00</td><td>1,00</td><td>57,00</td><td>67,34</td><td>&nbsp;</td><td>67,34</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,16</td><td>73,88</td><td>74,00</td><td>2,00</td><td>71,00</td><td>66,00</td><td>&nbsp;</td><td>66,00</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>67,00</td><td>67,00</td><td>0,00</td><td>65,00</td><td>70,61</td><td>&nbsp;</td><td>70,61</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>65,00</td><td>65,00</td><td>0,00</td><td>63,00</td><td>73,63</td><td>&nbsp;</td><td>73,63</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,72</td><td>100,23</td><td>100,00</td><td>34,00</td><td>64,00</td><td>87,10</td><td>&nbsp;</td><td>87,10</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>78,77</td><td>79,00</td><td>9,00</td><td>68,00</td><td>83,50</td><td>&nbsp;</td><td>83,50</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>63,12</td><td>63,00</td><td>0,00</td><td>61,00</td><td>64,33</td><td>&nbsp;</td><td>64,33</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>53,88</td><td>54,00</td><td>0,00</td><td>52,00</td><td>56,51</td><td>&nbsp;</td><td>56,51</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>51,00</td><td>51,00</td><td>0,00</td><td>49,00</td><td>52,29</td><td>&nbsp;</td><td>52,29</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>51,00</td><td>51,00</td><td>0,00</td><td>49,00</td><td>51,41</td><td>&nbsp;</td><td>51,41</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>52,12</td><td>52,00</td><td>0,00</td><td>50,00</td><td>56,41</td><td>&nbsp;</td><td>56,41</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,31</td><td>68,00</td><td>68,00</td><td>0,00</td><td>66,00</td><td>63,86</td><td>&nbsp;</td><td>63,86</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>66,00</td><td>66,00</td><td>3,00</td><td>60,00</td><td>66,20</td><td>&nbsp;</td><td>66,20</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>60,00</td><td>60,00</td><td>1,00</td><td>57,00</td><td>64,69</td><td>&nbsp;</td><td>64,69</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>71,88</td><td>72,00</td><td>2,00</td><td>68,00</td><td>76,65</td><td>&nbsp;</td><td>76,65</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>97,12</td><td>97,00</td><td>26,00</td><td>69,00</td><td>90,57</td><td>&nbsp;</td><td>90,57</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,54</td><td>97,00</td><td>97,00</td><td>10,00</td><td>85,00</td><td>100,75</td><td>&nbsp;</td><td>100,75</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,73</td><td>103,12</td><td>103,00</td><td>20,00</td><td>82,00</td><td>107,01</td><td>&nbsp;</td><td>107,01</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,73</td><td>103,00</td><td>103,00</td><td>20,00</td><td>&nbsp;</td><td>102,20</td><td>&nbsp;</td><td>102,20</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,31</td><td>98,88</td><td>99,00</td><td>19,00</td><td>76,00</td><td>99,47</td><td>&nbsp;</td><td>99,47</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>438,10</td><td>141,23</td><td>141,00</td><td>59,00</td><td>80,00</td><td>142,85</td><td>&nbsp;</td><td>142,85</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,75</td><td>146,88</td><td>147,00</td><td>67,00</td><td>78,00</td><td>154,81</td><td>&nbsp;</td><td>154,81</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,69</td><td>131,00</td><td>131,00</td><td>44,00</td><td>84,00</td><td>127,90</td><td>&nbsp;</td><td>127,90</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,57</td><td>119,00</td><td>119,00</td><td>39,00</td><td>79,00</td><td>118,89</td><td>&nbsp;</td><td>118,89</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,48</td><td>105,88</td><td>106,00</td><td>19,00</td><td>86,00</td><td>106,36</td><td>&nbsp;</td><td>106,36</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>88,88</td><td>89,00</td><td>2,00</td><td>85,00</td><td>88,54</td><td>&nbsp;</td><td>88,54</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,14</td><td>75,00</td><td>75,00</td><td>0,00</td><td>73,00</td><td>77,91</td><td>&nbsp;</td><td>77,91</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,40</td><td>75,77</td><td>76,00</td><td>0,00</td><td>74,00</td><td>70,86</td><td>&nbsp;</td><td>70,86</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,30</td><td>71,35</td><td>71,00</td><td>0,00</td><td>69,00</td><td>79,44</td><td>&nbsp;</td><td>79,44</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,13</td><td>73,88</td><td>74,00</td><td>0,00</td><td>72,00</td><td>69,64</td><td>&nbsp;</td><td>69,64</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>63,12</td><td>63,00</td><td>0,00</td><td>61,00</td><td>62,02</td><td>&nbsp;</td><td>62,02</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>53,88</td><td>54,00</td><td>0,00</td><td>52,00</td><td>56,33</td><td>&nbsp;</td><td>56,33</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>51,12</td><td>51,00</td><td>1,00</td><td>39,00</td><td>54,84</td><td>&nbsp;</td><td>54,84</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>60,00</td><td>60,00</td><td>6,00</td><td>51,00</td><td>58,80</td><td>&nbsp;</td><td>58,80</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>67,00</td><td>67,00</td><td>7,00</td><td>58,00</td><td>74,73</td><td>&nbsp;</td><td>74,73</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,19</td><td>83,88</td><td>84,00</td><td>1,00</td><td>81,00</td><td>80,97</td><td>&nbsp;</td><td>80,97</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>73,00</td><td>73,00</td><td>0,00</td><td>71,00</td><td>67,51</td><td>&nbsp;</td><td>67,51</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>55,00</td><td>55,00</td><td>0,00</td><td>53,00</td><td>58,73</td><td>&nbsp;</td><td>58,73</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>50,00</td><td>50,00</td><td>0,00</td><td>48,00</td><td>52,96</td><td>&nbsp;</td><td>52,96</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>50,00</td><td>50,00</td><td>0,00</td><td>48,00</td><td>51,82</td><td>&nbsp;</td><td>51,82</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>52,00</td><td>52,00</td><td>0,00</td><td>50,00</td><td>50,12</td><td>&nbsp;</td><td>50,12</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>57,12</td><td>57,00</td><td>0,00</td><td>54,00</td><td>69,03</td><td>&nbsp;</td><td>69,03</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,48</td><td>101,00</td><td>101,00</td><td>23,00</td><td>76,00</td><td>87,20</td><td>&nbsp;</td><td>87,20</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,49</td><td>95,00</td><td>95,00</td><td>8,00</td><td>85,00</td><td>105,36</td><td>&nbsp;</td><td>105,36</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,56</td><td>113,00</td><td>113,00</td><td>29,00</td><td>83,00</td><td>107,35</td><td>&nbsp;</td><td>107,35</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>97,00</td><td>97,00</td><td>10,00</td><td>85,00</td><td>99,67</td><td>&nbsp;</td><td>99,67</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>83,88</td><td>84,00</td><td>0,00</td><td>82,00</td><td>79,82</td><td>&nbsp;</td><td>79,82</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>67,00</td><td>67,00</td><td>0,00</td><td>65,00</td><td>69,55</td><td>&nbsp;</td><td>69,55</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>61,00</td><td>61,00</td><td>0,00</td><td>59,00</td><td>59,63</td><td>&nbsp;</td><td>59,63</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>52,00</td><td>52,00</td><td>0,00</td><td>50,00</td><td>57,64</td><td>&nbsp;</td><td>57,64</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>57,00</td><td>57,00</td><td>0,00</td><td>55,00</td><td>53,34</td><td>&nbsp;</td><td>53,34</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>50,00</td><td>50,00</td><td>0,00</td><td>48,00</td><td>52,62</td><td>&nbsp;</td><td>52,62</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>49,00</td><td>49,00</td><td>0,00</td><td>47,00</td><td>49,98</td><td>&nbsp;</td><td>49,98</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>48,31</td><td>&nbsp;</td><td>48,31</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>46,72</td><td>&nbsp;</td><td>46,72</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>45,14</td><td>&nbsp;</td><td>45,14</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>43,33</td><td>&nbsp;</td><td>43,33</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>42,80</td><td>&nbsp;</td><td>42,80</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>41,49</td><td>&nbsp;</td><td>41,49</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>40,00</td><td>40,00</td><td>0,00</td><td>38,00</td><td>41,01</td><td>&nbsp;</td><td>41,01</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>40,14</td><td>&nbsp;</td><td>40,14</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>40,00</td><td>40,00</td><td>0,00</td><td>27,00</td><td>40,45</td><td>&nbsp;</td><td>40,45</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>40,42</td><td>&nbsp;</td><td>40,42</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>40,99</td><td>&nbsp;</td><td>40,99</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>47,12</td><td>&nbsp;</td><td>47,12</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,46</td><td>55,12</td><td>55,00</td><td>3,00</td><td>50,00</td><td>60,97</td><td>&nbsp;</td><td>60,97</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>73,88</td><td>74,00</td><td>3,00</td><td>69,00</td><td>60,82</td><td>&nbsp;</td><td>60,82</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>56,00</td><td>56,00</td><td>0,00</td><td>44,00</td><td>66,61</td><td>&nbsp;</td><td>66,61</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>64,12</td><td>64,00</td><td>5,00</td><td>58,00</td><td>58,21</td><td>&nbsp;</td><td>58,21</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>55,88</td><td>56,00</td><td>1,00</td><td>53,00</td><td>58,58</td><td>&nbsp;</td><td>58,58</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,14</td><td>57,00</td><td>57,00</td><td>0,00</td><td>54,00</td><td>57,69</td><td>&nbsp;</td><td>57,69</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>53,00</td><td>53,00</td><td>0,00</td><td>51,00</td><td>55,85</td><td>&nbsp;</td><td>55,85</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>58,12</td><td>58,00</td><td>2,00</td><td>54,00</td><td>56,05</td><td>&nbsp;</td><td>56,05</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>54,88</td><td>55,00</td><td>1,00</td><td>53,00</td><td>57,44</td><td>&nbsp;</td><td>57,44</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>56,00</td><td>56,00</td><td>0,00</td><td>54,00</td><td>57,03</td><td>&nbsp;</td><td>57,03</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>55,00</td><td>55,00</td><td>0,00</td><td>53,00</td><td>51,78</td><td>&nbsp;</td><td>51,78</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>49,55</td><td>&nbsp;</td><td>49,55</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>45,00</td><td>45,00</td><td>0,00</td><td>44,00</td><td>46,52</td><td>&nbsp;</td><td>46,52</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>44,18</td><td>&nbsp;</td><td>44,18</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>43,79</td><td>&nbsp;</td><td>43,79</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>45,67</td><td>&nbsp;</td><td>45,67</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>53,00</td><td>53,00</td><td>0,00</td><td>51,00</td><td>49,97</td><td>&nbsp;</td><td>49,97</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>49,00</td><td>49,00</td><td>0,00</td><td>47,00</td><td>56,48</td><td>&nbsp;</td><td>56,48</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>50,00</td><td>50,00</td><td>0,00</td><td>48,00</td><td>47,98</td><td>&nbsp;</td><td>47,98</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>48,69</td><td>&nbsp;</td><td>48,69</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,65</td><td>69,23</td><td>69,00</td><td>6,00</td><td>61,00</td><td>71,96</td><td>&nbsp;</td><td>71,96</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,81</td><td>173,00</td><td>173,00</td><td>100,00</td><td>68,00</td><td>173,56</td><td>&nbsp;</td><td>173,56</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,55</td><td>124,88</td><td>125,00</td><td>38,00</td><td>85,00</td><td>126,26</td><td>&nbsp;</td><td>126,26</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>91,88</td><td>92,00</td><td>9,00</td><td>80,00</td><td>91,84</td><td>&nbsp;</td><td>91,84</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>66,00</td><td>66,00</td><td>0,00</td><td>64,00</td><td>68,26</td><td>&nbsp;</td><td>68,26</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>51,00</td><td>51,00</td><td>0,00</td><td>49,00</td><td>53,25</td><td>&nbsp;</td><td>53,25</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>49,92</td><td>&nbsp;</td><td>49,92</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>51,00</td><td>51,00</td><td>0,00</td><td>48,00</td><td>45,87</td><td>&nbsp;</td><td>45,87</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>45,68</td><td>&nbsp;</td><td>45,68</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>42,21</td><td>&nbsp;</td><td>42,21</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>41,04</td><td>&nbsp;</td><td>41,04</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>40,27</td><td>&nbsp;</td><td>40,27</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>39,13</td><td>&nbsp;</td><td>39,13</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>35,00</td><td>35,00</td><td>0,00</td><td>33,00</td><td>36,60</td><td>&nbsp;</td><td>36,60</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>34,00</td><td>34,00</td><td>0,00</td><td>32,00</td><td>34,56</td><td>&nbsp;</td><td>34,56</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>32,00</td><td>32,00</td><td>0,00</td><td>30,00</td><td>33,45</td><td>&nbsp;</td><td>33,45</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>31,12</td><td>31,00</td><td>1,00</td><td>28,00</td><td>33,82</td><td>&nbsp;</td><td>33,82</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>35,00</td><td>35,00</td><td>4,00</td><td>29,00</td><td>34,63</td><td>&nbsp;</td><td>34,63</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>35,00</td><td>35,00</td><td>4,00</td><td>29,00</td><td>35,85</td><td>&nbsp;</td><td>35,85</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,40</td><td>36,00</td><td>36,00</td><td>5,00</td><td>29,00</td><td>37,66</td><td>&nbsp;</td><td>37,66</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,51</td><td>43,00</td><td>43,00</td><td>6,00</td><td>34,00</td><td>48,83</td><td>&nbsp;</td><td>48,83</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>73,88</td><td>74,00</td><td>0,00</td><td>72,00</td><td>67,50</td><td>&nbsp;</td><td>67,50</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>77,00</td><td>77,00</td><td>3,00</td><td>72,00</td><td>76,70</td><td>&nbsp;</td><td>76,70</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>68,00</td><td>68,00</td><td>1,00</td><td>65,00</td><td>67,58</td><td>&nbsp;</td><td>67,58</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>54,00</td><td>54,00</td><td>0,00</td><td>52,00</td><td>53,91</td><td>&nbsp;</td><td>53,91</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>46,07</td><td>&nbsp;</td><td>46,07</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>46,32</td><td>&nbsp;</td><td>46,32</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>43,73</td><td>&nbsp;</td><td>43,73</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>41,90</td><td>&nbsp;</td><td>41,90</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>42,27</td><td>&nbsp;</td><td>42,27</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>45,08</td><td>&nbsp;</td><td>45,08</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>48,00</td><td>48,00</td><td>0,00</td><td>46,00</td><td>49,01</td><td>&nbsp;</td><td>49,01</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>48,00</td><td>48,00</td><td>0,00</td><td>46,00</td><td>45,28</td><td>&nbsp;</td><td>45,28</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>42,20</td><td>&nbsp;</td><td>42,20</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>40,44</td><td>&nbsp;</td><td>40,44</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>40,70</td><td>&nbsp;</td><td>40,70</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>38,00</td><td>38,00</td><td>0,00</td><td>36,00</td><td>39,68</td><td>&nbsp;</td><td>39,68</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>37,19</td><td>&nbsp;</td><td>37,19</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>35,00</td><td>35,00</td><td>0,00</td><td>33,00</td><td>36,34</td><td>&nbsp;</td><td>36,34</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>35,00</td><td>35,00</td><td>0,00</td><td>33,00</td><td>36,62</td><td>&nbsp;</td><td>36,62</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>35,98</td><td>&nbsp;</td><td>35,98</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>35,12</td><td>35,00</td><td>4,00</td><td>30,00</td><td>36,95</td><td>&nbsp;</td><td>36,95</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>36,00</td><td>36,00</td><td>5,00</td><td>28,00</td><td>35,93</td><td>&nbsp;</td><td>35,93</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>36,00</td><td>36,00</td><td>6,00</td><td>28,00</td><td>36,60</td><td>&nbsp;</td><td>36,60</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>36,00</td><td>36,00</td><td>6,00</td><td>28,00</td><td>36,02</td><td>&nbsp;</td><td>36,02</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>35,00</td><td>35,00</td><td>5,00</td><td>29,00</td><td>35,97</td><td>&nbsp;</td><td>35,97</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>34,00</td><td>34,00</td><td>4,00</td><td>29,00</td><td>35,23</td><td>&nbsp;</td><td>35,23</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>34,00</td><td>34,00</td><td>4,00</td><td>29,00</td><td>39,21</td><td>&nbsp;</td><td>39,21</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>45,88</td><td>46,00</td><td>1,00</td><td>43,00</td><td>47,22</td><td>&nbsp;</td><td>47,22</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>61,00</td><td>61,00</td><td>0,00</td><td>59,00</td><td>52,98</td><td>&nbsp;</td><td>52,98</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>49,00</td><td>49,00</td><td>0,00</td><td>47,00</td><td>52,25</td><td>&nbsp;</td><td>52,25</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>44,00</td><td>44,00</td><td>0,00</td><td>41,00</td><td>44,17</td><td>&nbsp;</td><td>44,17</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>39,35</td><td>&nbsp;</td><td>39,35</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>34,12</td><td>34,00</td><td>0,00</td><td>31,00</td><td>35,63</td><td>&nbsp;</td><td>35,63</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>34,00</td><td>34,00</td><td>3,00</td><td>29,00</td><td>34,16</td><td>&nbsp;</td><td>34,16</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>33,00</td><td>33,00</td><td>2,00</td><td>29,00</td><td>33,96</td><td>&nbsp;</td><td>33,96</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,00</td><td>33,00</td><td>3,00</td><td>28,00</td><td>33,05</td><td>&nbsp;</td><td>33,05</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>31,00</td><td>31,00</td><td>1,00</td><td>29,00</td><td>32,81</td><td>&nbsp;</td><td>32,81</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,35</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,48</td><td>&nbsp;</td><td>32,48</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,47</td><td>&nbsp;</td><td>32,47</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,31</td><td>32,00</td><td>32,00</td><td>1,00</td><td>29,00</td><td>32,87</td><td>&nbsp;</td><td>32,87</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>32,88</td><td>33,00</td><td>1,00</td><td>30,00</td><td>44,40</td><td>&nbsp;</td><td>44,40</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>73,00</td><td>73,00</td><td>0,00</td><td>71,00</td><td>58,70</td><td>&nbsp;</td><td>58,70</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>64,12</td><td>64,00</td><td>0,00</td><td>62,00</td><td>69,63</td><td>&nbsp;</td><td>69,63</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>61,00</td><td>61,00</td><td>1,00</td><td>57,00</td><td>61,55</td><td>&nbsp;</td><td>61,55</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>56,88</td><td>57,00</td><td>1,00</td><td>54,00</td><td>54,75</td><td>&nbsp;</td><td>54,75</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>48,00</td><td>48,00</td><td>0,00</td><td>46,00</td><td>51,11</td><td>&nbsp;</td><td>51,11</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>44,91</td><td>&nbsp;</td><td>44,91</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>41,01</td><td>&nbsp;</td><td>41,01</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>39,00</td><td>39,00</td><td>0,00</td><td>37,00</td><td>39,18</td><td>&nbsp;</td><td>39,18</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>38,36</td><td>&nbsp;</td><td>38,36</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>37,74</td><td>&nbsp;</td><td>37,74</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>37,22</td><td>&nbsp;</td><td>37,22</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>35,00</td><td>35,00</td><td>0,00</td><td>33,00</td><td>35,73</td><td>&nbsp;</td><td>35,73</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,36</td><td>33,12</td><td>33,00</td><td>1,00</td><td>30,00</td><td>35,24</td><td>&nbsp;</td><td>35,24</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>35,00</td><td>35,00</td><td>3,00</td><td>30,00</td><td>34,54</td><td>&nbsp;</td><td>34,54</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>33,00</td><td>33,00</td><td>1,00</td><td>30,00</td><td>34,23</td><td>&nbsp;</td><td>34,23</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>33,00</td><td>33,00</td><td>1,00</td><td>30,00</td><td>33,67</td><td>&nbsp;</td><td>33,67</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>33,00</td><td>33,00</td><td>1,00</td><td>30,00</td><td>33,53</td><td>&nbsp;</td><td>33,53</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>33,00</td><td>33,00</td><td>1,00</td><td>30,00</td><td>33,66</td><td>&nbsp;</td><td>33,66</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,32</td><td>33,00</td><td>33,00</td><td>1,00</td><td>31,00</td><td>33,22</td><td>&nbsp;</td><td>33,22</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>31,00</td><td>31,00</td><td>1,00</td><td>29,00</td><td>32,18</td><td>&nbsp;</td><td>32,18</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,88</td><td>32,00</td><td>1,00</td><td>30,00</td><td>30,97</td><td>&nbsp;</td><td>30,97</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>32,53</td><td>&nbsp;</td><td>32,53</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,50</td><td>29,77</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,67</td><td>&nbsp;</td><td>30,67</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,14</td><td>25,23</td><td>25,00</td><td>0,00</td><td>23,00</td><td>30,93</td><td>&nbsp;</td><td>30,93</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,34</td><td>32,12</td><td>32,00</td><td>0,00</td><td>30,00</td><td>31,99</td><td>&nbsp;</td><td>31,99</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>39,88</td><td>40,00</td><td>1,00</td><td>38,00</td><td>39,62</td><td>&nbsp;</td><td>39,62</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>45,00</td><td>45,00</td><td>2,00</td><td>41,00</td><td>45,69</td><td>&nbsp;</td><td>45,69</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>45,21</td><td>&nbsp;</td><td>45,21</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>40,00</td><td>40,00</td><td>0,00</td><td>38,00</td><td>39,86</td><td>&nbsp;</td><td>39,86</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>34,00</td><td>34,00</td><td>0,00</td><td>32,00</td><td>36,55</td><td>&nbsp;</td><td>36,55</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,31</td><td>32,12</td><td>32,00</td><td>0,00</td><td>30,00</td><td>33,09</td><td>&nbsp;</td><td>33,09</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>30,88</td><td>31,00</td><td>0,00</td><td>29,00</td><td>32,31</td><td>&nbsp;</td><td>32,31</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>31,60</td><td>&nbsp;</td><td>31,60</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,50</td><td>&nbsp;</td><td>31,50</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,12</td><td>&nbsp;</td><td>31,12</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>32,07</td><td>&nbsp;</td><td>32,07</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,61</td><td>&nbsp;</td><td>31,61</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,91</td><td>&nbsp;</td><td>30,91</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>31,13</td><td>&nbsp;</td><td>31,13</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>30,53</td><td>&nbsp;</td><td>30,53</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,82</td><td>&nbsp;</td><td>30,82</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>31,15</td><td>&nbsp;</td><td>31,15</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>30,61</td><td>&nbsp;</td><td>30,61</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,27</td><td>&nbsp;</td><td>30,27</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>29,33</td><td>&nbsp;</td><td>29,33</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>27,81</td><td>&nbsp;</td><td>27,81</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,74</td><td>&nbsp;</td><td>27,74</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>28,39</td><td>&nbsp;</td><td>28,39</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>29,88</td><td>&nbsp;</td><td>29,88</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>31,04</td><td>&nbsp;</td><td>31,04</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,79</td><td>&nbsp;</td><td>30,79</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>30,57</td><td>&nbsp;</td><td>30,57</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>29,84</td><td>&nbsp;</td><td>29,84</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>28,84</td><td>&nbsp;</td><td>28,84</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>27,54</td><td>&nbsp;</td><td>27,54</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,07</td><td>&nbsp;</td><td>27,07</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>26,74</td><td>&nbsp;</td><td>26,74</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>28,06</td><td>&nbsp;</td><td>28,06</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>27,95</td><td>&nbsp;</td><td>27,95</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>27,68</td><td>&nbsp;</td><td>27,68</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>25,90</td><td>&nbsp;</td><td>25,90</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>26,31</td><td>&nbsp;</td><td>26,31</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>27,37</td><td>&nbsp;</td><td>27,37</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>26,39</td><td>&nbsp;</td><td>26,39</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>25,69</td><td>&nbsp;</td><td>25,69</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>25,63</td><td>&nbsp;</td><td>25,63</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>27,96</td><td>&nbsp;</td><td>27,96</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>26,47</td><td>&nbsp;</td><td>26,47</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>26,66</td><td>&nbsp;</td><td>26,66</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>25,60</td><td>&nbsp;</td><td>25,60</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>26,59</td><td>&nbsp;</td><td>26,59</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,22</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>24,16</td><td>&nbsp;</td><td>24,16</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>26,65</td><td>&nbsp;</td><td>26,65</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>25,13</td><td>&nbsp;</td><td>25,13</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>12,00</td><td>28,41</td><td>&nbsp;</td><td>28,41</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>25,80</td><td>&nbsp;</td><td>25,80</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>22,99</td><td>&nbsp;</td><td>22,99</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>22,40</td><td>&nbsp;</td><td>22,40</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>24,23</td><td>&nbsp;</td><td>24,23</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>24,62</td><td>&nbsp;</td><td>24,62</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>23,54</td><td>&nbsp;</td><td>23,54</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>23,62</td><td>&nbsp;</td><td>23,62</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>24,61</td><td>&nbsp;</td><td>24,61</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>23,80</td><td>&nbsp;</td><td>23,80</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>22,35</td><td>&nbsp;</td><td>22,35</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>21,34</td><td>&nbsp;</td><td>21,34</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>23,37</td><td>&nbsp;</td><td>23,37</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>24,08</td><td>&nbsp;</td><td>24,08</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,16</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>22,72</td><td>&nbsp;</td><td>22,72</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>22,75</td><td>&nbsp;</td><td>22,75</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>24,41</td><td>&nbsp;</td><td>24,41</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>27,66</td><td>&nbsp;</td><td>27,66</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>27,48</td><td>&nbsp;</td><td>27,48</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>27,87</td><td>&nbsp;</td><td>27,87</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>26,83</td><td>&nbsp;</td><td>26,83</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>27,91</td><td>&nbsp;</td><td>27,91</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>26,17</td><td>&nbsp;</td><td>26,17</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>22,59</td><td>&nbsp;</td><td>22,59</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>23,27</td><td>&nbsp;</td><td>23,27</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>24,54</td><td>&nbsp;</td><td>24,54</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>25,22</td><td>&nbsp;</td><td>25,22</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>22,62</td><td>&nbsp;</td><td>22,62</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>18,00</td><td>18,00</td><td>5,00</td><td>11,00</td><td>21,64</td><td>&nbsp;</td><td>21,64</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>22,28</td><td>&nbsp;</td><td>22,28</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>23,24</td><td>&nbsp;</td><td>23,24</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>23,87</td><td>&nbsp;</td><td>23,87</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,13</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>22,72</td><td>&nbsp;</td><td>22,72</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,29</td><td>20,12</td><td>20,00</td><td>0,00</td><td>18,00</td><td>21,56</td><td>&nbsp;</td><td>21,56</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>22,88</td><td>23,00</td><td>0,00</td><td>21,00</td><td>22,07</td><td>&nbsp;</td><td>22,07</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,86</td><td>23,88</td><td>24,00</td><td>0,00</td><td>22,00</td><td>21,63</td><td>&nbsp;</td><td>21,63</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>19,12</td><td>19,00</td><td>0,00</td><td>17,00</td><td>22,07</td><td>&nbsp;</td><td>22,07</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,91</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>21,00</td><td>&nbsp;</td><td>21,00</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>20,23</td><td>&nbsp;</td><td>20,23</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,87</td><td>18,88</td><td>19,00</td><td>0,00</td><td>17,00</td><td>19,62</td><td>&nbsp;</td><td>19,62</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>22,12</td><td>22,00</td><td>0,00</td><td>20,00</td><td>20,71</td><td>&nbsp;</td><td>20,71</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>20,99</td><td>&nbsp;</td><td>20,99</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>21,01</td><td>&nbsp;</td><td>21,01</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>17,00</td><td>17,00</td><td>0,00</td><td>15,00</td><td>19,18</td><td>&nbsp;</td><td>19,18</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>16,00</td><td>16,00</td><td>0,00</td><td>14,00</td><td>17,40</td><td>&nbsp;</td><td>17,40</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,92</td><td>16,00</td><td>16,00</td><td>0,00</td><td>13,00</td><td>18,50</td><td>&nbsp;</td><td>18,50</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,03</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>18,92</td><td>&nbsp;</td><td>18,92</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>19,99</td><td>&nbsp;</td><td>19,99</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,26</td><td>15,12</td><td>15,00</td><td>0,00</td><td>13,00</td><td>19,60</td><td>&nbsp;</td><td>19,60</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>18,88</td><td>19,00</td><td>3,00</td><td>14,00</td><td>16,74</td><td>&nbsp;</td><td>16,74</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>15,00</td><td>15,00</td><td>0,00</td><td>13,00</td><td>19,09</td><td>&nbsp;</td><td>19,09</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>19,09</td><td>&nbsp;</td><td>19,09</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>21,69</td><td>&nbsp;</td><td>21,69</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>17,00</td><td>17,00</td><td>0,00</td><td>15,00</td><td>20,10</td><td>&nbsp;</td><td>20,10</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>19,65</td><td>&nbsp;</td><td>19,65</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>17,78</td><td>&nbsp;</td><td>17,78</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>17,00</td><td>17,00</td><td>0,00</td><td>15,00</td><td>18,98</td><td>&nbsp;</td><td>18,98</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>19,55</td><td>&nbsp;</td><td>19,55</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>22,42</td><td>&nbsp;</td><td>22,42</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>21,76</td><td>&nbsp;</td><td>21,76</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>23,00</td><td>23,00</td><td>0,00</td><td>21,00</td><td>25,89</td><td>&nbsp;</td><td>25,89</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>30,00</td><td>30,00</td><td>0,00</td><td>28,00</td><td>31,96</td><td>&nbsp;</td><td>31,96</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>40,00</td><td>40,00</td><td>4,00</td><td>34,00</td><td>35,35</td><td>&nbsp;</td><td>35,35</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>41,00</td><td>41,00</td><td>2,00</td><td>37,00</td><td>44,65</td><td>&nbsp;</td><td>44,65</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>44,37</td><td>&nbsp;</td><td>44,37</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>37,00</td><td>37,00</td><td>3,00</td><td>32,00</td><td>38,60</td><td>&nbsp;</td><td>38,60</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,33</td><td>31,12</td><td>31,00</td><td>7,00</td><td>22,00</td><td>32,74</td><td>&nbsp;</td><td>32,74</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,31</td><td>31,00</td><td>31,00</td><td>0,00</td><td>29,00</td><td>31,19</td><td>&nbsp;</td><td>31,19</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>28,88</td><td>29,00</td><td>0,00</td><td>27,00</td><td>27,49</td><td>&nbsp;</td><td>27,49</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,21</td><td>20,00</td><td>20,00</td><td>0,00</td><td>18,00</td><td>24,88</td><td>&nbsp;</td><td>24,88</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>25,18</td><td>&nbsp;</td><td>25,18</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>24,82</td><td>&nbsp;</td><td>24,82</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,27</td><td>22,12</td><td>22,00</td><td>0,00</td><td>20,00</td><td>27,04</td><td>&nbsp;</td><td>27,04</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>24,88</td><td>25,00</td><td>0,00</td><td>23,00</td><td>23,75</td><td>&nbsp;</td><td>23,75</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,16</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>24,21</td><td>&nbsp;</td><td>24,21</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,24</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>24,29</td><td>&nbsp;</td><td>24,29</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>24,05</td><td>&nbsp;</td><td>24,05</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,70</td><td>19,88</td><td>20,00</td><td>0,00</td><td>18,00</td><td>22,68</td><td>&nbsp;</td><td>22,68</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,09</td><td>20,12</td><td>20,00</td><td>0,00</td><td>18,00</td><td>20,42</td><td>&nbsp;</td><td>20,42</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>20,26</td><td>&nbsp;</td><td>20,26</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>20,40</td><td>&nbsp;</td><td>20,40</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,25</td><td>18,12</td><td>18,00</td><td>0,00</td><td>16,00</td><td>25,99</td><td>&nbsp;</td><td>25,99</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>33,88</td><td>34,00</td><td>3,00</td><td>29,00</td><td>29,65</td><td>&nbsp;</td><td>29,65</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>33,00</td><td>33,00</td><td>4,00</td><td>27,00</td><td>36,74</td><td>&nbsp;</td><td>36,74</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,30</td><td>35,12</td><td>35,00</td><td>0,00</td><td>33,00</td><td>34,83</td><td>&nbsp;</td><td>34,83</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>31,88</td><td>32,00</td><td>1,00</td><td>29,00</td><td>30,83</td><td>&nbsp;</td><td>30,83</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>29,72</td><td>&nbsp;</td><td>29,72</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>25,48</td><td>&nbsp;</td><td>25,48</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>26,70</td><td>&nbsp;</td><td>26,70</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>30,00</td><td>30,00</td><td>1,00</td><td>27,00</td><td>26,32</td><td>&nbsp;</td><td>26,32</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>27,00</td><td>27,79</td><td>&nbsp;</td><td>27,79</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>24,43</td><td>&nbsp;</td><td>24,43</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>22,28</td><td>&nbsp;</td><td>22,28</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>22,28</td><td>&nbsp;</td><td>22,28</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>22,00</td><td>22,00</td><td>0,00</td><td>20,00</td><td>23,74</td><td>&nbsp;</td><td>23,74</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,30</td><td>19,12</td><td>19,00</td><td>0,00</td><td>17,00</td><td>21,47</td><td>&nbsp;</td><td>21,47</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>22,88</td><td>23,00</td><td>0,00</td><td>21,00</td><td>22,73</td><td>&nbsp;</td><td>22,73</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,19</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>22,65</td><td>&nbsp;</td><td>22,65</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>22,27</td><td>&nbsp;</td><td>22,27</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>18,00</td><td>18,00</td><td>0,00</td><td>16,00</td><td>19,48</td><td>&nbsp;</td><td>19,48</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,15</td><td>21,00</td><td>21,00</td><td>0,00</td><td>19,00</td><td>22,68</td><td>&nbsp;</td><td>22,68</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,99</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>25,21</td><td>&nbsp;</td><td>25,21</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>27,22</td><td>&nbsp;</td><td>27,22</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>24,00</td><td>24,00</td><td>0,00</td><td>22,00</td><td>27,61</td><td>&nbsp;</td><td>27,61</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>25,00</td><td>25,00</td><td>0,00</td><td>23,00</td><td>26,29</td><td>&nbsp;</td><td>26,29</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>28,00</td><td>28,00</td><td>0,00</td><td>26,00</td><td>26,18</td><td>&nbsp;</td><td>26,18</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,96</td><td>26,00</td><td>26,00</td><td>0,00</td><td>24,00</td><td>23,68</td><td>&nbsp;</td><td>23,68</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,95</td><td>19,00</td><td>19,00</td><td>0,00</td><td>17,00</td><td>22,98</td><td>&nbsp;</td><td>22,98</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,97</td><td>25,00</td><td>25,00</td><td>0,00</td><td>16,00</td><td>23,24</td><td>&nbsp;</td><td>23,24</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>20,00</td><td>20,00</td><td>0,00</td><td>17,00</td><td>23,87</td><td>&nbsp;</td><td>23,87</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,13</td><td>20,00</td><td>20,00</td><td>0,00</td><td>27,00</td><td>22,72</td><td>&nbsp;</td><td>22,72</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,74</td><td>69,00</td><td>69,00</td><td>37,00</td><td>30,00</td><td>64,86</td><td>&nbsp;</td><td>64,86</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,77</td><td>101,00</td><td>101,00</td><td>78,00</td><td>21,00</td><td>85,97</td><td>&nbsp;</td><td>85,97</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,65</td><td>74,00</td><td>74,00</td><td>48,00</td><td>25,00</td><td>76,04</td><td>&nbsp;</td><td>76,04</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,55</td><td>54,88</td><td>55,00</td><td>25,00</td><td>28,00</td><td>58,26</td><td>&nbsp;</td><td>58,26</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>48,00</td><td>48,00</td><td>14,00</td><td>35,00</td><td>48,48</td><td>&nbsp;</td><td>48,48</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>39,88</td><td>40,00</td><td>2,00</td><td>38,00</td><td>42,03</td><td>&nbsp;</td><td>42,03</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>35,12</td><td>35,00</td><td>1,00</td><td>32,00</td><td>45,62</td><td>&nbsp;</td><td>45,62</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,74</td><td>74,12</td><td>74,00</td><td>35,00</td><td>34,00</td><td>65,07</td><td>&nbsp;</td><td>65,07</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,43</td><td>70,88</td><td>71,00</td><td>26,00</td><td>41,00</td><td>70,07</td><td>&nbsp;</td><td>70,07</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>58,88</td><td>59,00</td><td>1,00</td><td>56,00</td><td>61,68</td><td>&nbsp;</td><td>61,68</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,42</td><td>59,12</td><td>59,00</td><td>1,00</td><td>56,00</td><td>60,99</td><td>&nbsp;</td><td>60,99</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,45</td><td>67,00</td><td>67,00</td><td>9,00</td><td>56,00</td><td>67,56</td><td>&nbsp;</td><td>67,56</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>67,00</td><td>67,00</td><td>7,00</td><td>58,00</td><td>65,60</td><td>&nbsp;</td><td>65,60</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,16</td><td>64,88</td><td>65,00</td><td>2,00</td><td>61,00</td><td>69,86</td><td>&nbsp;</td><td>69,86</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,26</td><td>82,12</td><td>82,00</td><td>9,00</td><td>72,00</td><td>85,35</td><td>&nbsp;</td><td>85,35</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>86,88</td><td>87,00</td><td>8,00</td><td>77,00</td><td>84,21</td><td>&nbsp;</td><td>84,21</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>70,00</td><td>70,00</td><td>0,00</td><td>68,00</td><td>67,71</td><td>&nbsp;</td><td>67,71</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>51,00</td><td>51,00</td><td>0,00</td><td>49,00</td><td>54,36</td><td>&nbsp;</td><td>54,36</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,11</td><td>52,00</td><td>52,00</td><td>0,00</td><td>50,00</td><td>47,50</td><td>&nbsp;</td><td>47,50</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,07</td><td>41,00</td><td>41,00</td><td>0,00</td><td>43,00</td><td>44,54</td><td>&nbsp;</td><td>44,54</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,46</td><td>41,12</td><td>41,00</td><td>0,00</td><td>43,00</td><td>47,40</td><td>&nbsp;</td><td>47,40</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>51,88</td><td>52,00</td><td>1,00</td><td>53,00</td><td>46,82</td><td>&nbsp;</td><td>46,82</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>45,35</td><td>&nbsp;</td><td>45,35</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>36,00</td><td>36,00</td><td>0,00</td><td>34,00</td><td>39,24</td><td>&nbsp;</td><td>39,24</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>32,00</td><td>32,00</td><td>0,00</td><td>30,00</td><td>33,57</td><td>&nbsp;</td><td>33,57</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>33,12</td><td>33,00</td><td>2,00</td><td>29,00</td><td>34,38</td><td>&nbsp;</td><td>34,38</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>36,88</td><td>37,00</td><td>5,00</td><td>30,00</td><td>41,92</td><td>&nbsp;</td><td>41,92</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>48,00</td><td>48,00</td><td>0,00</td><td>46,00</td><td>43,29</td><td>&nbsp;</td><td>43,29</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>41,00</td><td>41,00</td><td>0,00</td><td>39,00</td><td>40,99</td><td>&nbsp;</td><td>40,99</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>38,00</td><td>38,00</td><td>0,00</td><td>&nbsp;</td><td>38,13</td><td>&nbsp;</td><td>38,13</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>36,65</td><td>&nbsp;</td><td>36,65</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>436,98</td><td>27,00</td><td>27,00</td><td>0,00</td><td>25,00</td><td>33,14</td><td>&nbsp;</td><td>33,14</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>30,12</td><td>30,00</td><td>0,00</td><td>28,00</td><td>32,40</td><td>&nbsp;</td><td>32,40</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>34,00</td><td>34,00</td><td>4,00</td><td>28,00</td><td>34,62</td><td>&nbsp;</td><td>34,62</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>35,00</td><td>35,00</td><td>4,00</td><td>29,00</td><td>35,01</td><td>&nbsp;</td><td>35,01</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>35,00</td><td>35,00</td><td>4,00</td><td>29,00</td><td>34,70</td><td>&nbsp;</td><td>34,70</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,37</td><td>35,00</td><td>35,00</td><td>0,00</td><td>&nbsp;</td><td>33,79</td><td>&nbsp;</td><td>33,79</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,38</td><td>33,00</td><td>33,00</td><td>1,00</td><td>30,00</td><td>36,43</td><td>&nbsp;</td><td>36,43</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>39,88</td><td>40,00</td><td>0,00</td><td>38,00</td><td>38,61</td><td>&nbsp;</td><td>38,61</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>40,00</td><td>40,00</td><td>0,00</td><td>38,00</td><td>43,75</td><td>&nbsp;</td><td>43,75</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>46,00</td><td>46,00</td><td>0,00</td><td>44,00</td><td>42,57</td><td>&nbsp;</td><td>42,57</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>42,00</td><td>42,00</td><td>0,00</td><td>40,00</td><td>44,67</td><td>&nbsp;</td><td>44,67</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>50,00</td><td>50,00</td><td>0,00</td><td>48,00</td><td>49,50</td><td>&nbsp;</td><td>49,50</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>50,00</td><td>50,00</td><td>0,00</td><td>&nbsp;</td><td>53,81</td><td>&nbsp;</td><td>53,81</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>48,00</td><td>48,00</td><td>0,00</td><td>46,00</td><td>49,83</td><td>&nbsp;</td><td>49,83</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,20</td><td>61,00</td><td>61,00</td><td>2,00</td><td>57,00</td><td>64,91</td><td>&nbsp;</td><td>64,91</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,46</td><td>91,12</td><td>91,00</td><td>9,00</td><td>80,00</td><td>87,39</td><td>&nbsp;</td><td>87,39</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,54</td><td>94,00</td><td>94,00</td><td>17,00</td><td>75,00</td><td>109,28</td><td>&nbsp;</td><td>109,28</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,67</td><td>108,12</td><td>108,00</td><td>34,00</td><td>72,00</td><td>95,79</td><td>&nbsp;</td><td>95,79</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,18</td><td>90,77</td><td>91,00</td><td>29,00</td><td>57,00</td><td>85,37</td><td>&nbsp;</td><td>85,37</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>67,00</td><td>67,00</td><td>0,00</td><td>65,00</td><td>68,28</td><td>&nbsp;</td><td>68,28</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,06</td><td>53,00</td><td>53,00</td><td>0,00</td><td>51,00</td><td>53,93</td><td>&nbsp;</td><td>53,93</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>45,00</td><td>45,00</td><td>0,00</td><td>43,00</td><td>47,10</td><td>&nbsp;</td><td>47,10</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>43,00</td><td>43,00</td><td>0,00</td><td>41,00</td><td>50,84</td><td>&nbsp;</td><td>50,84</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>60,00</td><td>60,00</td><td>0,00</td><td>58,00</td><td>49,53</td><td>&nbsp;</td><td>49,53</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>56,00</td><td>56,00</td><td>2,00</td><td>52,00</td><td>64,06</td><td>&nbsp;</td><td>64,06</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>70,00</td><td>70,00</td><td>2,00</td><td>66,00</td><td>72,09</td><td>&nbsp;</td><td>72,09</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>72,00</td><td>72,00</td><td>2,00</td><td>&nbsp;</td><td>69,22</td><td>&nbsp;</td><td>69,22</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,12</td><td>60,00</td><td>60,00</td><td>0,00</td><td>58,00</td><td>57,99</td><td>&nbsp;</td><td>57,99</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>47,24</td><td>&nbsp;</td><td>47,24</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,02</td><td>37,00</td><td>37,00</td><td>0,00</td><td>35,00</td><td>39,67</td><td>&nbsp;</td><td>39,67</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,01</td><td>32,00</td><td>32,00</td><td>0,00</td><td>30,00</td><td>34,17</td><td>&nbsp;</td><td>34,17</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>32,12</td><td>32,00</td><td>2,00</td><td>28,00</td><td>35,16</td><td>&nbsp;</td><td>35,16</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>38,88</td><td>39,00</td><td>1,00</td><td>36,00</td><td>38,07</td><td>&nbsp;</td><td>38,07</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>44,00</td><td>44,00</td><td>0,00</td><td>41,00</td><td>45,13</td><td>&nbsp;</td><td>45,13</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,04</td><td>47,00</td><td>47,00</td><td>0,00</td><td>45,00</td><td>44,37</td><td>&nbsp;</td><td>44,37</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,05</td><td>44,00</td><td>44,00</td><td>0,00</td><td>42,00</td><td>53,28</td><td>&nbsp;</td><td>53,28</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,08</td><td>62,00</td><td>62,00</td><td>1,00</td><td>59,00</td><td>55,58</td><td>&nbsp;</td><td>55,58</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,10</td><td>54,00</td><td>54,00</td><td>0,00</td><td>52,00</td><td>57,50</td><td>&nbsp;</td><td>57,50</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,41</td><td>53,11</td><td>53,00</td><td>0,00</td><td>51,00</td><td>53,28</td><td>&nbsp;</td><td>53,28</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,39</td><td>59,99</td><td>60,00</td><td>1,00</td><td>57,00</td><td>61,32</td><td>&nbsp;</td><td>61,32</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,17</td><td>73,92</td><td>74,00</td><td>7,00</td><td>65,00</td><td>71,71</td><td>&nbsp;</td><td>71,71</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19096</td><td>SOBRAGI                                           </td><td>437,30</td><td>64,05</td><td>64,00</td><td>13,00</td><td>49,00</td><td>67,29</td><td>&nbsp;</td><td>67,29</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,1537 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,01</td><td>100,28</td><td>21,00</td><td>0,00</td><td>21,00</td><td>127,94</td><td>44,93</td><td>127,94</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,40</td><td>110,81</td><td>21,00</td><td>0,00</td><td>21,00</td><td>121,78</td><td>46,47</td><td>121,78</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,90</td><td>138,71</td><td>21,00</td><td>0,00</td><td>21,00</td><td>157,34</td><td>48,49</td><td>157,34</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,50</td><td>166,14</td><td>21,00</td><td>0,00</td><td>21,00</td><td>168,12</td><td>50,98</td><td>168,12</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,10</td><td>170,19</td><td>21,00</td><td>0,00</td><td>21,00</td><td>150,49</td><td>53,53</td><td>150,49</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,42</td><td>102,25</td><td>21,00</td><td>0,00</td><td>21,00</td><td>93,67</td><td>54,92</td><td>93,67</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,69</td><td>90,44</td><td>21,00</td><td>0,00</td><td>21,00</td><td>80,37</td><td>56,11</td><td>80,37</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,91</td><td>80,29</td><td>23,00</td><td>2,00</td><td>21,00</td><td>89,34</td><td>57,10</td><td>89,34</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,10</td><td>70,88</td><td>21,00</td><td>0,00</td><td>21,00</td><td>83,03</td><td>57,95</td><td>83,03</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,24</td><td>58,04</td><td>21,00</td><td>0,00</td><td>21,00</td><td>62,92</td><td>58,59</td><td>62,92</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,43</td><td>71,69</td><td>21,00</td><td>0,00</td><td>21,00</td><td>71,58</td><td>59,46</td><td>71,58</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,66</td><td>82,81</td><td>21,00</td><td>0,00</td><td>21,00</td><td>88,83</td><td>60,51</td><td>88,83</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,97</td><td>104,38</td><td>20,00</td><td>0,00</td><td>20,00</td><td>112,52</td><td>61,96</td><td>112,52</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,41</td><td>141,64</td><td>20,00</td><td>0,00</td><td>20,00</td><td>137,82</td><td>64,05</td><td>137,82</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,95</td><td>172,31</td><td>20,00</td><td>0,00</td><td>20,00</td><td>168,61</td><td>66,66</td><td>168,61</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,53</td><td>187,36</td><td>20,00</td><td>0,00</td><td>20,00</td><td>196,30</td><td>69,53</td><td>196,30</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,14</td><td>207,44</td><td>27,00</td><td>0,00</td><td>27,00</td><td>190,85</td><td>72,62</td><td>190,85</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,70</td><td>201,44</td><td>32,00</td><td>0,00</td><td>32,00</td><td>174,08</td><td>75,52</td><td>174,08</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,19</td><td>193,39</td><td>42,00</td><td>0,00</td><td>42,00</td><td>160,17</td><td>78,12</td><td>160,17</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,54</td><td>170,84</td><td>61,00</td><td>0,00</td><td>61,00</td><td>169,00</td><td>80,00</td><td>169,00</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,69</td><td>122,57</td><td>75,00</td><td>0,00</td><td>75,00</td><td>158,47</td><td>80,81</td><td>158,47</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,77</td><td>101,46</td><td>76,00</td><td>0,00</td><td>76,00</td><td>115,77</td><td>81,25</td><td>115,77</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,97</td><td>96,12</td><td>32,00</td><td>0,00</td><td>32,00</td><td>99,40</td><td>82,35</td><td>99,40</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,15</td><td>90,99</td><td>33,00</td><td>4,00</td><td>30,00</td><td>101,32</td><td>83,34</td><td>101,32</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,34</td><td>93,69</td><td>32,00</td><td>0,00</td><td>32,00</td><td>92,12</td><td>84,40</td><td>92,12</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,50</td><td>104,31</td><td>52,00</td><td>0,00</td><td>52,00</td><td>99,36</td><td>85,30</td><td>99,36</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,63</td><td>94,71</td><td>52,00</td><td>0,00</td><td>52,00</td><td>97,56</td><td>86,03</td><td>97,56</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,70</td><td>87,15</td><td>64,00</td><td>0,00</td><td>64,00</td><td>115,00</td><td>86,43</td><td>115,00</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,75</td><td>92,55</td><td>76,00</td><td>0,00</td><td>76,00</td><td>101,08</td><td>86,71</td><td>101,08</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,84</td><td>89,75</td><td>60,00</td><td>0,00</td><td>60,00</td><td>79,50</td><td>87,22</td><td>79,50</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,93</td><td>73,98</td><td>44,00</td><td>0,00</td><td>44,00</td><td>71,75</td><td>87,73</td><td>71,75</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,95</td><td>66,60</td><td>60,00</td><td>0,00</td><td>60,00</td><td>66,79</td><td>87,85</td><td>66,79</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,93</td><td>59,40</td><td>66,00</td><td>0,00</td><td>66,00</td><td>68,56</td><td>87,73</td><td>68,56</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,89</td><td>47,69</td><td>61,00</td><td>0,00</td><td>61,00</td><td>51,01</td><td>87,51</td><td>51,01</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,87</td><td>56,29</td><td>63,00</td><td>0,00</td><td>63,00</td><td>53,01</td><td>87,39</td><td>53,01</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,83</td><td>48,81</td><td>62,00</td><td>0,00</td><td>62,00</td><td>53,92</td><td>87,16</td><td>53,92</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,88</td><td>50,55</td><td>34,00</td><td>0,00</td><td>34,00</td><td>51,88</td><td>87,45</td><td>51,88</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,94</td><td>54,02</td><td>34,00</td><td>0,00</td><td>34,00</td><td>52,14</td><td>87,79</td><td>52,14</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,98</td><td>51,31</td><td>38,00</td><td>0,00</td><td>38,00</td><td>52,65</td><td>88,02</td><td>52,65</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,03</td><td>50,67</td><td>34,00</td><td>0,00</td><td>34,00</td><td>51,54</td><td>88,31</td><td>51,54</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,00</td><td>49,05</td><td>59,00</td><td>0,00</td><td>59,00</td><td>47,22</td><td>88,14</td><td>47,22</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,09</td><td>63,09</td><td>33,00</td><td>0,00</td><td>33,00</td><td>64,03</td><td>88,65</td><td>64,03</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,25</td><td>86,70</td><td>33,00</td><td>0,00</td><td>33,00</td><td>80,00</td><td>89,57</td><td>80,00</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,40</td><td>84,69</td><td>34,00</td><td>0,00</td><td>34,00</td><td>76,60</td><td>90,44</td><td>76,60</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,50</td><td>67,91</td><td>34,00</td><td>0,00</td><td>34,00</td><td>61,70</td><td>91,02</td><td>61,70</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,57</td><td>57,84</td><td>34,00</td><td>0,00</td><td>34,00</td><td>55,26</td><td>91,43</td><td>55,26</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,77</td><td>102,40</td><td>34,00</td><td>0,00</td><td>34,00</td><td>92,80</td><td>92,60</td><td>92,80</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,97</td><td>137,87</td><td>69,00</td><td>0,00</td><td>69,00</td><td>138,93</td><td>93,78</td><td>138,93</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,13</td><td>133,56</td><td>78,00</td><td>0,00</td><td>78,00</td><td>130,14</td><td>94,74</td><td>130,14</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>125,72</td><td>91,00</td><td>13,00</td><td>78,00</td><td>118,74</td><td>95,33</td><td>118,74</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,20</td><td>107,58</td><td>118,00</td><td>40,00</td><td>78,00</td><td>121,67</td><td>95,15</td><td>121,67</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,22</td><td>124,94</td><td>118,00</td><td>40,00</td><td>78,00</td><td>139,22</td><td>95,27</td><td>139,22</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,27</td><td>149,48</td><td>132,00</td><td>54,00</td><td>78,00</td><td>157,32</td><td>95,57</td><td>157,32</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,30</td><td>168,53</td><td>158,00</td><td>80,00</td><td>78,00</td><td>178,40</td><td>95,75</td><td>178,40</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,30</td><td>176,00</td><td>176,00</td><td>98,00</td><td>79,00</td><td>179,63</td><td>95,75</td><td>179,63</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,18</td><td>156,10</td><td>198,00</td><td>120,00</td><td>78,00</td><td>162,08</td><td>95,03</td><td>162,08</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,01</td><td>129,97</td><td>189,00</td><td>111,00</td><td>78,00</td><td>143,28</td><td>94,02</td><td>143,28</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,93</td><td>122,00</td><td>150,00</td><td>73,00</td><td>77,00</td><td>122,65</td><td>93,55</td><td>122,65</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,98</td><td>119,00</td><td>102,00</td><td>26,00</td><td>76,00</td><td>119,67</td><td>93,84</td><td>119,67</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,09</td><td>135,00</td><td>97,00</td><td>20,00</td><td>77,00</td><td>135,67</td><td>94,50</td><td>135,67</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,20</td><td>141,00</td><td>103,00</td><td>26,00</td><td>77,00</td><td>141,69</td><td>95,15</td><td>141,69</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,20</td><td>132,00</td><td>132,00</td><td>53,00</td><td>79,00</td><td>132,71</td><td>95,15</td><td>132,71</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,40</td><td>214,00</td><td>144,00</td><td>65,00</td><td>79,00</td><td>214,72</td><td>96,35</td><td>214,72</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,61</td><td>282,00</td><td>208,00</td><td>158,00</td><td>50,00</td><td>282,74</td><td>97,62</td><td>282,74</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,63</td><td>239,00</td><td>232,00</td><td>193,00</td><td>39,00</td><td>239,76</td><td>97,74</td><td>239,76</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,53</td><td>197,58</td><td>233,00</td><td>193,00</td><td>40,00</td><td>194,86</td><td>97,13</td><td>194,86</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,42</td><td>172,34</td><td>211,00</td><td>172,00</td><td>39,00</td><td>180,98</td><td>96,47</td><td>180,98</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,33</td><td>154,40</td><td>186,00</td><td>149,00</td><td>37,00</td><td>147,74</td><td>95,93</td><td>147,74</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,29</td><td>137,11</td><td>151,00</td><td>114,00</td><td>37,00</td><td>130,07</td><td>95,69</td><td>130,07</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,28</td><td>125,41</td><td>129,00</td><td>92,00</td><td>37,00</td><td>119,22</td><td>95,63</td><td>119,22</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,30</td><td>148,06</td><td>141,00</td><td>83,00</td><td>58,00</td><td>164,10</td><td>95,75</td><td>164,10</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,32</td><td>147,94</td><td>141,00</td><td>65,00</td><td>76,00</td><td>173,93</td><td>95,87</td><td>173,93</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,30</td><td>134,06</td><td>141,00</td><td>65,00</td><td>76,00</td><td>146,46</td><td>95,75</td><td>146,46</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,26</td><td>115,00</td><td>129,00</td><td>53,00</td><td>76,00</td><td>122,87</td><td>95,51</td><td>122,87</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>100,47</td><td>111,00</td><td>35,00</td><td>76,00</td><td>99,30</td><td>95,33</td><td>99,30</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,21</td><td>89,06</td><td>96,00</td><td>20,00</td><td>76,00</td><td>86,68</td><td>95,21</td><td>86,68</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,21</td><td>96,00</td><td>96,00</td><td>20,00</td><td>76,00</td><td>92,84</td><td>95,21</td><td>92,84</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>91,94</td><td>85,00</td><td>9,00</td><td>76,00</td><td>88,67</td><td>95,33</td><td>88,67</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>76,00</td><td>76,00</td><td>0,00</td><td>76,00</td><td>71,24</td><td>95,33</td><td>71,24</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>76,00</td><td>76,00</td><td>0,00</td><td>76,00</td><td>75,66</td><td>95,33</td><td>75,66</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,23</td><td>76,00</td><td>76,00</td><td>0,00</td><td>76,00</td><td>74,07</td><td>95,33</td><td>74,07</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,19</td><td>62,11</td><td>76,00</td><td>0,00</td><td>76,00</td><td>65,70</td><td>95,09</td><td>65,70</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,22</td><td>83,42</td><td>73,00</td><td>0,00</td><td>73,00</td><td>77,36</td><td>95,27</td><td>77,36</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,35</td><td>121,49</td><td>76,00</td><td>0,00</td><td>76,00</td><td>111,06</td><td>96,05</td><td>111,06</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,48</td><td>124,60</td><td>79,00</td><td>0,00</td><td>79,00</td><td>126,01</td><td>96,83</td><td>126,01</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,59</td><td>121,77</td><td>83,00</td><td>0,00</td><td>83,00</td><td>151,58</td><td>97,50</td><td>151,58</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,68</td><td>114,83</td><td>83,00</td><td>0,00</td><td>83,00</td><td>123,45</td><td>98,04</td><td>123,45</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,74</td><td>118,30</td><td>97,00</td><td>14,00</td><td>84,00</td><td>113,34</td><td>98,41</td><td>113,34</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,63</td><td>86,11</td><td>125,00</td><td>40,00</td><td>85,00</td><td>111,16</td><td>97,74</td><td>111,16</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,57</td><td>84,70</td><td>106,00</td><td>21,00</td><td>85,00</td><td>91,61</td><td>97,38</td><td>91,61</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,48</td><td>74,29</td><td>106,00</td><td>21,00</td><td>85,00</td><td>81,85</td><td>96,83</td><td>81,85</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,40</td><td>64,88</td><td>93,00</td><td>9,00</td><td>84,00</td><td>76,83</td><td>96,35</td><td>76,83</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,35</td><td>66,52</td><td>84,00</td><td>0,00</td><td>84,00</td><td>70,47</td><td>96,05</td><td>70,47</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,33</td><td>76,94</td><td>84,00</td><td>0,00</td><td>84,00</td><td>76,76</td><td>95,93</td><td>76,76</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,26</td><td>59,58</td><td>84,00</td><td>0,00</td><td>84,00</td><td>67,46</td><td>95,51</td><td>67,46</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,17</td><td>52,63</td><td>84,00</td><td>0,00</td><td>84,00</td><td>59,18</td><td>94,97</td><td>59,18</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,08</td><td>52,75</td><td>84,00</td><td>0,00</td><td>84,00</td><td>56,00</td><td>94,44</td><td>56,00</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>55,58</td><td>66,00</td><td>0,00</td><td>66,00</td><td>55,13</td><td>94,26</td><td>55,13</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,04</td><td>50,53</td><td>54,00</td><td>0,00</td><td>54,00</td><td>55,40</td><td>94,20</td><td>55,40</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,04</td><td>55,00</td><td>55,00</td><td>0,00</td><td>55,00</td><td>55,58</td><td>94,20</td><td>55,58</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,08</td><td>47,89</td><td>34,00</td><td>0,00</td><td>34,00</td><td>52,46</td><td>94,44</td><td>52,46</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,07</td><td>48,53</td><td>52,00</td><td>0,00</td><td>52,00</td><td>50,27</td><td>94,38</td><td>50,27</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>44,06</td><td>51,00</td><td>0,00</td><td>51,00</td><td>48,80</td><td>94,26</td><td>48,80</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,04</td><td>45,53</td><td>49,00</td><td>0,00</td><td>49,00</td><td>49,89</td><td>94,20</td><td>49,89</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>51,47</td><td>48,00</td><td>0,00</td><td>48,00</td><td>48,45</td><td>94,26</td><td>48,45</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,04</td><td>45,53</td><td>49,00</td><td>0,00</td><td>49,00</td><td>48,39</td><td>94,20</td><td>48,39</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,04</td><td>43,00</td><td>43,00</td><td>0,00</td><td>50,00</td><td>47,45</td><td>94,20</td><td>47,45</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,07</td><td>42,42</td><td>32,00</td><td>0,00</td><td>32,00</td><td>45,90</td><td>94,38</td><td>45,90</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,06</td><td>41,53</td><td>45,00</td><td>0,00</td><td>45,00</td><td>42,62</td><td>94,32</td><td>42,62</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>41,53</td><td>45,00</td><td>0,00</td><td>45,00</td><td>39,94</td><td>94,26</td><td>39,94</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,03</td><td>37,06</td><td>44,00</td><td>0,00</td><td>44,00</td><td>40,88</td><td>94,14</td><td>40,88</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>38,94</td><td>32,00</td><td>0,00</td><td>32,00</td><td>40,57</td><td>94,26</td><td>40,57</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,03</td><td>38,06</td><td>45,00</td><td>0,00</td><td>45,00</td><td>41,10</td><td>94,14</td><td>41,10</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,01</td><td>39,06</td><td>46,00</td><td>0,00</td><td>46,00</td><td>40,01</td><td>94,02</td><td>40,01</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,02</td><td>35,47</td><td>32,00</td><td>0,00</td><td>32,00</td><td>39,17</td><td>94,08</td><td>39,17</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,99</td><td>34,58</td><td>45,00</td><td>0,00</td><td>45,00</td><td>36,80</td><td>93,90</td><td>36,80</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,96</td><td>37,58</td><td>48,00</td><td>0,00</td><td>48,00</td><td>34,91</td><td>93,72</td><td>34,91</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,94</td><td>26,17</td><td>33,00</td><td>0,00</td><td>42,00</td><td>35,25</td><td>93,61</td><td>35,25</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,92</td><td>26,06</td><td>33,00</td><td>0,00</td><td>42,00</td><td>36,87</td><td>93,49</td><td>36,87</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,90</td><td>26,17</td><td>33,00</td><td>0,00</td><td>42,00</td><td>37,60</td><td>93,37</td><td>37,60</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,88</td><td>26,06</td><td>33,00</td><td>0,00</td><td>42,00</td><td>39,06</td><td>93,25</td><td>39,06</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,88</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,66</td><td>93,25</td><td>37,66</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,86</td><td>31,06</td><td>38,00</td><td>25,00</td><td>13,00</td><td>38,07</td><td>93,13</td><td>38,07</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,84</td><td>33,17</td><td>40,00</td><td>40,00</td><td>0,00</td><td>36,56</td><td>93,02</td><td>36,56</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,82</td><td>33,17</td><td>40,00</td><td>40,00</td><td>0,00</td><td>36,23</td><td>92,90</td><td>36,23</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,80</td><td>33,06</td><td>40,00</td><td>40,00</td><td>0,00</td><td>34,31</td><td>92,78</td><td>34,31</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,75</td><td>29,87</td><td>47,00</td><td>28,00</td><td>19,00</td><td>34,95</td><td>92,49</td><td>34,95</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,72</td><td>33,70</td><td>44,00</td><td>0,00</td><td>44,00</td><td>35,49</td><td>92,31</td><td>35,49</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,72</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>36,52</td><td>92,31</td><td>36,52</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,70</td><td>34,17</td><td>41,00</td><td>0,00</td><td>41,00</td><td>35,13</td><td>92,19</td><td>35,13</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,67</td><td>30,70</td><td>41,00</td><td>0,00</td><td>41,00</td><td>34,56</td><td>92,02</td><td>34,56</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,64</td><td>29,70</td><td>40,00</td><td>0,00</td><td>41,00</td><td>33,87</td><td>91,84</td><td>33,87</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,60</td><td>28,34</td><td>42,00</td><td>0,00</td><td>42,00</td><td>33,18</td><td>91,60</td><td>33,18</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,56</td><td>27,46</td><td>41,00</td><td>0,00</td><td>41,00</td><td>32,54</td><td>91,37</td><td>32,54</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,55</td><td>28,53</td><td>32,00</td><td>0,00</td><td>32,00</td><td>32,45</td><td>91,31</td><td>32,45</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,51</td><td>29,46</td><td>43,00</td><td>0,00</td><td>43,00</td><td>32,83</td><td>91,08</td><td>32,83</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,48</td><td>31,70</td><td>42,00</td><td>0,00</td><td>42,00</td><td>34,92</td><td>90,90</td><td>34,92</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,46</td><td>35,29</td><td>42,00</td><td>0,00</td><td>42,00</td><td>37,73</td><td>90,79</td><td>37,73</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,45</td><td>37,53</td><td>41,00</td><td>0,00</td><td>41,00</td><td>39,15</td><td>90,73</td><td>39,15</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,42</td><td>31,81</td><td>42,00</td><td>0,00</td><td>42,00</td><td>38,92</td><td>90,56</td><td>38,92</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,39</td><td>31,93</td><td>42,00</td><td>0,00</td><td>42,00</td><td>39,63</td><td>90,38</td><td>39,63</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,39</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>43,03</td><td>90,38</td><td>43,03</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,40</td><td>40,36</td><td>37,00</td><td>0,00</td><td>37,00</td><td>44,31</td><td>90,44</td><td>44,31</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,39</td><td>35,64</td><td>39,00</td><td>0,00</td><td>39,00</td><td>43,52</td><td>90,38</td><td>43,52</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,37</td><td>31,17</td><td>38,00</td><td>0,00</td><td>38,00</td><td>39,72</td><td>90,27</td><td>39,72</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,34</td><td>27,81</td><td>38,00</td><td>0,00</td><td>38,00</td><td>38,91</td><td>90,09</td><td>38,91</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,33</td><td>29,64</td><td>33,00</td><td>0,00</td><td>33,00</td><td>36,43</td><td>90,03</td><td>36,43</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,30</td><td>28,93</td><td>39,00</td><td>0,00</td><td>39,00</td><td>35,79</td><td>89,86</td><td>35,79</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,27</td><td>28,81</td><td>39,00</td><td>0,00</td><td>39,00</td><td>34,54</td><td>89,69</td><td>34,54</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,25</td><td>26,29</td><td>33,00</td><td>0,00</td><td>33,00</td><td>35,18</td><td>89,57</td><td>35,18</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,22</td><td>27,93</td><td>38,00</td><td>0,00</td><td>38,00</td><td>42,01</td><td>89,40</td><td>42,01</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,25</td><td>51,07</td><td>41,00</td><td>0,00</td><td>41,00</td><td>50,71</td><td>89,57</td><td>50,71</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,29</td><td>57,54</td><td>44,00</td><td>0,00</td><td>44,00</td><td>61,10</td><td>89,80</td><td>61,10</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,36</td><td>65,61</td><td>42,00</td><td>0,00</td><td>42,00</td><td>72,77</td><td>90,21</td><td>72,77</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,46</td><td>74,91</td><td>41,00</td><td>0,00</td><td>41,00</td><td>88,94</td><td>90,79</td><td>88,94</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,57</td><td>79,38</td><td>42,00</td><td>0,00</td><td>42,00</td><td>91,49</td><td>91,43</td><td>91,49</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,63</td><td>64,49</td><td>44,00</td><td>0,00</td><td>44,00</td><td>76,37</td><td>91,78</td><td>76,37</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,73</td><td>77,26</td><td>43,00</td><td>0,00</td><td>43,00</td><td>80,28</td><td>92,37</td><td>80,28</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,87</td><td>87,03</td><td>39,00</td><td>0,00</td><td>38,00</td><td>97,83</td><td>93,19</td><td>97,83</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,99</td><td>85,44</td><td>44,00</td><td>0,00</td><td>44,00</td><td>92,24</td><td>93,90</td><td>92,24</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,03</td><td>62,89</td><td>49,00</td><td>0,00</td><td>49,00</td><td>76,18</td><td>94,14</td><td>76,18</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,06</td><td>59,42</td><td>49,00</td><td>0,00</td><td>49,00</td><td>65,08</td><td>94,32</td><td>65,08</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,05</td><td>47,53</td><td>51,00</td><td>0,00</td><td>51,00</td><td>53,75</td><td>94,26</td><td>53,75</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,07</td><td>46,94</td><td>40,00</td><td>0,00</td><td>40,00</td><td>49,65</td><td>94,38</td><td>49,65</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>854,03</td><td>40,11</td><td>54,00</td><td>0,00</td><td>54,00</td><td>45,76</td><td>94,14</td><td>45,76</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,97</td><td>29,17</td><td>50,00</td><td>0,00</td><td>50,00</td><td>45,64</td><td>93,78</td><td>45,64</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,95</td><td>43,17</td><td>50,00</td><td>0,00</td><td>50,00</td><td>46,05</td><td>93,67</td><td>46,05</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,92</td><td>39,58</td><td>50,00</td><td>0,00</td><td>50,00</td><td>45,48</td><td>93,49</td><td>45,48</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,87</td><td>30,75</td><td>48,00</td><td>0,00</td><td>48,00</td><td>41,58</td><td>93,19</td><td>41,58</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,82</td><td>27,87</td><td>45,00</td><td>0,00</td><td>45,00</td><td>40,46</td><td>92,90</td><td>40,46</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,82</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>39,92</td><td>92,90</td><td>39,92</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,79</td><td>34,58</td><td>45,00</td><td>0,00</td><td>45,00</td><td>40,14</td><td>92,72</td><td>40,14</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,75</td><td>31,34</td><td>45,00</td><td>0,00</td><td>45,00</td><td>39,41</td><td>92,49</td><td>39,41</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,72</td><td>34,70</td><td>45,00</td><td>0,00</td><td>45,00</td><td>40,82</td><td>92,31</td><td>40,82</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,69</td><td>34,70</td><td>45,00</td><td>0,00</td><td>45,00</td><td>42,39</td><td>92,13</td><td>42,39</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,66</td><td>35,70</td><td>46,00</td><td>0,00</td><td>46,00</td><td>42,25</td><td>91,96</td><td>42,25</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,63</td><td>34,81</td><td>45,00</td><td>0,00</td><td>45,00</td><td>40,59</td><td>91,78</td><td>40,59</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,60</td><td>32,70</td><td>43,00</td><td>0,00</td><td>43,00</td><td>39,44</td><td>91,60</td><td>39,44</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,56</td><td>32,46</td><td>46,00</td><td>0,00</td><td>46,00</td><td>38,76</td><td>91,37</td><td>38,76</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,52</td><td>32,34</td><td>46,00</td><td>0,00</td><td>46,00</td><td>38,18</td><td>91,14</td><td>38,18</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,48</td><td>31,34</td><td>45,00</td><td>0,00</td><td>45,00</td><td>37,03</td><td>90,90</td><td>37,03</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,44</td><td>29,46</td><td>43,00</td><td>0,00</td><td>43,00</td><td>35,52</td><td>90,67</td><td>35,52</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,39</td><td>28,10</td><td>45,00</td><td>0,00</td><td>45,00</td><td>35,60</td><td>90,38</td><td>35,60</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,36</td><td>28,81</td><td>39,00</td><td>0,00</td><td>39,00</td><td>35,05</td><td>90,21</td><td>35,05</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,32</td><td>27,46</td><td>41,00</td><td>0,00</td><td>41,00</td><td>35,76</td><td>89,98</td><td>35,76</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,27</td><td>28,10</td><td>45,00</td><td>0,00</td><td>45,00</td><td>34,55</td><td>89,69</td><td>34,55</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,22</td><td>28,22</td><td>45,00</td><td>0,00</td><td>45,00</td><td>34,22</td><td>89,40</td><td>34,22</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,17</td><td>28,10</td><td>45,00</td><td>0,00</td><td>45,00</td><td>32,92</td><td>89,11</td><td>32,92</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,11</td><td>25,98</td><td>46,00</td><td>0,00</td><td>46,00</td><td>32,70</td><td>88,77</td><td>32,70</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,05</td><td>25,86</td><td>46,00</td><td>0,00</td><td>46,00</td><td>32,31</td><td>88,42</td><td>32,31</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,98</td><td>24,62</td><td>48,00</td><td>0,00</td><td>48,00</td><td>32,90</td><td>88,02</td><td>32,90</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,94</td><td>26,69</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,63</td><td>87,79</td><td>32,63</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,88</td><td>25,98</td><td>46,00</td><td>0,00</td><td>46,00</td><td>32,12</td><td>87,45</td><td>32,12</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,81</td><td>23,74</td><td>47,00</td><td>0,00</td><td>47,00</td><td>31,27</td><td>87,05</td><td>31,27</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,74</td><td>23,85</td><td>47,00</td><td>0,00</td><td>47,00</td><td>31,13</td><td>86,65</td><td>31,13</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,67</td><td>23,85</td><td>47,00</td><td>0,00</td><td>47,00</td><td>30,56</td><td>86,26</td><td>30,56</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,60</td><td>23,97</td><td>47,00</td><td>0,00</td><td>47,00</td><td>29,04</td><td>85,86</td><td>29,04</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,53</td><td>22,97</td><td>46,00</td><td>0,00</td><td>46,00</td><td>28,12</td><td>85,47</td><td>28,12</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,48</td><td>23,68</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,67</td><td>85,19</td><td>27,67</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,41</td><td>23,08</td><td>46,00</td><td>0,00</td><td>46,00</td><td>28,59</td><td>84,79</td><td>28,59</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,34</td><td>22,08</td><td>45,00</td><td>0,00</td><td>45,00</td><td>28,68</td><td>84,40</td><td>28,68</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,28</td><td>23,56</td><td>43,00</td><td>0,00</td><td>43,00</td><td>29,61</td><td>84,07</td><td>29,61</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,23</td><td>22,68</td><td>39,00</td><td>0,00</td><td>39,00</td><td>29,42</td><td>83,79</td><td>29,42</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,18</td><td>22,80</td><td>39,00</td><td>0,00</td><td>39,00</td><td>29,50</td><td>83,51</td><td>29,50</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,14</td><td>22,04</td><td>35,00</td><td>0,00</td><td>35,00</td><td>28,54</td><td>83,29</td><td>28,54</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,09</td><td>18,91</td><td>35,00</td><td>0,00</td><td>35,00</td><td>27,75</td><td>83,01</td><td>27,75</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,04</td><td>18,80</td><td>35,00</td><td>0,00</td><td>35,00</td><td>27,06</td><td>82,74</td><td>27,06</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,99</td><td>18,91</td><td>35,00</td><td>0,00</td><td>35,00</td><td>27,04</td><td>82,46</td><td>27,04</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,95</td><td>22,15</td><td>35,00</td><td>0,00</td><td>35,00</td><td>26,79</td><td>82,24</td><td>26,79</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,90</td><td>19,03</td><td>35,00</td><td>0,00</td><td>35,00</td><td>26,89</td><td>81,97</td><td>26,89</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,85</td><td>18,91</td><td>35,00</td><td>0,00</td><td>35,00</td><td>26,63</td><td>81,69</td><td>26,63</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,81</td><td>22,27</td><td>35,00</td><td>0,00</td><td>35,00</td><td>26,03</td><td>81,47</td><td>26,03</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,76</td><td>19,03</td><td>35,00</td><td>0,00</td><td>35,00</td><td>25,75</td><td>81,20</td><td>25,75</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,72</td><td>22,27</td><td>35,00</td><td>0,00</td><td>35,00</td><td>25,45</td><td>80,98</td><td>25,45</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,68</td><td>22,27</td><td>35,00</td><td>0,00</td><td>35,00</td><td>26,14</td><td>80,76</td><td>26,14</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,62</td><td>21,90</td><td>41,00</td><td>0,00</td><td>41,00</td><td>25,66</td><td>80,43</td><td>25,66</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,55</td><td>18,89</td><td>41,00</td><td>0,00</td><td>41,00</td><td>25,89</td><td>80,06</td><td>25,89</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,49</td><td>22,02</td><td>41,00</td><td>0,00</td><td>41,00</td><td>25,51</td><td>79,73</td><td>25,51</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,42</td><td>17,89</td><td>40,00</td><td>0,00</td><td>40,00</td><td>26,51</td><td>79,35</td><td>26,51</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,38</td><td>21,50</td><td>34,00</td><td>0,00</td><td>34,00</td><td>26,29</td><td>79,14</td><td>26,29</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,31</td><td>18,01</td><td>40,00</td><td>0,00</td><td>40,00</td><td>26,51</td><td>78,76</td><td>26,51</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,24</td><td>19,13</td><td>41,00</td><td>0,00</td><td>41,00</td><td>25,33</td><td>78,38</td><td>25,33</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,17</td><td>20,12</td><td>42,00</td><td>0,00</td><td>42,00</td><td>24,11</td><td>78,01</td><td>24,11</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,09</td><td>18,12</td><td>43,00</td><td>0,00</td><td>43,00</td><td>23,57</td><td>77,58</td><td>23,57</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,02</td><td>20,24</td><td>42,00</td><td>0,00</td><td>42,00</td><td>23,89</td><td>77,21</td><td>23,89</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,96</td><td>21,48</td><td>40,00</td><td>0,00</td><td>40,00</td><td>25,06</td><td>76,89</td><td>25,06</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,92</td><td>21,62</td><td>34,00</td><td>0,00</td><td>34,00</td><td>25,89</td><td>76,68</td><td>25,89</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,86</td><td>21,48</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,84</td><td>76,36</td><td>27,84</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,82</td><td>27,73</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,16</td><td>76,15</td><td>29,16</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,77</td><td>24,61</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,91</td><td>75,89</td><td>29,91</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,70</td><td>20,59</td><td>42,00</td><td>0,00</td><td>42,00</td><td>29,76</td><td>75,52</td><td>29,76</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,65</td><td>24,72</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,88</td><td>75,26</td><td>29,88</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,60</td><td>25,72</td><td>41,00</td><td>0,00</td><td>41,00</td><td>33,11</td><td>75,00</td><td>33,11</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,59</td><td>30,99</td><td>34,00</td><td>0,00</td><td>34,00</td><td>36,47</td><td>74,95</td><td>36,47</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,58</td><td>36,88</td><td>40,00</td><td>0,00</td><td>40,00</td><td>37,47</td><td>74,89</td><td>37,47</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,54</td><td>27,85</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,55</td><td>74,69</td><td>35,55</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,50</td><td>27,85</td><td>40,00</td><td>0,00</td><td>40,00</td><td>33,46</td><td>74,48</td><td>33,46</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,46</td><td>27,85</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,39</td><td>74,27</td><td>32,39</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,40</td><td>22,83</td><td>41,00</td><td>0,00</td><td>41,00</td><td>30,38</td><td>73,96</td><td>30,38</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,34</td><td>21,94</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,46</td><td>73,65</td><td>27,46</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,30</td><td>20,96</td><td>33,00</td><td>0,00</td><td>33,00</td><td>26,10</td><td>73,44</td><td>26,10</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,24</td><td>21,94</td><td>40,00</td><td>0,00</td><td>40,00</td><td>26,20</td><td>73,13</td><td>26,20</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,16</td><td>24,04</td><td>48,00</td><td>0,00</td><td>48,00</td><td>26,62</td><td>72,72</td><td>26,62</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,08</td><td>23,04</td><td>47,00</td><td>0,00</td><td>47,00</td><td>27,68</td><td>72,31</td><td>27,68</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,03</td><td>25,07</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,81</td><td>72,05</td><td>27,81</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,96</td><td>23,05</td><td>44,00</td><td>0,00</td><td>44,00</td><td>28,44</td><td>71,70</td><td>28,44</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,89</td><td>24,28</td><td>45,00</td><td>0,00</td><td>45,00</td><td>28,18</td><td>71,34</td><td>28,18</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,85</td><td>21,19</td><td>33,00</td><td>0,00</td><td>33,00</td><td>27,36</td><td>71,14</td><td>27,36</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,77</td><td>21,39</td><td>45,00</td><td>0,00</td><td>45,00</td><td>26,56</td><td>70,73</td><td>26,56</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,68</td><td>20,50</td><td>47,00</td><td>0,00</td><td>47,00</td><td>25,83</td><td>70,28</td><td>25,83</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,63</td><td>21,30</td><td>36,00</td><td>0,00</td><td>36,00</td><td>25,12</td><td>70,03</td><td>25,12</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,54</td><td>19,61</td><td>46,00</td><td>0,00</td><td>46,00</td><td>23,89</td><td>69,57</td><td>23,89</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,45</td><td>20,84</td><td>47,00</td><td>0,00</td><td>47,00</td><td>23,49</td><td>69,13</td><td>23,49</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,36</td><td>20,84</td><td>47,00</td><td>0,00</td><td>47,00</td><td>23,58</td><td>68,68</td><td>23,58</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,28</td><td>17,85</td><td>41,00</td><td>0,00</td><td>41,00</td><td>23,43</td><td>68,28</td><td>23,43</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,18</td><td>18,06</td><td>47,00</td><td>0,00</td><td>47,00</td><td>22,44</td><td>67,79</td><td>22,44</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,10</td><td>17,08</td><td>40,00</td><td>0,00</td><td>40,00</td><td>22,19</td><td>67,39</td><td>22,19</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,99</td><td>17,52</td><td>49,00</td><td>0,00</td><td>49,00</td><td>21,64</td><td>66,85</td><td>21,64</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,88</td><td>15,63</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,85</td><td>66,32</td><td>20,85</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,77</td><td>15,75</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,00</td><td>65,78</td><td>20,00</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,66</td><td>15,87</td><td>47,00</td><td>0,00</td><td>47,00</td><td>19,79</td><td>65,25</td><td>19,79</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,55</td><td>16,10</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,43</td><td>64,72</td><td>20,43</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,44</td><td>17,21</td><td>48,00</td><td>0,00</td><td>48,00</td><td>21,83</td><td>64,19</td><td>21,83</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,33</td><td>18,33</td><td>49,00</td><td>0,00</td><td>49,00</td><td>23,88</td><td>63,66</td><td>23,88</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,25</td><td>24,78</td><td>47,00</td><td>0,00</td><td>47,00</td><td>23,99</td><td>63,28</td><td>23,99</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,15</td><td>20,34</td><td>48,00</td><td>0,00</td><td>48,00</td><td>22,62</td><td>62,81</td><td>22,62</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,04</td><td>16,79</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,84</td><td>62,29</td><td>20,84</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,92</td><td>14,13</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,86</td><td>61,73</td><td>20,86</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,81</td><td>16,91</td><td>47,00</td><td>0,00</td><td>47,00</td><td>21,15</td><td>61,21</td><td>21,15</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,69</td><td>14,48</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,77</td><td>60,65</td><td>20,77</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,56</td><td>12,93</td><td>48,00</td><td>0,00</td><td>48,00</td><td>19,83</td><td>60,05</td><td>19,83</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,43</td><td>13,16</td><td>48,00</td><td>0,00</td><td>48,00</td><td>18,51</td><td>59,46</td><td>18,51</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,29</td><td>10,62</td><td>48,00</td><td>0,00</td><td>48,00</td><td>18,55</td><td>58,81</td><td>18,55</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,16</td><td>14,51</td><td>49,00</td><td>0,00</td><td>49,00</td><td>18,74</td><td>58,22</td><td>18,74</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,04</td><td>17,40</td><td>49,00</td><td>0,00</td><td>49,00</td><td>19,26</td><td>57,68</td><td>19,26</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,91</td><td>15,86</td><td>50,00</td><td>0,00</td><td>50,00</td><td>19,38</td><td>57,10</td><td>19,38</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,79</td><td>17,75</td><td>49,00</td><td>0,00</td><td>49,00</td><td>23,23</td><td>56,56</td><td>23,23</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,68</td><td>26,41</td><td>55,00</td><td>0,00</td><td>55,00</td><td>26,56</td><td>56,07</td><td>26,56</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,54</td><td>20,89</td><td>57,00</td><td>0,00</td><td>57,00</td><td>29,18</td><td>55,45</td><td>29,18</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,36</td><td>20,82</td><td>67,00</td><td>0,00</td><td>67,00</td><td>27,87</td><td>54,66</td><td>27,87</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,17</td><td>19,74</td><td>68,00</td><td>0,00</td><td>68,00</td><td>27,38</td><td>53,83</td><td>27,38</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,97</td><td>18,65</td><td>69,00</td><td>0,00</td><td>69,00</td><td>24,86</td><td>52,97</td><td>24,86</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,77</td><td>17,12</td><td>67,00</td><td>0,00</td><td>67,00</td><td>23,93</td><td>52,12</td><td>23,93</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,57</td><td>17,58</td><td>67,00</td><td>0,00</td><td>67,00</td><td>24,31</td><td>51,27</td><td>24,31</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,40</td><td>24,33</td><td>66,00</td><td>0,00</td><td>66,00</td><td>26,65</td><td>50,55</td><td>26,65</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,21</td><td>20,94</td><td>67,00</td><td>0,00</td><td>67,00</td><td>27,37</td><td>49,76</td><td>27,37</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,01</td><td>16,85</td><td>65,00</td><td>0,00</td><td>65,00</td><td>33,25</td><td>48,94</td><td>33,25</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,92</td><td>45,36</td><td>67,00</td><td>0,00</td><td>67,00</td><td>38,33</td><td>48,57</td><td>38,33</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,82</td><td>43,27</td><td>67,00</td><td>0,00</td><td>67,00</td><td>40,77</td><td>48,16</td><td>40,77</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,69</td><td>32,21</td><td>63,00</td><td>0,00</td><td>63,00</td><td>37,14</td><td>47,63</td><td>37,14</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,55</td><td>34,13</td><td>67,00</td><td>0,00</td><td>67,00</td><td>36,12</td><td>47,07</td><td>36,12</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,36</td><td>29,67</td><td>74,00</td><td>0,00</td><td>74,00</td><td>35,38</td><td>46,31</td><td>35,38</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,16</td><td>27,82</td><td>74,00</td><td>0,00</td><td>74,00</td><td>33,20</td><td>45,52</td><td>33,20</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,93</td><td>22,34</td><td>75,00</td><td>0,00</td><td>75,00</td><td>30,13</td><td>44,62</td><td>30,13</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,71</td><td>24,35</td><td>74,00</td><td>0,00</td><td>74,00</td><td>33,29</td><td>43,77</td><td>33,29</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,55</td><td>37,12</td><td>73,00</td><td>0,00</td><td>73,00</td><td>40,58</td><td>43,15</td><td>40,58</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,41</td><td>40,87</td><td>72,00</td><td>0,00</td><td>72,00</td><td>44,71</td><td>42,62</td><td>44,71</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,24</td><td>36,50</td><td>74,00</td><td>0,00</td><td>74,00</td><td>46,24</td><td>41,97</td><td>46,24</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,08</td><td>40,05</td><td>75,00</td><td>1,00</td><td>71,00</td><td>47,38</td><td>41,38</td><td>47,38</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,95</td><td>45,76</td><td>74,00</td><td>0,00</td><td>74,00</td><td>53,38</td><td>40,89</td><td>53,38</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,92</td><td>63,52</td><td>70,00</td><td>0,00</td><td>70,00</td><td>65,36</td><td>40,78</td><td>65,36</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,86</td><td>53,04</td><td>66,00</td><td>0,00</td><td>66,00</td><td>52,32</td><td>40,56</td><td>52,32</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,73</td><td>43,11</td><td>71,00</td><td>0,00</td><td>71,00</td><td>46,81</td><td>40,08</td><td>46,81</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,57</td><td>38,97</td><td>73,00</td><td>0,00</td><td>73,00</td><td>41,84</td><td>39,50</td><td>41,84</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,40</td><td>36,12</td><td>72,00</td><td>0,00</td><td>72,00</td><td>38,01</td><td>38,88</td><td>38,01</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,38</td><td>30,72</td><td>35,00</td><td>0,00</td><td>35,00</td><td>35,29</td><td>38,81</td><td>35,29</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,37</td><td>30,92</td><td>33,00</td><td>0,00</td><td>33,00</td><td>33,80</td><td>38,77</td><td>33,80</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,37</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>33,27</td><td>38,77</td><td>33,27</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,37</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,68</td><td>38,77</td><td>34,68</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,40</td><td>39,37</td><td>33,00</td><td>0,00</td><td>33,00</td><td>38,78</td><td>38,88</td><td>38,78</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,47</td><td>47,70</td><td>33,00</td><td>0,00</td><td>33,00</td><td>45,23</td><td>39,13</td><td>45,23</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,63</td><td>67,91</td><td>34,00</td><td>0,00</td><td>34,00</td><td>70,94</td><td>39,72</td><td>70,94</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,68</td><td>44,65</td><td>34,00</td><td>0,00</td><td>34,00</td><td>50,43</td><td>39,90</td><td>50,43</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,70</td><td>38,28</td><td>34,00</td><td>0,00</td><td>34,00</td><td>42,71</td><td>39,97</td><td>42,71</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,73</td><td>39,37</td><td>33,00</td><td>0,00</td><td>33,00</td><td>39,07</td><td>40,08</td><td>39,07</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,78</td><td>42,76</td><td>32,00</td><td>0,00</td><td>32,00</td><td>40,49</td><td>40,26</td><td>40,49</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,85</td><td>47,05</td><td>32,00</td><td>0,00</td><td>32,00</td><td>45,77</td><td>40,52</td><td>45,77</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,97</td><td>57,81</td><td>32,00</td><td>0,00</td><td>32,00</td><td>54,11</td><td>40,96</td><td>54,11</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,30</td><td>104,11</td><td>32,00</td><td>0,00</td><td>32,00</td><td>90,91</td><td>42,20</td><td>90,91</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,55</td><td>105,44</td><td>50,00</td><td>0,00</td><td>50,00</td><td>97,30</td><td>43,15</td><td>97,30</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,61</td><td>82,43</td><td>69,00</td><td>0,00</td><td>69,00</td><td>90,68</td><td>43,38</td><td>90,68</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,60</td><td>67,69</td><td>70,00</td><td>0,00</td><td>70,00</td><td>66,31</td><td>43,34</td><td>66,31</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,65</td><td>63,23</td><td>52,00</td><td>0,00</td><td>52,00</td><td>59,79</td><td>43,53</td><td>59,79</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,71</td><td>56,54</td><td>43,00</td><td>0,00</td><td>43,00</td><td>51,82</td><td>43,77</td><td>51,82</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,78</td><td>53,74</td><td>38,00</td><td>0,00</td><td>38,00</td><td>45,64</td><td>44,04</td><td>45,64</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,82</td><td>47,03</td><td>38,00</td><td>0,00</td><td>38,00</td><td>43,33</td><td>44,19</td><td>43,33</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,83</td><td>45,20</td><td>43,00</td><td>0,00</td><td>43,00</td><td>42,64</td><td>44,23</td><td>42,64</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,79</td><td>39,97</td><td>49,00</td><td>0,00</td><td>49,00</td><td>42,69</td><td>44,07</td><td>42,69</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,64</td><td>35,32</td><td>69,00</td><td>0,00</td><td>69,00</td><td>41,54</td><td>43,50</td><td>41,54</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,48</td><td>33,24</td><td>69,00</td><td>0,00</td><td>69,00</td><td>40,89</td><td>42,88</td><td>40,89</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,34</td><td>37,98</td><td>69,00</td><td>0,00</td><td>69,00</td><td>41,67</td><td>42,35</td><td>41,67</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,20</td><td>39,21</td><td>70,00</td><td>0,00</td><td>70,00</td><td>44,70</td><td>41,82</td><td>44,70</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,28</td><td>52,59</td><td>35,00</td><td>0,00</td><td>35,00</td><td>47,18</td><td>42,13</td><td>47,18</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,37</td><td>69,91</td><td>50,00</td><td>0,00</td><td>50,00</td><td>63,61</td><td>42,47</td><td>63,61</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,43</td><td>80,19</td><td>67,00</td><td>0,00</td><td>67,00</td><td>75,20</td><td>42,69</td><td>75,20</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,42</td><td>68,80</td><td>71,00</td><td>0,00</td><td>71,00</td><td>74,15</td><td>42,66</td><td>74,15</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,33</td><td>51,09</td><td>71,00</td><td>0,00</td><td>71,00</td><td>58,86</td><td>42,31</td><td>58,86</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,31</td><td>49,60</td><td>54,00</td><td>0,00</td><td>54,00</td><td>54,22</td><td>42,24</td><td>54,22</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,40</td><td>64,91</td><td>45,00</td><td>0,00</td><td>45,00</td><td>70,23</td><td>42,58</td><td>70,23</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,39</td><td>63,80</td><td>66,00</td><td>0,00</td><td>66,00</td><td>71,69</td><td>42,54</td><td>71,69</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,34</td><td>54,89</td><td>66,00</td><td>0,00</td><td>66,00</td><td>62,54</td><td>42,35</td><td>62,54</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,28</td><td>55,81</td><td>69,00</td><td>0,00</td><td>69,00</td><td>57,99</td><td>42,13</td><td>57,99</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,20</td><td>51,41</td><td>69,00</td><td>0,00</td><td>69,00</td><td>54,87</td><td>41,82</td><td>54,87</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,24</td><td>69,80</td><td>61,00</td><td>0,00</td><td>61,00</td><td>75,87</td><td>41,97</td><td>75,87</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,29</td><td>74,00</td><td>63,00</td><td>0,00</td><td>63,00</td><td>81,10</td><td>42,16</td><td>81,10</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,40</td><td>70,31</td><td>46,00</td><td>0,00</td><td>46,00</td><td>69,53</td><td>42,58</td><td>69,53</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,42</td><td>69,40</td><td>65,00</td><td>0,00</td><td>65,00</td><td>73,61</td><td>42,66</td><td>73,61</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,41</td><td>64,80</td><td>67,00</td><td>0,00</td><td>67,00</td><td>75,07</td><td>42,62</td><td>75,07</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,42</td><td>69,20</td><td>67,00</td><td>0,00</td><td>67,00</td><td>77,51</td><td>42,66</td><td>77,51</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>85,07</td><td>67,25</td><td>0,00</td><td>66,00</td><td>87,92</td><td>42,96</td><td>87,92</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>65,50</td><td>65,50</td><td>0,00</td><td>&nbsp;</td><td>68,93</td><td>42,96</td><td>68,93</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,44</td><td>52,40</td><td>65,83</td><td>0,00</td><td>&nbsp;</td><td>60,28</td><td>42,73</td><td>60,28</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,35</td><td>45,76</td><td>65,67</td><td>0,00</td><td>&nbsp;</td><td>53,46</td><td>42,39</td><td>53,46</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,30</td><td>40,00</td><td>51,00</td><td>0,00</td><td>51,00</td><td>46,52</td><td>42,20</td><td>46,52</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,32</td><td>41,40</td><td>37,00</td><td>0,00</td><td>37,00</td><td>44,61</td><td>42,28</td><td>44,61</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,36</td><td>44,80</td><td>36,00</td><td>0,00</td><td>36,00</td><td>43,60</td><td>42,43</td><td>43,60</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,41</td><td>47,11</td><td>36,00</td><td>0,00</td><td>36,00</td><td>44,06</td><td>42,62</td><td>44,06</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,43</td><td>40,40</td><td>36,00</td><td>0,00</td><td>36,00</td><td>42,90</td><td>42,69</td><td>42,90</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,47</td><td>44,91</td><td>36,00</td><td>0,00</td><td>36,00</td><td>41,42</td><td>42,85</td><td>41,42</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>42,71</td><td>36,00</td><td>0,00</td><td>36,00</td><td>41,31</td><td>42,96</td><td>41,31</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,53</td><td>42,60</td><td>36,00</td><td>0,00</td><td>36,00</td><td>40,43</td><td>43,07</td><td>40,43</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,56</td><td>41,71</td><td>35,00</td><td>0,00</td><td>35,00</td><td>37,45</td><td>43,19</td><td>37,45</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>39,69</td><td>53,00</td><td>0,00</td><td>53,00</td><td>38,58</td><td>42,96</td><td>38,58</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,46</td><td>45,09</td><td>54,00</td><td>0,00</td><td>54,00</td><td>38,26</td><td>42,81</td><td>38,26</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,48</td><td>38,40</td><td>34,00</td><td>0,00</td><td>34,00</td><td>38,36</td><td>42,88</td><td>38,36</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,49</td><td>36,20</td><td>34,00</td><td>0,00</td><td>34,00</td><td>34,09</td><td>42,92</td><td>34,09</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,48</td><td>34,80</td><td>37,00</td><td>0,00</td><td>37,00</td><td>32,36</td><td>42,88</td><td>32,36</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,49</td><td>37,20</td><td>35,00</td><td>0,00</td><td>35,00</td><td>33,49</td><td>42,92</td><td>33,49</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>37,31</td><td>35,00</td><td>0,00</td><td>35,00</td><td>33,81</td><td>42,96</td><td>33,81</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,49</td><td>32,69</td><td>35,00</td><td>0,00</td><td>35,00</td><td>34,20</td><td>42,92</td><td>34,20</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,49</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>34,03</td><td>42,92</td><td>34,03</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,49</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>35,46</td><td>42,92</td><td>35,46</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,50</td><td>36,31</td><td>34,00</td><td>0,00</td><td>34,00</td><td>35,95</td><td>42,96</td><td>35,95</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,52</td><td>38,40</td><td>34,00</td><td>0,00</td><td>34,00</td><td>37,82</td><td>43,04</td><td>37,82</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,58</td><td>47,43</td><td>34,00</td><td>0,00</td><td>34,00</td><td>41,66</td><td>43,27</td><td>41,66</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,64</td><td>47,43</td><td>34,00</td><td>0,00</td><td>34,00</td><td>47,31</td><td>43,50</td><td>47,31</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,70</td><td>47,43</td><td>34,00</td><td>0,00</td><td>34,00</td><td>50,07</td><td>43,73</td><td>50,07</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,73</td><td>40,71</td><td>34,00</td><td>0,00</td><td>34,00</td><td>51,98</td><td>43,84</td><td>51,98</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,80</td><td>51,86</td><td>36,00</td><td>0,00</td><td>36,00</td><td>53,49</td><td>44,11</td><td>53,49</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,89</td><td>54,37</td><td>34,00</td><td>0,00</td><td>34,00</td><td>54,30</td><td>44,46</td><td>54,30</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,98</td><td>54,49</td><td>34,00</td><td>0,00</td><td>34,00</td><td>51,44</td><td>44,81</td><td>51,44</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,13</td><td>67,26</td><td>33,00</td><td>0,00</td><td>33,00</td><td>61,78</td><td>45,40</td><td>61,78</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,45</td><td>108,07</td><td>34,00</td><td>0,00</td><td>34,00</td><td>93,83</td><td>46,67</td><td>93,83</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,96</td><td>153,37</td><td>33,00</td><td>0,00</td><td>33,00</td><td>151,68</td><td>48,73</td><td>151,68</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,66</td><td>203,14</td><td>33,00</td><td>0,00</td><td>33,00</td><td>210,06</td><td>51,65</td><td>210,06</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,26</td><td>183,23</td><td>33,00</td><td>0,00</td><td>33,00</td><td>169,79</td><td>54,22</td><td>169,79</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,78</td><td>166,68</td><td>33,00</td><td>0,00</td><td>33,00</td><td>155,31</td><td>56,52</td><td>155,31</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,20</td><td>143,30</td><td>33,00</td><td>0,00</td><td>33,00</td><td>141,54</td><td>58,41</td><td>141,54</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,53</td><td>119,96</td><td>32,00</td><td>0,00</td><td>32,00</td><td>130,46</td><td>59,91</td><td>130,46</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,81</td><td>107,69</td><td>32,00</td><td>0,00</td><td>32,00</td><td>117,58</td><td>61,21</td><td>117,58</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,03</td><td>92,19</td><td>32,00</td><td>0,00</td><td>32,00</td><td>105,79</td><td>62,24</td><td>105,79</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,22</td><td>85,31</td><td>33,00</td><td>0,00</td><td>33,00</td><td>92,13</td><td>63,14</td><td>92,13</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,46</td><td>99,78</td><td>33,00</td><td>0,00</td><td>33,00</td><td>101,22</td><td>64,28</td><td>101,22</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,65</td><td>86,36</td><td>33,00</td><td>0,00</td><td>33,00</td><td>90,42</td><td>65,20</td><td>90,42</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,85</td><td>89,60</td><td>33,00</td><td>0,00</td><td>33,00</td><td>79,37</td><td>66,17</td><td>79,37</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,95</td><td>61,47</td><td>33,00</td><td>0,00</td><td>33,00</td><td>62,17</td><td>66,66</td><td>62,17</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,04</td><td>58,69</td><td>33,00</td><td>0,00</td><td>33,00</td><td>60,00</td><td>67,10</td><td>60,00</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,13</td><td>58,81</td><td>33,00</td><td>0,00</td><td>33,00</td><td>59,48</td><td>67,54</td><td>59,48</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,22</td><td>57,93</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,82</td><td>67,98</td><td>58,82</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,34</td><td>66,72</td><td>32,00</td><td>0,00</td><td>32,00</td><td>70,19</td><td>68,58</td><td>70,19</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,51</td><td>81,42</td><td>32,00</td><td>0,00</td><td>32,00</td><td>80,62</td><td>69,43</td><td>80,62</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,73</td><td>96,47</td><td>32,00</td><td>0,00</td><td>32,00</td><td>88,52</td><td>70,53</td><td>88,52</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,95</td><td>97,05</td><td>32,00</td><td>0,00</td><td>32,00</td><td>91,97</td><td>71,65</td><td>91,97</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,15</td><td>91,72</td><td>32,00</td><td>0,00</td><td>32,00</td><td>86,72</td><td>72,67</td><td>86,72</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,38</td><td>101,10</td><td>32,00</td><td>0,00</td><td>32,00</td><td>88,69</td><td>73,85</td><td>88,69</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,54</td><td>80,50</td><td>32,00</td><td>0,00</td><td>32,00</td><td>73,26</td><td>74,69</td><td>73,26</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,65</td><td>65,56</td><td>32,00</td><td>0,00</td><td>32,00</td><td>60,22</td><td>75,26</td><td>60,22</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,73</td><td>56,42</td><td>32,00</td><td>0,00</td><td>32,00</td><td>53,94</td><td>75,68</td><td>53,94</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,79</td><td>51,40</td><td>33,00</td><td>0,00</td><td>33,00</td><td>48,20</td><td>75,99</td><td>48,20</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,83</td><td>45,27</td><td>33,00</td><td>0,00</td><td>33,00</td><td>44,96</td><td>76,20</td><td>44,96</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,87</td><td>45,38</td><td>33,00</td><td>0,00</td><td>33,00</td><td>43,39</td><td>76,42</td><td>43,39</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,92</td><td>48,39</td><td>33,00</td><td>0,00</td><td>33,00</td><td>42,74</td><td>76,68</td><td>42,74</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,95</td><td>42,26</td><td>33,00</td><td>0,00</td><td>33,00</td><td>42,04</td><td>76,84</td><td>42,04</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,98</td><td>42,26</td><td>33,00</td><td>0,00</td><td>33,00</td><td>41,01</td><td>77,00</td><td>41,01</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,01</td><td>41,26</td><td>32,00</td><td>0,00</td><td>32,00</td><td>41,41</td><td>77,16</td><td>41,41</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,04</td><td>41,37</td><td>32,00</td><td>0,00</td><td>32,00</td><td>41,41</td><td>77,32</td><td>41,41</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,07</td><td>41,26</td><td>32,00</td><td>0,00</td><td>32,00</td><td>40,56</td><td>77,48</td><td>40,56</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,09</td><td>38,25</td><td>32,00</td><td>0,00</td><td>32,00</td><td>38,89</td><td>77,58</td><td>38,89</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,10</td><td>37,12</td><td>34,00</td><td>0,00</td><td>34,00</td><td>36,91</td><td>77,64</td><td>36,91</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,10</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>35,95</td><td>77,64</td><td>35,95</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,11</td><td>36,01</td><td>33,00</td><td>0,00</td><td>33,00</td><td>36,47</td><td>77,69</td><td>36,47</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,13</td><td>40,25</td><td>34,00</td><td>0,00</td><td>34,00</td><td>39,73</td><td>77,80</td><td>39,73</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,16</td><td>43,38</td><td>34,00</td><td>0,00</td><td>34,00</td><td>45,01</td><td>77,96</td><td>45,01</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,21</td><td>49,63</td><td>34,00</td><td>0,00</td><td>34,00</td><td>50,72</td><td>78,22</td><td>50,72</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,29</td><td>58,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>55,89</td><td>78,65</td><td>55,89</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,40</td><td>67,49</td><td>33,00</td><td>0,00</td><td>33,00</td><td>60,63</td><td>79,24</td><td>60,63</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,50</td><td>70,48</td><td>39,00</td><td>0,00</td><td>39,00</td><td>67,43</td><td>79,78</td><td>67,43</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,60</td><td>71,60</td><td>40,00</td><td>0,00</td><td>40,00</td><td>63,51</td><td>80,32</td><td>63,51</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,71</td><td>74,95</td><td>40,00</td><td>0,00</td><td>40,00</td><td>68,91</td><td>80,92</td><td>68,91</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,83</td><td>72,31</td><td>34,00</td><td>0,00</td><td>34,00</td><td>82,61</td><td>81,58</td><td>82,61</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,03</td><td>102,12</td><td>38,00</td><td>0,00</td><td>38,00</td><td>99,20</td><td>82,68</td><td>99,20</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,26</td><td>113,42</td><td>39,00</td><td>0,00</td><td>39,00</td><td>108,32</td><td>83,96</td><td>108,32</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,42</td><td>92,20</td><td>40,00</td><td>0,00</td><td>40,00</td><td>90,42</td><td>84,85</td><td>90,42</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,51</td><td>69,40</td><td>40,00</td><td>0,00</td><td>40,00</td><td>74,46</td><td>85,35</td><td>74,46</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,59</td><td>65,27</td><td>39,00</td><td>0,00</td><td>39,00</td><td>63,48</td><td>85,80</td><td>63,48</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,64</td><td>55,55</td><td>39,00</td><td>0,00</td><td>39,00</td><td>54,43</td><td>86,09</td><td>54,43</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,68</td><td>52,19</td><td>39,00</td><td>0,00</td><td>39,00</td><td>50,51</td><td>86,31</td><td>50,51</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,70</td><td>45,60</td><td>39,00</td><td>0,00</td><td>39,00</td><td>47,53</td><td>86,43</td><td>47,53</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,71</td><td>42,24</td><td>39,00</td><td>0,00</td><td>39,00</td><td>50,73</td><td>86,48</td><td>50,73</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,73</td><td>45,60</td><td>39,00</td><td>0,00</td><td>39,00</td><td>52,70</td><td>86,60</td><td>52,70</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,74</td><td>42,36</td><td>39,00</td><td>0,00</td><td>39,00</td><td>53,33</td><td>86,65</td><td>53,33</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,75</td><td>42,36</td><td>39,00</td><td>0,00</td><td>39,00</td><td>47,38</td><td>86,71</td><td>47,38</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,80</td><td>55,55</td><td>39,00</td><td>0,00</td><td>39,00</td><td>64,90</td><td>86,99</td><td>64,90</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,88</td><td>65,50</td><td>39,00</td><td>0,00</td><td>39,00</td><td>80,32</td><td>87,45</td><td>80,32</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,00</td><td>79,05</td><td>39,00</td><td>0,00</td><td>39,00</td><td>97,54</td><td>88,14</td><td>97,54</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,09</td><td>69,09</td><td>39,00</td><td>0,00</td><td>39,00</td><td>80,73</td><td>88,65</td><td>80,73</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,13</td><td>52,31</td><td>39,00</td><td>0,00</td><td>39,00</td><td>65,36</td><td>88,88</td><td>65,36</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,16</td><td>49,07</td><td>39,00</td><td>0,00</td><td>39,00</td><td>56,23</td><td>89,05</td><td>56,23</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,19</td><td>49,19</td><td>39,00</td><td>0,00</td><td>39,00</td><td>50,20</td><td>89,23</td><td>50,20</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,19</td><td>39,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>43,72</td><td>89,23</td><td>43,72</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,17</td><td>33,17</td><td>40,00</td><td>0,00</td><td>40,00</td><td>38,71</td><td>89,11</td><td>38,71</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,15</td><td>32,29</td><td>39,00</td><td>0,00</td><td>39,00</td><td>40,70</td><td>88,99</td><td>40,70</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,15</td><td>39,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>43,32</td><td>88,99</td><td>43,32</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,15</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>41,49</td><td>88,99</td><td>41,49</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,12</td><td>27,93</td><td>38,00</td><td>0,00</td><td>38,00</td><td>38,28</td><td>88,82</td><td>38,28</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,10</td><td>31,40</td><td>38,00</td><td>0,00</td><td>38,00</td><td>34,38</td><td>88,71</td><td>34,38</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,07</td><td>27,93</td><td>38,00</td><td>0,00</td><td>38,00</td><td>37,14</td><td>88,54</td><td>37,14</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,07</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>36,12</td><td>88,54</td><td>36,12</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,04</td><td>27,93</td><td>38,00</td><td>0,00</td><td>38,00</td><td>37,17</td><td>88,36</td><td>37,17</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,01</td><td>27,93</td><td>38,00</td><td>0,00</td><td>38,00</td><td>34,55</td><td>88,19</td><td>34,55</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,98</td><td>28,05</td><td>38,00</td><td>0,00</td><td>38,00</td><td>36,46</td><td>88,02</td><td>36,46</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,97</td><td>34,64</td><td>38,00</td><td>0,00</td><td>38,00</td><td>38,29</td><td>87,96</td><td>38,29</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,97</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>42,86</td><td>87,96</td><td>42,86</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,99</td><td>40,71</td><td>34,00</td><td>0,00</td><td>34,00</td><td>47,58</td><td>88,08</td><td>47,58</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,05</td><td>58,02</td><td>38,00</td><td>0,00</td><td>38,00</td><td>50,40</td><td>88,42</td><td>50,40</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,07</td><td>45,71</td><td>39,00</td><td>0,00</td><td>39,00</td><td>49,79</td><td>88,54</td><td>49,79</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,07</td><td>39,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>48,41</td><td>88,54</td><td>48,41</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,10</td><td>49,07</td><td>39,00</td><td>0,00</td><td>39,00</td><td>48,93</td><td>88,71</td><td>48,93</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,13</td><td>48,95</td><td>39,00</td><td>0,00</td><td>39,00</td><td>48,45</td><td>88,88</td><td>48,45</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,13</td><td>35,00</td><td>35,00</td><td>0,00</td><td>35,00</td><td>44,33</td><td>88,88</td><td>44,33</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,13</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>40,56</td><td>88,88</td><td>40,56</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,14</td><td>37,36</td><td>34,00</td><td>0,00</td><td>34,00</td><td>38,98</td><td>88,94</td><td>38,98</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,13</td><td>34,64</td><td>38,00</td><td>0,00</td><td>38,00</td><td>37,68</td><td>88,88</td><td>37,68</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,09</td><td>25,69</td><td>39,00</td><td>0,00</td><td>39,00</td><td>36,36</td><td>88,65</td><td>36,36</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,07</td><td>32,29</td><td>39,00</td><td>0,00</td><td>39,00</td><td>34,08</td><td>88,54</td><td>34,08</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,03</td><td>25,57</td><td>39,00</td><td>0,00</td><td>39,00</td><td>33,59</td><td>88,31</td><td>33,59</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,01</td><td>27,29</td><td>34,00</td><td>0,00</td><td>34,00</td><td>34,52</td><td>88,19</td><td>34,52</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,01</td><td>37,00</td><td>37,00</td><td>0,00</td><td>37,00</td><td>36,11</td><td>88,19</td><td>36,11</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>853,00</td><td>30,76</td><td>34,00</td><td>0,00</td><td>34,00</td><td>36,56</td><td>88,14</td><td>36,56</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,98</td><td>31,29</td><td>38,00</td><td>0,00</td><td>38,00</td><td>35,75</td><td>88,02</td><td>35,75</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,96</td><td>32,29</td><td>39,00</td><td>0,00</td><td>39,00</td><td>37,55</td><td>87,90</td><td>37,55</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,95</td><td>35,64</td><td>39,00</td><td>0,00</td><td>39,00</td><td>38,47</td><td>87,85</td><td>38,47</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,92</td><td>30,05</td><td>40,00</td><td>0,00</td><td>40,00</td><td>38,87</td><td>87,68</td><td>38,87</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,89</td><td>31,05</td><td>41,00</td><td>0,00</td><td>41,00</td><td>37,58</td><td>87,51</td><td>37,58</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,86</td><td>29,05</td><td>39,00</td><td>0,00</td><td>39,00</td><td>35,73</td><td>87,34</td><td>35,73</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,80</td><td>20,09</td><td>40,00</td><td>0,00</td><td>40,00</td><td>34,41</td><td>86,99</td><td>34,41</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,76</td><td>25,69</td><td>39,00</td><td>0,00</td><td>39,00</td><td>32,72</td><td>86,77</td><td>32,72</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,68</td><td>20,61</td><td>47,00</td><td>0,00</td><td>47,00</td><td>31,81</td><td>86,31</td><td>31,81</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,64</td><td>25,81</td><td>39,00</td><td>0,00</td><td>39,00</td><td>31,58</td><td>86,09</td><td>31,58</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,59</td><td>23,45</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,57</td><td>85,80</td><td>32,57</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,54</td><td>22,68</td><td>39,00</td><td>0,00</td><td>39,00</td><td>36,28</td><td>85,52</td><td>36,28</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,52</td><td>32,40</td><td>39,00</td><td>0,00</td><td>39,00</td><td>37,66</td><td>85,41</td><td>37,66</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,50</td><td>31,40</td><td>38,00</td><td>0,00</td><td>38,00</td><td>38,20</td><td>85,30</td><td>38,20</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,48</td><td>32,52</td><td>39,00</td><td>0,00</td><td>39,00</td><td>36,80</td><td>85,19</td><td>36,80</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,44</td><td>26,81</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,88</td><td>84,96</td><td>35,88</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,40</td><td>26,92</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,40</td><td>84,74</td><td>35,40</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,37</td><td>30,28</td><td>40,00</td><td>0,00</td><td>40,00</td><td>33,29</td><td>84,57</td><td>33,29</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,32</td><td>23,68</td><td>40,00</td><td>0,00</td><td>40,00</td><td>30,63</td><td>84,29</td><td>30,63</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,26</td><td>20,44</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,53</td><td>83,96</td><td>27,53</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,20</td><td>20,56</td><td>40,00</td><td>0,00</td><td>40,00</td><td>27,64</td><td>83,62</td><td>27,64</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,15</td><td>23,80</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,18</td><td>83,34</td><td>29,18</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,11</td><td>27,04</td><td>40,00</td><td>0,00</td><td>40,00</td><td>30,78</td><td>83,12</td><td>30,78</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,08</td><td>31,39</td><td>41,00</td><td>5,00</td><td>36,00</td><td>32,76</td><td>82,96</td><td>32,76</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,07</td><td>36,76</td><td>40,00</td><td>0,00</td><td>40,00</td><td>37,13</td><td>82,90</td><td>37,13</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,08</td><td>43,24</td><td>40,00</td><td>0,00</td><td>40,00</td><td>44,41</td><td>82,96</td><td>44,41</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,16</td><td>65,81</td><td>40,00</td><td>0,00</td><td>40,00</td><td>69,85</td><td>83,40</td><td>69,85</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,23</td><td>62,69</td><td>40,00</td><td>0,00</td><td>40,00</td><td>72,66</td><td>83,79</td><td>72,66</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,29</td><td>59,56</td><td>40,00</td><td>0,00</td><td>40,00</td><td>65,06</td><td>84,12</td><td>65,06</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,34</td><td>56,20</td><td>40,00</td><td>0,00</td><td>40,00</td><td>61,12</td><td>84,40</td><td>61,12</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,38</td><td>53,08</td><td>40,00</td><td>0,00</td><td>40,00</td><td>54,90</td><td>84,63</td><td>54,90</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,40</td><td>46,48</td><td>40,00</td><td>0,00</td><td>40,00</td><td>48,58</td><td>84,74</td><td>48,58</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,40</td><td>40,00</td><td>40,00</td><td>0,00</td><td>40,00</td><td>42,48</td><td>84,74</td><td>42,48</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,39</td><td>36,76</td><td>40,00</td><td>0,00</td><td>40,00</td><td>38,70</td><td>84,68</td><td>38,70</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,37</td><td>33,52</td><td>40,00</td><td>0,00</td><td>40,00</td><td>36,31</td><td>84,57</td><td>36,31</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,34</td><td>30,16</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,60</td><td>84,40</td><td>35,60</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,31</td><td>30,28</td><td>40,00</td><td>0,00</td><td>40,00</td><td>33,61</td><td>84,23</td><td>33,61</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,28</td><td>30,28</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,42</td><td>84,07</td><td>32,42</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,25</td><td>30,16</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,60</td><td>83,90</td><td>31,60</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,22</td><td>30,28</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,78</td><td>83,73</td><td>31,78</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,18</td><td>27,04</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,10</td><td>83,51</td><td>32,10</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,14</td><td>27,04</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,94</td><td>83,29</td><td>31,94</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,10</td><td>27,15</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,67</td><td>83,07</td><td>31,67</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,05</td><td>23,80</td><td>40,00</td><td>5,00</td><td>35,00</td><td>30,88</td><td>82,79</td><td>30,88</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>852,01</td><td>27,15</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,38</td><td>82,57</td><td>31,38</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,97</td><td>27,15</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,15</td><td>82,35</td><td>31,15</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,92</td><td>23,91</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,65</td><td>82,07</td><td>31,65</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,87</td><td>24,03</td><td>40,00</td><td>0,00</td><td>40,00</td><td>30,10</td><td>81,80</td><td>30,10</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,82</td><td>23,91</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,20</td><td>81,53</td><td>29,20</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,77</td><td>24,03</td><td>40,00</td><td>0,00</td><td>40,00</td><td>30,42</td><td>81,25</td><td>30,42</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,74</td><td>30,51</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,06</td><td>81,09</td><td>35,06</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,73</td><td>36,76</td><td>40,00</td><td>0,00</td><td>40,00</td><td>39,38</td><td>81,03</td><td>39,38</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,72</td><td>36,88</td><td>40,00</td><td>0,00</td><td>40,00</td><td>40,61</td><td>80,98</td><td>40,61</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,70</td><td>33,63</td><td>40,00</td><td>0,00</td><td>40,00</td><td>38,89</td><td>80,87</td><td>38,89</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,67</td><td>30,39</td><td>40,00</td><td>0,00</td><td>40,00</td><td>37,62</td><td>80,71</td><td>37,62</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,64</td><td>30,51</td><td>40,00</td><td>0,00</td><td>40,00</td><td>35,20</td><td>80,54</td><td>35,20</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,59</td><td>24,14</td><td>40,00</td><td>0,00</td><td>40,00</td><td>33,93</td><td>80,27</td><td>33,93</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,54</td><td>24,14</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,63</td><td>80,00</td><td>32,63</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,49</td><td>24,26</td><td>40,00</td><td>0,00</td><td>40,00</td><td>32,29</td><td>79,73</td><td>32,29</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,43</td><td>21,02</td><td>40,00</td><td>0,00</td><td>40,00</td><td>31,47</td><td>79,40</td><td>31,47</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,38</td><td>25,37</td><td>41,00</td><td>0,00</td><td>41,00</td><td>30,29</td><td>79,14</td><td>30,29</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,32</td><td>21,13</td><td>40,00</td><td>0,00</td><td>40,00</td><td>29,84</td><td>78,81</td><td>29,84</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,26</td><td>21,25</td><td>40,00</td><td>0,00</td><td>40,00</td><td>28,77</td><td>78,49</td><td>28,77</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,18</td><td>14,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>28,75</td><td>78,06</td><td>28,75</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,09</td><td>17,99</td><td>46,00</td><td>7,00</td><td>40,00</td><td>28,06</td><td>77,58</td><td>28,06</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>851,03</td><td>21,37</td><td>40,00</td><td>0,00</td><td>40,00</td><td>28,14</td><td>77,26</td><td>28,14</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,97</td><td>21,37</td><td>40,00</td><td>0,00</td><td>40,00</td><td>28,11</td><td>76,94</td><td>28,11</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,90</td><td>17,47</td><td>39,00</td><td>0,00</td><td>39,00</td><td>28,00</td><td>76,58</td><td>28,00</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,82</td><td>14,35</td><td>39,00</td><td>0,00</td><td>39,00</td><td>28,03</td><td>76,15</td><td>28,03</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,74</td><td>14,46</td><td>39,00</td><td>0,00</td><td>39,00</td><td>27,50</td><td>75,73</td><td>27,50</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,68</td><td>20,60</td><td>39,00</td><td>0,00</td><td>39,00</td><td>27,35</td><td>75,42</td><td>27,35</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,62</td><td>20,71</td><td>39,00</td><td>0,00</td><td>39,00</td><td>26,95</td><td>75,10</td><td>26,95</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,56</td><td>20,71</td><td>39,00</td><td>0,00</td><td>39,00</td><td>26,62</td><td>74,79</td><td>26,62</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,48</td><td>14,69</td><td>39,00</td><td>0,00</td><td>39,00</td><td>27,14</td><td>74,37</td><td>27,14</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,40</td><td>15,69</td><td>40,00</td><td>0,00</td><td>40,00</td><td>26,50</td><td>73,96</td><td>26,50</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,32</td><td>16,93</td><td>41,00</td><td>0,00</td><td>41,00</td><td>26,71</td><td>73,54</td><td>26,71</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,26</td><td>21,94</td><td>40,00</td><td>0,00</td><td>40,00</td><td>25,95</td><td>73,23</td><td>25,95</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,19</td><td>18,94</td><td>40,00</td><td>0,00</td><td>40,00</td><td>26,73</td><td>72,87</td><td>26,73</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,12</td><td>19,00</td><td>40,00</td><td>0,00</td><td>40,00</td><td>20,36</td><td>72,51</td><td>20,36</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>850,04</td><td>16,00</td><td>40,00</td><td>0,00</td><td>40,00</td><td>20,36</td><td>72,11</td><td>20,36</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,97</td><td>19,05</td><td>40,00</td><td>0,00</td><td>40,00</td><td>24,78</td><td>71,75</td><td>24,78</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,90</td><td>18,28</td><td>39,00</td><td>0,00</td><td>39,00</td><td>25,04</td><td>71,39</td><td>25,04</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,83</td><td>17,28</td><td>38,00</td><td>0,00</td><td>38,00</td><td>24,44</td><td>71,04</td><td>24,44</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,76</td><td>16,28</td><td>37,00</td><td>0,00</td><td>37,00</td><td>23,32</td><td>70,68</td><td>23,32</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,69</td><td>16,40</td><td>37,00</td><td>0,00</td><td>37,00</td><td>22,69</td><td>70,33</td><td>22,69</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,62</td><td>16,51</td><td>37,00</td><td>0,00</td><td>37,00</td><td>22,72</td><td>69,98</td><td>22,72</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,55</td><td>17,51</td><td>38,00</td><td>0,00</td><td>38,00</td><td>23,04</td><td>69,63</td><td>23,04</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,48</td><td>19,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>19,77</td><td>69,28</td><td>19,77</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,40</td><td>15,74</td><td>39,00</td><td>0,00</td><td>39,00</td><td>23,45</td><td>68,88</td><td>23,45</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,31</td><td>12,96</td><td>39,00</td><td>0,00</td><td>39,00</td><td>23,18</td><td>68,43</td><td>23,18</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,23</td><td>15,85</td><td>39,00</td><td>0,00</td><td>39,00</td><td>22,51</td><td>68,03</td><td>22,51</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,15</td><td>15,97</td><td>39,00</td><td>0,00</td><td>39,00</td><td>22,88</td><td>67,64</td><td>22,88</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,08</td><td>18,86</td><td>39,00</td><td>0,00</td><td>39,00</td><td>22,55</td><td>67,29</td><td>22,55</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>849,00</td><td>16,08</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,99</td><td>66,90</td><td>21,99</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,92</td><td>16,20</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,79</td><td>66,51</td><td>21,79</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,84</td><td>16,20</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,62</td><td>66,12</td><td>21,62</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,76</td><td>16,31</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,41</td><td>65,73</td><td>21,41</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,68</td><td>16,43</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,35</td><td>65,34</td><td>21,35</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,60</td><td>16,43</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,42</td><td>64,96</td><td>21,42</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,52</td><td>16,55</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,47</td><td>64,57</td><td>21,47</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,44</td><td>16,66</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,39</td><td>64,19</td><td>21,39</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,36</td><td>16,66</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,30</td><td>63,81</td><td>21,30</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,28</td><td>16,78</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,11</td><td>63,43</td><td>21,11</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,20</td><td>16,89</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,29</td><td>63,05</td><td>21,29</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,12</td><td>16,89</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,45</td><td>62,67</td><td>21,45</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>848,04</td><td>17,01</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,23</td><td>62,29</td><td>21,23</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,95</td><td>14,23</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,45</td><td>61,87</td><td>21,45</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,87</td><td>17,24</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,29</td><td>61,49</td><td>21,29</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,76</td><td>15,02</td><td>45,00</td><td>0,00</td><td>45,00</td><td>21,86</td><td>60,98</td><td>21,86</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,63</td><td>15,81</td><td>51,00</td><td>0,00</td><td>51,00</td><td>21,55</td><td>60,38</td><td>21,55</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,50</td><td>17,05</td><td>52,00</td><td>0,00</td><td>52,00</td><td>21,33</td><td>59,78</td><td>21,33</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,38</td><td>15,82</td><td>48,00</td><td>0,00</td><td>48,00</td><td>21,59</td><td>59,23</td><td>21,59</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,24</td><td>16,73</td><td>54,00</td><td>0,00</td><td>54,00</td><td>21,69</td><td>58,59</td><td>21,69</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>847,12</td><td>18,29</td><td>50,00</td><td>0,00</td><td>50,00</td><td>22,32</td><td>58,04</td><td>22,32</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,98</td><td>18,08</td><td>55,00</td><td>0,00</td><td>55,00</td><td>22,82</td><td>57,41</td><td>22,82</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,86</td><td>23,63</td><td>55,00</td><td>0,00</td><td>55,00</td><td>23,37</td><td>56,87</td><td>23,37</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,73</td><td>21,20</td><td>55,00</td><td>0,00</td><td>55,00</td><td>23,52</td><td>56,29</td><td>23,52</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,60</td><td>21,32</td><td>55,00</td><td>0,00</td><td>55,00</td><td>23,97</td><td>55,72</td><td>23,97</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,52</td><td>21,40</td><td>42,00</td><td>0,00</td><td>42,00</td><td>26,18</td><td>55,36</td><td>26,18</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,41</td><td>22,87</td><td>51,00</td><td>0,00</td><td>51,00</td><td>27,14</td><td>54,88</td><td>27,14</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,28</td><td>21,78</td><td>55,00</td><td>0,00</td><td>55,00</td><td>26,67</td><td>54,31</td><td>26,67</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,15</td><td>22,13</td><td>55,00</td><td>0,00</td><td>55,00</td><td>24,33</td><td>53,75</td><td>24,33</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>846,02</td><td>21,25</td><td>54,00</td><td>0,00</td><td>54,00</td><td>23,45</td><td>53,19</td><td>23,45</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,89</td><td>22,36</td><td>55,00</td><td>0,00</td><td>55,00</td><td>22,43</td><td>52,63</td><td>22,43</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,75</td><td>20,16</td><td>55,00</td><td>0,00</td><td>55,00</td><td>22,76</td><td>52,03</td><td>22,76</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,67</td><td>20,21</td><td>40,00</td><td>0,00</td><td>40,00</td><td>21,77</td><td>51,69</td><td>21,77</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,54</td><td>18,94</td><td>51,00</td><td>0,00</td><td>51,00</td><td>22,26</td><td>51,14</td><td>22,26</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,40</td><td>20,74</td><td>55,00</td><td>0,00</td><td>55,00</td><td>21,77</td><td>50,55</td><td>21,77</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,26</td><td>20,97</td><td>55,00</td><td>0,00</td><td>55,00</td><td>22,34</td><td>49,97</td><td>22,34</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>845,11</td><td>18,77</td><td>55,00</td><td>0,00</td><td>55,00</td><td>21,92</td><td>49,35</td><td>21,92</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,96</td><td>19,00</td><td>55,00</td><td>0,00</td><td>55,00</td><td>21,07</td><td>48,73</td><td>21,07</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,80</td><td>16,92</td><td>55,00</td><td>0,00</td><td>55,00</td><td>20,25</td><td>48,08</td><td>20,25</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,71</td><td>17,70</td><td>39,00</td><td>0,00</td><td>39,00</td><td>19,37</td><td>47,72</td><td>19,37</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,59</td><td>17,76</td><td>46,00</td><td>0,00</td><td>46,00</td><td>19,60</td><td>47,23</td><td>19,60</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,44</td><td>14,93</td><td>50,00</td><td>0,00</td><td>50,00</td><td>19,65</td><td>46,63</td><td>19,65</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,30</td><td>15,48</td><td>48,00</td><td>0,00</td><td>48,00</td><td>19,63</td><td>46,07</td><td>19,63</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,22</td><td>15,48</td><td>34,00</td><td>0,00</td><td>34,00</td><td>18,55</td><td>45,76</td><td>18,55</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>844,11</td><td>17,65</td><td>43,00</td><td>0,00</td><td>43,00</td><td>17,95</td><td>45,32</td><td>17,95</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,97</td><td>15,06</td><td>47,00</td><td>0,00</td><td>47,00</td><td>17,61</td><td>44,77</td><td>17,61</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,90</td><td>18,03</td><td>34,00</td><td>0,00</td><td>34,00</td><td>17,79</td><td>44,50</td><td>17,79</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,82</td><td>15,94</td><td>34,00</td><td>0,00</td><td>34,00</td><td>17,44</td><td>44,19</td><td>17,44</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,74</td><td>15,94</td><td>34,00</td><td>0,00</td><td>34,00</td><td>17,14</td><td>43,88</td><td>17,14</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,66</td><td>15,94</td><td>34,00</td><td>0,00</td><td>34,00</td><td>16,10</td><td>43,57</td><td>16,10</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,57</td><td>13,86</td><td>34,00</td><td>0,00</td><td>34,00</td><td>15,55</td><td>43,23</td><td>15,55</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,48</td><td>13,98</td><td>34,00</td><td>0,00</td><td>34,00</td><td>15,52</td><td>42,88</td><td>15,52</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,40</td><td>16,29</td><td>34,00</td><td>0,00</td><td>34,00</td><td>16,09</td><td>42,58</td><td>16,09</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,32</td><td>15,29</td><td>33,00</td><td>0,00</td><td>33,00</td><td>16,02</td><td>42,28</td><td>16,02</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,23</td><td>12,21</td><td>32,00</td><td>0,00</td><td>32,00</td><td>15,57</td><td>41,94</td><td>15,57</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,14</td><td>12,32</td><td>32,00</td><td>0,00</td><td>32,00</td><td>15,08</td><td>41,60</td><td>15,08</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>843,05</td><td>12,32</td><td>32,00</td><td>0,00</td><td>32,00</td><td>14,69</td><td>41,26</td><td>14,69</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,95</td><td>10,36</td><td>32,00</td><td>0,00</td><td>32,00</td><td>14,17</td><td>40,89</td><td>14,17</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,85</td><td>10,47</td><td>32,00</td><td>0,00</td><td>32,00</td><td>13,72</td><td>40,52</td><td>13,72</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,75</td><td>10,47</td><td>32,00</td><td>0,00</td><td>32,00</td><td>13,83</td><td>40,15</td><td>13,83</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,65</td><td>10,70</td><td>32,00</td><td>0,00</td><td>32,00</td><td>13,88</td><td>39,79</td><td>13,88</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,55</td><td>10,70</td><td>32,00</td><td>0,00</td><td>32,00</td><td>14,12</td><td>39,42</td><td>14,12</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,44</td><td>9,74</td><td>33,00</td><td>0,00</td><td>33,00</td><td>14,27</td><td>39,02</td><td>14,27</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,33</td><td>9,97</td><td>33,00</td><td>0,00</td><td>33,00</td><td>14,68</td><td>38,63</td><td>14,68</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,22</td><td>11,97</td><td>35,00</td><td>0,00</td><td>35,00</td><td>14,98</td><td>38,24</td><td>14,98</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,10</td><td>12,12</td><td>37,00</td><td>0,00</td><td>37,00</td><td>16,77</td><td>37,81</td><td>16,77</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>842,02</td><td>16,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>19,73</td><td>37,53</td><td>19,73</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,96</td><td>20,62</td><td>33,00</td><td>0,00</td><td>33,00</td><td>24,11</td><td>37,31</td><td>24,11</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,94</td><td>28,95</td><td>33,00</td><td>0,00</td><td>33,00</td><td>26,62</td><td>37,25</td><td>26,62</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,86</td><td>28,56</td><td>45,00</td><td>0,00</td><td>45,00</td><td>27,78</td><td>36,96</td><td>27,78</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,73</td><td>26,61</td><td>53,00</td><td>0,00</td><td>53,00</td><td>26,40</td><td>36,51</td><td>26,40</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,58</td><td>24,68</td><td>55,00</td><td>0,00</td><td>55,00</td><td>23,94</td><td>35,99</td><td>23,94</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,40</td><td>21,00</td><td>57,00</td><td>0,00</td><td>57,00</td><td>20,55</td><td>35,37</td><td>20,55</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,20</td><td>16,42</td><td>56,00</td><td>0,00</td><td>56,00</td><td>17,70</td><td>34,70</td><td>17,70</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>841,08</td><td>14,50</td><td>38,00</td><td>0,00</td><td>38,00</td><td>16,10</td><td>34,29</td><td>16,10</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,90</td><td>14,05</td><td>49,00</td><td>0,00</td><td>49,00</td><td>15,90</td><td>33,69</td><td>15,90</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,68</td><td>13,75</td><td>56,00</td><td>0,00</td><td>56,00</td><td>15,90</td><td>32,97</td><td>15,90</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,52</td><td>13,56</td><td>44,00</td><td>0,00</td><td>44,00</td><td>17,36</td><td>32,45</td><td>17,36</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,41</td><td>13,28</td><td>34,00</td><td>0,00</td><td>34,00</td><td>16,75</td><td>32,09</td><td>16,75</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,26</td><td>12,99</td><td>41,00</td><td>0,00</td><td>41,00</td><td>16,35</td><td>31,61</td><td>16,35</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>840,10</td><td>12,37</td><td>42,00</td><td>0,00</td><td>42,00</td><td>14,18</td><td>31,11</td><td>14,18</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,97</td><td>10,16</td><td>34,00</td><td>0,00</td><td>34,00</td><td>13,58</td><td>30,70</td><td>13,58</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,81</td><td>11,83</td><td>41,00</td><td>0,00</td><td>41,00</td><td>12,85</td><td>30,20</td><td>12,85</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,64</td><td>10,33</td><td>41,00</td><td>0,00</td><td>41,00</td><td>13,01</td><td>29,67</td><td>13,01</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,52</td><td>10,47</td><td>32,00</td><td>0,00</td><td>32,00</td><td>13,04</td><td>29,30</td><td>13,04</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,40</td><td>11,70</td><td>33,00</td><td>0,00</td><td>33,00</td><td>13,16</td><td>28,94</td><td>13,16</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,28</td><td>11,82</td><td>33,00</td><td>0,00</td><td>33,00</td><td>12,38</td><td>28,57</td><td>12,38</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,15</td><td>10,20</td><td>33,00</td><td>0,00</td><td>33,00</td><td>12,68</td><td>28,18</td><td>12,68</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,03</td><td>12,17</td><td>33,00</td><td>0,00</td><td>33,00</td><td>12,24</td><td>27,83</td><td>12,24</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,89</td><td>8,81</td><td>33,00</td><td>0,00</td><td>33,00</td><td>12,60</td><td>27,41</td><td>12,60</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,75</td><td>9,04</td><td>33,00</td><td>0,00</td><td>33,00</td><td>12,11</td><td>27,00</td><td>12,11</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,62</td><td>9,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>12,97</td><td>26,62</td><td>12,97</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,51</td><td>13,48</td><td>32,00</td><td>0,00</td><td>32,00</td><td>12,83</td><td>26,30</td><td>12,83</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,38</td><td>10,24</td><td>32,00</td><td>0,00</td><td>32,00</td><td>13,83</td><td>25,93</td><td>13,83</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,27</td><td>13,71</td><td>32,00</td><td>0,00</td><td>32,00</td><td>16,97</td><td>25,62</td><td>16,97</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,23</td><td>25,29</td><td>32,00</td><td>0,00</td><td>32,00</td><td>20,82</td><td>25,50</td><td>20,82</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,16</td><td>21,54</td><td>33,00</td><td>0,00</td><td>33,00</td><td>23,46</td><td>25,31</td><td>23,46</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,09</td><td>22,43</td><td>34,00</td><td>0,00</td><td>34,00</td><td>22,38</td><td>25,11</td><td>22,38</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,00</td><td>17,30</td><td>32,00</td><td>0,00</td><td>32,00</td><td>20,44</td><td>24,86</td><td>20,44</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,90</td><td>15,80</td><td>32,00</td><td>0,00</td><td>32,00</td><td>18,41</td><td>24,58</td><td>18,41</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,79</td><td>14,29</td><td>32,00</td><td>0,00</td><td>32,00</td><td>17,07</td><td>24,28</td><td>17,07</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,67</td><td>12,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>16,69</td><td>23,94</td><td>16,69</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,55</td><td>13,02</td><td>32,00</td><td>0,00</td><td>32,00</td><td>16,56</td><td>23,62</td><td>16,56</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,43</td><td>14,02</td><td>33,00</td><td>0,00</td><td>33,00</td><td>17,29</td><td>23,29</td><td>17,29</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,32</td><td>15,75</td><td>33,00</td><td>0,00</td><td>33,00</td><td>17,87</td><td>23,00</td><td>17,87</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,19</td><td>12,86</td><td>33,00</td><td>0,00</td><td>33,00</td><td>17,86</td><td>22,65</td><td>17,86</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,05</td><td>11,36</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,59</td><td>22,28</td><td>18,59</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,95</td><td>17,72</td><td>33,00</td><td>0,00</td><td>33,00</td><td>20,51</td><td>22,02</td><td>20,51</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,87</td><td>20,85</td><td>33,00</td><td>0,00</td><td>33,00</td><td>24,39</td><td>21,81</td><td>24,39</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,79</td><td>20,96</td><td>33,00</td><td>0,00</td><td>33,00</td><td>27,78</td><td>21,61</td><td>27,78</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,74</td><td>25,48</td><td>33,00</td><td>0,00</td><td>33,00</td><td>28,18</td><td>21,48</td><td>28,18</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,66</td><td>20,96</td><td>33,00</td><td>0,00</td><td>33,00</td><td>25,57</td><td>21,27</td><td>25,57</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,54</td><td>15,18</td><td>33,00</td><td>0,00</td><td>33,00</td><td>21,42</td><td>20,96</td><td>21,42</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,40</td><td>12,40</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,84</td><td>20,61</td><td>18,84</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,23</td><td>9,23</td><td>34,00</td><td>0,00</td><td>34,00</td><td>18,97</td><td>20,19</td><td>18,97</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,11</td><td>15,64</td><td>33,00</td><td>0,00</td><td>33,00</td><td>19,63</td><td>19,89</td><td>19,63</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,97</td><td>12,98</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,17</td><td>19,55</td><td>34,17</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,03</td><td>41,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>41,15</td><td>19,69</td><td>41,15</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,03</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>42,08</td><td>19,69</td><td>42,08</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,23</td><td>61,82</td><td>33,00</td><td>0,00</td><td>33,00</td><td>76,51</td><td>20,19</td><td>76,51</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,50</td><td>72,47</td><td>33,00</td><td>0,00</td><td>33,00</td><td>79,23</td><td>20,86</td><td>79,23</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,64</td><td>53,83</td><td>33,00</td><td>0,00</td><td>33,00</td><td>57,37</td><td>21,22</td><td>57,37</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,74</td><td>47,93</td><td>33,00</td><td>0,00</td><td>33,00</td><td>51,43</td><td>21,48</td><td>51,43</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,77</td><td>37,51</td><td>33,00</td><td>0,00</td><td>33,00</td><td>43,93</td><td>21,55</td><td>43,93</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,74</td><td>28,49</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,85</td><td>21,48</td><td>37,85</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,68</td><td>23,97</td><td>33,00</td><td>0,00</td><td>33,00</td><td>32,74</td><td>21,32</td><td>32,74</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,61</td><td>22,58</td><td>33,00</td><td>0,00</td><td>33,00</td><td>30,40</td><td>21,14</td><td>30,40</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,55</td><td>24,09</td><td>33,00</td><td>0,00</td><td>33,00</td><td>31,23</td><td>20,99</td><td>31,23</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,55</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,26</td><td>20,99</td><td>34,26</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,57</td><td>36,01</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,60</td><td>21,04</td><td>37,60</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,58</td><td>34,39</td><td>33,00</td><td>0,00</td><td>33,00</td><td>38,89</td><td>21,07</td><td>38,89</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,58</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,80</td><td>21,07</td><td>37,80</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,57</td><td>31,61</td><td>33,00</td><td>0,00</td><td>33,00</td><td>36,57</td><td>21,04</td><td>36,57</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,54</td><td>28,49</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,75</td><td>20,96</td><td>34,75</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,50</td><td>27,10</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,07</td><td>20,86</td><td>34,07</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,49</td><td>31,50</td><td>33,00</td><td>0,00</td><td>33,00</td><td>33,76</td><td>20,84</td><td>33,76</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,49</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>31,60</td><td>20,84</td><td>31,60</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,43</td><td>24,20</td><td>33,00</td><td>0,00</td><td>33,00</td><td>28,00</td><td>20,69</td><td>28,00</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,36</td><td>22,70</td><td>33,00</td><td>0,00</td><td>33,00</td><td>23,71</td><td>20,51</td><td>23,71</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,26</td><td>18,42</td><td>33,00</td><td>0,00</td><td>33,00</td><td>21,84</td><td>20,26</td><td>21,84</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,17</td><td>20,04</td><td>33,00</td><td>0,00</td><td>33,00</td><td>19,72</td><td>20,04</td><td>19,72</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,05</td><td>15,75</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,67</td><td>19,74</td><td>18,67</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,92</td><td>14,37</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,19</td><td>19,42</td><td>18,19</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,79</td><td>14,71</td><td>33,00</td><td>0,00</td><td>33,00</td><td>19,07</td><td>19,11</td><td>19,07</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,66</td><td>14,83</td><td>33,00</td><td>0,00</td><td>33,00</td><td>20,18</td><td>18,80</td><td>20,18</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,53</td><td>14,94</td><td>33,00</td><td>0,00</td><td>33,00</td><td>21,64</td><td>18,49</td><td>21,64</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,43</td><td>20,23</td><td>34,00</td><td>0,00</td><td>34,00</td><td>22,79</td><td>18,25</td><td>22,79</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,32</td><td>18,07</td><td>33,00</td><td>0,00</td><td>33,00</td><td>20,95</td><td>18,00</td><td>20,95</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,17</td><td>12,75</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,80</td><td>17,65</td><td>18,80</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,03</td><td>14,25</td><td>33,00</td><td>0,00</td><td>33,00</td><td>16,99</td><td>17,33</td><td>16,99</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,88</td><td>13,44</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,46</td><td>16,99</td><td>18,46</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,76</td><td>17,14</td><td>33,00</td><td>0,00</td><td>33,00</td><td>18,24</td><td>16,72</td><td>18,24</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,60</td><td>13,17</td><td>34,00</td><td>0,00</td><td>34,00</td><td>18,21</td><td>16,36</td><td>18,21</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,47</td><td>17,22</td><td>34,00</td><td>0,00</td><td>34,00</td><td>19,68</td><td>16,08</td><td>19,68</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,40</td><td>24,97</td><td>34,00</td><td>0,00</td><td>34,00</td><td>22,51</td><td>15,92</td><td>22,51</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,34</td><td>26,36</td><td>34,00</td><td>0,00</td><td>34,00</td><td>27,00</td><td>15,79</td><td>27,00</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,32</td><td>31,45</td><td>34,00</td><td>0,00</td><td>34,00</td><td>34,94</td><td>15,75</td><td>34,94</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,36</td><td>38,09</td><td>33,00</td><td>0,00</td><td>33,00</td><td>47,65</td><td>15,83</td><td>47,65</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,63</td><td>68,84</td><td>34,00</td><td>0,00</td><td>34,00</td><td>74,37</td><td>16,43</td><td>74,37</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>834,91</td><td>69,69</td><td>33,00</td><td>0,00</td><td>33,00</td><td>74,00</td><td>17,06</td><td>74,00</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,04</td><td>51,01</td><td>34,00</td><td>0,00</td><td>34,00</td><td>62,71</td><td>17,35</td><td>62,71</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,11</td><td>42,26</td><td>33,00</td><td>0,00</td><td>33,00</td><td>53,39</td><td>17,51</td><td>53,39</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,21</td><td>46,43</td><td>33,00</td><td>0,00</td><td>33,00</td><td>57,91</td><td>17,74</td><td>57,91</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,32</td><td>47,93</td><td>33,00</td><td>0,00</td><td>33,00</td><td>58,31</td><td>18,00</td><td>58,31</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,46</td><td>52,10</td><td>33,00</td><td>0,00</td><td>33,00</td><td>54,58</td><td>18,32</td><td>54,58</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>835,74</td><td>71,77</td><td>33,00</td><td>0,00</td><td>33,00</td><td>71,50</td><td>18,99</td><td>71,50</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,20</td><td>98,51</td><td>33,00</td><td>0,00</td><td>33,00</td><td>107,85</td><td>20,11</td><td>107,85</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>836,71</td><td>108,12</td><td>33,00</td><td>0,00</td><td>33,00</td><td>112,28</td><td>21,40</td><td>112,28</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,14</td><td>97,39</td><td>32,00</td><td>0,00</td><td>32,00</td><td>94,65</td><td>22,52</td><td>94,65</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,44</td><td>78,76</td><td>32,00</td><td>0,00</td><td>32,00</td><td>72,53</td><td>23,32</td><td>72,53</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,67</td><td>68,34</td><td>32,00</td><td>0,00</td><td>32,00</td><td>66,54</td><td>23,94</td><td>66,54</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>837,88</td><td>65,80</td><td>32,00</td><td>0,00</td><td>32,00</td><td>63,30</td><td>24,52</td><td>63,30</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,08</td><td>65,52</td><td>33,00</td><td>0,00</td><td>33,00</td><td>61,55</td><td>25,08</td><td>61,55</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,35</td><td>77,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>70,26</td><td>25,84</td><td>70,26</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,53</td><td>63,21</td><td>33,00</td><td>0,00</td><td>33,00</td><td>63,41</td><td>26,36</td><td>63,41</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,70</td><td>61,70</td><td>33,00</td><td>0,00</td><td>33,00</td><td>57,42</td><td>26,85</td><td>57,42</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,82</td><td>53,49</td><td>33,00</td><td>0,00</td><td>33,00</td><td>51,98</td><td>27,21</td><td>51,98</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,90</td><td>46,77</td><td>33,00</td><td>0,00</td><td>33,00</td><td>46,30</td><td>27,44</td><td>46,30</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>838,95</td><td>41,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>42,32</td><td>27,59</td><td>42,32</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,02</td><td>45,15</td><td>33,00</td><td>0,00</td><td>33,00</td><td>38,98</td><td>27,80</td><td>38,98</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,04</td><td>36,47</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,17</td><td>27,86</td><td>37,17</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,06</td><td>36,47</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,21</td><td>27,92</td><td>34,21</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,07</td><td>34,74</td><td>33,00</td><td>0,00</td><td>33,00</td><td>34,52</td><td>27,95</td><td>34,52</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,12</td><td>41,68</td><td>33,00</td><td>0,00</td><td>33,00</td><td>36,05</td><td>28,09</td><td>36,05</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,20</td><td>47,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,26</td><td>28,33</td><td>37,26</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,24</td><td>39,94</td><td>33,00</td><td>0,00</td><td>33,00</td><td>37,86</td><td>28,45</td><td>37,86</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,30</td><td>43,53</td><td>33,00</td><td>0,00</td><td>33,00</td><td>36,61</td><td>28,63</td><td>36,61</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,33</td><td>38,32</td><td>33,00</td><td>0,00</td><td>33,00</td><td>40,50</td><td>28,73</td><td>40,50</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,36</td><td>38,32</td><td>33,00</td><td>0,00</td><td>33,00</td><td>42,31</td><td>28,82</td><td>42,31</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,45</td><td>48,97</td><td>33,00</td><td>0,00</td><td>33,00</td><td>47,06</td><td>29,09</td><td>47,06</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>839,56</td><td>52,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>51,20</td><td>29,43</td><td>51,20</td><td> 01/02/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td> 02/02/2018</td>
+		</tr><tr>
+			<td>19011</td><td>CACONDE                                           </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td> 03/02/2018</td>
+		</tr>
+	</table>
+</div>

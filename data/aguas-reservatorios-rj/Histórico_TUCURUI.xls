@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,08</td><td>2681,91</td><td>2962,00</td><td>0,00</td><td>2962,00</td><td>2712,37</td><td>15,30</td><td>2712,37</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,06</td><td>2721,49</td><td>3001,00</td><td>0,00</td><td>3001,00</td><td>2822,41</td><td>15,24</td><td>2822,41</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,05</td><td>2952,53</td><td>3092,00</td><td>0,00</td><td>3092,00</td><td>2886,56</td><td>15,21</td><td>2886,56</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,03</td><td>2942,41</td><td>3221,00</td><td>0,00</td><td>3221,00</td><td>2891,51</td><td>15,15</td><td>2891,51</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,02</td><td>2973,00</td><td>3112,00</td><td>0,00</td><td>3112,00</td><td>2819,39</td><td>15,12</td><td>2819,39</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,00</td><td>2834,34</td><td>3112,00</td><td>0,00</td><td>3112,00</td><td>2690,55</td><td>15,06</td><td>2690,55</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,00</td><td>3185,00</td><td>3185,00</td><td>0,00</td><td>3185,00</td><td>2621,63</td><td>15,06</td><td>2621,63</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,06</td><td>4083,72</td><td>3249,00</td><td>0,00</td><td>3249,00</td><td>2689,63</td><td>15,24</td><td>2689,63</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,17</td><td>4624,91</td><td>3080,00</td><td>0,00</td><td>3080,00</td><td>2963,09</td><td>15,58</td><td>2963,09</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,28</td><td>4644,43</td><td>3081,00</td><td>0,00</td><td>3081,00</td><td>3428,40</td><td>15,93</td><td>3428,40</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,37</td><td>4387,82</td><td>3095,00</td><td>0,00</td><td>3095,00</td><td>3968,26</td><td>16,22</td><td>3968,26</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,43</td><td>4070,63</td><td>3202,00</td><td>0,00</td><td>3202,00</td><td>4469,04</td><td>16,41</td><td>4469,04</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,45</td><td>4446,74</td><td>4156,00</td><td>0,00</td><td>4156,00</td><td>4872,33</td><td>16,47</td><td>4872,33</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,55</td><td>5710,62</td><td>4248,00</td><td>0,00</td><td>4248,00</td><td>5113,74</td><td>16,80</td><td>5113,74</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,71</td><td>6727,49</td><td>4357,00</td><td>0,00</td><td>4357,00</td><td>5250,94</td><td>17,32</td><td>5250,94</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>58,97</td><td>7040,09</td><td>3110,00</td><td>0,00</td><td>3110,00</td><td>5421,76</td><td>18,19</td><td>5421,76</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>59,26</td><td>7708,10</td><td>3214,00</td><td>0,00</td><td>3214,00</td><td>5657,06</td><td>19,19</td><td>5657,06</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>59,57</td><td>8351,01</td><td>3423,00</td><td>0,00</td><td>3423,00</td><td>5946,98</td><td>20,28</td><td>5946,98</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>59,83</td><td>7779,70</td><td>3551,00</td><td>0,00</td><td>3551,00</td><td>6354,46</td><td>21,22</td><td>6354,46</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,08</td><td>7922,72</td><td>3777,00</td><td>0,00</td><td>3777,00</td><td>6824,29</td><td>22,14</td><td>6824,29</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,31</td><td>8211,60</td><td>4330,00</td><td>0,00</td><td>4330,00</td><td>7271,30</td><td>23,00</td><td>7271,30</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,49</td><td>7451,06</td><td>4369,00</td><td>0,00</td><td>4369,00</td><td>7696,81</td><td>23,68</td><td>7696,81</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,70</td><td>7202,21</td><td>3558,00</td><td>0,00</td><td>3558,00</td><td>8193,06</td><td>24,49</td><td>8193,06</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,92</td><td>7465,26</td><td>3592,00</td><td>0,00</td><td>3592,00</td><td>8787,77</td><td>25,35</td><td>8787,77</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,08</td><td>8291,08</td><td>5439,00</td><td>0,00</td><td>5439,00</td><td>9498,50</td><td>25,98</td><td>9498,50</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,41</td><td>9646,46</td><td>3671,00</td><td>0,00</td><td>3671,00</td><td>10555,34</td><td>27,30</td><td>10555,34</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,68</td><td>11689,13</td><td>6708,00</td><td>0,00</td><td>6708,00</td><td>11952,02</td><td>28,41</td><td>11952,02</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,03</td><td>13703,40</td><td>7124,00</td><td>0,00</td><td>7124,00</td><td>13244,60</td><td>29,87</td><td>13244,60</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,46</td><td>15125,37</td><td>6855,00</td><td>0,00</td><td>6855,00</td><td>14842,52</td><td>31,70</td><td>14842,52</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,89</td><td>16878,42</td><td>8404,00</td><td>0,00</td><td>8404,00</td><td>17133,36</td><td>33,58</td><td>17133,36</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,55</td><td>18335,55</td><td>4933,00</td><td>0,00</td><td>4933,00</td><td>19359,04</td><td>36,55</td><td>19359,04</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,08</td><td>18827,13</td><td>7710,00</td><td>0,00</td><td>7710,00</td><td>21017,53</td><td>39,01</td><td>21017,53</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,49</td><td>18469,14</td><td>9635,00</td><td>0,00</td><td>9635,00</td><td>22143,30</td><td>40,97</td><td>22143,30</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,82</td><td>17420,78</td><td>10143,00</td><td>0,00</td><td>10143,00</td><td>22194,89</td><td>42,58</td><td>22194,89</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,07</td><td>15392,12</td><td>9767,00</td><td>0,00</td><td>9767,00</td><td>21019,71</td><td>43,83</td><td>21019,71</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,29</td><td>14370,87</td><td>9374,00</td><td>0,00</td><td>9374,00</td><td>19417,20</td><td>44,94</td><td>19417,20</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,54</td><td>14364,41</td><td>8643,00</td><td>0,00</td><td>8643,00</td><td>18244,05</td><td>46,21</td><td>18244,05</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,95</td><td>14167,25</td><td>4661,00</td><td>0,00</td><td>4661,00</td><td>17588,50</td><td>48,31</td><td>17588,50</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,29</td><td>13339,17</td><td>5321,00</td><td>0,00</td><td>5321,00</td><td>16610,80</td><td>50,09</td><td>16610,80</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,55</td><td>11631,45</td><td>5409,00</td><td>0,00</td><td>5409,00</td><td>15412,96</td><td>51,47</td><td>15412,96</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,59</td><td>11149,70</td><td>10185,00</td><td>0,00</td><td>10185,00</td><td>14415,73</td><td>51,68</td><td>14415,73</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,66</td><td>11588,82</td><td>9896,00</td><td>0,00</td><td>9896,00</td><td>13680,68</td><td>52,06</td><td>13680,68</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,76</td><td>12077,94</td><td>9649,00</td><td>0,00</td><td>9649,00</td><td>13050,50</td><td>52,60</td><td>13050,50</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,85</td><td>12535,99</td><td>10339,00</td><td>0,00</td><td>10339,00</td><td>12662,60</td><td>53,08</td><td>12662,60</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,96</td><td>12114,31</td><td>9415,00</td><td>0,00</td><td>9415,00</td><td>12519,69</td><td>53,68</td><td>12519,69</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,98</td><td>11593,48</td><td>11101,00</td><td>0,00</td><td>11104,00</td><td>12437,18</td><td>53,79</td><td>12437,18</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,96</td><td>10915,52</td><td>11408,00</td><td>0,00</td><td>11408,00</td><td>12384,63</td><td>53,68</td><td>12384,63</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,93</td><td>10655,27</td><td>11393,00</td><td>0,00</td><td>11393,00</td><td>12392,92</td><td>53,52</td><td>12392,92</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,92</td><td>11169,40</td><td>11415,00</td><td>0,00</td><td>11415,00</td><td>12384,73</td><td>53,46</td><td>12384,73</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,92</td><td>11119,00</td><td>11119,00</td><td>0,00</td><td>11119,00</td><td>12289,18</td><td>53,46</td><td>12289,18</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,01</td><td>11674,51</td><td>9459,00</td><td>0,00</td><td>9459,00</td><td>12157,38</td><td>53,95</td><td>12157,38</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,18</td><td>12301,89</td><td>8088,00</td><td>0,00</td><td>8088,00</td><td>12002,28</td><td>54,89</td><td>12002,28</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,26</td><td>12030,18</td><td>10034,00</td><td>0,00</td><td>9070,00</td><td>11935,70</td><td>55,33</td><td>11935,70</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,26</td><td>11076,00</td><td>11076,00</td><td>0,00</td><td>11016,00</td><td>11663,63</td><td>55,33</td><td>11663,63</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,30</td><td>11640,39</td><td>10639,00</td><td>0,00</td><td>10639,00</td><td>11347,51</td><td>55,55</td><td>11347,51</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,33</td><td>11691,43</td><td>10939,00</td><td>0,00</td><td>10939,00</td><td>11239,30</td><td>55,72</td><td>11239,30</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,34</td><td>11382,04</td><td>11131,00</td><td>0,00</td><td>11131,00</td><td>11199,40</td><td>55,77</td><td>11199,40</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,35</td><td>11584,00</td><td>11333,00</td><td>0,00</td><td>11333,00</td><td>11127,90</td><td>55,83</td><td>11127,90</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,50</td><td>11551,00</td><td>7767,00</td><td>0,00</td><td>7767,00</td><td>11236,79</td><td>56,67</td><td>11236,79</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,55</td><td>11621,00</td><td>10353,00</td><td>0,00</td><td>10353,00</td><td>11374,44</td><td>56,95</td><td>11374,44</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,65</td><td>11249,00</td><td>8702,00</td><td>0,00</td><td>8702,00</td><td>11248,85</td><td>57,51</td><td>11248,85</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,75</td><td>11567,00</td><td>9006,00</td><td>0,00</td><td>9006,00</td><td>11235,36</td><td>58,08</td><td>11235,36</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,79</td><td>11200,00</td><td>10172,00</td><td>0,00</td><td>10172,00</td><td>11194,94</td><td>58,31</td><td>11194,94</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,83</td><td>11660,00</td><td>10629,00</td><td>0,00</td><td>10629,00</td><td>11265,29</td><td>58,54</td><td>11265,29</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,93</td><td>11458,00</td><td>8872,00</td><td>0,00</td><td>8872,00</td><td>11326,55</td><td>59,11</td><td>11326,55</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,06</td><td>11596,10</td><td>8213,00</td><td>0,00</td><td>8213,00</td><td>11581,85</td><td>59,86</td><td>11581,85</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,10</td><td>11573,83</td><td>10528,00</td><td>0,00</td><td>10528,00</td><td>11860,35</td><td>60,09</td><td>11860,35</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,12</td><td>11789,73</td><td>11266,00</td><td>0,00</td><td>11266,00</td><td>12296,09</td><td>60,21</td><td>12296,09</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,16</td><td>12055,19</td><td>11006,00</td><td>0,00</td><td>11006,00</td><td>12736,35</td><td>60,44</td><td>12736,35</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,25</td><td>12835,21</td><td>10466,00</td><td>0,00</td><td>10466,00</td><td>13287,73</td><td>60,97</td><td>13287,73</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,35</td><td>13762,30</td><td>11116,00</td><td>0,00</td><td>11116,00</td><td>13950,81</td><td>61,55</td><td>13950,81</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,61</td><td>14180,84</td><td>7232,00</td><td>0,00</td><td>7232,00</td><td>14542,50</td><td>63,09</td><td>14542,50</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,94</td><td>14687,24</td><td>5723,00</td><td>0,00</td><td>5723,00</td><td>15021,90</td><td>65,08</td><td>15021,90</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,15</td><td>14410,05</td><td>8620,00</td><td>0,00</td><td>8620,00</td><td>15269,83</td><td>66,36</td><td>15269,83</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,31</td><td>14068,60</td><td>9612,00</td><td>0,00</td><td>9612,00</td><td>15279,86</td><td>67,35</td><td>15279,86</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,48</td><td>13475,13</td><td>8697,00</td><td>0,00</td><td>8697,00</td><td>15038,29</td><td>68,41</td><td>15038,29</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,61</td><td>13008,91</td><td>9325,00</td><td>0,00</td><td>9325,00</td><td>14759,15</td><td>69,23</td><td>14759,15</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,70</td><td>12847,74</td><td>10282,00</td><td>0,00</td><td>10282,00</td><td>14414,68</td><td>69,80</td><td>14414,68</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,91</td><td>13179,42</td><td>7144,00</td><td>0,00</td><td>7144,00</td><td>14115,48</td><td>71,13</td><td>14115,48</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,15</td><td>13134,13</td><td>6153,00</td><td>0,00</td><td>6153,00</td><td>13892,75</td><td>72,68</td><td>13892,75</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,23</td><td>12807,76</td><td>10461,00</td><td>0,00</td><td>10461,00</td><td>13747,67</td><td>73,20</td><td>13747,67</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,25</td><td>12204,19</td><td>11616,00</td><td>0,00</td><td>11616,00</td><td>13649,34</td><td>73,33</td><td>13649,34</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,27</td><td>12030,89</td><td>11442,00</td><td>0,00</td><td>11442,00</td><td>13573,75</td><td>73,46</td><td>13573,75</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,38</td><td>12717,65</td><td>9468,00</td><td>0,00</td><td>9468,00</td><td>13546,67</td><td>74,18</td><td>13546,67</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,61</td><td>13553,40</td><td>6699,00</td><td>0,00</td><td>6699,00</td><td>13590,56</td><td>75,70</td><td>13590,56</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,80</td><td>13865,69</td><td>8143,00</td><td>0,00</td><td>8143,00</td><td>13665,16</td><td>76,97</td><td>13665,16</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,02</td><td>12992,40</td><td>6299,00</td><td>0,00</td><td>6299,00</td><td>13664,00</td><td>78,45</td><td>13664,00</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,11</td><td>12742,68</td><td>9984,00</td><td>0,00</td><td>9984,00</td><td>13606,72</td><td>79,06</td><td>13606,72</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,16</td><td>12486,73</td><td>10949,00</td><td>0,00</td><td>10949,00</td><td>13581,85</td><td>79,41</td><td>13581,85</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,22</td><td>12528,00</td><td>10678,00</td><td>0,00</td><td>10678,00</td><td>13560,86</td><td>79,82</td><td>13560,86</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,36</td><td>13744,69</td><td>9408,00</td><td>0,00</td><td>9408,00</td><td>13594,25</td><td>80,78</td><td>13594,25</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,48</td><td>14291,24</td><td>10552,00</td><td>0,00</td><td>10514,00</td><td>13700,61</td><td>81,61</td><td>13700,61</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,63</td><td>14809,20</td><td>10107,00</td><td>0,00</td><td>10107,00</td><td>13911,60</td><td>82,65</td><td>13911,60</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,80</td><td>14886,55</td><td>9520,00</td><td>0,00</td><td>9520,00</td><td>14079,18</td><td>83,84</td><td>14079,18</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,91</td><td>14591,17</td><td>11098,00</td><td>0,00</td><td>11980,00</td><td>14125,57</td><td>84,61</td><td>14125,57</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,96</td><td>13821,17</td><td>12228,00</td><td>0,00</td><td>12228,00</td><td>13977,80</td><td>84,96</td><td>13977,80</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,00</td><td>13778,85</td><td>12502,00</td><td>0,00</td><td>12502,00</td><td>13763,91</td><td>85,25</td><td>13763,91</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,04</td><td>13624,05</td><td>12345,00</td><td>0,00</td><td>12345,00</td><td>13434,38</td><td>85,53</td><td>13434,38</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,07</td><td>13044,65</td><td>12084,00</td><td>0,00</td><td>12084,00</td><td>13052,05</td><td>85,74</td><td>13052,05</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,11</td><td>12973,64</td><td>11691,00</td><td>0,00</td><td>11691,00</td><td>12795,98</td><td>86,03</td><td>12795,98</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,19</td><td>12603,53</td><td>10032,00</td><td>0,00</td><td>10032,00</td><td>12646,57</td><td>86,60</td><td>12646,57</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,22</td><td>11961,55</td><td>10995,00</td><td>0,00</td><td>10995,00</td><td>12545,99</td><td>86,81</td><td>12545,99</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,22</td><td>11361,00</td><td>11361,00</td><td>0,00</td><td>11361,00</td><td>12492,45</td><td>86,81</td><td>12492,45</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,24</td><td>11717,91</td><td>11073,00</td><td>0,00</td><td>11073,00</td><td>12512,85</td><td>86,96</td><td>12512,85</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,28</td><td>11895,55</td><td>10604,00</td><td>0,00</td><td>10604,00</td><td>12483,33</td><td>87,24</td><td>12483,33</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,31</td><td>11855,91</td><td>10886,00</td><td>0,00</td><td>10886,00</td><td>12467,81</td><td>87,46</td><td>12467,81</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,37</td><td>12075,40</td><td>10132,00</td><td>0,00</td><td>10132,00</td><td>12331,99</td><td>87,89</td><td>12331,99</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,53</td><td>12386,86</td><td>7182,00</td><td>0,00</td><td>7182,00</td><td>12149,86</td><td>89,04</td><td>12149,86</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,58</td><td>11243,22</td><td>9610,00</td><td>0,00</td><td>9610,00</td><td>11859,59</td><td>89,40</td><td>11859,59</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,60</td><td>10356,17</td><td>9702,00</td><td>0,00</td><td>9702,00</td><td>11424,92</td><td>89,55</td><td>11424,92</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,62</td><td>10587,75</td><td>9933,00</td><td>0,00</td><td>9933,00</td><td>10903,47</td><td>89,69</td><td>10903,47</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,70</td><td>10549,84</td><td>7926,00</td><td>0,00</td><td>7926,00</td><td>10398,90</td><td>90,27</td><td>10398,90</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,70</td><td>10579,00</td><td>10579,00</td><td>0,00</td><td>10579,00</td><td>9883,95</td><td>90,27</td><td>9883,95</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,72</td><td>9721,29</td><td>9064,00</td><td>0,00</td><td>9064,00</td><td>9321,07</td><td>90,42</td><td>9321,07</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,80</td><td>8619,03</td><td>5985,00</td><td>0,00</td><td>5985,00</td><td>8826,75</td><td>91,00</td><td>8826,75</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,74</td><td>8024,73</td><td>10001,00</td><td>0,00</td><td>10001,00</td><td>8395,79</td><td>90,57</td><td>8395,79</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,64</td><td>7462,32</td><td>10746,00</td><td>0,00</td><td>10746,00</td><td>7977,56</td><td>89,84</td><td>7977,56</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,59</td><td>8003,96</td><td>9641,00</td><td>0,00</td><td>9641,00</td><td>7660,17</td><td>89,48</td><td>7660,17</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,61</td><td>7896,40</td><td>7242,00</td><td>0,00</td><td>7242,00</td><td>7426,06</td><td>89,62</td><td>7426,06</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,66</td><td>7784,31</td><td>6146,00</td><td>0,00</td><td>6146,00</td><td>7278,19</td><td>89,98</td><td>7278,19</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,74</td><td>7530,01</td><td>4902,00</td><td>0,00</td><td>4902,00</td><td>7095,56</td><td>90,57</td><td>7095,56</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,83</td><td>7062,20</td><td>4096,00</td><td>0,00</td><td>4096,00</td><td>7037,55</td><td>91,22</td><td>7037,55</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,86</td><td>6370,09</td><td>5379,00</td><td>0,00</td><td>5379,00</td><td>6970,09</td><td>91,44</td><td>6970,09</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,90</td><td>6539,26</td><td>5216,00</td><td>0,00</td><td>5216,00</td><td>6992,95</td><td>91,74</td><td>6992,95</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,94</td><td>6541,35</td><td>5216,00</td><td>0,00</td><td>5216,00</td><td>6952,07</td><td>92,03</td><td>6952,07</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,97</td><td>6664,37</td><td>5669,00</td><td>0,00</td><td>5669,00</td><td>6948,11</td><td>92,25</td><td>6948,11</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,95</td><td>6332,23</td><td>6996,00</td><td>0,00</td><td>6996,00</td><td>6879,14</td><td>92,10</td><td>6879,14</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,98</td><td>6260,83</td><td>5265,00</td><td>0,00</td><td>5265,00</td><td>6765,83</td><td>92,32</td><td>6765,83</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,03</td><td>6266,15</td><td>4604,00</td><td>0,00</td><td>4604,00</td><td>6575,14</td><td>92,69</td><td>6575,14</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,03</td><td>6071,00</td><td>6071,00</td><td>0,00</td><td>6071,00</td><td>6416,41</td><td>92,69</td><td>6416,41</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,04</td><td>5881,87</td><td>5549,00</td><td>0,00</td><td>5549,00</td><td>6218,88</td><td>92,77</td><td>6218,88</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,04</td><td>5864,00</td><td>5864,00</td><td>0,00</td><td>5864,00</td><td>5982,06</td><td>92,77</td><td>5982,06</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,02</td><td>5561,49</td><td>6227,00</td><td>0,00</td><td>6227,00</td><td>5715,63</td><td>92,62</td><td>5715,63</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,91</td><td>5220,84</td><td>8872,00</td><td>0,00</td><td>8872,00</td><td>5463,67</td><td>91,81</td><td>5463,67</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,91</td><td>5202,00</td><td>5202,00</td><td>0,00</td><td>5202,00</td><td>5179,07</td><td>91,81</td><td>5179,07</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,93</td><td>5312,62</td><td>4650,00</td><td>0,00</td><td>4650,00</td><td>4985,54</td><td>91,96</td><td>4985,54</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,82</td><td>5000,81</td><td>8639,00</td><td>0,00</td><td>8639,00</td><td>4820,27</td><td>91,15</td><td>4820,27</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,69</td><td>4937,37</td><td>9217,00</td><td>0,00</td><td>9217,00</td><td>4719,45</td><td>90,20</td><td>4719,45</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,64</td><td>4886,84</td><td>6527,00</td><td>0,00</td><td>6527,00</td><td>4589,31</td><td>89,84</td><td>4589,31</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,64</td><td>5271,00</td><td>5271,00</td><td>0,00</td><td>5271,00</td><td>4518,75</td><td>89,84</td><td>4518,75</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,62</td><td>4669,79</td><td>5325,00</td><td>0,00</td><td>5325,00</td><td>4401,51</td><td>89,69</td><td>4401,51</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,61</td><td>4342,57</td><td>4670,00</td><td>0,00</td><td>4670,00</td><td>4286,87</td><td>89,62</td><td>4286,87</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,60</td><td>4266,69</td><td>4594,00</td><td>0,00</td><td>4594,00</td><td>4162,35</td><td>89,55</td><td>4162,35</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,55</td><td>4036,51</td><td>5671,00</td><td>0,00</td><td>5671,00</td><td>4133,79</td><td>89,19</td><td>4133,79</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,50</td><td>3980,75</td><td>5612,00</td><td>0,00</td><td>5612,00</td><td>4108,26</td><td>88,82</td><td>4108,26</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,49</td><td>4195,07</td><td>4521,00</td><td>0,00</td><td>4521,00</td><td>4084,53</td><td>88,75</td><td>4084,53</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,50</td><td>4201,93</td><td>3876,00</td><td>0,00</td><td>3876,00</td><td>4015,89</td><td>88,82</td><td>4015,89</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,48</td><td>4138,38</td><td>4790,00</td><td>0,00</td><td>4790,00</td><td>3942,57</td><td>88,68</td><td>3942,57</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,46</td><td>3740,84</td><td>4392,00</td><td>0,00</td><td>4392,00</td><td>3779,52</td><td>88,54</td><td>3779,52</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,45</td><td>3765,65</td><td>4091,00</td><td>0,00</td><td>4091,00</td><td>3649,40</td><td>88,46</td><td>3649,40</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,42</td><td>3470,65</td><td>4446,00</td><td>0,00</td><td>4446,00</td><td>3471,29</td><td>88,25</td><td>3471,29</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>3512,81</td><td>4487,00</td><td>0,00</td><td>4487,00</td><td>3344,18</td><td>88,03</td><td>3344,18</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,37</td><td>3352,16</td><td>4001,00</td><td>0,00</td><td>4001,00</td><td>3255,55</td><td>87,89</td><td>3255,55</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,34</td><td>3303,78</td><td>4276,00</td><td>0,00</td><td>4276,00</td><td>3224,07</td><td>87,67</td><td>3224,07</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,35</td><td>3590,96</td><td>3267,00</td><td>0,00</td><td>3267,00</td><td>3156,32</td><td>87,74</td><td>3156,32</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,37</td><td>3680,26</td><td>3032,00</td><td>0,00</td><td>3032,00</td><td>3154,70</td><td>87,89</td><td>3154,70</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>3458,31</td><td>3134,00</td><td>0,00</td><td>3134,00</td><td>3166,62</td><td>87,96</td><td>3166,62</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,37</td><td>3400,69</td><td>3725,00</td><td>0,00</td><td>3725,00</td><td>3142,96</td><td>87,89</td><td>3142,96</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,36</td><td>3155,81</td><td>3480,00</td><td>0,00</td><td>3480,00</td><td>3107,02</td><td>87,82</td><td>3107,02</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,37</td><td>3316,19</td><td>2992,00</td><td>0,00</td><td>2992,00</td><td>3060,26</td><td>87,89</td><td>3060,26</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>3378,31</td><td>3054,00</td><td>0,00</td><td>3054,00</td><td>3048,53</td><td>87,96</td><td>3048,53</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>3110,00</td><td>3110,00</td><td>0,00</td><td>3110,00</td><td>3002,30</td><td>87,96</td><td>3002,30</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>3224,00</td><td>3224,00</td><td>0,00</td><td>3224,00</td><td>3009,98</td><td>87,96</td><td>3009,98</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>2858,00</td><td>2858,00</td><td>0,00</td><td>2856,00</td><td>2954,38</td><td>87,96</td><td>2954,38</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>3103,54</td><td>2779,00</td><td>0,00</td><td>2779,00</td><td>2946,56</td><td>88,03</td><td>2946,56</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2751,00</td><td>2751,00</td><td>0,00</td><td>2751,00</td><td>2877,62</td><td>88,03</td><td>2877,62</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2873,00</td><td>2873,00</td><td>0,00</td><td>2873,00</td><td>2819,51</td><td>88,03</td><td>2819,51</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2919,00</td><td>2919,00</td><td>0,00</td><td>2919,00</td><td>2701,20</td><td>88,03</td><td>2701,20</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2917,00</td><td>2917,00</td><td>0,00</td><td>2917,00</td><td>2622,01</td><td>88,03</td><td>2622,01</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2914,00</td><td>2914,00</td><td>0,00</td><td>3004,00</td><td>2505,29</td><td>88,03</td><td>2505,29</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2814,00</td><td>2814,00</td><td>0,00</td><td>2814,00</td><td>2410,87</td><td>88,03</td><td>2410,87</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2791,00</td><td>2791,00</td><td>0,00</td><td>2791,00</td><td>2341,74</td><td>88,03</td><td>2341,74</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2810,00</td><td>2810,00</td><td>0,00</td><td>2810,00</td><td>2278,49</td><td>88,03</td><td>2278,49</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2779,00</td><td>2779,00</td><td>0,00</td><td>2779,00</td><td>2256,42</td><td>88,03</td><td>2256,42</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2824,00</td><td>2824,00</td><td>0,00</td><td>2824,00</td><td>2257,34</td><td>88,03</td><td>2257,34</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2720,00</td><td>2720,00</td><td>0,00</td><td>2720,00</td><td>2290,74</td><td>88,03</td><td>2290,74</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2757,00</td><td>2757,00</td><td>0,00</td><td>2757,00</td><td>2307,40</td><td>88,03</td><td>2307,40</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,40</td><td>3094,54</td><td>2770,00</td><td>0,00</td><td>2770,00</td><td>2331,72</td><td>88,10</td><td>2331,72</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,40</td><td>2859,00</td><td>2859,00</td><td>0,00</td><td>2859,00</td><td>2346,07</td><td>88,10</td><td>2346,07</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,40</td><td>2838,00</td><td>2838,00</td><td>0,00</td><td>2838,00</td><td>2291,48</td><td>88,10</td><td>2291,48</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,40</td><td>2845,00</td><td>2845,00</td><td>0,00</td><td>2845,00</td><td>2201,61</td><td>88,10</td><td>2201,61</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,39</td><td>2509,46</td><td>2834,00</td><td>0,00</td><td>2834,00</td><td>2139,79</td><td>88,03</td><td>2139,79</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,38</td><td>2460,46</td><td>2785,00</td><td>0,00</td><td>2785,00</td><td>2062,13</td><td>87,96</td><td>2062,13</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,36</td><td>2445,50</td><td>3094,00</td><td>0,00</td><td>3094,00</td><td>1943,30</td><td>87,82</td><td>1943,30</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,35</td><td>2333,93</td><td>2658,00</td><td>0,00</td><td>2658,00</td><td>1863,81</td><td>87,74</td><td>1863,81</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,33</td><td>2095,20</td><td>2743,00</td><td>0,00</td><td>2743,00</td><td>1796,98</td><td>87,60</td><td>1796,98</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,31</td><td>2022,66</td><td>2670,00</td><td>0,00</td><td>2670,00</td><td>1719,35</td><td>87,46</td><td>1719,35</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,28</td><td>2094,09</td><td>3064,00</td><td>0,00</td><td>3064,00</td><td>1675,99</td><td>87,24</td><td>1675,99</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,26</td><td>2000,94</td><td>2647,00</td><td>0,00</td><td>2647,00</td><td>1656,02</td><td>87,10</td><td>1656,02</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,24</td><td>2095,51</td><td>2741,00</td><td>0,00</td><td>2741,00</td><td>1649,56</td><td>86,96</td><td>1649,56</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,22</td><td>2026,09</td><td>2671,00</td><td>0,00</td><td>2671,00</td><td>1603,13</td><td>86,81</td><td>1603,13</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,20</td><td>2029,56</td><td>2674,00</td><td>0,00</td><td>2674,00</td><td>1635,81</td><td>86,67</td><td>1635,81</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,17</td><td>1878,26</td><td>2844,00</td><td>0,00</td><td>2844,00</td><td>1623,82</td><td>86,46</td><td>1623,82</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,15</td><td>2174,83</td><td>2818,00</td><td>0,00</td><td>2818,00</td><td>1630,47</td><td>86,31</td><td>1630,47</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,13</td><td>2043,41</td><td>2686,00</td><td>0,00</td><td>2686,00</td><td>1641,13</td><td>86,17</td><td>1641,13</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,11</td><td>2044,87</td><td>2687,00</td><td>0,00</td><td>2687,00</td><td>1683,98</td><td>86,03</td><td>1683,98</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,09</td><td>2047,45</td><td>2689,00</td><td>0,00</td><td>2689,00</td><td>1668,67</td><td>85,89</td><td>1668,67</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,07</td><td>2068,91</td><td>2710,00</td><td>0,00</td><td>2710,00</td><td>1684,07</td><td>85,74</td><td>1684,07</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,05</td><td>2080,38</td><td>2721,00</td><td>0,00</td><td>2721,00</td><td>1694,74</td><td>85,60</td><td>1694,74</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,03</td><td>2133,07</td><td>2773,00</td><td>0,00</td><td>2773,00</td><td>1679,03</td><td>85,46</td><td>1679,03</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,01</td><td>2130,42</td><td>2770,00</td><td>0,00</td><td>2770,00</td><td>1660,91</td><td>85,32</td><td>1660,91</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,99</td><td>1965,11</td><td>2604,00</td><td>0,00</td><td>2604,00</td><td>1637,94</td><td>85,18</td><td>1637,94</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,97</td><td>1959,46</td><td>2598,00</td><td>0,00</td><td>2598,00</td><td>1616,49</td><td>85,04</td><td>1616,49</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,95</td><td>1948,15</td><td>2586,00</td><td>0,00</td><td>2586,00</td><td>1586,12</td><td>84,89</td><td>1586,12</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,93</td><td>1981,62</td><td>2619,00</td><td>0,00</td><td>2619,00</td><td>1577,13</td><td>84,75</td><td>1577,13</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,91</td><td>1951,08</td><td>2588,00</td><td>0,00</td><td>2588,00</td><td>1510,30</td><td>84,61</td><td>1510,30</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,89</td><td>1939,66</td><td>2576,00</td><td>0,00</td><td>2576,00</td><td>1454,48</td><td>84,47</td><td>1454,48</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,86</td><td>1651,53</td><td>2605,00</td><td>0,00</td><td>2605,00</td><td>1396,20</td><td>84,26</td><td>1396,20</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,83</td><td>1713,69</td><td>2666,00</td><td>0,00</td><td>2666,00</td><td>1329,98</td><td>84,05</td><td>1329,98</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,80</td><td>1713,96</td><td>2665,00</td><td>0,00</td><td>2665,00</td><td>1263,57</td><td>83,84</td><td>1263,57</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,77</td><td>1660,12</td><td>2610,00</td><td>0,00</td><td>2610,00</td><td>1250,00</td><td>83,63</td><td>1250,00</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,74</td><td>1698,39</td><td>2647,00</td><td>0,00</td><td>2647,00</td><td>1222,61</td><td>83,42</td><td>1222,61</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,71</td><td>1684,55</td><td>2632,00</td><td>0,00</td><td>2632,00</td><td>1181,24</td><td>83,21</td><td>1181,24</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,68</td><td>1663,70</td><td>2610,00</td><td>0,00</td><td>2610,00</td><td>1153,93</td><td>83,00</td><td>1153,93</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,64</td><td>1623,28</td><td>2883,00</td><td>0,00</td><td>2883,00</td><td>1140,19</td><td>82,72</td><td>1140,19</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,61</td><td>1599,71</td><td>2543,00</td><td>0,00</td><td>2543,00</td><td>1110,66</td><td>82,51</td><td>1110,66</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,58</td><td>1653,87</td><td>2596,00</td><td>0,00</td><td>2596,00</td><td>1094,32</td><td>82,30</td><td>1094,32</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,52</td><td>1547,44</td><td>3428,00</td><td>0,00</td><td>3428,00</td><td>1111,84</td><td>81,88</td><td>1111,84</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,48</td><td>1583,19</td><td>2834,00</td><td>0,00</td><td>2834,00</td><td>1085,83</td><td>81,61</td><td>1085,83</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,45</td><td>1710,31</td><td>2647,00</td><td>0,00</td><td>2647,00</td><td>1104,50</td><td>81,40</td><td>1104,50</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,40</td><td>1433,55</td><td>2992,00</td><td>0,00</td><td>2992,00</td><td>1088,89</td><td>81,05</td><td>1088,89</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,37</td><td>1678,67</td><td>2612,00</td><td>0,00</td><td>2612,00</td><td>1114,65</td><td>80,85</td><td>1114,65</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,33</td><td>1411,52</td><td>2654,00</td><td>0,00</td><td>2654,00</td><td>1068,10</td><td>80,57</td><td>1068,10</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,30</td><td>1640,68</td><td>2571,00</td><td>0,00</td><td>2571,00</td><td>1123,82</td><td>80,36</td><td>1123,82</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,26</td><td>1416,46</td><td>2655,00</td><td>0,00</td><td>2655,00</td><td>1119,61</td><td>80,09</td><td>1119,61</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,23</td><td>1715,69</td><td>2643,00</td><td>0,00</td><td>2643,00</td><td>1110,66</td><td>79,88</td><td>1110,66</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,20</td><td>1687,96</td><td>2614,00</td><td>0,00</td><td>2614,00</td><td>1125,55</td><td>79,68</td><td>1125,55</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,16</td><td>1378,25</td><td>2611,00</td><td>0,00</td><td>2611,00</td><td>1188,60</td><td>79,41</td><td>1188,60</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,13</td><td>1696,85</td><td>2620,00</td><td>0,00</td><td>2620,00</td><td>1129,97</td><td>79,20</td><td>1129,97</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,10</td><td>1680,24</td><td>2602,00</td><td>0,00</td><td>2602,00</td><td>1130,75</td><td>79,00</td><td>1130,75</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,06</td><td>1362,03</td><td>2589,00</td><td>0,00</td><td>2589,00</td><td>1186,82</td><td>78,72</td><td>1186,82</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,02</td><td>1627,46</td><td>2852,00</td><td>0,00</td><td>2852,00</td><td>1117,51</td><td>78,45</td><td>1117,51</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,97</td><td>1607,45</td><td>3135,00</td><td>0,00</td><td>3135,00</td><td>1111,20</td><td>78,11</td><td>1111,20</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,89</td><td>1353,66</td><td>3790,00</td><td>0,00</td><td>3790,00</td><td>1118,39</td><td>77,57</td><td>1118,39</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,85</td><td>1686,42</td><td>2901,00</td><td>0,00</td><td>2901,00</td><td>1114,35</td><td>77,31</td><td>1114,35</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,80</td><td>1422,07</td><td>2937,00</td><td>0,00</td><td>2937,00</td><td>1058,54</td><td>76,97</td><td>1058,54</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,77</td><td>1701,82</td><td>2609,00</td><td>0,00</td><td>2609,00</td><td>1077,81</td><td>76,77</td><td>1077,81</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,73</td><td>1440,48</td><td>2648,00</td><td>0,00</td><td>2648,00</td><td>1022,54</td><td>76,50</td><td>1022,54</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,69</td><td>1489,91</td><td>2695,00</td><td>0,00</td><td>2695,00</td><td>1019,63</td><td>76,23</td><td>1019,63</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,65</td><td>1440,34</td><td>2643,00</td><td>0,00</td><td>2643,00</td><td>972,97</td><td>75,97</td><td>972,97</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,61</td><td>1439,77</td><td>2640,00</td><td>0,00</td><td>2640,00</td><td>990,90</td><td>75,70</td><td>990,90</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,57</td><td>1447,20</td><td>2645,00</td><td>0,00</td><td>2645,00</td><td>974,66</td><td>75,44</td><td>974,66</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,53</td><td>1477,51</td><td>2673,00</td><td>0,00</td><td>3165,00</td><td>1009,91</td><td>75,17</td><td>1009,91</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,49</td><td>1406,06</td><td>2599,00</td><td>0,00</td><td>2599,00</td><td>1025,31</td><td>74,91</td><td>1025,31</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,46</td><td>1803,83</td><td>2697,00</td><td>0,00</td><td>2697,00</td><td>1034,72</td><td>74,71</td><td>1034,72</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,43</td><td>1737,22</td><td>2629,00</td><td>0,00</td><td>2629,00</td><td>1086,82</td><td>74,51</td><td>1086,82</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,39</td><td>1490,08</td><td>2677,00</td><td>0,00</td><td>2677,00</td><td>1090,00</td><td>74,25</td><td>1090,00</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,36</td><td>1762,46</td><td>2651,00</td><td>0,00</td><td>2651,00</td><td>1053,19</td><td>74,05</td><td>1053,19</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,32</td><td>1466,48</td><td>2649,00</td><td>0,00</td><td>2649,00</td><td>1038,28</td><td>73,79</td><td>1038,28</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,28</td><td>1466,79</td><td>2647,00</td><td>0,00</td><td>2647,00</td><td>1039,14</td><td>73,53</td><td>1039,14</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,24</td><td>1475,34</td><td>2653,00</td><td>0,00</td><td>2653,00</td><td>980,68</td><td>73,27</td><td>980,68</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,20</td><td>1498,77</td><td>2674,00</td><td>0,00</td><td>2674,00</td><td>983,28</td><td>73,01</td><td>983,28</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,16</td><td>1457,20</td><td>2630,00</td><td>0,00</td><td>2630,00</td><td>979,47</td><td>72,75</td><td>979,47</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,12</td><td>1488,63</td><td>2659,00</td><td>0,00</td><td>2659,00</td><td>1023,06</td><td>72,49</td><td>1023,06</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,08</td><td>1487,18</td><td>2655,00</td><td>0,00</td><td>2655,00</td><td>1046,12</td><td>72,23</td><td>1046,12</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,05</td><td>1739,69</td><td>2614,00</td><td>0,00</td><td>2614,00</td><td>1024,04</td><td>72,03</td><td>1024,04</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,02</td><td>1682,20</td><td>2555,00</td><td>0,00</td><td>2555,00</td><td>1029,67</td><td>71,84</td><td>1029,67</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,98</td><td>1448,31</td><td>2610,00</td><td>0,00</td><td>2610,00</td><td>1035,73</td><td>71,58</td><td>1035,73</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,94</td><td>1577,86</td><td>2737,00</td><td>0,00</td><td>2737,00</td><td>1010,36</td><td>71,33</td><td>1010,36</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,90</td><td>1528,29</td><td>2685,00</td><td>0,00</td><td>2685,00</td><td>1009,05</td><td>71,07</td><td>1009,05</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,85</td><td>1551,52</td><td>2994,00</td><td>0,00</td><td>2994,00</td><td>1034,79</td><td>70,75</td><td>1034,79</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,80</td><td>1546,46</td><td>2985,00</td><td>0,00</td><td>2985,00</td><td>1057,70</td><td>70,43</td><td>1057,70</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,74</td><td>1459,82</td><td>3181,00</td><td>0,00</td><td>3181,00</td><td>1036,41</td><td>70,05</td><td>1036,41</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,69</td><td>1575,02</td><td>3005,00</td><td>0,00</td><td>3005,00</td><td>1028,87</td><td>69,73</td><td>1028,87</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,60</td><td>1300,65</td><td>3865,00</td><td>0,00</td><td>3865,00</td><td>974,04</td><td>69,16</td><td>974,04</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,55</td><td>1468,79</td><td>2888,00</td><td>0,00</td><td>2888,00</td><td>978,25</td><td>68,85</td><td>978,25</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,49</td><td>1309,08</td><td>3007,00</td><td>0,00</td><td>3007,00</td><td>984,95</td><td>68,47</td><td>984,95</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,43</td><td>1475,52</td><td>3168,00</td><td>0,00</td><td>3168,00</td><td>1076,77</td><td>68,10</td><td>1076,77</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,38</td><td>1565,87</td><td>2972,00</td><td>0,00</td><td>2972,00</td><td>1188,46</td><td>67,79</td><td>1188,46</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,32</td><td>1667,82</td><td>3350,00</td><td>0,00</td><td>3350,00</td><td>1350,03</td><td>67,41</td><td>1350,03</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,25</td><td>1821,33</td><td>3777,00</td><td>0,00</td><td>3777,00</td><td>1522,40</td><td>66,98</td><td>1522,40</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,20</td><td>1776,64</td><td>3169,00</td><td>0,00</td><td>3169,00</td><td>1663,25</td><td>66,67</td><td>1663,25</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,11</td><td>1854,59</td><td>4351,00</td><td>0,00</td><td>4351,00</td><td>1777,21</td><td>66,12</td><td>1777,21</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,05</td><td>1748,48</td><td>3406,00</td><td>0,00</td><td>3406,00</td><td>1827,52</td><td>65,75</td><td>1827,52</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,00</td><td>1740,92</td><td>3118,00</td><td>0,00</td><td>3118,00</td><td>1864,29</td><td>65,45</td><td>1864,29</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,96</td><td>1667,16</td><td>2766,00</td><td>0,00</td><td>2766,00</td><td>1795,23</td><td>65,20</td><td>1795,23</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,90</td><td>1704,13</td><td>3348,00</td><td>0,00</td><td>3348,00</td><td>1710,82</td><td>64,84</td><td>1710,82</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,82</td><td>1456,67</td><td>3640,00</td><td>0,00</td><td>3632,00</td><td>1621,28</td><td>64,35</td><td>1621,28</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,73</td><td>1390,21</td><td>3835,00</td><td>0,00</td><td>3835,00</td><td>1532,98</td><td>63,81</td><td>1532,98</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,61</td><td>1410,14</td><td>4651,00</td><td>0,00</td><td>4651,00</td><td>1447,94</td><td>63,09</td><td>1447,94</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,46</td><td>1412,94</td><td>5434,00</td><td>0,00</td><td>5434,00</td><td>1402,72</td><td>62,20</td><td>1402,72</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,36</td><td>1498,62</td><td>4161,00</td><td>0,00</td><td>4161,00</td><td>1400,86</td><td>61,61</td><td>1400,86</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,28</td><td>1391,67</td><td>3511,00</td><td>0,00</td><td>3511,00</td><td>1365,01</td><td>61,14</td><td>1365,01</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,21</td><td>1520,24</td><td>3367,00</td><td>0,00</td><td>3367,00</td><td>1369,43</td><td>60,73</td><td>1369,43</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,15</td><td>1379,69</td><td>2957,00</td><td>0,00</td><td>2957,00</td><td>1372,39</td><td>60,38</td><td>1372,39</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,09</td><td>1522,89</td><td>3095,00</td><td>0,00</td><td>3095,00</td><td>1405,69</td><td>60,04</td><td>1405,69</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,02</td><td>1543,34</td><td>3371,00</td><td>0,00</td><td>3371,00</td><td>1380,48</td><td>59,63</td><td>1380,48</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,95</td><td>1590,28</td><td>3411,00</td><td>0,00</td><td>3411,00</td><td>1364,54</td><td>59,23</td><td>1364,54</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,86</td><td>1452,44</td><td>3783,00</td><td>0,00</td><td>3783,00</td><td>1282,20</td><td>58,71</td><td>1282,20</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,76</td><td>1388,73</td><td>3965,00</td><td>0,00</td><td>3965,00</td><td>1242,28</td><td>58,14</td><td>1242,28</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,63</td><td>1174,87</td><td>4503,00</td><td>0,00</td><td>4503,00</td><td>1143,80</td><td>57,40</td><td>1143,80</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,51</td><td>1384,61</td><td>4436,00</td><td>0,00</td><td>4436,00</td><td>1067,73</td><td>56,73</td><td>1067,73</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,37</td><td>1150,93</td><td>4686,00</td><td>0,00</td><td>4686,00</td><td>1042,34</td><td>55,94</td><td>1042,34</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,17</td><td>1099,95</td><td>6104,00</td><td>0,00</td><td>6104,00</td><td>1076,73</td><td>54,83</td><td>1076,73</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,03</td><td>1255,82</td><td>4727,00</td><td>0,00</td><td>4727,00</td><td>1104,97</td><td>54,06</td><td>1104,97</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,95</td><td>1337,01</td><td>3309,00</td><td>0,00</td><td>3309,00</td><td>1163,77</td><td>53,63</td><td>1163,77</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,88</td><td>1546,37</td><td>3265,00</td><td>0,00</td><td>3265,00</td><td>1263,37</td><td>53,25</td><td>1263,37</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,78</td><td>1506,79</td><td>3951,00</td><td>0,00</td><td>3951,00</td><td>1309,99</td><td>52,70</td><td>1309,99</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,68</td><td>1609,40</td><td>4041,00</td><td>0,00</td><td>4041,00</td><td>1337,87</td><td>52,16</td><td>1337,87</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,58</td><td>1480,13</td><td>3899,00</td><td>0,00</td><td>3899,00</td><td>1375,45</td><td>51,63</td><td>1375,45</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,46</td><td>1572,54</td><td>4459,00</td><td>0,00</td><td>4459,00</td><td>1389,87</td><td>50,99</td><td>1389,87</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,37</td><td>1834,64</td><td>3988,00</td><td>0,00</td><td>3988,00</td><td>1361,86</td><td>50,51</td><td>1361,86</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,30</td><td>1659,83</td><td>3328,00</td><td>0,00</td><td>3328,00</td><td>1355,63</td><td>50,14</td><td>1355,63</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,24</td><td>1643,77</td><td>3069,00</td><td>0,00</td><td>3069,00</td><td>1326,80</td><td>49,83</td><td>1326,80</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,16</td><td>1622,25</td><td>3516,00</td><td>0,00</td><td>3516,00</td><td>1249,79</td><td>49,41</td><td>1249,79</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,07</td><td>1477,13</td><td>3599,00</td><td>0,00</td><td>3599,00</td><td>1239,96</td><td>48,94</td><td>1239,96</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,01</td><td>1434,39</td><td>2844,00</td><td>0,00</td><td>2844,00</td><td>1251,37</td><td>48,62</td><td>1251,37</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,94</td><td>1519,53</td><td>3159,00</td><td>0,00</td><td>3159,00</td><td>1313,98</td><td>48,26</td><td>1313,98</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,87</td><td>1516,74</td><td>3151,00</td><td>0,00</td><td>3151,00</td><td>1378,90</td><td>47,90</td><td>1378,90</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,82</td><td>1782,76</td><td>2947,00</td><td>0,00</td><td>2947,00</td><td>1450,89</td><td>47,64</td><td>1450,89</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,77</td><td>1667,43</td><td>2829,00</td><td>0,00</td><td>2829,00</td><td>1519,11</td><td>47,38</td><td>1519,11</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,69</td><td>1683,53</td><td>3537,00</td><td>0,00</td><td>3537,00</td><td>1571,05</td><td>46,97</td><td>1571,05</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,59</td><td>1811,78</td><td>4120,00</td><td>0,00</td><td>4120,00</td><td>1512,31</td><td>46,46</td><td>1512,31</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,46</td><td>1763,96</td><td>4751,00</td><td>0,00</td><td>4751,00</td><td>1492,66</td><td>45,80</td><td>1492,66</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,32</td><td>1468,07</td><td>4669,00</td><td>0,00</td><td>4669,00</td><td>1440,50</td><td>45,09</td><td>1440,50</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,19</td><td>1563,86</td><td>4523,00</td><td>0,00</td><td>4523,00</td><td>1410,83</td><td>44,43</td><td>1410,83</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,10</td><td>1479,87</td><td>3522,00</td><td>0,00</td><td>3522,00</td><td>1424,54</td><td>43,98</td><td>1424,54</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,01</td><td>1736,62</td><td>3774,00</td><td>0,00</td><td>3774,00</td><td>1526,28</td><td>43,53</td><td>1526,28</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,93</td><td>1898,83</td><td>3703,00</td><td>0,00</td><td>3703,00</td><td>1677,57</td><td>43,13</td><td>1677,57</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,87</td><td>1938,05</td><td>3284,00</td><td>0,00</td><td>3284,00</td><td>1899,37</td><td>42,83</td><td>1899,37</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,75</td><td>2175,35</td><td>4850,00</td><td>0,00</td><td>4850,00</td><td>2115,26</td><td>42,24</td><td>2115,26</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,63</td><td>2333,57</td><td>4986,00</td><td>0,00</td><td>4986,00</td><td>2356,51</td><td>41,65</td><td>2356,51</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,60</td><td>2420,28</td><td>3080,00</td><td>0,00</td><td>3080,00</td><td>2593,30</td><td>41,50</td><td>2593,30</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,55</td><td>2594,24</td><td>3691,00</td><td>0,00</td><td>3691,00</td><td>2825,75</td><td>41,26</td><td>2825,75</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,50</td><td>2531,71</td><td>3625,00</td><td>0,00</td><td>3625,00</td><td>2987,57</td><td>41,02</td><td>2987,57</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,39</td><td>2816,94</td><td>5210,00</td><td>0,00</td><td>5210,00</td><td>3201,89</td><td>40,49</td><td>3201,89</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,20</td><td>2925,17</td><td>7021,00</td><td>0,00</td><td>7021,00</td><td>3304,92</td><td>39,58</td><td>3304,92</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,98</td><td>3735,89</td><td>8422,00</td><td>0,00</td><td>8422,00</td><td>3339,76</td><td>38,54</td><td>3339,76</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,71</td><td>3363,55</td><td>9036,00</td><td>0,00</td><td>9036,00</td><td>3281,99</td><td>37,28</td><td>3281,99</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,40</td><td>2833,70</td><td>9244,00</td><td>0,00</td><td>9244,00</td><td>3252,98</td><td>35,86</td><td>3252,98</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,27</td><td>2874,75</td><td>5531,00</td><td>0,00</td><td>5531,00</td><td>3181,98</td><td>35,27</td><td>3181,98</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,21</td><td>3119,32</td><td>4339,00</td><td>0,00</td><td>4339,00</td><td>3190,70</td><td>35,00</td><td>3190,70</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,02</td><td>3602,66</td><td>7439,00</td><td>0,00</td><td>7439,00</td><td>3226,74</td><td>34,15</td><td>3226,74</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,77</td><td>3472,62</td><td>8460,00</td><td>0,00</td><td>8408,00</td><td>3233,72</td><td>33,05</td><td>3233,72</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,61</td><td>3130,10</td><td>6286,00</td><td>0,00</td><td>6286,00</td><td>3228,33</td><td>32,35</td><td>3228,33</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,55</td><td>3061,84</td><td>4238,00</td><td>0,00</td><td>4238,00</td><td>3183,13</td><td>32,09</td><td>3183,13</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,42</td><td>3130,05</td><td>5665,00</td><td>0,00</td><td>5665,00</td><td>3118,36</td><td>31,53</td><td>3118,36</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,23</td><td>3364,82</td><td>7036,00</td><td>0,00</td><td>7036,00</td><td>3092,05</td><td>30,71</td><td>3092,05</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,12</td><td>3486,82</td><td>5594,00</td><td>0,00</td><td>5594,00</td><td>3182,47</td><td>30,25</td><td>3182,47</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,92</td><td>3366,47</td><td>7163,00</td><td>0,00</td><td>7163,00</td><td>3289,83</td><td>29,40</td><td>3289,83</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,79</td><td>3394,13</td><td>5838,00</td><td>0,00</td><td>5822,00</td><td>3364,59</td><td>28,86</td><td>3364,59</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,62</td><td>3610,99</td><td>6778,00</td><td>0,00</td><td>6778,00</td><td>3402,44</td><td>28,16</td><td>3402,44</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,51</td><td>3628,06</td><td>5660,00</td><td>0,00</td><td>5660,00</td><td>3442,08</td><td>27,71</td><td>3442,08</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,37</td><td>3405,91</td><td>5972,00</td><td>0,00</td><td>5972,00</td><td>3474,89</td><td>27,14</td><td>3474,89</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,26</td><td>3429,31</td><td>5430,00</td><td>0,00</td><td>5430,00</td><td>3535,96</td><td>26,70</td><td>3535,96</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,25</td><td>3612,87</td><td>3794,00</td><td>0,00</td><td>3794,00</td><td>3664,08</td><td>26,66</td><td>3664,08</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,11</td><td>3610,35</td><td>6135,00</td><td>0,00</td><td>6135,00</td><td>3846,96</td><td>26,10</td><td>3846,96</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,98</td><td>3558,93</td><td>5883,00</td><td>0,00</td><td>5883,00</td><td>3993,63</td><td>25,58</td><td>3993,63</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,88</td><td>3585,46</td><td>5360,00</td><td>0,00</td><td>5360,00</td><td>4082,46</td><td>25,19</td><td>4082,46</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,87</td><td>3905,15</td><td>4082,00</td><td>0,00</td><td>4082,00</td><td>4200,18</td><td>25,15</td><td>4200,18</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,95</td><td>4460,82</td><td>3043,00</td><td>0,00</td><td>3043,00</td><td>4369,08</td><td>25,47</td><td>4369,08</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,04</td><td>4669,82</td><td>3066,00</td><td>0,00</td><td>3066,00</td><td>4527,07</td><td>25,82</td><td>4527,07</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,15</td><td>5156,80</td><td>3184,00</td><td>0,00</td><td>3184,00</td><td>4753,97</td><td>26,26</td><td>4753,97</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,12</td><td>4980,65</td><td>5520,00</td><td>0,00</td><td>5520,00</td><td>4976,70</td><td>26,14</td><td>4976,70</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,16</td><td>4541,44</td><td>3822,00</td><td>0,00</td><td>3822,00</td><td>5092,72</td><td>26,30</td><td>5092,72</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,24</td><td>4999,44</td><td>3555,00</td><td>0,00</td><td>3555,00</td><td>5131,25</td><td>26,62</td><td>5131,25</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,26</td><td>5561,27</td><td>5199,00</td><td>0,00</td><td>5199,00</td><td>5163,82</td><td>26,70</td><td>5163,82</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,28</td><td>5567,73</td><td>5205,00</td><td>0,00</td><td>5205,00</td><td>5173,90</td><td>26,78</td><td>5173,90</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,25</td><td>5363,13</td><td>5907,00</td><td>0,00</td><td>5907,00</td><td>5197,99</td><td>26,66</td><td>5197,99</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,23</td><td>5550,96</td><td>5913,00</td><td>0,00</td><td>5913,00</td><td>5325,00</td><td>26,58</td><td>5325,00</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,13</td><td>5306,64</td><td>7110,00</td><td>0,00</td><td>7110,00</td><td>5427,89</td><td>26,18</td><td>5427,89</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,18</td><td>4975,23</td><td>4075,00</td><td>0,00</td><td>4075,00</td><td>5432,66</td><td>26,38</td><td>5432,66</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,15</td><td>5002,49</td><td>5543,00</td><td>0,00</td><td>5543,00</td><td>5302,92</td><td>26,26</td><td>5302,92</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,23</td><td>4802,63</td><td>3359,00</td><td>0,00</td><td>3359,00</td><td>5128,72</td><td>26,58</td><td>5128,72</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,30</td><td>4418,10</td><td>3149,00</td><td>0,00</td><td>3149,00</td><td>4868,68</td><td>26,86</td><td>4868,68</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,36</td><td>4348,25</td><td>3256,00</td><td>0,00</td><td>3256,00</td><td>4620,88</td><td>27,10</td><td>4620,88</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,43</td><td>4425,51</td><td>3146,00</td><td>0,00</td><td>3146,00</td><td>4493,84</td><td>27,38</td><td>4493,84</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,52</td><td>4498,24</td><td>2845,00</td><td>0,00</td><td>2845,00</td><td>4469,09</td><td>27,75</td><td>4469,09</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,52</td><td>4587,00</td><td>4587,00</td><td>0,00</td><td>4587,00</td><td>4464,49</td><td>27,75</td><td>4464,49</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,60</td><td>4680,31</td><td>3203,00</td><td>0,00</td><td>3203,00</td><td>4464,20</td><td>28,08</td><td>4464,20</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,72</td><td>4883,51</td><td>2654,00</td><td>0,00</td><td>2654,00</td><td>4455,50</td><td>28,57</td><td>4455,50</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,83</td><td>4743,87</td><td>2686,00</td><td>0,00</td><td>2686,00</td><td>4428,18</td><td>29,03</td><td>4428,18</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,94</td><td>4439,53</td><td>2368,00</td><td>0,00</td><td>2368,00</td><td>4428,55</td><td>29,49</td><td>4428,55</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,04</td><td>4475,02</td><td>2580,00</td><td>0,00</td><td>2580,00</td><td>4446,18</td><td>29,91</td><td>4446,18</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,00</td><td>4436,62</td><td>5196,00</td><td>0,00</td><td>5196,00</td><td>4504,95</td><td>29,74</td><td>4504,95</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,96</td><td>4339,48</td><td>5097,00</td><td>0,00</td><td>5098,00</td><td>4642,60</td><td>29,57</td><td>4642,60</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,91</td><td>4572,67</td><td>5517,00</td><td>0,00</td><td>5517,00</td><td>4783,13</td><td>29,36</td><td>4783,13</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,88</td><td>4928,61</td><td>5494,00</td><td>0,00</td><td>5494,00</td><td>4913,93</td><td>29,24</td><td>4913,93</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,94</td><td>4934,60</td><td>3803,00</td><td>0,00</td><td>3803,00</td><td>5084,55</td><td>29,49</td><td>5084,55</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,08</td><td>5298,13</td><td>2642,00</td><td>0,00</td><td>2642,00</td><td>5298,74</td><td>30,08</td><td>5298,74</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,24</td><td>5723,27</td><td>2661,00</td><td>0,00</td><td>2661,00</td><td>5512,73</td><td>30,76</td><td>5512,73</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,31</td><td>5759,61</td><td>4411,00</td><td>0,00</td><td>4411,00</td><td>5770,33</td><td>31,05</td><td>5770,33</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,31</td><td>5968,00</td><td>5968,00</td><td>0,00</td><td>5969,00</td><td>6024,53</td><td>31,05</td><td>6024,53</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,36</td><td>6381,67</td><td>5415,00</td><td>0,00</td><td>5415,00</td><td>6249,10</td><td>31,27</td><td>6249,10</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,53</td><td>6560,41</td><td>3253,00</td><td>0,00</td><td>3253,00</td><td>6484,60</td><td>32,00</td><td>6484,60</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,48</td><td>6458,96</td><td>7435,00</td><td>0,00</td><td>7435,00</td><td>6700,53</td><td>31,79</td><td>6700,53</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,59</td><td>6567,93</td><td>4417,00</td><td>0,00</td><td>4417,00</td><td>6951,29</td><td>32,26</td><td>6951,29</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,81</td><td>6664,78</td><td>2323,00</td><td>0,00</td><td>2323,00</td><td>7172,40</td><td>33,22</td><td>7172,40</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,92</td><td>7176,86</td><td>4986,00</td><td>0,00</td><td>4986,00</td><td>7378,75</td><td>33,71</td><td>7378,75</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,01</td><td>7287,31</td><td>5485,00</td><td>0,00</td><td>5486,00</td><td>7541,05</td><td>34,11</td><td>7541,05</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,11</td><td>7810,08</td><td>5797,00</td><td>0,00</td><td>5797,00</td><td>7769,51</td><td>34,56</td><td>7769,51</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,08</td><td>8263,91</td><td>8869,00</td><td>0,00</td><td>8869,00</td><td>7939,67</td><td>34,42</td><td>7939,67</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,04</td><td>8316,79</td><td>9122,00</td><td>0,00</td><td>9122,00</td><td>8182,65</td><td>34,24</td><td>8182,65</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,25</td><td>8703,99</td><td>4457,00</td><td>0,00</td><td>4457,00</td><td>8442,51</td><td>35,18</td><td>8442,51</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,50</td><td>9203,44</td><td>4084,00</td><td>0,00</td><td>4084,00</td><td>8573,52</td><td>36,32</td><td>8573,52</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,61</td><td>9131,54</td><td>6857,00</td><td>0,00</td><td>6857,00</td><td>8579,33</td><td>36,82</td><td>8579,33</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,64</td><td>8327,69</td><td>7705,00</td><td>0,00</td><td>7705,00</td><td>8533,00</td><td>36,96</td><td>8533,00</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,69</td><td>8090,05</td><td>7050,00</td><td>0,00</td><td>7050,00</td><td>8413,62</td><td>37,19</td><td>8413,62</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,67</td><td>8536,68</td><td>8953,00</td><td>0,00</td><td>8953,00</td><td>8286,51</td><td>37,10</td><td>8286,51</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,66</td><td>8328,01</td><td>8536,00</td><td>0,00</td><td>8536,00</td><td>8254,63</td><td>37,05</td><td>8254,63</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,68</td><td>8091,09</td><td>7675,00</td><td>0,00</td><td>7675,00</td><td>8255,53</td><td>37,15</td><td>8255,53</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,84</td><td>8134,72</td><td>4789,00</td><td>0,00</td><td>4789,00</td><td>8361,09</td><td>37,89</td><td>8361,09</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,83</td><td>7987,05</td><td>8197,00</td><td>0,00</td><td>8197,00</td><td>8427,97</td><td>37,84</td><td>8427,97</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,77</td><td>8064,59</td><td>9322,00</td><td>0,00</td><td>9322,00</td><td>8465,07</td><td>37,56</td><td>8465,07</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,67</td><td>8344,54</td><td>10431,00</td><td>0,00</td><td>10431,00</td><td>9071,94</td><td>37,10</td><td>9071,94</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,69</td><td>9563,32</td><td>9147,00</td><td>0,00</td><td>9147,00</td><td>9982,61</td><td>37,19</td><td>9982,61</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,88</td><td>13174,59</td><td>9196,00</td><td>0,00</td><td>9196,00</td><td>11209,75</td><td>38,07</td><td>11209,75</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,21</td><td>14729,23</td><td>7718,00</td><td>0,00</td><td>7718,00</td><td>13010,59</td><td>39,63</td><td>13010,59</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,78</td><td>16083,29</td><td>3640,00</td><td>0,00</td><td>3640,00</td><td>15090,07</td><td>42,39</td><td>15090,07</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,19</td><td>17462,73</td><td>8225,00</td><td>0,00</td><td>8225,00</td><td>16736,31</td><td>44,43</td><td>16736,31</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,54</td><td>17431,53</td><td>9435,00</td><td>0,00</td><td>9435,00</td><td>18025,31</td><td>46,21</td><td>18025,31</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,95</td><td>17810,25</td><td>8304,00</td><td>0,00</td><td>8304,00</td><td>18810,95</td><td>48,31</td><td>18810,95</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,34</td><td>18313,56</td><td>9105,00</td><td>0,00</td><td>9105,00</td><td>19130,49</td><td>50,35</td><td>19130,49</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,71</td><td>17958,43</td><td>9056,00</td><td>0,00</td><td>9056,00</td><td>19249,51</td><td>52,33</td><td>19249,51</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,99</td><td>17823,27</td><td>10972,00</td><td>0,00</td><td>10972,00</td><td>19246,81</td><td>53,84</td><td>19246,81</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,37</td><td>17986,27</td><td>8524,00</td><td>0,00</td><td>8524,00</td><td>19307,58</td><td>55,94</td><td>19307,58</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,68</td><td>18296,77</td><td>10433,00</td><td>0,00</td><td>10433,00</td><td>19663,24</td><td>57,68</td><td>19663,24</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,00</td><td>18560,41</td><td>10303,00</td><td>0,00</td><td>10303,00</td><td>20054,96</td><td>59,51</td><td>20054,96</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,34</td><td>19672,45</td><td>10739,00</td><td>0,00</td><td>10739,00</td><td>20475,57</td><td>61,49</td><td>20475,57</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,68</td><td>20336,97</td><td>11235,00</td><td>0,00</td><td>11235,00</td><td>20790,42</td><td>63,51</td><td>20790,42</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,03</td><td>20385,65</td><td>10836,00</td><td>0,00</td><td>10836,00</td><td>20879,76</td><td>65,63</td><td>20879,76</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,39</td><td>19670,32</td><td>9654,00</td><td>0,00</td><td>9654,00</td><td>20640,71</td><td>67,85</td><td>20640,71</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,83</td><td>19139,96</td><td>6627,00</td><td>0,00</td><td>6627,00</td><td>20326,56</td><td>70,62</td><td>20326,56</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,21</td><td>18910,57</td><td>7863,00</td><td>0,00</td><td>7863,00</td><td>20026,13</td><td>73,07</td><td>20026,13</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,59</td><td>18457,56</td><td>7188,00</td><td>0,00</td><td>7188,00</td><td>19674,10</td><td>75,57</td><td>19674,10</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,87</td><td>18533,75</td><td>10090,00</td><td>0,00</td><td>10090,00</td><td>19470,39</td><td>77,44</td><td>19470,39</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,11</td><td>18267,21</td><td>10937,00</td><td>0,00</td><td>10937,00</td><td>19372,83</td><td>79,06</td><td>19372,83</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,37</td><td>18829,19</td><td>10794,00</td><td>0,00</td><td>10794,00</td><td>19278,20</td><td>80,85</td><td>19278,20</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,65</td><td>19394,07</td><td>10634,00</td><td>0,00</td><td>10634,00</td><td>19148,48</td><td>82,79</td><td>19148,48</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,93</td><td>19353,25</td><td>10486,00</td><td>0,00</td><td>10486,00</td><td>19228,27</td><td>84,75</td><td>19228,27</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,18</td><td>18698,09</td><td>10693,00</td><td>0,00</td><td>10699,00</td><td>19128,76</td><td>86,53</td><td>19128,76</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,40</td><td>17857,57</td><td>10746,00</td><td>0,00</td><td>10746,00</td><td>18918,05</td><td>88,10</td><td>18918,05</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,60</td><td>17041,87</td><td>10523,00</td><td>0,00</td><td>10523,00</td><td>18747,17</td><td>89,55</td><td>18747,17</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,86</td><td>18052,93</td><td>9502,00</td><td>0,00</td><td>9502,00</td><td>18644,31</td><td>91,44</td><td>18644,31</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,14</td><td>18728,94</td><td>9422,00</td><td>380,00</td><td>9042,00</td><td>18584,27</td><td>93,51</td><td>18584,27</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,36</td><td>19048,04</td><td>11661,00</td><td>1140,00</td><td>10521,00</td><td>18676,07</td><td>95,14</td><td>18676,07</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,64</td><td>19478,17</td><td>9974,00</td><td>1423,00</td><td>8551,00</td><td>18978,12</td><td>97,25</td><td>18978,12</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,79</td><td>18468,94</td><td>13326,00</td><td>3203,00</td><td>10604,00</td><td>19237,91</td><td>98,39</td><td>19237,91</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,86</td><td>18222,31</td><td>15809,00</td><td>4230,00</td><td>11579,00</td><td>19507,42</td><td>98,92</td><td>19507,42</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>18488,10</td><td>15719,00</td><td>4672,00</td><td>11047,00</td><td>19646,31</td><td>99,54</td><td>19646,31</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>19160,81</td><td>17424,00</td><td>8603,00</td><td>8821,00</td><td>19769,58</td><td>99,92</td><td>19769,58</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>19021,08</td><td>22144,00</td><td>10983,00</td><td>11160,00</td><td>19750,27</td><td>99,23</td><td>19750,27</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,86</td><td>19613,01</td><td>20996,00</td><td>10083,00</td><td>10913,00</td><td>19792,98</td><td>98,92</td><td>19792,98</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,89</td><td>19093,04</td><td>18056,00</td><td>7746,00</td><td>10196,00</td><td>19837,90</td><td>99,15</td><td>19837,90</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,93</td><td>19147,30</td><td>17762,00</td><td>7786,00</td><td>9960,00</td><td>19872,34</td><td>99,46</td><td>19872,34</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,91</td><td>20484,94</td><td>21178,00</td><td>9957,00</td><td>11221,00</td><td>19906,88</td><td>99,31</td><td>19906,88</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>20089,70</td><td>20436,00</td><td>9586,00</td><td>10850,00</td><td>19853,12</td><td>99,23</td><td>19853,12</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>19353,71</td><td>18661,00</td><td>7519,00</td><td>11142,00</td><td>19704,77</td><td>99,38</td><td>19704,77</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>18698,39</td><td>17658,00</td><td>6830,00</td><td>10828,00</td><td>19418,36</td><td>99,61</td><td>19418,36</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,98</td><td>18171,13</td><td>17129,00</td><td>7807,00</td><td>9322,00</td><td>19011,53</td><td>99,85</td><td>19011,53</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>17853,88</td><td>19243,00</td><td>9785,00</td><td>9458,00</td><td>18414,29</td><td>99,54</td><td>18414,29</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>16932,60</td><td>17626,00</td><td>6153,00</td><td>11473,00</td><td>17928,15</td><td>99,38</td><td>17928,15</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,96</td><td>15949,62</td><td>14562,00</td><td>2890,00</td><td>11672,00</td><td>17680,90</td><td>99,69</td><td>17680,90</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>16612,63</td><td>15222,00</td><td>3111,00</td><td>12111,00</td><td>17363,43</td><td>100,00</td><td>17363,43</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>17687,97</td><td>18036,00</td><td>6628,00</td><td>11408,00</td><td>17413,00</td><td>99,92</td><td>17413,00</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>16901,08</td><td>20024,00</td><td>9033,00</td><td>10990,00</td><td>17807,40</td><td>99,23</td><td>17807,40</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,93</td><td>17508,35</td><td>16469,00</td><td>6818,00</td><td>9651,00</td><td>18426,90</td><td>99,46</td><td>18426,90</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>17500,60</td><td>15069,00</td><td>6902,00</td><td>8168,00</td><td>19004,21</td><td>100,00</td><td>19004,21</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,91</td><td>18645,35</td><td>21770,00</td><td>12273,00</td><td>9498,00</td><td>19580,39</td><td>99,31</td><td>19580,39</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>20541,81</td><td>19502,00</td><td>9516,00</td><td>9985,00</td><td>19908,39</td><td>99,54</td><td>19908,39</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>20380,81</td><td>18644,00</td><td>9553,00</td><td>9091,00</td><td>20115,40</td><td>99,92</td><td>20115,40</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>19633,19</td><td>21370,00</td><td>12071,00</td><td>9299,00</td><td>20115,01</td><td>99,54</td><td>20115,01</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,91</td><td>19369,19</td><td>20409,00</td><td>10501,00</td><td>9907,00</td><td>20029,90</td><td>99,31</td><td>20029,90</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>19372,41</td><td>19026,00</td><td>8628,00</td><td>10398,00</td><td>20115,87</td><td>99,38</td><td>20115,87</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>19592,21</td><td>17162,00</td><td>7691,00</td><td>9471,00</td><td>20184,35</td><td>99,92</td><td>20184,35</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>19854,03</td><td>19506,00</td><td>8260,00</td><td>11246,00</td><td>20159,61</td><td>100,00</td><td>20159,61</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>19420,00</td><td>19420,00</td><td>8463,00</td><td>10957,00</td><td>20083,88</td><td>100,00</td><td>20083,88</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>19000,15</td><td>20738,00</td><td>9756,00</td><td>10982,00</td><td>19834,36</td><td>99,61</td><td>19834,36</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>19191,61</td><td>20232,00</td><td>10166,00</td><td>10065,00</td><td>19380,96</td><td>99,38</td><td>19380,96</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,97</td><td>18695,95</td><td>16961,00</td><td>10086,00</td><td>6875,00</td><td>18784,30</td><td>99,77</td><td>18784,30</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>18024,05</td><td>19759,00</td><td>11800,00</td><td>7959,00</td><td>18159,06</td><td>99,38</td><td>18159,06</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,87</td><td>17358,79</td><td>19089,00</td><td>10492,00</td><td>8598,00</td><td>17453,19</td><td>99,00</td><td>17453,19</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>16606,50</td><td>15569,00</td><td>5448,00</td><td>10121,00</td><td>16781,05</td><td>99,23</td><td>16781,05</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>15642,11</td><td>14256,00</td><td>4240,00</td><td>10016,00</td><td>16092,08</td><td>99,54</td><td>16092,08</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,96</td><td>15243,21</td><td>14549,00</td><td>4240,00</td><td>10309,00</td><td>15587,10</td><td>99,69</td><td>15587,10</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>14472,59</td><td>13430,00</td><td>4240,00</td><td>9190,00</td><td>15009,91</td><td>99,92</td><td>15009,91</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,97</td><td>14376,75</td><td>15072,00</td><td>5648,00</td><td>9424,00</td><td>14583,35</td><td>99,77</td><td>14583,35</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,91</td><td>13222,63</td><td>15304,00</td><td>6133,00</td><td>9172,00</td><td>14258,31</td><td>99,31</td><td>14258,31</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>13166,41</td><td>12820,00</td><td>4495,00</td><td>8325,00</td><td>14051,90</td><td>99,38</td><td>14051,90</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,97</td><td>13419,95</td><td>11685,00</td><td>2814,00</td><td>8871,00</td><td>13746,32</td><td>99,77</td><td>13746,32</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,02</td><td>13258,81</td><td>11519,00</td><td>2870,00</td><td>8649,00</td><td>13510,44</td><td>100,15</td><td>13510,44</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>12854,62</td><td>15289,00</td><td>5756,00</td><td>9533,00</td><td>13304,46</td><td>99,61</td><td>13304,46</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,93</td><td>12882,25</td><td>13576,00</td><td>3291,00</td><td>10285,00</td><td>13065,21</td><td>99,46</td><td>13065,21</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,01</td><td>13081,75</td><td>10302,00</td><td>1020,00</td><td>9282,00</td><td>12811,22</td><td>100,08</td><td>12811,22</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,04</td><td>12790,72</td><td>11745,00</td><td>3674,00</td><td>8071,00</td><td>12665,78</td><td>100,31</td><td>12665,78</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>12628,13</td><td>14022,00</td><td>7360,00</td><td>6663,00</td><td>12534,48</td><td>100,00</td><td>12534,48</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>12835,15</td><td>14573,00</td><td>8219,00</td><td>6354,00</td><td>12289,04</td><td>99,61</td><td>12289,04</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,97</td><td>11855,56</td><td>11161,00</td><td>3352,00</td><td>7809,00</td><td>12023,58</td><td>99,77</td><td>12023,58</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>11072,29</td><td>10029,00</td><td>2817,00</td><td>7213,00</td><td>11812,59</td><td>100,00</td><td>11812,59</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>10951,15</td><td>12689,00</td><td>4062,00</td><td>8627,00</td><td>11490,24</td><td>99,61</td><td>11490,24</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>11302,00</td><td>11302,00</td><td>2555,00</td><td>8747,00</td><td>11150,61</td><td>99,61</td><td>11150,61</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,03</td><td>11260,87</td><td>8478,00</td><td>1069,00</td><td>7410,00</td><td>10807,15</td><td>100,23</td><td>10807,15</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,02</td><td>10840,50</td><td>11189,00</td><td>3282,00</td><td>7907,00</td><td>10450,62</td><td>100,15</td><td>10450,62</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,97</td><td>9987,19</td><td>11727,00</td><td>2536,00</td><td>9192,00</td><td>10110,39</td><td>99,77</td><td>10110,39</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,96</td><td>9070,66</td><td>9418,00</td><td>67,00</td><td>9351,00</td><td>9807,51</td><td>99,69</td><td>9807,51</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,98</td><td>9281,91</td><td>8587,00</td><td>0,00</td><td>8587,00</td><td>9537,03</td><td>99,85</td><td>9537,03</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>9247,69</td><td>8900,00</td><td>0,00</td><td>8900,00</td><td>9335,94</td><td>99,92</td><td>9335,94</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,99</td><td>8771,00</td><td>8771,00</td><td>0,00</td><td>8771,00</td><td>9170,61</td><td>99,92</td><td>9170,61</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,01</td><td>8539,18</td><td>7843,00</td><td>0,00</td><td>7843,00</td><td>8916,82</td><td>100,08</td><td>8916,82</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>74,00</td><td>8418,85</td><td>8767,00</td><td>485,00</td><td>8282,00</td><td>8640,70</td><td>100,00</td><td>8640,70</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,93</td><td>8083,40</td><td>10515,00</td><td>323,00</td><td>10193,00</td><td>8402,62</td><td>99,46</td><td>8402,62</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,89</td><td>7692,70</td><td>9078,00</td><td>0,00</td><td>9078,00</td><td>8168,00</td><td>99,15</td><td>8168,00</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>7815,59</td><td>9198,00</td><td>0,00</td><td>9198,00</td><td>7868,44</td><td>98,85</td><td>7868,44</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>8092,00</td><td>8092,00</td><td>0,00</td><td>8092,00</td><td>7625,47</td><td>98,85</td><td>7625,47</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,87</td><td>7651,86</td><td>6961,00</td><td>0,00</td><td>6961,00</td><td>7435,25</td><td>99,00</td><td>7435,25</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>7369,21</td><td>5639,00</td><td>0,00</td><td>5639,00</td><td>7271,49</td><td>99,38</td><td>7271,49</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,96</td><td>7188,62</td><td>5801,00</td><td>0,00</td><td>5801,00</td><td>7110,56</td><td>99,69</td><td>7110,56</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>7022,38</td><td>8410,00</td><td>0,00</td><td>8410,00</td><td>7014,46</td><td>99,38</td><td>7014,46</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,88</td><td>6790,51</td><td>8175,00</td><td>0,00</td><td>8175,00</td><td>6863,48</td><td>99,08</td><td>6863,48</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,86</td><td>6615,80</td><td>7307,00</td><td>0,00</td><td>7307,00</td><td>6680,34</td><td>98,92</td><td>6680,34</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,83</td><td>6377,58</td><td>7413,00</td><td>0,00</td><td>7413,00</td><td>6460,14</td><td>98,69</td><td>6460,14</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,78</td><td>6353,01</td><td>8075,00</td><td>0,00</td><td>8075,00</td><td>6236,20</td><td>98,31</td><td>6236,20</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,82</td><td>6377,31</td><td>5000,00</td><td>0,00</td><td>5000,00</td><td>5990,71</td><td>98,62</td><td>5990,71</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,86</td><td>6409,09</td><td>5029,00</td><td>0,00</td><td>5029,00</td><td>5762,04</td><td>98,92</td><td>5762,04</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,86</td><td>5832,00</td><td>5832,00</td><td>0,00</td><td>5832,00</td><td>5563,50</td><td>98,92</td><td>5563,50</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,88</td><td>5223,20</td><td>4532,00</td><td>0,00</td><td>4532,00</td><td>5427,76</td><td>99,08</td><td>5427,76</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,92</td><td>5427,49</td><td>4043,00</td><td>0,00</td><td>4043,00</td><td>5271,65</td><td>99,38</td><td>5271,65</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>5761,40</td><td>5068,00</td><td>0,00</td><td>5068,00</td><td>5162,15</td><td>99,54</td><td>5162,15</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,95</td><td>5469,99</td><td>5123,00</td><td>0,00</td><td>5123,00</td><td>5101,34</td><td>99,61</td><td>5101,34</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>5209,01</td><td>5556,00</td><td>0,00</td><td>5556,00</td><td>5021,77</td><td>99,54</td><td>5021,77</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,94</td><td>4750,00</td><td>4750,00</td><td>0,00</td><td>4750,00</td><td>4950,62</td><td>99,54</td><td>4950,62</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,88</td><td>4444,11</td><td>6522,00</td><td>0,00</td><td>6522,00</td><td>4831,23</td><td>99,08</td><td>4831,23</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,81</td><td>4620,03</td><td>7036,00</td><td>0,00</td><td>7036,00</td><td>4738,24</td><td>98,54</td><td>4738,24</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,79</td><td>4287,46</td><td>4976,00</td><td>0,00</td><td>4976,00</td><td>4619,83</td><td>98,39</td><td>4619,83</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,76</td><td>4397,29</td><td>5429,00</td><td>0,00</td><td>5429,00</td><td>4525,48</td><td>98,16</td><td>4525,48</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,72</td><td>4251,85</td><td>5625,00</td><td>0,00</td><td>5625,00</td><td>4336,81</td><td>97,86</td><td>4336,81</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,76</td><td>4390,15</td><td>3017,00</td><td>0,00</td><td>3017,00</td><td>4232,42</td><td>98,16</td><td>4232,42</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,81</td><td>4254,25</td><td>2534,00</td><td>0,00</td><td>2534,00</td><td>4099,14</td><td>98,54</td><td>4099,14</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>4291,40</td><td>2912,00</td><td>0,00</td><td>2912,00</td><td>3949,16</td><td>98,85</td><td>3949,16</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>4014,00</td><td>4014,00</td><td>0,00</td><td>4014,00</td><td>3791,15</td><td>98,85</td><td>3791,15</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,79</td><td>3708,06</td><td>5776,00</td><td>0,00</td><td>5776,00</td><td>3655,31</td><td>98,39</td><td>3655,31</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,81</td><td>3814,54</td><td>3126,00</td><td>0,00</td><td>3126,00</td><td>3548,46</td><td>98,54</td><td>3548,46</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,84</td><td>3651,38</td><td>2617,00</td><td>0,00</td><td>2617,00</td><td>3433,86</td><td>98,77</td><td>3433,86</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,87</td><td>3806,88</td><td>2771,00</td><td>0,00</td><td>2771,00</td><td>3383,43</td><td>99,00</td><td>3383,43</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>3656,50</td><td>2619,00</td><td>0,00</td><td>2619,00</td><td>3339,92</td><td>99,23</td><td>3339,92</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,90</td><td>3541,00</td><td>3541,00</td><td>0,00</td><td>3541,00</td><td>3324,88</td><td>99,23</td><td>3324,88</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,89</td><td>3364,05</td><td>3710,00</td><td>0,00</td><td>3710,00</td><td>3232,86</td><td>99,15</td><td>3232,86</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,88</td><td>3426,17</td><td>3772,00</td><td>0,00</td><td>3772,00</td><td>3125,88</td><td>99,08</td><td>3125,88</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,87</td><td>3350,28</td><td>3696,00</td><td>0,00</td><td>3696,00</td><td>2973,30</td><td>99,00</td><td>2973,30</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>3081,14</td><td>3772,00</td><td>0,00</td><td>3772,00</td><td>2876,28</td><td>98,85</td><td>2876,28</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,84</td><td>2833,98</td><td>3179,00</td><td>0,00</td><td>3179,00</td><td>2776,78</td><td>98,77</td><td>2776,78</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,85</td><td>3025,02</td><td>2680,00</td><td>0,00</td><td>2680,00</td><td>2749,04</td><td>98,85</td><td>2749,04</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,84</td><td>2949,98</td><td>3295,00</td><td>0,00</td><td>3295,00</td><td>2746,94</td><td>98,77</td><td>2746,94</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,84</td><td>3118,00</td><td>3118,00</td><td>0,00</td><td>3118,00</td><td>2809,84</td><td>98,77</td><td>2809,84</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,83</td><td>3093,98</td><td>3439,00</td><td>0,00</td><td>3439,00</td><td>2754,20</td><td>98,69</td><td>2754,20</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,82</td><td>3182,32</td><td>3527,00</td><td>0,00</td><td>3527,00</td><td>2729,21</td><td>98,62</td><td>2729,21</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2708,82</td><td>4430,00</td><td>0,00</td><td>4430,00</td><td>2637,42</td><td>98,24</td><td>2637,42</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2774,00</td><td>2774,00</td><td>0,00</td><td>2774,00</td><td>2555,62</td><td>98,24</td><td>2555,62</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2540,00</td><td>2540,00</td><td>0,00</td><td>2540,00</td><td>2435,08</td><td>98,24</td><td>2435,08</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2551,00</td><td>2551,00</td><td>0,00</td><td>2551,00</td><td>2407,07</td><td>98,24</td><td>2407,07</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2533,00</td><td>2533,00</td><td>0,00</td><td>2533,00</td><td>2377,65</td><td>98,24</td><td>2377,65</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,77</td><td>2550,00</td><td>2550,00</td><td>0,00</td><td>2550,00</td><td>2383,92</td><td>98,24</td><td>2383,92</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,76</td><td>2664,25</td><td>3008,00</td><td>0,00</td><td>3008,00</td><td>2394,58</td><td>98,16</td><td>2394,58</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,75</td><td>2693,48</td><td>3037,00</td><td>0,00</td><td>3037,00</td><td>2364,93</td><td>98,08</td><td>2364,93</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,75</td><td>2683,00</td><td>2683,00</td><td>0,00</td><td>2683,00</td><td>2364,18</td><td>98,08</td><td>2364,18</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,74</td><td>2379,60</td><td>2723,00</td><td>0,00</td><td>2723,00</td><td>2300,11</td><td>98,01</td><td>2300,11</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,73</td><td>2548,83</td><td>2892,00</td><td>0,00</td><td>2892,00</td><td>2210,96</td><td>97,93</td><td>2210,96</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,70</td><td>2357,00</td><td>3386,00</td><td>0,00</td><td>3386,00</td><td>2113,10</td><td>97,70</td><td>2113,10</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,68</td><td>2241,00</td><td>2926,00</td><td>0,00</td><td>2926,00</td><td>2096,85</td><td>97,55</td><td>2096,85</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,66</td><td>2187,86</td><td>2872,00</td><td>0,00</td><td>2872,00</td><td>2054,75</td><td>97,40</td><td>2054,75</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,64</td><td>2269,44</td><td>2953,00</td><td>0,00</td><td>2953,00</td><td>2054,12</td><td>97,25</td><td>2054,12</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,63</td><td>2267,45</td><td>2609,00</td><td>0,00</td><td>2609,00</td><td>2076,36</td><td>97,17</td><td>2076,36</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,62</td><td>2215,56</td><td>2557,00</td><td>0,00</td><td>2557,00</td><td>2054,21</td><td>97,10</td><td>2054,21</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,60</td><td>2157,82</td><td>2840,00</td><td>0,00</td><td>2840,00</td><td>1978,55</td><td>96,95</td><td>1978,55</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,56</td><td>1898,38</td><td>3261,00</td><td>0,00</td><td>3261,00</td><td>1881,39</td><td>96,64</td><td>1881,39</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,47</td><td>1786,17</td><td>4843,00</td><td>0,00</td><td>4843,00</td><td>1772,58</td><td>95,97</td><td>1772,58</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,39</td><td>1693,00</td><td>4400,00</td><td>0,00</td><td>4400,00</td><td>1716,36</td><td>95,37</td><td>1716,36</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,33</td><td>1600,93</td><td>3625,00</td><td>0,00</td><td>3625,00</td><td>1688,87</td><td>94,92</td><td>1688,87</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,29</td><td>1853,59</td><td>3200,00</td><td>0,00</td><td>3200,00</td><td>1689,38</td><td>94,62</td><td>1689,38</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,26</td><td>1731,67</td><td>2740,00</td><td>0,00</td><td>2740,00</td><td>1746,49</td><td>94,40</td><td>1746,49</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,23</td><td>1755,82</td><td>2763,00</td><td>0,00</td><td>2763,00</td><td>1798,89</td><td>94,17</td><td>1798,89</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,20</td><td>1989,21</td><td>2995,00</td><td>0,00</td><td>2995,00</td><td>1760,92</td><td>93,95</td><td>1760,92</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,16</td><td>1901,76</td><td>3241,00</td><td>0,00</td><td>3265,00</td><td>1742,49</td><td>93,65</td><td>1742,49</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,10</td><td>1677,25</td><td>3682,00</td><td>0,00</td><td>3682,00</td><td>1710,89</td><td>93,21</td><td>1710,89</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,06</td><td>1640,20</td><td>2974,00</td><td>0,00</td><td>2974,00</td><td>1637,80</td><td>92,91</td><td>1637,80</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,03</td><td>1595,04</td><td>2594,00</td><td>0,00</td><td>2594,00</td><td>1584,22</td><td>92,69</td><td>1584,22</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>73,00</td><td>1603,31</td><td>2601,00</td><td>0,00</td><td>2601,00</td><td>1596,64</td><td>92,47</td><td>1596,64</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,97</td><td>1633,47</td><td>2630,00</td><td>0,00</td><td>2630,00</td><td>1589,08</td><td>92,25</td><td>1589,08</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,94</td><td>1775,63</td><td>2771,00</td><td>0,00</td><td>2771,00</td><td>1579,14</td><td>92,03</td><td>1579,14</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,91</td><td>1644,79</td><td>2639,00</td><td>0,00</td><td>2639,00</td><td>1583,43</td><td>91,81</td><td>1583,43</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,88</td><td>1585,94</td><td>2579,00</td><td>0,00</td><td>2579,00</td><td>1571,06</td><td>91,59</td><td>1571,06</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,84</td><td>1694,78</td><td>3017,00</td><td>0,00</td><td>3017,00</td><td>1537,98</td><td>91,30</td><td>1537,98</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,80</td><td>1627,86</td><td>2948,00</td><td>0,00</td><td>2948,00</td><td>1531,41</td><td>91,00</td><td>1531,41</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,77</td><td>1625,23</td><td>2614,00</td><td>0,00</td><td>2614,00</td><td>1542,21</td><td>90,78</td><td>1542,21</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,74</td><td>1630,50</td><td>2618,00</td><td>0,00</td><td>2618,00</td><td>1546,91</td><td>90,57</td><td>1546,91</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,71</td><td>1655,54</td><td>2642,00</td><td>0,00</td><td>2642,00</td><td>1599,16</td><td>90,35</td><td>1599,16</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,63</td><td>1708,12</td><td>4333,00</td><td>0,00</td><td>4333,00</td><td>1590,58</td><td>89,77</td><td>1590,58</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,59</td><td>1869,63</td><td>3179,00</td><td>0,00</td><td>3179,00</td><td>1619,41</td><td>89,48</td><td>1619,41</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,55</td><td>1548,59</td><td>2856,00</td><td>0,00</td><td>2856,00</td><td>1612,95</td><td>89,19</td><td>1612,95</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,52</td><td>1727,83</td><td>2707,00</td><td>0,00</td><td>2707,00</td><td>1593,33</td><td>88,97</td><td>1593,33</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,49</td><td>1605,99</td><td>2584,00</td><td>0,00</td><td>2584,00</td><td>1515,46</td><td>88,75</td><td>1515,46</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,45</td><td>1582,80</td><td>2885,00</td><td>0,00</td><td>2885,00</td><td>1546,17</td><td>88,46</td><td>1546,17</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,41</td><td>1452,77</td><td>2753,00</td><td>0,00</td><td>2753,00</td><td>1523,12</td><td>88,17</td><td>1523,12</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,36</td><td>1706,66</td><td>3329,00</td><td>0,00</td><td>3329,00</td><td>1515,88</td><td>87,82</td><td>1515,88</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,31</td><td>1628,79</td><td>3248,00</td><td>0,00</td><td>3248,00</td><td>1494,54</td><td>87,46</td><td>1494,54</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,25</td><td>1536,23</td><td>3475,00</td><td>0,00</td><td>3475,00</td><td>1524,22</td><td>87,03</td><td>1524,22</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,21</td><td>1437,07</td><td>2727,00</td><td>0,00</td><td>2727,00</td><td>1496,25</td><td>86,74</td><td>1496,25</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,17</td><td>1595,15</td><td>2883,00</td><td>0,00</td><td>2883,00</td><td>1467,37</td><td>86,46</td><td>1467,37</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,12</td><td>1575,06</td><td>3182,00</td><td>0,00</td><td>3182,00</td><td>1431,61</td><td>86,10</td><td>1431,61</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,08</td><td>1491,90</td><td>2775,00</td><td>0,00</td><td>2775,00</td><td>1417,39</td><td>85,81</td><td>1417,39</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,04</td><td>1383,87</td><td>2665,00</td><td>0,00</td><td>2665,00</td><td>1374,66</td><td>85,53</td><td>1374,66</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>72,00</td><td>1404,95</td><td>2684,00</td><td>0,00</td><td>2684,00</td><td>1336,05</td><td>85,25</td><td>1336,05</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,96</td><td>1394,15</td><td>2671,00</td><td>0,00</td><td>2671,00</td><td>1323,00</td><td>84,96</td><td>1323,00</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,92</td><td>1386,23</td><td>2661,00</td><td>0,00</td><td>2661,00</td><td>1290,14</td><td>84,68</td><td>1290,14</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,88</td><td>1455,31</td><td>2728,00</td><td>0,00</td><td>2728,00</td><td>1262,11</td><td>84,40</td><td>1262,11</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,83</td><td>1270,15</td><td>2858,00</td><td>0,00</td><td>2858,00</td><td>1249,10</td><td>84,05</td><td>1249,10</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,74</td><td>1299,46</td><td>4149,00</td><td>0,00</td><td>4149,00</td><td>1246,73</td><td>83,42</td><td>1246,73</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,65</td><td>1365,34</td><td>4204,00</td><td>0,00</td><td>4204,00</td><td>1217,64</td><td>82,79</td><td>1217,64</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,57</td><td>1419,00</td><td>3933,00</td><td>0,00</td><td>3933,00</td><td>1182,84</td><td>82,23</td><td>1182,84</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,48</td><td>1339,63</td><td>4471,00</td><td>0,00</td><td>4471,00</td><td>1276,43</td><td>81,61</td><td>1276,43</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,43</td><td>1419,47</td><td>2980,00</td><td>0,00</td><td>2980,00</td><td>1257,18</td><td>81,26</td><td>1257,18</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,39</td><td>1466,17</td><td>2712,00</td><td>0,00</td><td>2712,00</td><td>1235,92</td><td>80,98</td><td>1235,92</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,34</td><td>1258,83</td><td>2813,00</td><td>0,00</td><td>2813,00</td><td>1188,39</td><td>80,64</td><td>1188,39</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,24</td><td>1299,31</td><td>4397,00</td><td>0,00</td><td>4397,00</td><td>1172,11</td><td>79,95</td><td>1172,11</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,11</td><td>1099,56</td><td>5105,00</td><td>0,00</td><td>5105,00</td><td>1143,47</td><td>79,06</td><td>1143,47</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>71,05</td><td>1377,49</td><td>3218,00</td><td>0,00</td><td>3218,00</td><td>1142,71</td><td>78,66</td><td>1142,71</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,98</td><td>1388,49</td><td>3529,00</td><td>0,00</td><td>3529,00</td><td>1086,49</td><td>78,18</td><td>1086,49</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,90</td><td>1328,50</td><td>3766,00</td><td>0,00</td><td>3766,00</td><td>1127,22</td><td>77,64</td><td>1127,22</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,85</td><td>1090,37</td><td>2609,00</td><td>0,00</td><td>2609,00</td><td>1102,52</td><td>77,31</td><td>1102,52</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,75</td><td>1351,84</td><td>4378,00</td><td>0,00</td><td>4378,00</td><td>1081,03</td><td>76,63</td><td>1081,03</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,57</td><td>1250,74</td><td>6660,00</td><td>0,00</td><td>6660,00</td><td>1075,80</td><td>75,44</td><td>1075,80</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,39</td><td>1260,70</td><td>6621,00</td><td>0,00</td><td>6621,00</td><td>1133,22</td><td>74,25</td><td>1133,22</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>70,19</td><td>1279,31</td><td>7177,00</td><td>0,00</td><td>7177,00</td><td>1108,40</td><td>72,94</td><td>1108,40</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,97</td><td>1339,68</td><td>7756,00</td><td>0,00</td><td>7756,00</td><td>1104,30</td><td>71,52</td><td>1104,30</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,78</td><td>1195,87</td><td>6677,00</td><td>0,00</td><td>6677,00</td><td>1120,01</td><td>70,30</td><td>1120,01</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,70</td><td>1217,80</td><td>3509,00</td><td>0,00</td><td>3509,00</td><td>1094,78</td><td>69,80</td><td>1094,78</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,48</td><td>1333,35</td><td>7583,00</td><td>0,00</td><td>7583,00</td><td>1059,48</td><td>68,41</td><td>1059,48</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>69,24</td><td>1145,25</td><td>7878,00</td><td>0,00</td><td>7878,00</td><td>1029,64</td><td>66,92</td><td>1029,64</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,95</td><td>906,76</td><td>8646,00</td><td>0,00</td><td>8646,00</td><td>1021,75</td><td>65,14</td><td>1021,75</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,65</td><td>1069,47</td><td>9230,00</td><td>0,00</td><td>9230,00</td><td>1017,10</td><td>63,33</td><td>1017,10</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,36</td><td>1197,66</td><td>8959,00</td><td>0,00</td><td>8959,00</td><td>1018,02</td><td>61,61</td><td>1018,02</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,14</td><td>1149,21</td><td>6955,00</td><td>0,00</td><td>6955,00</td><td>1031,47</td><td>60,33</td><td>1031,47</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>68,06</td><td>1119,13</td><td>3213,00</td><td>0,00</td><td>3213,00</td><td>1037,99</td><td>59,86</td><td>1037,99</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,83</td><td>1205,90</td><td>7175,00</td><td>0,00</td><td>7175,00</td><td>1036,62</td><td>58,54</td><td>1036,62</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,52</td><td>1068,99</td><td>8997,00</td><td>0,00</td><td>8997,00</td><td>1038,53</td><td>56,78</td><td>1038,53</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>67,20</td><td>1064,63</td><td>9110,00</td><td>0,00</td><td>9110,00</td><td>1046,36</td><td>55,00</td><td>1046,36</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,92</td><td>1185,34</td><td>8113,00</td><td>0,00</td><td>8113,00</td><td>1209,51</td><td>53,46</td><td>1209,51</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,65</td><td>1139,42</td><td>8215,00</td><td>0,00</td><td>8215,00</td><td>1027,89</td><td>52,00</td><td>1027,89</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,54</td><td>1330,98</td><td>3987,00</td><td>0,00</td><td>3987,00</td><td>1022,48</td><td>51,41</td><td>1022,48</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,47</td><td>1266,48</td><td>2949,00</td><td>0,00</td><td>2949,00</td><td>1023,24</td><td>51,04</td><td>1023,24</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,25</td><td>1186,69</td><td>6436,00</td><td>0,00</td><td>6436,00</td><td>1024,68</td><td>49,88</td><td>1024,68</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,00</td><td>1289,01</td><td>7186,00</td><td>0,00</td><td>7186,00</td><td>1016,04</td><td>48,57</td><td>1016,04</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,85</td><td>1086,79</td><td>4592,00</td><td>0,00</td><td>4592,00</td><td>1012,12</td><td>47,79</td><td>1012,12</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,67</td><td>1103,31</td><td>5279,00</td><td>0,00</td><td>5279,00</td><td>977,77</td><td>46,87</td><td>977,77</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,49</td><td>1316,09</td><td>5461,00</td><td>0,00</td><td>5461,00</td><td>969,29</td><td>45,95</td><td>969,29</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,40</td><td>1094,31</td><td>3156,00</td><td>0,00</td><td>3156,00</td><td>973,48</td><td>45,49</td><td>973,48</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,33</td><td>1152,93</td><td>2752,00</td><td>0,00</td><td>2752,00</td><td>977,20</td><td>45,14</td><td>977,20</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,08</td><td>1144,48</td><td>6827,00</td><td>0,00</td><td>6825,00</td><td>970,14</td><td>43,88</td><td>970,14</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,83</td><td>1123,53</td><td>6752,00</td><td>0,00</td><td>6752,00</td><td>973,44</td><td>42,63</td><td>973,44</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,57</td><td>1276,73</td><td>7028,00</td><td>0,00</td><td>7028,00</td><td>980,78</td><td>41,36</td><td>980,78</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,48</td><td>1133,18</td><td>3101,00</td><td>0,00</td><td>3101,00</td><td>1016,57</td><td>40,92</td><td>1016,57</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,31</td><td>1264,08</td><td>4951,00</td><td>0,00</td><td>4951,00</td><td>1017,58</td><td>40,10</td><td>1017,58</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,24</td><td>1294,82</td><td>2802,00</td><td>0,00</td><td>2802,00</td><td>1013,79</td><td>39,77</td><td>1013,79</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,17</td><td>1175,96</td><td>2677,00</td><td>0,00</td><td>2677,00</td><td>1017,58</td><td>39,44</td><td>1017,58</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,07</td><td>1137,44</td><td>3271,00</td><td>0,00</td><td>3271,00</td><td>1014,67</td><td>38,96</td><td>1014,67</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,98</td><td>1261,05</td><td>3171,00</td><td>0,00</td><td>3182,00</td><td>1160,13</td><td>38,54</td><td>1160,13</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,86</td><td>1029,40</td><td>3561,00</td><td>0,00</td><td>3555,00</td><td>1165,83</td><td>37,98</td><td>1165,83</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,69</td><td>1072,25</td><td>4630,00</td><td>0,00</td><td>4630,00</td><td>1232,16</td><td>37,19</td><td>1232,16</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,59</td><td>1177,69</td><td>3255,00</td><td>0,00</td><td>3255,00</td><td>1365,23</td><td>36,73</td><td>1365,23</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,52</td><td>1224,55</td><td>2672,00</td><td>0,00</td><td>2672,00</td><td>1387,11</td><td>36,41</td><td>1387,11</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,46</td><td>1254,66</td><td>2491,00</td><td>0,00</td><td>2491,00</td><td>1410,12</td><td>36,14</td><td>1410,12</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,33</td><td>1223,07</td><td>3888,00</td><td>0,00</td><td>3888,00</td><td>1430,30</td><td>35,55</td><td>1430,30</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,27</td><td>1314,39</td><td>2538,00</td><td>0,00</td><td>2538,00</td><td>1450,32</td><td>35,27</td><td>1450,32</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,21</td><td>1305,32</td><td>2525,00</td><td>0,00</td><td>2525,00</td><td>1724,54</td><td>35,00</td><td>1724,54</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,10</td><td>1361,19</td><td>3587,00</td><td>0,00</td><td>3587,00</td><td>1749,86</td><td>34,51</td><td>1749,86</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,97</td><td>1261,57</td><td>3875,00</td><td>0,00</td><td>3875,00</td><td>1829,66</td><td>33,93</td><td>1829,66</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,88</td><td>1369,62</td><td>3168,00</td><td>0,00</td><td>3168,00</td><td>1857,37</td><td>33,53</td><td>1857,37</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,81</td><td>1278,29</td><td>2671,00</td><td>0,00</td><td>2671,00</td><td>1884,47</td><td>33,22</td><td>1884,47</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,66</td><td>1339,91</td><td>4306,00</td><td>0,00</td><td>4306,00</td><td>1917,72</td><td>32,57</td><td>1917,72</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,42</td><td>1437,67</td><td>6132,00</td><td>0,00</td><td>6132,00</td><td>1945,66</td><td>31,53</td><td>1945,66</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,30</td><td>1488,74</td><td>3812,00</td><td>0,00</td><td>3812,00</td><td>2142,24</td><td>31,01</td><td>2142,24</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,24</td><td>1510,33</td><td>2666,00</td><td>0,00</td><td>2666,00</td><td>2151,94</td><td>30,76</td><td>2151,94</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,17</td><td>1522,71</td><td>2866,00</td><td>0,00</td><td>2866,00</td><td>2217,07</td><td>30,46</td><td>2217,07</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,09</td><td>1572,53</td><td>3101,00</td><td>0,00</td><td>3101,00</td><td>2244,14</td><td>30,12</td><td>2244,14</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,04</td><td>1585,38</td><td>2537,00</td><td>0,00</td><td>2537,00</td><td>2271,93</td><td>29,91</td><td>2271,93</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,91</td><td>1618,77</td><td>4080,00</td><td>0,00</td><td>4080,00</td><td>2301,23</td><td>29,36</td><td>2301,23</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,85</td><td>1703,37</td><td>2833,00</td><td>0,00</td><td>2833,00</td><td>2331,42</td><td>29,11</td><td>2331,42</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,79</td><td>1768,42</td><td>2894,00</td><td>0,00</td><td>2894,00</td><td>2364,33</td><td>28,86</td><td>2364,33</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,74</td><td>1929,16</td><td>2864,00</td><td>0,00</td><td>2864,00</td><td>2565,04</td><td>28,66</td><td>2565,04</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,70</td><td>2072,17</td><td>2818,00</td><td>0,00</td><td>2818,00</td><td>2169,76</td><td>28,49</td><td>2169,76</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,62</td><td>2163,66</td><td>3650,00</td><td>0,00</td><td>3650,00</td><td>2272,59</td><td>28,16</td><td>2272,59</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,59</td><td>2306,44</td><td>2862,00</td><td>0,00</td><td>2862,00</td><td>2363,69</td><td>28,04</td><td>2363,69</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,48</td><td>2273,88</td><td>4302,00</td><td>0,00</td><td>4302,00</td><td>2432,71</td><td>27,59</td><td>2432,71</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,41</td><td>2316,55</td><td>3600,00</td><td>0,00</td><td>3600,00</td><td>2505,01</td><td>27,30</td><td>2505,01</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,39</td><td>2304,26</td><td>2670,00</td><td>0,00</td><td>2670,00</td><td>2550,73</td><td>27,22</td><td>2550,73</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,32</td><td>2253,73</td><td>3530,00</td><td>0,00</td><td>3530,00</td><td>2569,00</td><td>26,94</td><td>2569,00</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,24</td><td>1984,15</td><td>3436,00</td><td>0,00</td><td>3436,00</td><td>2569,79</td><td>26,62</td><td>2569,79</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,20</td><td>1984,85</td><td>2708,00</td><td>0,00</td><td>2708,00</td><td>2589,88</td><td>26,46</td><td>2589,88</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,19</td><td>2499,56</td><td>2680,00</td><td>0,00</td><td>2680,00</td><td>2616,56</td><td>26,42</td><td>2616,56</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,18</td><td>2938,56</td><td>3119,00</td><td>0,00</td><td>3119,00</td><td>2678,39</td><td>26,38</td><td>2678,39</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,17</td><td>2762,68</td><td>2943,00</td><td>0,00</td><td>2943,00</td><td>2749,81</td><td>26,34</td><td>2749,81</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,11</td><td>2651,83</td><td>3731,00</td><td>0,00</td><td>3731,00</td><td>2825,37</td><td>26,10</td><td>2825,37</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,04</td><td>2912,18</td><td>4166,00</td><td>0,00</td><td>4166,00</td><td>2865,89</td><td>25,82</td><td>2865,89</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,99</td><td>2976,75</td><td>3869,00</td><td>0,00</td><td>3869,00</td><td>2899,97</td><td>25,62</td><td>2899,97</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,95</td><td>2958,43</td><td>3670,00</td><td>0,00</td><td>3670,00</td><td>2896,49</td><td>25,47</td><td>2896,49</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,95</td><td>2912,00</td><td>2912,00</td><td>0,00</td><td>2912,00</td><td>2890,09</td><td>25,47</td><td>2890,09</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,87</td><td>2740,18</td><td>4158,00</td><td>0,00</td><td>4158,00</td><td>2871,17</td><td>25,15</td><td>2871,17</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,75</td><td>2503,38</td><td>4616,00</td><td>0,00</td><td>4616,00</td><td>2885,70</td><td>24,68</td><td>2885,70</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,58</td><td>2575,88</td><td>5540,00</td><td>0,00</td><td>5540,00</td><td>2878,86</td><td>24,03</td><td>2878,86</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,47</td><td>2843,12</td><td>4743,00</td><td>0,00</td><td>4743,00</td><td>2892,17</td><td>23,60</td><td>2892,17</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,43</td><td>2743,73</td><td>3431,00</td><td>0,00</td><td>3431,00</td><td>2896,20</td><td>23,45</td><td>2896,20</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,39</td><td>2820,58</td><td>3506,00</td><td>0,00</td><td>3506,00</td><td>2882,94</td><td>23,30</td><td>2882,94</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,37</td><td>2712,10</td><td>3054,00</td><td>0,00</td><td>3054,00</td><td>2844,64</td><td>23,22</td><td>2844,64</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,31</td><td>2566,97</td><td>3590,00</td><td>0,00</td><td>3590,00</td><td>2849,25</td><td>23,00</td><td>2849,25</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,23</td><td>2237,59</td><td>3595,00</td><td>0,00</td><td>3595,00</td><td>2838,77</td><td>22,70</td><td>2838,77</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,15</td><td>2677,35</td><td>4027,00</td><td>0,00</td><td>4027,00</td><td>2889,54</td><td>22,40</td><td>2889,54</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,19</td><td>4133,84</td><td>3460,00</td><td>0,00</td><td>3460,00</td><td>2984,51</td><td>22,55</td><td>2984,51</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,29</td><td>5548,06</td><td>3855,00</td><td>0,00</td><td>3855,00</td><td>3116,69</td><td>22,92</td><td>3116,69</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,35</td><td>5206,64</td><td>4185,00</td><td>0,00</td><td>4185,00</td><td>3289,94</td><td>23,15</td><td>3289,94</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,45</td><td>4959,27</td><td>3247,00</td><td>0,00</td><td>3247,00</td><td>3503,54</td><td>23,53</td><td>3503,54</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,47</td><td>4809,87</td><td>4466,00</td><td>0,00</td><td>4466,00</td><td>3712,55</td><td>23,60</td><td>3712,55</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,45</td><td>3943,13</td><td>4287,00</td><td>0,00</td><td>4287,00</td><td>4011,14</td><td>23,53</td><td>4011,14</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,43</td><td>4300,60</td><td>4644,00</td><td>0,00</td><td>4644,00</td><td>4292,34</td><td>23,45</td><td>4292,34</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,46</td><td>4976,28</td><td>4461,00</td><td>0,00</td><td>4461,00</td><td>4778,17</td><td>23,57</td><td>4778,17</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,45</td><td>4780,00</td><td>4780,00</td><td>0,00</td><td>4780,00</td><td>5247,59</td><td>23,53</td><td>5247,59</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,49</td><td>5198,31</td><td>4510,00</td><td>0,00</td><td>4510,00</td><td>5888,50</td><td>23,68</td><td>5888,50</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,68</td><td>6139,91</td><td>2845,00</td><td>0,00</td><td>2845,00</td><td>6592,71</td><td>24,41</td><td>6592,71</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>60,88</td><td>7527,12</td><td>4013,00</td><td>0,00</td><td>4013,00</td><td>7385,07</td><td>25,19</td><td>7385,07</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,05</td><td>7433,50</td><td>4410,00</td><td>0,00</td><td>4410,00</td><td>8118,34</td><td>25,86</td><td>8118,34</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,14</td><td>7236,24</td><td>5622,00</td><td>0,00</td><td>5622,00</td><td>8776,09</td><td>26,22</td><td>8776,09</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,29</td><td>8660,88</td><td>5950,00</td><td>0,00</td><td>5950,00</td><td>9387,75</td><td>26,82</td><td>9387,75</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,47</td><td>9419,15</td><td>6132,00</td><td>0,00</td><td>6132,00</td><td>9900,85</td><td>27,55</td><td>9900,85</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>61,76</td><td>9758,15</td><td>4385,00</td><td>0,00</td><td>4385,00</td><td>10246,04</td><td>28,74</td><td>10246,04</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,10</td><td>9280,02</td><td>2860,00</td><td>0,00</td><td>2860,00</td><td>10367,49</td><td>30,16</td><td>10367,49</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,39</td><td>8237,66</td><td>2660,00</td><td>0,00</td><td>2660,00</td><td>10262,41</td><td>31,40</td><td>10262,41</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,51</td><td>7624,30</td><td>5289,00</td><td>0,00</td><td>5289,00</td><td>10004,94</td><td>31,92</td><td>10004,94</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,55</td><td>7116,94</td><td>6335,00</td><td>0,00</td><td>6335,00</td><td>9647,44</td><td>32,09</td><td>9647,44</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,63</td><td>7967,10</td><td>6398,00</td><td>0,00</td><td>6398,00</td><td>9266,06</td><td>32,44</td><td>9266,06</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,78</td><td>8856,23</td><td>5895,00</td><td>0,00</td><td>5895,00</td><td>9023,11</td><td>33,09</td><td>9023,11</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>62,99</td><td>9221,04</td><td>5034,00</td><td>0,00</td><td>5034,00</td><td>8848,52</td><td>34,02</td><td>8848,52</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,25</td><td>9575,04</td><td>4324,00</td><td>0,00</td><td>4324,00</td><td>8696,11</td><td>35,18</td><td>8696,11</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,50</td><td>8980,44</td><td>3861,00</td><td>0,00</td><td>3861,00</td><td>8579,30</td><td>36,32</td><td>8579,30</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,45</td><td>7797,49</td><td>8827,00</td><td>0,00</td><td>8827,00</td><td>8549,55</td><td>36,09</td><td>8549,55</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,32</td><td>7437,57</td><td>10101,00</td><td>0,00</td><td>10101,00</td><td>8557,95</td><td>35,50</td><td>8557,95</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,21</td><td>8252,88</td><td>10492,00</td><td>0,00</td><td>10492,00</td><td>8570,72</td><td>35,00</td><td>8570,72</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,13</td><td>8289,86</td><td>9910,00</td><td>0,00</td><td>9910,00</td><td>8631,42</td><td>34,65</td><td>8631,42</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,12</td><td>7640,03</td><td>7842,00</td><td>0,00</td><td>7842,00</td><td>8689,96</td><td>34,60</td><td>8689,96</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,28</td><td>7775,37</td><td>4530,00</td><td>0,00</td><td>4530,00</td><td>8744,90</td><td>35,32</td><td>8744,90</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,39</td><td>7580,69</td><td>5333,00</td><td>0,00</td><td>5333,00</td><td>8821,34</td><td>35,82</td><td>8821,34</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,50</td><td>7657,11</td><td>5396,00</td><td>0,00</td><td>5396,00</td><td>8931,38</td><td>36,32</td><td>8931,38</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,58</td><td>8393,89</td><td>6741,00</td><td>0,00</td><td>6741,00</td><td>9049,30</td><td>36,69</td><td>9049,30</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,68</td><td>9446,16</td><td>7370,00</td><td>0,00</td><td>7370,00</td><td>9225,32</td><td>37,15</td><td>9225,32</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,79</td><td>9821,99</td><td>7525,00</td><td>0,00</td><td>7525,00</td><td>9449,50</td><td>37,65</td><td>9449,50</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>63,94</td><td>10229,86</td><td>7075,00</td><td>0,00</td><td>7075,00</td><td>9655,75</td><td>38,35</td><td>9655,75</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,21</td><td>10719,18</td><td>4973,00</td><td>0,00</td><td>4973,00</td><td>9830,60</td><td>39,63</td><td>9830,60</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,38</td><td>9353,70</td><td>5689,00</td><td>0,00</td><td>5689,00</td><td>9980,19</td><td>40,44</td><td>9980,19</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,55</td><td>8114,13</td><td>4411,00</td><td>0,00</td><td>4411,00</td><td>10057,57</td><td>41,26</td><td>10057,57</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,74</td><td>8222,04</td><td>4035,00</td><td>0,00</td><td>4035,00</td><td>10026,86</td><td>42,19</td><td>10026,86</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,86</td><td>8610,69</td><td>5938,00</td><td>0,00</td><td>5938,00</td><td>9937,14</td><td>42,78</td><td>9937,14</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,90</td><td>8782,06</td><td>7886,00</td><td>0,00</td><td>7886,00</td><td>9816,29</td><td>42,98</td><td>9816,29</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>64,94</td><td>9252,73</td><td>8354,00</td><td>0,00</td><td>8354,00</td><td>9679,52</td><td>43,18</td><td>9679,52</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,20</td><td>9697,88</td><td>3812,00</td><td>0,00</td><td>3812,00</td><td>9523,60</td><td>44,48</td><td>9523,60</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,34</td><td>9117,19</td><td>5929,00</td><td>0,00</td><td>5929,00</td><td>9380,36</td><td>45,19</td><td>9380,36</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,37</td><td>8190,07</td><td>7505,00</td><td>0,00</td><td>7505,00</td><td>9226,41</td><td>45,34</td><td>9226,41</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,39</td><td>8349,18</td><td>7892,00</td><td>0,00</td><td>7892,00</td><td>9124,61</td><td>45,44</td><td>9124,61</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,46</td><td>8568,43</td><td>6966,00</td><td>0,00</td><td>6966,00</td><td>9067,04</td><td>45,80</td><td>9067,04</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,53</td><td>8952,60</td><td>7346,00</td><td>0,00</td><td>7346,00</td><td>9162,71</td><td>46,15</td><td>9162,71</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,66</td><td>9710,14</td><td>6715,00</td><td>0,00</td><td>6715,00</td><td>9386,19</td><td>46,82</td><td>9386,19</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>65,86</td><td>10377,70</td><td>5738,00</td><td>0,00</td><td>5738,00</td><td>9817,27</td><td>47,85</td><td>9817,27</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,03</td><td>10163,27</td><td>6187,00</td><td>0,00</td><td>6187,00</td><td>10317,11</td><td>48,73</td><td>10317,11</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,22</td><td>10497,71</td><td>6016,00</td><td>0,00</td><td>6016,00</td><td>10677,13</td><td>49,72</td><td>10677,13</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,43</td><td>11624,97</td><td>6623,00</td><td>0,00</td><td>6623,00</td><td>10964,15</td><td>50,83</td><td>10964,15</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19134</td><td>TUCURUI                                           </td><td>66,61</td><td>11489,63</td><td>7160,00</td><td>0,00</td><td>7160,00</td><td>11304,68</td><td>51,79</td><td>11304,68</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

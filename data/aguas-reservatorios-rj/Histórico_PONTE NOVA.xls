@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,04</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>0,00</td><td>10,00</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,04</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>17,00</td><td>0,00</td><td>17,00</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,04</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>10,99</td><td>0,00</td><td>10,99</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,31</td><td>36,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,97</td><td>0,00</td><td>7,97</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,34</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,79</td><td>0,00</td><td>6,79</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,36</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,81</td><td>0,00</td><td>6,81</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,38</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,64</td><td>0,00</td><td>5,64</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,39</td><td>6,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,65</td><td>0,00</td><td>5,65</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,39</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>17,00</td><td>0,00</td><td>17,00</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,39</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>0,00</td><td>16,00</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,39</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>0,00</td><td>13,00</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,76</td><td>50,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>0,00</td><td>10,00</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,72</td><td>-1,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>0,00</td><td>7,00</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,74</td><td>8,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>0,00</td><td>9,00</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,78</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>0,00</td><td>9,00</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>0,00</td><td>9,00</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>0,00</td><td>7,00</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,89</td><td>19,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>0,00</td><td>6,00</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,89</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>0,00</td><td>8,00</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,92</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>0,00</td><td>7,00</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,92</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>0,00</td><td>6,00</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,96</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,00</td><td>5,00</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,96</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,00</td><td>5,00</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,96</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,16</td><td>0,00</td><td>5,16</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>754,96</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,50</td><td>0,00</td><td>6,50</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,01</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,14</td><td>0,04</td><td>5,14</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,02</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,48</td><td>0,08</td><td>6,48</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,04</td><td>8,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,43</td><td>0,16</td><td>6,43</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>775,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,13</td><td>0,23</td><td>5,13</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,11</td><td>0,23</td><td>5,11</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,23</td><td>5,00</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,09</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,35</td><td>5,00</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,10</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,39</td><td>5,00</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,11</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,43</td><td>5,00</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,12</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,47</td><td>5,00</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,13</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,51</td><td>4,00</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,51</td><td>4,00</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,51</td><td>4,00</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,51</td><td>5,00</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,51</td><td>4,00</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,14</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,55</td><td>4,00</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,14</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>0,55</td><td>9,00</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,18</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>0,71</td><td>8,00</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,18</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>0,71</td><td>5,00</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,18</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>0,71</td><td>4,00</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,22</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>0,87</td><td>9,00</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,26</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>1,03</td><td>7,00</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,28</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>17,00</td><td>1,11</td><td>17,00</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,38</td><td>18,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>1,51</td><td>12,00</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,44</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>1,76</td><td>9,00</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,44</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>1,76</td><td>7,00</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,44</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,55</td><td>1,76</td><td>13,55</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,57</td><td>22,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,03</td><td>2,29</td><td>8,03</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,60</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,67</td><td>2,42</td><td>6,67</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,62</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,70</td><td>2,50</td><td>6,70</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,64</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,32</td><td>2,58</td><td>5,32</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,65</td><td>5,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,32</td><td>2,63</td><td>5,32</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>2,63</td><td>0,00</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>2,63</td><td>0,00</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,75</td><td>18,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>3,04</td><td>0,00</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>755,94</td><td>31,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>3,85</td><td>0,00</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,19</td><td>40,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>4,94</td><td>0,00</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,28</td><td>17,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>5,34</td><td>0,00</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,39</td><td>20,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>5,83</td><td>0,00</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,39</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>5,83</td><td>0,00</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,39</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>21,00</td><td>5,83</td><td>21,00</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,63</td><td>40,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>6,91</td><td>15,00</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,70</td><td>16,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>7,24</td><td>11,00</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,74</td><td>11,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>7,42</td><td>9,00</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,77</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>20,00</td><td>7,56</td><td>20,00</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,87</td><td>21,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>21,00</td><td>8,02</td><td>21,00</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,87</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>8,02</td><td>15,00</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>756,87</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>8,02</td><td>10,00</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,09</td><td>39,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>9,06</td><td>9,00</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,14</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,30</td><td>7,00</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,14</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>9,30</td><td>9,00</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,17</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,44</td><td>7,00</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,19</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,54</td><td>6,00</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,54</td><td>6,00</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,54</td><td>6,00</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,22</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,68</td><td>7,00</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,24</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,78</td><td>7,00</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,26</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,88</td><td>6,00</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>9,92</td><td>12,00</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>9,92</td><td>9,00</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>9,92</td><td>9,00</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,92</td><td>7,00</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>9,92</td><td>7,00</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,41</td><td>27,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>10,60</td><td>6,00</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>-19,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,92</td><td>6,00</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,47</td><td>37,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>10,90</td><td>12,00</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,50</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>11,04</td><td>7,00</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,50</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,04</td><td>6,00</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,49</td><td>2,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,00</td><td>6,00</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,53</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,19</td><td>6,00</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,55</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,29</td><td>6,00</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>-42,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>9,92</td><td>6,00</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,56</td><td>52,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,34</td><td>6,00</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,56</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,04</td><td>11,34</td><td>4,04</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,56</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,34</td><td>4,00</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,56</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,34</td><td>4,00</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,54</td><td>1,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,24</td><td>6,00</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>-45,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>9,92</td><td>4,00</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,34</td><td>4,00</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>9,92</td><td>4,00</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>53,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,05</td><td>11,39</td><td>4,05</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,08</td><td>11,39</td><td>4,08</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,11</td><td>11,39</td><td>4,11</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,87</td><td>11,39</td><td>5,87</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,74</td><td>11,44</td><td>5,74</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,95</td><td>11,44</td><td>3,95</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,59</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,09</td><td>11,49</td><td>4,09</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,59</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,49</td><td>4,00</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,59</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>11,49</td><td>3,00</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>3,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>11,44</td><td>5,00</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,44</td><td>4,00</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>14,44</td><td>4,00</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>11,44</td><td>3,00</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,44</td><td>4,00</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,44</td><td>4,00</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>3,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>11,39</td><td>4,00</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>11,39</td><td>7,00</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>11,39</td><td>6,00</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,60</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>11,54</td><td>7,00</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,60</td><td>9,00</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>11,54</td><td>9,00</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,65</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>11,79</td><td>7,00</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>11,79</td><td>11,00</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>11,79</td><td>11,00</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,76</td><td>23,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>12,34</td><td>11,00</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,79</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>12,49</td><td>7,00</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,81</td><td>8,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>12,59</td><td>6,00</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>12,59</td><td>6,00</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>12,59</td><td>4,00</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>12,59</td><td>4,00</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>12,59</td><td>4,00</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,83</td><td>7,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>12,69</td><td>6,00</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,84</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>12,74</td><td>6,00</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,85</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>12,79</td><td>9,00</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,88</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>12,94</td><td>7,00</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,90</td><td>8,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>13,04</td><td>11,00</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,90</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>13,04</td><td>16,00</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,90</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>21,00</td><td>13,04</td><td>21,00</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>757,90</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>27,00</td><td>13,04</td><td>27,00</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,24</td><td>63,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>27,00</td><td>14,79</td><td>27,00</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,37</td><td>27,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>23,00</td><td>15,47</td><td>23,00</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,48</td><td>23,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>16,05</td><td>9,00</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,52</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>16,26</td><td>8,00</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,51</td><td>2,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>16,21</td><td>8,00</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,51</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,21</td><td>6,00</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,56</td><td>14,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>16,47</td><td>4,00</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,56</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,47</td><td>6,00</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,57</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,53</td><td>6,00</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,57</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,53</td><td>6,00</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,59</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>16,63</td><td>4,00</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,59</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,63</td><td>6,00</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,59</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,63</td><td>6,00</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,62</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>16,79</td><td>4,00</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,63</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,85</td><td>6,00</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,63</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,85</td><td>6,00</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,64</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,90</td><td>6,00</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,65</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,95</td><td>6,00</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>16,95</td><td>6,00</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>16,95</td><td>4,00</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,67</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,06</td><td>4,00</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,67</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,06</td><td>4,00</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,67</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,06</td><td>4,00</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,68</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,67</td><td>17,12</td><td>5,67</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,69</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,17</td><td>6,00</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,69</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,17</td><td>6,00</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,69</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,17</td><td>4,00</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,71</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,28</td><td>6,00</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,72</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,33</td><td>6,00</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,38</td><td>4,00</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,73</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,38</td><td>6,00</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,74</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,44</td><td>4,00</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,74</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>17,44</td><td>6,00</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,74</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,44</td><td>4,00</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>17,49</td><td>4,00</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,04</td><td>17,49</td><td>4,04</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,99</td><td>17,49</td><td>3,99</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,02</td><td>17,49</td><td>4,02</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,99</td><td>17,49</td><td>3,99</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,75</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,81</td><td>17,49</td><td>5,81</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,76</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,47</td><td>17,55</td><td>5,47</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,76</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,28</td><td>17,55</td><td>5,28</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,76</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,47</td><td>17,55</td><td>3,47</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,78</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,65</td><td>3,00</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,78</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,65</td><td>5,00</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,79</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,71</td><td>3,00</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,79</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,71</td><td>5,00</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,79</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,71</td><td>3,00</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,80</td><td>5,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,76</td><td>5,00</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,80</td><td>3,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,76</td><td>3,00</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,81</td><td>5,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,82</td><td>5,00</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>5,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,87</td><td>3,00</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>3,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,87</td><td>3,00</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>3,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,87</td><td>5,00</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,87</td><td>3,00</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,87</td><td>3,00</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,82</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,87</td><td>5,00</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,84</td><td>7,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>17,98</td><td>3,00</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,84</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>17,98</td><td>5,00</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,85</td><td>5,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>18,03</td><td>5,00</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,86</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>18,09</td><td>5,00</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,87</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>18,14</td><td>5,00</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,87</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>18,14</td><td>8,00</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,87</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>18,14</td><td>9,00</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>758,94</td><td>17,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>18,52</td><td>16,00</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,02</td><td>19,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>18,96</td><td>9,00</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,04</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,07</td><td>5,00</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,06</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,18</td><td>5,00</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,18</td><td>5,00</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,18</td><td>5,00</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,06</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,18</td><td>3,00</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,08</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,29</td><td>5,00</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,09</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,35</td><td>5,00</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,10</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,40</td><td>3,00</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,10</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,40</td><td>3,00</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,10</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,40</td><td>3,00</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,10</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,40</td><td>5,00</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,10</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,40</td><td>5,00</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,12</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,51</td><td>3,00</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,12</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,51</td><td>3,00</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,12</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,51</td><td>5,00</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,13</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,57</td><td>3,00</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,57</td><td>5,00</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,57</td><td>3,00</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,13</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,57</td><td>3,00</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,14</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,62</td><td>5,00</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,68</td><td>3,00</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,68</td><td>3,00</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,68</td><td>3,00</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>19,68</td><td>3,00</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,68</td><td>5,00</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,15</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>19,68</td><td>7,00</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,18</td><td>10,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,85</td><td>5,00</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,19</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,90</td><td>5,00</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,20</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>19,96</td><td>5,00</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,21</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>20,01</td><td>5,00</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,22</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>20,07</td><td>5,00</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,22</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>20,07</td><td>5,00</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,22</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>2,97</td><td>20,07</td><td>2,97</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,20</td><td>20,18</td><td>3,20</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,11</td><td>20,18</td><td>3,11</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,13</td><td>20,18</td><td>3,13</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,08</td><td>20,18</td><td>3,08</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,08</td><td>20,18</td><td>3,08</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>20,18</td><td>3,00</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>20,18</td><td>3,00</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>20,18</td><td>3,00</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>20,18</td><td>5,00</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>20,24</td><td>6,00</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,25</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>20,24</td><td>4,00</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,26</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>20,29</td><td>12,00</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,30</td><td>13,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>20,52</td><td>15,00</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,30</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>20,52</td><td>10,00</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,30</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>20,52</td><td>9,00</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,41</td><td>26,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>21,13</td><td>5,00</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,41</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>21,13</td><td>5,00</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,41</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,13</td><td>6,00</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,42</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>21,19</td><td>4,00</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,42</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>21,19</td><td>10,00</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,42</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>21,19</td><td>8,00</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,42</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,19</td><td>6,00</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,48</td><td>15,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,53</td><td>6,00</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,49</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,59</td><td>6,00</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,50</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,64</td><td>6,00</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,51</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>21,70</td><td>8,00</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,53</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,81</td><td>6,00</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,53</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,81</td><td>6,00</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,53</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>21,81</td><td>5,00</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,55</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>21,93</td><td>4,00</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>21,93</td><td>4,00</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>21,93</td><td>4,00</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>21,93</td><td>7,00</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,56</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>21,98</td><td>7,00</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,56</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>21,98</td><td>6,00</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,56</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>21,98</td><td>5,00</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,58</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>22,10</td><td>4,00</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,58</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>22,10</td><td>4,00</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>22,10</td><td>16,00</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,64</td><td>16,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>22,44</td><td>10,00</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,67</td><td>11,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>22,61</td><td>8,00</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>22,61</td><td>11,00</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>22,61</td><td>14,00</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>22,61</td><td>12,00</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>22,61</td><td>12,00</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,86</td><td>41,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>23,71</td><td>14,00</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,91</td><td>14,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>24,00</td><td>8,00</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,93</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>24,12</td><td>12,00</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,93</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>24,12</td><td>12,00</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>759,93</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>24,12</td><td>6,00</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,02</td><td>22,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>24,64</td><td>6,00</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,03</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>24,70</td><td>4,00</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,03</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>24,70</td><td>6,00</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,04</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>24,76</td><td>7,00</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,05</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>24,82</td><td>6,00</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,05</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>24,82</td><td>6,00</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,05</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,07</td><td>24,82</td><td>4,07</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,07</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,03</td><td>24,94</td><td>6,03</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,08</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,95</td><td>25,00</td><td>13,95</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,13</td><td>14,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,98</td><td>25,29</td><td>13,98</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,18</td><td>14,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>25,59</td><td>8,00</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,20</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>25,70</td><td>4,00</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,20</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>25,70</td><td>10,00</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,20</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>25,70</td><td>8,00</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,25</td><td>15,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>26,00</td><td>6,00</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,26</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>26,06</td><td>6,00</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,27</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>26,12</td><td>6,00</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,28</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>26,18</td><td>6,00</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,29</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>26,24</td><td>4,00</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,29</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>26,24</td><td>14,00</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,29</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>26,24</td><td>8,00</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,36</td><td>19,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>26,66</td><td>12,00</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,40</td><td>14,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>26,90</td><td>8,00</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,42</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>27,02</td><td>8,00</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,44</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>27,14</td><td>8,00</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,46</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>27,26</td><td>8,00</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,46</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>27,26</td><td>6,00</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,46</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>27,26</td><td>6,00</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,50</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>27,50</td><td>8,00</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,52</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>27,62</td><td>10,00</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,55</td><td>11,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>27,80</td><td>10,00</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,58</td><td>11,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>27,98</td><td>6,00</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>27,98</td><td>6,00</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>27,98</td><td>6,00</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,36</td><td>27,98</td><td>6,36</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,58</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,26</td><td>27,98</td><td>4,26</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,62</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>12,33</td><td>28,23</td><td>12,33</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,66</td><td>13,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,14</td><td>28,47</td><td>6,14</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,67</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,99</td><td>28,53</td><td>5,99</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,27</td><td>28,53</td><td>6,27</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,67</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,29</td><td>28,53</td><td>6,29</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>28,53</td><td>6,00</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,67</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>28,53</td><td>8,00</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,73</td><td>16,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>28,90</td><td>13,00</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,77</td><td>12,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>29,14</td><td>6,00</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,78</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>29,20</td><td>6,00</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,79</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>29,26</td><td>7,00</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,79</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>29,26</td><td>10,00</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,79</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>29,26</td><td>7,00</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,83</td><td>14,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>29,51</td><td>14,00</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,87</td><td>14,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>29,76</td><td>14,00</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,91</td><td>14,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>30,00</td><td>8,00</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>760,91</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>31,00</td><td>30,00</td><td>31,00</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,04</td><td>33,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>30,00</td><td>30,81</td><td>30,00</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,04</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>30,81</td><td>11,00</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,04</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>30,81</td><td>11,00</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,22</td><td>43,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>31,94</td><td>11,00</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,25</td><td>11,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>32,13</td><td>13,00</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,29</td><td>13,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>32,38</td><td>12,00</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,33</td><td>13,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>32,63</td><td>8,00</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,35</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>32,76</td><td>15,00</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,35</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>26,00</td><td>32,76</td><td>26,00</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,35</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>23,00</td><td>32,76</td><td>23,00</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,59</td><td>55,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>34,29</td><td>15,00</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,64</td><td>16,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>34,61</td><td>13,00</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,64</td><td>15,00</td><td>15,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>34,61</td><td>13,00</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,72</td><td>21,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>35,13</td><td>13,00</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,76</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>35,39</td><td>11,00</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,76</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>35,39</td><td>8,00</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,76</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,78</td><td>35,39</td><td>6,78</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,82</td><td>18,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,24</td><td>35,77</td><td>6,24</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,83</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,77</td><td>35,84</td><td>8,77</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,85</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>35,97</td><td>9,00</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,87</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>36,10</td><td>6,00</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,88</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>36,17</td><td>9,00</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>36,17</td><td>6,00</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>36,17</td><td>7,00</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,92</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>36,43</td><td>9,00</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,94</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>36,56</td><td>6,00</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,95</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>36,62</td><td>9,00</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,97</td><td>9,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>36,75</td><td>6,00</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,98</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>36,82</td><td>5,00</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,98</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>36,82</td><td>6,00</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>761,98</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>36,82</td><td>4,00</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,00</td><td>6,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>36,95</td><td>4,00</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,01</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,02</td><td>4,00</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,02</td><td>4,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,08</td><td>4,00</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,03</td><td>5,00</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>37,15</td><td>6,00</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,04</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>37,21</td><td>7,00</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,04</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>37,21</td><td>6,00</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,04</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>37,21</td><td>6,00</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>12,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>37,41</td><td>4,00</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>37,41</td><td>6,00</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,07</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>37,41</td><td>16,00</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,13</td><td>18,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>37,81</td><td>13,00</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,17</td><td>14,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>38,07</td><td>13,00</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,21</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>38,34</td><td>6,00</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,22</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>38,40</td><td>6,00</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,23</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,47</td><td>4,00</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,23</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,47</td><td>4,00</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,23</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,47</td><td>4,00</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,23</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,47</td><td>4,00</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,23</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>38,47</td><td>6,00</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,24</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,54</td><td>4,00</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,24</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,54</td><td>4,00</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>38,54</td><td>4,00</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>38,54</td><td>11,00</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,24</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>38,54</td><td>13,00</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,31</td><td>20,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>39,00</td><td>8,00</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,33</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,14</td><td>6,00</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,34</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,20</td><td>6,00</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>8,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,34</td><td>6,00</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,34</td><td>4,00</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,34</td><td>4,00</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,02</td><td>39,34</td><td>4,02</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,34</td><td>4,00</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,90</td><td>39,34</td><td>3,90</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,96</td><td>39,34</td><td>3,96</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,36</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,17</td><td>39,34</td><td>6,17</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,37</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,92</td><td>39,40</td><td>3,92</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,37</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,40</td><td>4,00</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,37</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,40</td><td>6,00</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,38</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,47</td><td>6,00</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,39</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,54</td><td>4,00</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,39</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,54</td><td>4,00</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,39</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,54</td><td>6,00</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,40</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>39,60</td><td>9,00</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,40</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,60</td><td>6,00</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,40</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,60</td><td>6,00</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,44</td><td>14,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>39,87</td><td>4,00</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,44</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>39,87</td><td>6,00</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,45</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>24,00</td><td>39,94</td><td>24,00</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,54</td><td>25,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>18,00</td><td>40,55</td><td>18,00</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,54</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>40,55</td><td>8,00</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,54</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>40,55</td><td>6,00</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,54</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>40,55</td><td>6,00</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,64</td><td>27,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>41,22</td><td>6,00</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>41,29</td><td>4,00</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>41,29</td><td>4,00</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>41,29</td><td>4,00</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>41,29</td><td>8,00</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>41,29</td><td>9,00</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,65</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>41,29</td><td>15,00</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>25,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>41,90</td><td>9,00</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,04</td><td>6,00</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>42,11</td><td>9,00</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,24</td><td>42,24</td><td>6,24</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>8,50</td><td>42,31</td><td>8,50</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,14</td><td>42,31</td><td>6,14</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,22</td><td>42,31</td><td>6,22</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,31</td><td>4,00</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,59</td><td>4,00</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>9,00</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,59</td><td>4,00</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,59</td><td>4,00</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,59</td><td>6,00</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,59</td><td>6,00</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>42,59</td><td>9,00</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,86</td><td>6,00</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,89</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,93</td><td>6,00</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,90</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,00</td><td>4,00</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,90</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>43,00</td><td>6,00</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>43,07</td><td>7,00</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,92</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>43,13</td><td>16,00</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,92</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>43,13</td><td>9,00</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,92</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>18,00</td><td>43,13</td><td>18,00</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,05</td><td>35,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>44,03</td><td>14,00</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,09</td><td>14,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>44,31</td><td>12,00</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,12</td><td>12,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,52</td><td>6,00</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,13</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,59</td><td>6,00</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,14</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,66</td><td>6,00</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,14</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,66</td><td>6,00</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,14</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,66</td><td>6,00</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,17</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,87</td><td>6,00</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,18</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,93</td><td>6,00</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,00</td><td>4,00</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,00</td><td>4,00</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,00</td><td>4,00</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,00</td><td>4,00</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,00</td><td>4,00</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,19</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>9,00</td><td>45,00</td><td>9,00</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,21</td><td>9,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>45,14</td><td>11,00</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,24</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>45,35</td><td>6,00</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,25</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>45,42</td><td>6,00</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,26</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,49</td><td>4,00</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,26</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,49</td><td>4,00</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,26</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,49</td><td>4,00</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,26</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,49</td><td>4,00</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,26</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>45,49</td><td>6,00</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,28</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>45,63</td><td>6,00</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,28</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,63</td><td>4,00</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,27</td><td>2,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,56</td><td>4,00</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,56</td><td>4,00</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,56</td><td>4,00</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,27</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>45,56</td><td>11,00</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,31</td><td>13,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>23,00</td><td>45,84</td><td>23,00</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,39</td><td>23,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>46,41</td><td>16,00</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,44</td><td>16,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>46,76</td><td>6,00</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>46,83</td><td>6,00</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>46,83</td><td>6,00</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,32</td><td>46,83</td><td>6,32</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,48</td><td>11,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,31</td><td>47,04</td><td>6,31</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,49</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,40</td><td>47,11</td><td>6,40</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,50</td><td>6,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>3,97</td><td>47,18</td><td>3,97</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,50</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>6,55</td><td>47,18</td><td>6,55</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,51</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,49</td><td>47,25</td><td>6,49</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,51</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>47,25</td><td>6,00</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,51</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,25</td><td>4,00</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>10,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>47,39</td><td>0,00</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>47,39</td><td>0,00</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,39</td><td>4,00</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,53</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>47,39</td><td>7,00</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,54</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,46</td><td>4,00</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>47,54</td><td>0,00</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,54</td><td>4,00</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,54</td><td>4,00</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,12</td><td>47,54</td><td>4,12</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,15</td><td>47,54</td><td>4,15</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,03</td><td>47,54</td><td>4,03</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,12</td><td>47,54</td><td>4,12</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,11</td><td>47,54</td><td>4,11</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,18</td><td>47,54</td><td>4,18</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,11</td><td>47,54</td><td>4,11</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,19</td><td>47,54</td><td>4,19</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,07</td><td>47,54</td><td>4,07</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,54</td><td>4,00</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>4,00</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>2,00</td><td>47,54</td><td>2,00</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>2,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>2,00</td><td>47,54</td><td>2,00</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>2,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>47,54</td><td>10,00</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>2,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>26,00</td><td>47,54</td><td>26,00</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,55</td><td>2,00</td><td>2,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>47,54</td><td>11,00</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,70</td><td>41,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>48,60</td><td>6,00</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,71</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>48,67</td><td>7,00</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,75</td><td>4,00</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,75</td><td>4,00</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,75</td><td>4,00</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,75</td><td>4,00</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,75</td><td>4,00</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,72</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>48,75</td><td>7,00</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,82</td><td>4,00</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,82</td><td>4,00</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>48,82</td><td>7,00</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,74</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,89</td><td>5,00</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,74</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,89</td><td>5,00</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,74</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,89</td><td>5,00</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,68</td><td>-4,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>26,00</td><td>48,46</td><td>26,00</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,75</td><td>26,00</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>48,96</td><td>15,00</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>15,00</td><td>8,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>49,18</td><td>7,00</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>7,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>49,18</td><td>7,00</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,79</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,25</td><td>4,00</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,79</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>49,25</td><td>7,00</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,79</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,25</td><td>4,00</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,80</td><td>7,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,32</td><td>4,00</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,79</td><td>5,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,25</td><td>4,00</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,62</td><td>49,18</td><td>4,62</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,18</td><td>5,00</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,18</td><td>5,00</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,18</td><td>5,00</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>49,18</td><td>4,00</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>49,18</td><td>3,00</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,77</td><td>4,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,10</td><td>5,00</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,10</td><td>5,00</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>49,10</td><td>3,00</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,10</td><td>5,00</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,10</td><td>5,00</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,76</td><td>3,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>49,03</td><td>5,00</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,76</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>2,00</td><td>49,03</td><td>2,00</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,75</td><td>3,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>48,96</td><td>3,00</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,74</td><td>4,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,89</td><td>4,00</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>5,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,82</td><td>4,00</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>7,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,82</td><td>5,00</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>7,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>4,24</td><td>48,82</td><td>4,24</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,73</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,04</td><td>48,82</td><td>4,04</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,71</td><td>2,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>5,32</td><td>48,67</td><td>5,32</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,71</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>2,90</td><td>48,67</td><td>2,90</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,70</td><td>4,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,33</td><td>48,60</td><td>5,33</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,70</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,19</td><td>48,60</td><td>6,19</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,70</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>9,23</td><td>48,60</td><td>9,23</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,70</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,60</td><td>4,00</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,66</td><td>0,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,32</td><td>4,00</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,64</td><td>5,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,18</td><td>5,00</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,64</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>48,18</td><td>5,00</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,64</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>48,18</td><td>4,00</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,57</td><td>-5,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>47,68</td><td>5,00</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,57</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>47,68</td><td>6,00</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,57</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>47,68</td><td>6,00</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,51</td><td>-3,00</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>47,25</td><td>4,00</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>-2,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,45</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>46,83</td><td>4,00</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,30</td><td>-23,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,77</td><td>4,00</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,30</td><td>12,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,77</td><td>4,00</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,24</td><td>-2,00</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>45,35</td><td>4,00</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,16</td><td>-5,00</td><td>14,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>44,80</td><td>4,00</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,16</td><td>14,00</td><td>14,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>44,80</td><td>4,00</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,16</td><td>14,00</td><td>14,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>44,80</td><td>3,00</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,16</td><td>14,00</td><td>14,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>44,80</td><td>4,00</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,06</td><td>-13,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,10</td><td>6,00</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,06</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>44,10</td><td>5,00</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,06</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>44,10</td><td>7,00</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,06</td><td>7,00</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>44,10</td><td>8,00</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,05</td><td>7,68</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>44,03</td><td>11,00</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,05</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,03</td><td>6,00</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,05</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>44,03</td><td>6,00</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,04</td><td>6,68</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>43,96</td><td>5,00</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,02</td><td>5,36</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>43,82</td><td>7,00</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,01</td><td>7,68</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>43,76</td><td>8,00</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,01</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>43,76</td><td>6,00</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,01</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>43,76</td><td>6,00</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,01</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>43,76</td><td>6,00</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,01</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>43,76</td><td>6,00</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,92</td><td>-9,82</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>43,13</td><td>8,00</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,91</td><td>8,69</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>43,07</td><td>4,00</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>4,08</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,86</td><td>6,00</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,86</td><td>6,40</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,72</td><td>6,00</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>6,40</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,59</td><td>6,00</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>11,00</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>42,59</td><td>8,00</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>11,00</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,59</td><td>6,00</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>-0,48</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,24</td><td>6,00</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>6,42</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,11</td><td>4,00</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>11,00</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,11</td><td>6,00</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,72</td><td>-0,44</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>41,77</td><td>3,00</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,69</td><td>4,15</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>41,56</td><td>6,00</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,66</td><td>4,16</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>41,36</td><td>15,00</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,69</td><td>16,84</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>41,56</td><td>10,00</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,69</td><td>11,00</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>41,56</td><td>7,00</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,70</td><td>10,28</td><td>8,00</td><td>0,00</td><td>&nbsp;</td><td>19,00</td><td>41,63</td><td>19,00</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,75</td><td>19,43</td><td>8,00</td><td>0,00</td><td>&nbsp;</td><td>17,00</td><td>41,97</td><td>17,00</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>17,46</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>42,31</td><td>16,00</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>16,49</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,65</td><td>7,00</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,65</td><td>7,00</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,27</td><td>42,65</td><td>5,27</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,87</td><td>10,60</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>9,76</td><td>42,79</td><td>9,76</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,87</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>5,43</td><td>42,79</td><td>5,43</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>5,40</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>5,67</td><td>42,65</td><td>5,67</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,84</td><td>5,70</td><td>8,00</td><td>0,00</td><td>&nbsp;</td><td>3,55</td><td>42,59</td><td>3,55</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,83</td><td>3,70</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,52</td><td>5,00</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,83</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,52</td><td>6,00</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,83</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,52</td><td>6,00</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,82</td><td>3,70</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,45</td><td>4,00</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>1,41</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,31</td><td>6,00</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>8,71</td><td>11,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,24</td><td>4,00</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,24</td><td>4,00</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>4,42</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,11</td><td>5,00</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,11</td><td>7,00</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>9,00</td><td>9,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,11</td><td>5,00</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>42,11</td><td>15,00</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,81</td><td>15,17</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>14,00</td><td>42,38</td><td>14,00</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>14,19</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,65</td><td>7,00</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,86</td><td>7,30</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,72</td><td>5,00</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,86</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,72</td><td>6,00</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,86</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>42,72</td><td>3,00</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,86</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,72</td><td>4,00</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,82</td><td>2,80</td><td>12,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,45</td><td>5,00</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,81</td><td>5,70</td><td>8,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>42,38</td><td>5,00</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>5,41</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>3,00</td><td>42,24</td><td>3,00</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>3,71</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,17</td><td>6,00</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,17</td><td>6,00</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,17</td><td>4,00</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,17</td><td>4,00</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,17</td><td>6,00</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,17</td><td>4,00</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,75</td><td>-0,87</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,34</td><td>41,97</td><td>4,34</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>4,71</td><td>7,00</td><td>0,00</td><td>&nbsp;</td><td>5,60</td><td>41,90</td><td>5,60</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,48</td><td>41,90</td><td>6,48</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,63</td><td>41,90</td><td>5,63</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>41,90</td><td>6,00</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,74</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>41,90</td><td>4,00</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,73</td><td>3,71</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>41,83</td><td>4,00</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,73</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>41,83</td><td>6,00</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,73</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>41,83</td><td>5,00</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,73</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>5,00</td><td>41,83</td><td>5,00</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,71</td><td>5,43</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>2,00</td><td>41,70</td><td>2,00</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,71</td><td>10,00</td><td>10,00</td><td>0,00</td><td>&nbsp;</td><td>15,00</td><td>41,70</td><td>15,00</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,72</td><td>8,29</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>13,00</td><td>41,77</td><td>13,00</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,75</td><td>12,86</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>8,00</td><td>41,97</td><td>8,00</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>8,29</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,04</td><td>6,00</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,04</td><td>6,00</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>6,00</td><td>42,04</td><td>6,00</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>4,00</td><td>42,04</td><td>4,00</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,76</td><td>6,00</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>11,00</td><td>42,04</td><td>11,00</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,77</td><td>8,29</td><td>6,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,11</td><td>7,00</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,78</td><td>7,29</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,17</td><td>7,00</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,79</td><td>7,29</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,24</td><td>7,00</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,80</td><td>7,29</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,31</td><td>7,00</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,81</td><td>7,30</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,38</td><td>7,00</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>42,38</td><td>10,00</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,81</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,38</td><td>7,00</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,85</td><td>14,19</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>10,00</td><td>42,65</td><td>10,00</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,87</td><td>9,60</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,79</td><td>7,00</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>7,30</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>7,00</td><td>42,86</td><td>7,00</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>19,00</td><td>42,86</td><td>19,00</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>24,00</td><td>42,86</td><td>24,00</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>16,00</td><td>42,86</td><td>16,00</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>762,88</td><td>5,00</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>12,00</td><td>42,86</td><td>12,00</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,11</td><td>58,29</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>44,45</td><td>0,00</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,15</td><td>14,33</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>44,73</td><td>0,00</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,24</td><td>26,06</td><td>5,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>45,35</td><td>0,00</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19038</td><td>PONTE NOVA                                        </td><td>763,29</td><td>15,74</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>0,00</td><td>45,70</td><td>0,00</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

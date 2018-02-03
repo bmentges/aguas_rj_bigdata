@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>2476,90</td><td>2560,00</td><td>1340,00</td><td>1222,00</td><td>2002,87</td><td>99,38</td><td>2002,87</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>2921,71</td><td>2940,00</td><td>1690,00</td><td>1250,00</td><td>2069,75</td><td>98,97</td><td>2069,75</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>2645,09</td><td>2590,00</td><td>1360,00</td><td>1226,00</td><td>2093,89</td><td>100,21</td><td>2093,89</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1922,45</td><td>1950,00</td><td>675,00</td><td>1277,00</td><td>2023,59</td><td>99,59</td><td>2023,59</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1867,55</td><td>1840,00</td><td>568,00</td><td>1270,00</td><td>1982,67</td><td>100,21</td><td>1982,67</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>2111,60</td><td>2130,00</td><td>847,00</td><td>1280,00</td><td>1986,23</td><td>99,79</td><td>1986,23</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>2079,14</td><td>2070,00</td><td>794,00</td><td>1274,00</td><td>1953,17</td><td>100,00</td><td>1953,17</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,02</td><td>2038,52</td><td>2020,00</td><td>742,00</td><td>1276,00</td><td>1939,80</td><td>100,42</td><td>1939,80</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1691,48</td><td>1710,00</td><td>428,00</td><td>1277,00</td><td>1882,17</td><td>100,00</td><td>1882,17</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,04</td><td>3327,04</td><td>3290,00</td><td>2130,00</td><td>1161,00</td><td>2245,90</td><td>100,83</td><td>2245,90</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>3394,68</td><td>3450,00</td><td>2180,00</td><td>1271,00</td><td>2544,77</td><td>99,59</td><td>2544,77</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>2397,55</td><td>2370,00</td><td>1100,00</td><td>1272,00</td><td>2425,98</td><td>100,21</td><td>2425,98</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1873,19</td><td>1910,00</td><td>715,00</td><td>1194,00</td><td>2305,92</td><td>99,38</td><td>2305,92</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1978,40</td><td>1960,00</td><td>685,00</td><td>1270,00</td><td>2161,71</td><td>99,79</td><td>2161,71</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1869,14</td><td>1860,00</td><td>585,00</td><td>1275,00</td><td>2030,61</td><td>100,00</td><td>2030,61</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1940,86</td><td>1950,00</td><td>674,00</td><td>1274,00</td><td>1954,06</td><td>99,79</td><td>1954,06</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,04</td><td>1836,18</td><td>1790,00</td><td>686,00</td><td>1100,00</td><td>1865,32</td><td>100,83</td><td>1865,32</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1696,27</td><td>1770,00</td><td>542,00</td><td>1233,00</td><td>1773,42</td><td>99,17</td><td>1773,42</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1450,86</td><td>1460,00</td><td>203,00</td><td>1253,00</td><td>1711,87</td><td>98,97</td><td>1711,87</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1549,14</td><td>1540,00</td><td>290,00</td><td>1254,00</td><td>1676,12</td><td>99,17</td><td>1676,12</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1546,69</td><td>1510,00</td><td>295,00</td><td>1219,00</td><td>1596,30</td><td>100,00</td><td>1596,30</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1520,86</td><td>1530,00</td><td>275,00</td><td>1257,00</td><td>1479,01</td><td>99,79</td><td>1479,01</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,02</td><td>1577,66</td><td>1550,00</td><td>413,00</td><td>1132,00</td><td>1366,10</td><td>100,42</td><td>1366,10</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1221,53</td><td>1350,00</td><td>354,00</td><td>1000,00</td><td>1260,38</td><td>97,52</td><td>1260,38</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1244,12</td><td>1180,00</td><td>0,00</td><td>1178,00</td><td>1158,17</td><td>98,97</td><td>1158,17</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1278,29</td><td>1260,00</td><td>0,00</td><td>1262,00</td><td>1098,64</td><td>99,38</td><td>1098,64</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,89</td><td>1136,74</td><td>1210,00</td><td>0,00</td><td>1214,00</td><td>1059,81</td><td>97,73</td><td>1059,81</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1186,69</td><td>1150,00</td><td>0,00</td><td>1152,00</td><td>994,26</td><td>98,56</td><td>994,26</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1070,86</td><td>1080,00</td><td>0,00</td><td>1082,00</td><td>904,56</td><td>98,35</td><td>904,56</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,81</td><td>939,19</td><td>1040,00</td><td>0,00</td><td>1038,00</td><td>829,27</td><td>96,08</td><td>829,27</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>731,98</td><td>677,00</td><td>0,00</td><td>677,00</td><td>828,49</td><td>97,32</td><td>828,49</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,04</td><td>1124,13</td><td>968,00</td><td>0,00</td><td>968,00</td><td>979,06</td><td>100,83</td><td>979,06</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1030,44</td><td>1150,00</td><td>0,00</td><td>1150,00</td><td>941,41</td><td>98,14</td><td>941,41</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,83</td><td>1146,74</td><td>1220,00</td><td>0,00</td><td>1225,00</td><td>901,86</td><td>96,49</td><td>901,86</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1305,83</td><td>1260,00</td><td>0,00</td><td>1261,00</td><td>995,42</td><td>97,52</td><td>995,42</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1253,26</td><td>1180,00</td><td>0,00</td><td>1177,00</td><td>1020,55</td><td>99,17</td><td>1020,55</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1186,74</td><td>1260,00</td><td>0,00</td><td>1263,00</td><td>1015,94</td><td>97,52</td><td>1015,94</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,03</td><td>897,73</td><td>760,00</td><td>41,80</td><td>718,00</td><td>1052,77</td><td>100,63</td><td>1052,77</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,77</td><td>1431,46</td><td>1670,00</td><td>476,00</td><td>1198,00</td><td>1034,47</td><td>95,25</td><td>1034,47</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,58</td><td>1105,81</td><td>1280,00</td><td>1,48</td><td>1281,00</td><td>987,06</td><td>91,33</td><td>987,06</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,89</td><td>1514,14</td><td>1230,00</td><td>0,00</td><td>1234,00</td><td>1022,69</td><td>97,73</td><td>1022,69</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1217,55</td><td>1190,00</td><td>0,00</td><td>1186,00</td><td>1032,24</td><td>98,35</td><td>1032,24</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,80</td><td>1089,93</td><td>1200,00</td><td>0,00</td><td>1196,00</td><td>1022,97</td><td>95,87</td><td>1022,97</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,56</td><td>1030,09</td><td>1250,00</td><td>0,00</td><td>1249,00</td><td>971,01</td><td>90,92</td><td>971,01</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,44</td><td>950,05</td><td>1060,00</td><td>0,00</td><td>1055,00</td><td>935,97</td><td>88,44</td><td>935,97</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,28</td><td>1033,36</td><td>1180,00</td><td>0,00</td><td>1182,00</td><td>924,75</td><td>85,14</td><td>924,75</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,22</td><td>975,02</td><td>1030,00</td><td>0,00</td><td>1028,00</td><td>899,85</td><td>83,90</td><td>899,85</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,18</td><td>973,31</td><td>1010,00</td><td>0,00</td><td>1012,00</td><td>1029,17</td><td>83,08</td><td>1029,17</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,39</td><td>1292,48</td><td>1100,00</td><td>0,00</td><td>1097,00</td><td>1148,40</td><td>87,41</td><td>1148,40</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,44</td><td>1225,83</td><td>1180,00</td><td>0,00</td><td>1175,00</td><td>1122,72</td><td>88,44</td><td>1122,72</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,79</td><td>1279,72</td><td>959,00</td><td>0,00</td><td>959,00</td><td>1118,38</td><td>95,67</td><td>1118,38</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,84</td><td>1105,83</td><td>1060,00</td><td>0,00</td><td>1059,00</td><td>1176,45</td><td>96,70</td><td>1176,45</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1307,50</td><td>1170,00</td><td>0,00</td><td>1166,00</td><td>1188,42</td><td>99,79</td><td>1188,42</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1235,88</td><td>1300,00</td><td>37,10</td><td>1259,00</td><td>1176,87</td><td>98,35</td><td>1176,87</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1322,52</td><td>1240,00</td><td>0,00</td><td>1241,00</td><td>1252,80</td><td>100,21</td><td>1252,80</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1562,45</td><td>1590,00</td><td>330,00</td><td>1257,00</td><td>1354,83</td><td>99,59</td><td>1354,83</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1850,00</td><td>1850,00</td><td>582,00</td><td>1264,00</td><td>1499,55</td><td>99,59</td><td>1499,55</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>2590,00</td><td>2670,00</td><td>1400,00</td><td>1269,00</td><td>1894,22</td><td>99,79</td><td>1894,22</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>2468,00</td><td>2600,00</td><td>1390,00</td><td>1217,00</td><td>2099,38</td><td>98,97</td><td>2099,38</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1711,00</td><td>1800,00</td><td>545,00</td><td>1258,00</td><td>1972,33</td><td>99,59</td><td>1972,33</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1427,00</td><td>1530,00</td><td>262,00</td><td>1267,00</td><td>1764,15</td><td>100,00</td><td>1764,15</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1373,00</td><td>1580,00</td><td>302,00</td><td>1276,00</td><td>1616,88</td><td>98,14</td><td>1616,88</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,04</td><td>2415,00</td><td>2420,00</td><td>1140,00</td><td>1275,00</td><td>1851,57</td><td>100,83</td><td>1851,57</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>2305,00</td><td>2540,00</td><td>1260,00</td><td>1279,00</td><td>2045,24</td><td>98,35</td><td>2045,24</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1729,00</td><td>1780,00</td><td>525,00</td><td>1251,00</td><td>1913,54</td><td>100,00</td><td>1913,54</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1740,86</td><td>1750,00</td><td>725,00</td><td>1022,00</td><td>1807,31</td><td>99,79</td><td>1807,31</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1509,14</td><td>1500,00</td><td>255,00</td><td>1245,00</td><td>1692,69</td><td>100,00</td><td>1692,69</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1734,17</td><td>1780,00</td><td>522,00</td><td>1255,00</td><td>1638,87</td><td>98,97</td><td>1638,87</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1866,69</td><td>1830,00</td><td>561,00</td><td>1273,00</td><td>1666,84</td><td>99,79</td><td>1666,84</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>2019,14</td><td>2010,00</td><td>747,00</td><td>1267,00</td><td>1763,15</td><td>100,00</td><td>1763,15</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1765,02</td><td>1820,00</td><td>565,00</td><td>1258,00</td><td>1712,78</td><td>98,76</td><td>1712,78</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1587,43</td><td>1560,00</td><td>514,00</td><td>1046,00</td><td>1592,16</td><td>99,38</td><td>1592,16</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1597,55</td><td>1570,00</td><td>754,00</td><td>813,00</td><td>1417,40</td><td>100,00</td><td>1417,40</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1453,31</td><td>1490,00</td><td>386,00</td><td>1109,00</td><td>1265,09</td><td>99,17</td><td>1265,09</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1390,86</td><td>1400,00</td><td>256,00</td><td>1141,00</td><td>1173,77</td><td>98,97</td><td>1173,77</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1338,29</td><td>1320,00</td><td>267,00</td><td>1054,00</td><td>1074,52</td><td>99,38</td><td>1074,52</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1411,71</td><td>1430,00</td><td>204,00</td><td>1228,00</td><td>984,07</td><td>98,97</td><td>984,07</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1377,55</td><td>1350,00</td><td>83,00</td><td>1271,00</td><td>910,78</td><td>99,59</td><td>910,78</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,81</td><td>964,21</td><td>1120,00</td><td>24,80</td><td>1094,00</td><td>854,57</td><td>96,08</td><td>854,57</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,52</td><td>914,14</td><td>1180,00</td><td>0,00</td><td>1183,00</td><td>826,73</td><td>90,09</td><td>826,73</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,40</td><td>1110,05</td><td>1220,00</td><td>0,00</td><td>1221,00</td><td>804,88</td><td>87,62</td><td>804,88</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1609,93</td><td>1170,00</td><td>0,00</td><td>1165,00</td><td>1325,47</td><td>97,52</td><td>1325,47</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,79</td><td>1337,48</td><td>1420,00</td><td>222,00</td><td>1195,00</td><td>1460,86</td><td>95,67</td><td>1460,86</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,81</td><td>1328,40</td><td>1310,00</td><td>146,00</td><td>1168,00</td><td>1280,45</td><td>96,08</td><td>1280,45</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,65</td><td>839,36</td><td>986,00</td><td>0,00</td><td>986,00</td><td>1244,78</td><td>92,78</td><td>1244,78</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>2044,03</td><td>1760,00</td><td>575,00</td><td>1187,00</td><td>1612,98</td><td>99,17</td><td>1612,98</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>2048,40</td><td>2030,00</td><td>921,00</td><td>1114,00</td><td>1766,75</td><td>99,59</td><td>1766,75</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1551,60</td><td>1570,00</td><td>382,00</td><td>1183,00</td><td>1672,20</td><td>99,17</td><td>1672,20</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1325,95</td><td>1280,00</td><td>249,00</td><td>1034,00</td><td>1503,16</td><td>100,21</td><td>1503,16</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1517,48</td><td>1600,00</td><td>679,00</td><td>920,00</td><td>1439,05</td><td>98,35</td><td>1439,05</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1418,29</td><td>1400,00</td><td>513,00</td><td>884,00</td><td>1250,96</td><td>98,76</td><td>1250,96</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,79</td><td>1212,50</td><td>1350,00</td><td>446,00</td><td>908,00</td><td>1137,05</td><td>95,67</td><td>1137,05</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,90</td><td>1250,81</td><td>1150,00</td><td>227,00</td><td>922,00</td><td>1040,68</td><td>97,94</td><td>1040,68</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1041,67</td><td>950,00</td><td>38,40</td><td>912,00</td><td>949,12</td><td>100,00</td><td>949,12</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1213,31</td><td>1250,00</td><td>329,00</td><td>919,00</td><td>880,07</td><td>99,17</td><td>880,07</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,79</td><td>1134,21</td><td>1290,00</td><td>370,00</td><td>919,00</td><td>837,03</td><td>95,67</td><td>837,03</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1291,74</td><td>1090,00</td><td>180,00</td><td>909,00</td><td>783,05</td><td>100,21</td><td>783,05</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1215,76</td><td>1280,00</td><td>367,00</td><td>908,00</td><td>737,97</td><td>98,76</td><td>737,97</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1265,02</td><td>1320,00</td><td>399,00</td><td>920,00</td><td>682,42</td><td>97,52</td><td>682,42</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1173,26</td><td>1100,00</td><td>177,00</td><td>918,00</td><td>639,29</td><td>99,17</td><td>639,29</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,89</td><td>810,88</td><td>875,00</td><td>47,50</td><td>827,00</td><td>638,29</td><td>97,73</td><td>638,29</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,86</td><td>1092,45</td><td>1120,00</td><td>284,00</td><td>835,00</td><td>641,67</td><td>97,11</td><td>641,67</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,78</td><td>1106,74</td><td>1180,00</td><td>268,00</td><td>916,00</td><td>652,81</td><td>95,46</td><td>652,81</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,04</td><td>1171,66</td><td>933,00</td><td>12,80</td><td>920,00</td><td>692,19</td><td>100,83</td><td>692,19</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1210,44</td><td>1330,00</td><td>412,00</td><td>917,00</td><td>752,99</td><td>98,14</td><td>752,99</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,82</td><td>1157,59</td><td>1240,00</td><td>319,00</td><td>921,00</td><td>787,09</td><td>96,29</td><td>787,09</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,76</td><td>882,02</td><td>937,00</td><td>15,20</td><td>922,00</td><td>800,61</td><td>95,05</td><td>800,61</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,46</td><td>645,00</td><td>920,00</td><td>0,00</td><td>920,00</td><td>795,99</td><td>88,86</td><td>795,99</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,70</td><td>1103,02</td><td>883,00</td><td>0,00</td><td>883,00</td><td>759,21</td><td>93,81</td><td>759,21</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1214,19</td><td>976,00</td><td>69,00</td><td>906,00</td><td>710,67</td><td>99,17</td><td>710,67</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,02</td><td>1110,21</td><td>1055,00</td><td>128,00</td><td>926,00</td><td>653,16</td><td>100,42</td><td>653,16</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>912,38</td><td>1050,00</td><td>132,00</td><td>918,00</td><td>601,57</td><td>97,32</td><td>601,57</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>858,14</td><td>849,00</td><td>0,00</td><td>849,00</td><td>556,02</td><td>97,52</td><td>556,02</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,66</td><td>569,38</td><td>771,00</td><td>0,00</td><td>771,00</td><td>517,35</td><td>92,98</td><td>517,35</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,40</td><td>587,69</td><td>826,00</td><td>0,00</td><td>826,00</td><td>503,39</td><td>87,62</td><td>503,39</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,34</td><td>769,02</td><td>824,00</td><td>0,00</td><td>824,00</td><td>533,03</td><td>86,38</td><td>533,03</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,53</td><td>1082,19</td><td>908,00</td><td>0,00</td><td>908,00</td><td>568,14</td><td>90,30</td><td>568,14</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,66</td><td>1032,10</td><td>913,00</td><td>0,00</td><td>913,00</td><td>596,38</td><td>92,98</td><td>596,38</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,67</td><td>912,14</td><td>903,00</td><td>0,00</td><td>903,00</td><td>577,87</td><td>93,19</td><td>577,87</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,55</td><td>834,05</td><td>944,00</td><td>0,00</td><td>944,00</td><td>560,94</td><td>90,71</td><td>560,94</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>363,90</td><td>758,00</td><td>0,00</td><td>758,00</td><td>541,61</td><td>81,84</td><td>541,61</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,07</td><td>316,17</td><td>362,00</td><td>0,00</td><td>362,00</td><td>533,82</td><td>80,81</td><td>533,82</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,97</td><td>873,80</td><td>965,00</td><td>0,00</td><td>966,00</td><td>516,65</td><td>78,75</td><td>516,65</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,89</td><td>908,78</td><td>981,00</td><td>0,00</td><td>981,00</td><td>489,75</td><td>77,13</td><td>489,75</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,73</td><td>965,56</td><td>1110,00</td><td>0,00</td><td>1109,00</td><td>442,18</td><td>73,87</td><td>442,18</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,67</td><td>1015,83</td><td>1070,00</td><td>0,00</td><td>1073,00</td><td>423,67</td><td>72,65</td><td>423,67</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,69</td><td>1048,06</td><td>1030,00</td><td>0,00</td><td>1031,00</td><td>432,35</td><td>73,06</td><td>432,35</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,70</td><td>986,03</td><td>977,00</td><td>0,00</td><td>977,00</td><td>469,24</td><td>73,26</td><td>469,24</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,64</td><td>421,83</td><td>476,00</td><td>0,00</td><td>476,00</td><td>506,98</td><td>72,04</td><td>506,98</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,53</td><td>950,69</td><td>1050,00</td><td>0,00</td><td>1047,00</td><td>505,09</td><td>69,81</td><td>505,09</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,29</td><td>963,33</td><td>1180,00</td><td>0,00</td><td>1184,00</td><td>506,62</td><td>64,93</td><td>506,62</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,22</td><td>936,81</td><td>1000,00</td><td>0,00</td><td>1002,00</td><td>500,23</td><td>63,51</td><td>500,23</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>934,58</td><td>1070,00</td><td>0,00</td><td>1067,00</td><td>492,63</td><td>60,46</td><td>492,63</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,69</td><td>293,27</td><td>631,00</td><td>0,00</td><td>631,00</td><td>482,59</td><td>52,85</td><td>482,59</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,64</td><td>160,79</td><td>205,00</td><td>0,00</td><td>205,00</td><td>483,88</td><td>51,86</td><td>483,88</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,85</td><td>185,88</td><td>0,00</td><td>0,00</td><td>0,00</td><td>559,35</td><td>56,04</td><td>559,35</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,17</td><td>692,34</td><td>406,00</td><td>0,00</td><td>406,00</td><td>614,84</td><td>62,49</td><td>614,84</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,21</td><td>179,11</td><td>143,00</td><td>0,00</td><td>143,00</td><td>656,36</td><td>63,30</td><td>656,36</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,17</td><td>506,89</td><td>543,00</td><td>0,00</td><td>543,00</td><td>626,73</td><td>62,49</td><td>626,73</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,98</td><td>848,82</td><td>1020,00</td><td>0,00</td><td>1017,00</td><td>599,98</td><td>58,63</td><td>599,98</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,28</td><td>1320,49</td><td>1050,00</td><td>0,00</td><td>1052,00</td><td>1095,77</td><td>64,73</td><td>1095,77</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,80</td><td>1344,44</td><td>875,00</td><td>0,00</td><td>875,00</td><td>1928,39</td><td>75,30</td><td>1928,39</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>656,51</td><td>366,00</td><td>0,00</td><td>366,00</td><td>1996,92</td><td>81,84</td><td>1996,92</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,23</td><td>1037,81</td><td>937,00</td><td>0,00</td><td>937,00</td><td>1810,44</td><td>84,11</td><td>1810,44</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,41</td><td>1184,93</td><td>1020,00</td><td>0,00</td><td>1019,00</td><td>1593,21</td><td>87,82</td><td>1593,21</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,53</td><td>1000,07</td><td>890,00</td><td>0,00</td><td>890,00</td><td>1446,88</td><td>90,30</td><td>1446,88</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,53</td><td>527,00</td><td>527,00</td><td>0,00</td><td>527,00</td><td>1405,54</td><td>90,30</td><td>1405,54</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,81</td><td>1138,60</td><td>882,00</td><td>0,00</td><td>882,00</td><td>1568,85</td><td>96,08</td><td>1568,85</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>801,79</td><td>921,00</td><td>0,00</td><td>922,00</td><td>1639,88</td><td>93,40</td><td>1639,88</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1309,17</td><td>1080,00</td><td>71,90</td><td>1013,00</td><td>1673,57</td><td>98,56</td><td>1673,57</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1884,12</td><td>1820,00</td><td>543,00</td><td>1275,00</td><td>1716,20</td><td>100,00</td><td>1716,20</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1981,71</td><td>2000,00</td><td>724,00</td><td>1274,00</td><td>1756,67</td><td>99,59</td><td>1756,67</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1781,60</td><td>1800,00</td><td>666,00</td><td>1131,00</td><td>1738,07</td><td>99,17</td><td>1738,07</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1836,69</td><td>1800,00</td><td>569,00</td><td>1234,00</td><td>1658,07</td><td>100,00</td><td>1658,07</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1745,88</td><td>1810,00</td><td>521,00</td><td>1289,00</td><td>1622,14</td><td>98,56</td><td>1622,14</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,90</td><td>1502,45</td><td>1530,00</td><td>369,00</td><td>1163,00</td><td>1591,87</td><td>97,94</td><td>1591,87</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1694,12</td><td>1630,00</td><td>767,00</td><td>859,00</td><td>1511,74</td><td>99,38</td><td>1511,74</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1260,86</td><td>1270,00</td><td>302,00</td><td>972,00</td><td>1441,06</td><td>99,17</td><td>1441,06</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1326,69</td><td>1290,00</td><td>17,40</td><td>1271,00</td><td>1351,14</td><td>100,00</td><td>1351,14</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1415,88</td><td>1480,00</td><td>401,00</td><td>1079,00</td><td>1257,83</td><td>98,56</td><td>1257,83</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1205,83</td><td>1160,00</td><td>118,00</td><td>1045,00</td><td>1164,58</td><td>99,59</td><td>1164,58</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>1159,19</td><td>1260,00</td><td>103,00</td><td>1155,00</td><td>1062,22</td><td>97,32</td><td>1062,22</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1102,41</td><td>1020,00</td><td>0,00</td><td>1024,00</td><td>965,99</td><td>99,17</td><td>965,99</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,90</td><td>965,02</td><td>1020,00</td><td>225,00</td><td>799,00</td><td>895,79</td><td>97,94</td><td>895,79</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1048,40</td><td>1030,00</td><td>0,00</td><td>1034,00</td><td>827,04</td><td>98,35</td><td>827,04</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,89</td><td>1182,45</td><td>1210,00</td><td>0,00</td><td>1214,00</td><td>754,94</td><td>97,73</td><td>754,94</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1098,29</td><td>1080,00</td><td>0,00</td><td>1084,00</td><td>699,59</td><td>98,14</td><td>699,59</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,84</td><td>1175,88</td><td>1240,00</td><td>0,00</td><td>1238,00</td><td>688,57</td><td>96,70</td><td>688,57</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,71</td><td>1000,90</td><td>1120,00</td><td>0,00</td><td>1122,00</td><td>768,86</td><td>94,02</td><td>768,86</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,60</td><td>1059,19</td><td>1160,00</td><td>0,00</td><td>1161,00</td><td>879,89</td><td>91,75</td><td>879,89</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,57</td><td>538,45</td><td>566,00</td><td>0,00</td><td>566,00</td><td>885,59</td><td>91,13</td><td>885,59</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>967,81</td><td>867,00</td><td>0,00</td><td>867,00</td><td>850,15</td><td>93,40</td><td>850,15</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,78</td><td>1111,67</td><td>1020,00</td><td>0,00</td><td>1022,00</td><td>1019,61</td><td>95,46</td><td>1019,61</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1197,50</td><td>1060,00</td><td>0,00</td><td>1062,00</td><td>1302,21</td><td>98,56</td><td>1302,21</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1260,00</td><td>1260,00</td><td>0,00</td><td>1258,00</td><td>1403,07</td><td>98,56</td><td>1403,07</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1431,60</td><td>1450,00</td><td>231,00</td><td>1224,00</td><td>1353,07</td><td>98,14</td><td>1353,07</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1404,98</td><td>1350,00</td><td>201,00</td><td>1152,00</td><td>1285,26</td><td>99,38</td><td>1285,26</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,85</td><td>1340,05</td><td>1450,00</td><td>546,00</td><td>906,00</td><td>1247,27</td><td>96,90</td><td>1247,27</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1382,52</td><td>1300,00</td><td>106,00</td><td>1192,00</td><td>1211,45</td><td>98,76</td><td>1211,45</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1284,98</td><td>1230,00</td><td>0,00</td><td>1227,00</td><td>1203,55</td><td>100,00</td><td>1203,55</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1393,31</td><td>1430,00</td><td>179,00</td><td>1256,00</td><td>1158,60</td><td>99,17</td><td>1158,60</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,89</td><td>1215,88</td><td>1280,00</td><td>30,50</td><td>1254,00</td><td>1111,04</td><td>97,73</td><td>1111,04</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,90</td><td>1249,14</td><td>1240,00</td><td>0,00</td><td>1242,00</td><td>1072,52</td><td>97,94</td><td>1072,52</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1097,55</td><td>1070,00</td><td>0,00</td><td>1071,00</td><td>1025,07</td><td>98,56</td><td>1025,07</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>976,86</td><td>986,00</td><td>0,00</td><td>986,00</td><td>970,38</td><td>98,35</td><td>970,38</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1226,57</td><td>1190,00</td><td>0,00</td><td>1192,00</td><td>900,54</td><td>99,17</td><td>900,54</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>1207,59</td><td>1290,00</td><td>0,00</td><td>1294,00</td><td>850,53</td><td>97,32</td><td>850,53</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,90</td><td>1277,43</td><td>1250,00</td><td>0,00</td><td>1250,00</td><td>815,04</td><td>97,94</td><td>815,04</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,83</td><td>1215,88</td><td>1280,00</td><td>0,00</td><td>1275,00</td><td>775,39</td><td>96,49</td><td>775,39</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,84</td><td>1269,14</td><td>1260,00</td><td>0,00</td><td>1258,00</td><td>697,72</td><td>96,70</td><td>697,72</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,70</td><td>1141,76</td><td>1270,00</td><td>0,00</td><td>1270,00</td><td>623,62</td><td>93,81</td><td>623,62</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,41</td><td>734,14</td><td>1000,00</td><td>0,00</td><td>1005,00</td><td>578,90</td><td>87,82</td><td>578,90</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,36</td><td>1114,17</td><td>1160,00</td><td>0,00</td><td>1159,00</td><td>543,87</td><td>86,79</td><td>543,87</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,32</td><td>1223,43</td><td>1260,00</td><td>0,00</td><td>1263,00</td><td>534,33</td><td>85,97</td><td>534,33</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,35</td><td>1217,43</td><td>1190,00</td><td>0,00</td><td>1188,00</td><td>549,45</td><td>86,59</td><td>549,45</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,22</td><td>1060,90</td><td>1180,00</td><td>0,00</td><td>1175,00</td><td>587,23</td><td>83,90</td><td>587,23</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>1008,33</td><td>1100,00</td><td>0,00</td><td>1103,00</td><td>631,64</td><td>81,84</td><td>631,64</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,80</td><td>749,49</td><td>1040,00</td><td>0,00</td><td>1039,00</td><td>983,54</td><td>75,30</td><td>983,54</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,98</td><td>507,50</td><td>345,00</td><td>0,00</td><td>345,00</td><td>1133,09</td><td>78,96</td><td>1133,09</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,99</td><td>977,03</td><td>968,00</td><td>0,00</td><td>968,00</td><td>1143,23</td><td>79,16</td><td>1143,23</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,88</td><td>1040,69</td><td>1140,00</td><td>0,00</td><td>1140,00</td><td>1072,44</td><td>76,92</td><td>1072,44</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,84</td><td>1053,89</td><td>1090,00</td><td>0,00</td><td>1088,00</td><td>1030,86</td><td>76,11</td><td>1030,86</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,88</td><td>1196,11</td><td>1160,00</td><td>0,00</td><td>1156,00</td><td>986,07</td><td>76,92</td><td>986,07</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,00</td><td>1118,33</td><td>1010,00</td><td>0,00</td><td>1008,00</td><td>933,89</td><td>79,36</td><td>933,89</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,99</td><td>982,97</td><td>992,00</td><td>0,00</td><td>993,00</td><td>870,12</td><td>79,16</td><td>870,12</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,93</td><td>521,83</td><td>576,00</td><td>0,00</td><td>576,00</td><td>829,55</td><td>77,94</td><td>829,55</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,93</td><td>975,00</td><td>975,00</td><td>0,00</td><td>975,00</td><td>787,70</td><td>77,94</td><td>787,70</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,95</td><td>1268,06</td><td>1250,00</td><td>0,00</td><td>1253,00</td><td>719,58</td><td>78,35</td><td>719,58</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,09</td><td>1337,66</td><td>1210,00</td><td>0,00</td><td>1210,00</td><td>667,82</td><td>81,22</td><td>667,82</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>1297,43</td><td>1270,00</td><td>0,00</td><td>1270,00</td><td>627,19</td><td>81,84</td><td>627,19</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,14</td><td>1258,40</td><td>1240,00</td><td>0,00</td><td>1235,00</td><td>577,80</td><td>82,25</td><td>577,80</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,21</td><td>1314,12</td><td>1250,00</td><td>0,00</td><td>1249,00</td><td>533,08</td><td>83,70</td><td>533,08</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,41</td><td>973,22</td><td>790,00</td><td>0,00</td><td>790,00</td><td>500,42</td><td>87,82</td><td>500,42</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,33</td><td>936,74</td><td>1010,00</td><td>0,00</td><td>1012,00</td><td>476,85</td><td>86,17</td><td>476,85</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,95</td><td>902,43</td><td>1250,00</td><td>0,00</td><td>1249,00</td><td>466,28</td><td>78,35</td><td>466,28</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>945,00</td><td>1270,00</td><td>0,00</td><td>1268,00</td><td>454,37</td><td>71,03</td><td>454,37</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,25</td><td>933,06</td><td>1240,00</td><td>0,00</td><td>1241,00</td><td>454,79</td><td>64,12</td><td>454,79</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,99</td><td>915,39</td><td>1150,00</td><td>0,00</td><td>1146,00</td><td>448,37</td><td>58,83</td><td>448,37</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,80</td><td>941,83</td><td>1110,00</td><td>0,00</td><td>1110,00</td><td>440,69</td><td>55,05</td><td>440,69</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,89</td><td>817,63</td><td>738,00</td><td>0,00</td><td>738,00</td><td>451,33</td><td>56,84</td><td>451,33</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,82</td><td>988,08</td><td>1050,00</td><td>0,00</td><td>1051,00</td><td>484,95</td><td>55,44</td><td>484,95</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,58</td><td>947,50</td><td>1160,00</td><td>0,00</td><td>1165,00</td><td>521,52</td><td>50,66</td><td>521,52</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,41</td><td>949,42</td><td>1100,00</td><td>0,00</td><td>1104,00</td><td>522,64</td><td>47,27</td><td>522,64</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,33</td><td>959,17</td><td>1030,00</td><td>0,00</td><td>1025,00</td><td>499,34</td><td>45,67</td><td>499,34</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>926,08</td><td>988,00</td><td>0,00</td><td>988,00</td><td>472,57</td><td>44,28</td><td>472,57</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,62</td><td>870,75</td><td>552,00</td><td>0,00</td><td>552,00</td><td>457,24</td><td>51,46</td><td>457,24</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,94</td><td>678,33</td><td>395,00</td><td>0,00</td><td>395,00</td><td>472,98</td><td>57,84</td><td>472,98</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,81</td><td>944,84</td><td>1060,00</td><td>0,00</td><td>1060,00</td><td>502,93</td><td>55,24</td><td>502,93</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,53</td><td>972,08</td><td>1220,00</td><td>0,00</td><td>1223,00</td><td>569,71</td><td>49,66</td><td>569,71</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,49</td><td>1054,58</td><td>1090,00</td><td>0,00</td><td>1094,00</td><td>712,72</td><td>48,86</td><td>712,72</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,34</td><td>1067,25</td><td>1200,00</td><td>0,00</td><td>1199,00</td><td>924,23</td><td>45,87</td><td>924,23</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,36</td><td>1197,71</td><td>1180,00</td><td>0,00</td><td>1184,00</td><td>1179,78</td><td>46,27</td><td>1179,78</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,75</td><td>1913,75</td><td>670,00</td><td>0,00</td><td>670,00</td><td>2533,46</td><td>74,28</td><td>2533,46</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,37</td><td>859,81</td><td>295,00</td><td>0,00</td><td>295,00</td><td>2777,38</td><td>87,00</td><td>2777,38</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,47</td><td>1080,55</td><td>989,00</td><td>0,00</td><td>989,00</td><td>2550,75</td><td>89,06</td><td>2550,75</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,46</td><td>1080,86</td><td>1090,00</td><td>0,00</td><td>1088,00</td><td>2207,59</td><td>88,86</td><td>2207,59</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,46</td><td>1110,00</td><td>1110,00</td><td>0,00</td><td>1110,00</td><td>2041,81</td><td>88,86</td><td>2041,81</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,69</td><td>1410,76</td><td>1200,00</td><td>0,00</td><td>1201,00</td><td>1903,86</td><td>93,60</td><td>1903,86</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,02</td><td>1602,66</td><td>1300,00</td><td>25,10</td><td>1271,00</td><td>1768,91</td><td>100,42</td><td>1768,91</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1530,74</td><td>1540,00</td><td>272,00</td><td>1264,00</td><td>1669,91</td><td>100,21</td><td>1669,91</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1613,19</td><td>1650,00</td><td>496,00</td><td>1151,00</td><td>1556,76</td><td>99,38</td><td>1556,76</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1686,81</td><td>1650,00</td><td>383,00</td><td>1264,00</td><td>1544,73</td><td>100,21</td><td>1544,73</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1772,45</td><td>1800,00</td><td>530,00</td><td>1267,00</td><td>1575,36</td><td>99,59</td><td>1575,36</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,99</td><td>1449,14</td><td>1440,00</td><td>176,00</td><td>1259,00</td><td>1591,61</td><td>99,79</td><td>1591,61</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1508,40</td><td>1490,00</td><td>225,00</td><td>1261,00</td><td>1564,60</td><td>100,21</td><td>1564,60</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1464,05</td><td>1510,00</td><td>368,00</td><td>1141,00</td><td>1502,81</td><td>99,17</td><td>1502,81</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1316,69</td><td>1280,00</td><td>26,00</td><td>1257,00</td><td>1426,06</td><td>100,00</td><td>1426,06</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1274,17</td><td>1320,00</td><td>226,00</td><td>1099,00</td><td>1376,44</td><td>98,97</td><td>1376,44</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1280,00</td><td>1280,00</td><td>11,20</td><td>1268,00</td><td>1342,89</td><td>98,97</td><td>1342,89</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1488,29</td><td>1470,00</td><td>199,00</td><td>1267,00</td><td>1390,02</td><td>99,38</td><td>1390,02</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1402,57</td><td>1430,00</td><td>634,00</td><td>794,00</td><td>1251,19</td><td>98,76</td><td>1251,19</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1267,43</td><td>1240,00</td><td>196,00</td><td>1040,00</td><td>1149,11</td><td>99,38</td><td>1149,11</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,92</td><td>1084,28</td><td>1130,00</td><td>0,00</td><td>1133,00</td><td>1043,24</td><td>98,35</td><td>1043,24</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1176,57</td><td>1140,00</td><td>0,00</td><td>1138,00</td><td>954,09</td><td>99,17</td><td>954,09</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,86</td><td>874,33</td><td>966,00</td><td>0,00</td><td>966,00</td><td>904,61</td><td>97,11</td><td>904,61</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,79</td><td>1115,88</td><td>1180,00</td><td>0,00</td><td>1181,00</td><td>858,05</td><td>95,67</td><td>858,05</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,75</td><td>1193,31</td><td>1230,00</td><td>0,00</td><td>1228,00</td><td>806,83</td><td>94,84</td><td>806,83</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>1135,88</td><td>1200,00</td><td>0,00</td><td>1203,00</td><td>772,86</td><td>93,40</td><td>772,86</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>1264,19</td><td>1090,00</td><td>0,00</td><td>1090,00</td><td>718,34</td><td>97,32</td><td>718,34</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,71</td><td>1093,36</td><td>1240,00</td><td>0,00</td><td>1240,00</td><td>678,69</td><td>94,02</td><td>678,69</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,71</td><td>1240,00</td><td>1240,00</td><td>0,00</td><td>1235,00</td><td>671,25</td><td>94,02</td><td>671,25</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,76</td><td>1145,83</td><td>1100,00</td><td>0,00</td><td>1105,00</td><td>752,90</td><td>95,05</td><td>752,90</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,73</td><td>1072,45</td><td>1100,00</td><td>0,00</td><td>1100,00</td><td>849,18</td><td>94,43</td><td>849,18</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>1154,17</td><td>1200,00</td><td>0,00</td><td>1199,00</td><td>782,70</td><td>93,40</td><td>782,70</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,66</td><td>1211,71</td><td>1230,00</td><td>0,00</td><td>1230,00</td><td>646,61</td><td>92,98</td><td>646,61</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>1278,29</td><td>1260,00</td><td>0,00</td><td>1263,00</td><td>565,32</td><td>93,40</td><td>565,32</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,68</td><td>1230,00</td><td>1230,00</td><td>0,00</td><td>1233,00</td><td>509,70</td><td>93,40</td><td>509,70</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,77</td><td>1252,52</td><td>1170,00</td><td>0,00</td><td>1173,00</td><td>475,46</td><td>95,25</td><td>475,46</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,74</td><td>972,45</td><td>1000,00</td><td>0,00</td><td>1005,00</td><td>450,65</td><td>94,63</td><td>450,65</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,54</td><td>1076,78</td><td>1260,00</td><td>0,00</td><td>1264,00</td><td>423,81</td><td>90,51</td><td>423,81</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,58</td><td>1296,57</td><td>1260,00</td><td>0,00</td><td>1264,00</td><td>396,98</td><td>91,33</td><td>396,98</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,56</td><td>1251,71</td><td>1270,00</td><td>0,00</td><td>1265,00</td><td>374,20</td><td>90,92</td><td>374,20</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,56</td><td>1210,00</td><td>1210,00</td><td>0,00</td><td>1211,00</td><td>358,28</td><td>90,92</td><td>358,28</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,54</td><td>1171,71</td><td>1190,00</td><td>0,00</td><td>1190,00</td><td>348,84</td><td>90,51</td><td>348,84</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,49</td><td>1174,17</td><td>1220,00</td><td>0,00</td><td>1217,00</td><td>336,19</td><td>89,48</td><td>336,19</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,34</td><td>311,50</td><td>449,00</td><td>0,00</td><td>449,00</td><td>347,21</td><td>86,38</td><td>347,21</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,21</td><td>940,90</td><td>1060,00</td><td>0,00</td><td>1060,00</td><td>339,46</td><td>83,70</td><td>339,46</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,16</td><td>934,17</td><td>980,00</td><td>0,00</td><td>980,00</td><td>339,11</td><td>82,67</td><td>339,11</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,91</td><td>982,11</td><td>1210,00</td><td>0,00</td><td>1209,00</td><td>339,94</td><td>77,53</td><td>339,94</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,78</td><td>1042,64</td><td>1160,00</td><td>0,00</td><td>1160,00</td><td>386,16</td><td>74,89</td><td>386,16</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,66</td><td>1011,67</td><td>1120,00</td><td>0,00</td><td>1122,00</td><td>433,89</td><td>72,45</td><td>433,89</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,66</td><td>1160,00</td><td>1160,00</td><td>0,00</td><td>1156,00</td><td>450,01</td><td>72,45</td><td>450,01</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,42</td><td>833,33</td><td>1050,00</td><td>0,00</td><td>1050,00</td><td>435,22</td><td>67,57</td><td>435,22</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,26</td><td>905,56</td><td>1050,00</td><td>0,00</td><td>1050,00</td><td>436,21</td><td>64,32</td><td>436,21</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,18</td><td>1117,78</td><td>1190,00</td><td>0,00</td><td>1189,00</td><td>454,37</td><td>62,69</td><td>454,37</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,88</td><td>687,25</td><td>956,00</td><td>0,00</td><td>956,00</td><td>515,18</td><td>56,64</td><td>515,18</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,05</td><td>1351,39</td><td>1200,00</td><td>0,00</td><td>1203,00</td><td>825,95</td><td>60,05</td><td>825,95</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,04</td><td>1240,97</td><td>1250,00</td><td>0,00</td><td>1247,00</td><td>800,03</td><td>59,85</td><td>800,03</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,71</td><td>877,06</td><td>1170,00</td><td>0,00</td><td>1174,00</td><td>756,58</td><td>53,25</td><td>756,58</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,50</td><td>557,12</td><td>743,00</td><td>0,00</td><td>743,00</td><td>698,97</td><td>49,06</td><td>698,97</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,42</td><td>949,17</td><td>1020,00</td><td>0,00</td><td>1016,00</td><td>733,51</td><td>47,47</td><td>733,51</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,33</td><td>1160,25</td><td>1240,00</td><td>0,00</td><td>1235,00</td><td>965,12</td><td>45,67</td><td>965,12</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,51</td><td>1379,37</td><td>1220,00</td><td>0,00</td><td>1217,00</td><td>1321,29</td><td>49,26</td><td>1321,29</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,36</td><td>1067,25</td><td>1200,00</td><td>0,00</td><td>1204,00</td><td>1300,95</td><td>46,27</td><td>1300,95</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,32</td><td>1014,58</td><td>1050,00</td><td>0,00</td><td>1048,00</td><td>1253,38</td><td>45,48</td><td>1253,38</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,00</td><td>676,67</td><td>960,00</td><td>0,00</td><td>960,00</td><td>1195,52</td><td>39,10</td><td>1195,52</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,16</td><td>366,67</td><td>225,00</td><td>0,00</td><td>225,00</td><td>1119,81</td><td>42,29</td><td>1119,81</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,08</td><td>871,17</td><td>942,00</td><td>0,00</td><td>942,00</td><td>1073,06</td><td>40,69</td><td>1073,06</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,09</td><td>945,80</td><td>937,00</td><td>0,00</td><td>937,00</td><td>1101,96</td><td>40,89</td><td>1101,96</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,02</td><td>899,08</td><td>961,00</td><td>0,00</td><td>961,00</td><td>1203,75</td><td>39,49</td><td>1203,75</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,17</td><td>858,75</td><td>726,00</td><td>0,00</td><td>726,00</td><td>1233,90</td><td>42,48</td><td>1233,90</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,50</td><td>784,25</td><td>492,00</td><td>0,00</td><td>492,00</td><td>1098,42</td><td>49,06</td><td>1098,42</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,75</td><td>504,30</td><td>283,00</td><td>0,00</td><td>283,00</td><td>976,72</td><td>54,05</td><td>976,72</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,80</td><td>79,33</td><td>35,00</td><td>0,00</td><td>35,00</td><td>923,02</td><td>55,05</td><td>923,02</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,75</td><td>773,67</td><td>818,00</td><td>0,00</td><td>818,00</td><td>874,84</td><td>54,05</td><td>874,84</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,80</td><td>968,33</td><td>924,00</td><td>0,00</td><td>924,00</td><td>836,42</td><td>55,05</td><td>836,42</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,75</td><td>305,67</td><td>350,00</td><td>0,00</td><td>350,00</td><td>840,80</td><td>54,05</td><td>840,80</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,05</td><td>807,55</td><td>541,00</td><td>0,00</td><td>541,00</td><td>800,93</td><td>60,05</td><td>800,93</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,20</td><td>761,42</td><td>626,00</td><td>0,00</td><td>626,00</td><td>683,74</td><td>63,10</td><td>683,74</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,31</td><td>584,31</td><td>485,00</td><td>0,00</td><td>485,00</td><td>600,97</td><td>65,34</td><td>600,97</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,01</td><td>124,17</td><td>395,00</td><td>0,00</td><td>395,00</td><td>559,57</td><td>59,24</td><td>559,57</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,20</td><td>914,53</td><td>743,00</td><td>0,00</td><td>743,00</td><td>520,26</td><td>63,10</td><td>520,26</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,71</td><td>1068,42</td><td>608,00</td><td>0,00</td><td>608,00</td><td>532,83</td><td>73,47</td><td>532,83</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,03</td><td>985,35</td><td>696,00</td><td>0,00</td><td>696,00</td><td>563,15</td><td>79,98</td><td>563,15</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,36</td><td>1041,31</td><td>739,00</td><td>0,00</td><td>739,00</td><td>610,17</td><td>86,79</td><td>610,17</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,57</td><td>1130,48</td><td>938,00</td><td>0,00</td><td>938,00</td><td>611,50</td><td>91,13</td><td>611,50</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,36</td><td>937,52</td><td>1130,00</td><td>0,00</td><td>1131,00</td><td>609,37</td><td>86,79</td><td>609,37</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,00</td><td>301,14</td><td>631,00</td><td>0,00</td><td>631,00</td><td>627,61</td><td>79,36</td><td>627,61</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,63</td><td>845,97</td><td>1180,00</td><td>0,00</td><td>1177,00</td><td>638,65</td><td>71,84</td><td>638,65</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,76</td><td>638,36</td><td>521,00</td><td>0,00</td><td>521,00</td><td>652,96</td><td>74,48</td><td>652,96</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,61</td><td>964,58</td><td>1100,00</td><td>0,00</td><td>1095,00</td><td>630,92</td><td>71,43</td><td>630,92</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,36</td><td>944,31</td><td>1170,00</td><td>0,00</td><td>1171,00</td><td>603,74</td><td>66,35</td><td>603,74</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,38</td><td>1078,06</td><td>1060,00</td><td>0,00</td><td>1063,00</td><td>559,49</td><td>66,76</td><td>559,49</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,15</td><td>932,36</td><td>1140,00</td><td>0,00</td><td>1138,00</td><td>525,89</td><td>62,08</td><td>525,89</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,39</td><td>555,67</td><td>339,00</td><td>0,00</td><td>339,00</td><td>498,91</td><td>66,96</td><td>498,91</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,30</td><td>786,75</td><td>868,00</td><td>0,00</td><td>868,00</td><td>471,89</td><td>65,13</td><td>471,89</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,23</td><td>1136,81</td><td>1200,00</td><td>0,00</td><td>1204,00</td><td>455,67</td><td>63,71</td><td>455,67</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,11</td><td>1171,67</td><td>1280,00</td><td>0,00</td><td>1277,00</td><td>432,31</td><td>61,27</td><td>432,31</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,96</td><td>1165,28</td><td>1300,00</td><td>0,00</td><td>1299,00</td><td>409,84</td><td>58,24</td><td>409,84</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,94</td><td>1192,29</td><td>1210,00</td><td>0,00</td><td>1207,00</td><td>382,50</td><td>57,84</td><td>382,50</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>1156,32</td><td>1040,00</td><td>0,00</td><td>1044,00</td><td>386,74</td><td>60,46</td><td>386,74</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,97</td><td>1160,19</td><td>1250,00</td><td>0,00</td><td>1246,00</td><td>416,38</td><td>58,43</td><td>416,38</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,73</td><td>1017,50</td><td>1230,00</td><td>0,00</td><td>1231,00</td><td>457,12</td><td>53,65</td><td>457,12</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,68</td><td>1195,79</td><td>1240,00</td><td>0,00</td><td>1241,00</td><td>477,76</td><td>52,65</td><td>477,76</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,60</td><td>1139,17</td><td>1210,00</td><td>0,00</td><td>1210,00</td><td>466,51</td><td>51,06</td><td>466,51</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,46</td><td>886,04</td><td>1010,00</td><td>0,00</td><td>1015,00</td><td>454,15</td><td>48,27</td><td>454,15</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,33</td><td>1044,84</td><td>1160,00</td><td>0,00</td><td>1158,00</td><td>473,19</td><td>45,67</td><td>473,19</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,34</td><td>1258,91</td><td>1250,00</td><td>0,00</td><td>1249,00</td><td>519,10</td><td>45,87</td><td>519,10</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,30</td><td>1074,58</td><td>1110,00</td><td>0,00</td><td>1111,00</td><td>557,41</td><td>45,08</td><td>557,41</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>1184,58</td><td>1220,00</td><td>0,00</td><td>1218,00</td><td>542,83</td><td>44,28</td><td>542,83</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,03</td><td>886,30</td><td>1090,00</td><td>0,00</td><td>1093,00</td><td>509,15</td><td>39,69</td><td>509,15</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,91</td><td>1024,79</td><td>1130,00</td><td>0,00</td><td>1129,00</td><td>466,43</td><td>37,32</td><td>466,43</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,05</td><td>1172,92</td><td>1050,00</td><td>0,00</td><td>1047,00</td><td>466,67</td><td>40,09</td><td>466,67</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,84</td><td>1085,97</td><td>1270,00</td><td>0,00</td><td>1272,00</td><td>505,94</td><td>35,95</td><td>505,94</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,79</td><td>1056,25</td><td>1100,00</td><td>0,00</td><td>1101,00</td><td>611,89</td><td>34,96</td><td>611,89</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,41</td><td>853,53</td><td>307,00</td><td>0,00</td><td>307,00</td><td>805,22</td><td>47,27</td><td>805,22</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,84</td><td>1357,79</td><td>977,00</td><td>0,00</td><td>977,00</td><td>960,07</td><td>55,84</td><td>960,07</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>1444,86</td><td>1240,00</td><td>0,00</td><td>1242,00</td><td>937,32</td><td>60,46</td><td>937,32</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,13</td><td>1354,17</td><td>1300,00</td><td>0,00</td><td>1297,00</td><td>848,99</td><td>61,68</td><td>848,99</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,03</td><td>1069,72</td><td>1160,00</td><td>0,00</td><td>1164,00</td><td>790,97</td><td>59,64</td><td>790,97</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,97</td><td>914,30</td><td>968,00</td><td>0,00</td><td>968,00</td><td>734,35</td><td>58,43</td><td>734,35</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,96</td><td>1001,20</td><td>1010,00</td><td>0,00</td><td>1007,00</td><td>672,92</td><td>58,24</td><td>672,92</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,80</td><td>750,33</td><td>892,00</td><td>0,00</td><td>893,00</td><td>670,84</td><td>55,05</td><td>670,84</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,81</td><td>1178,80</td><td>1170,00</td><td>0,00</td><td>1173,00</td><td>653,64</td><td>55,24</td><td>653,64</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,09</td><td>1469,54</td><td>1220,00</td><td>0,00</td><td>1218,00</td><td>664,21</td><td>60,86</td><td>664,21</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,26</td><td>1403,47</td><td>1250,00</td><td>0,00</td><td>1252,00</td><td>668,82</td><td>64,32</td><td>668,82</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,42</td><td>1138,44</td><td>994,00</td><td>0,00</td><td>994,00</td><td>703,86</td><td>67,57</td><td>703,86</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,69</td><td>1283,75</td><td>1040,00</td><td>0,00</td><td>1041,00</td><td>745,20</td><td>73,06</td><td>745,20</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,38</td><td>585,14</td><td>865,00</td><td>0,00</td><td>865,00</td><td>788,39</td><td>66,76</td><td>788,39</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,57</td><td>499,53</td><td>328,00</td><td>0,00</td><td>328,00</td><td>784,48</td><td>70,62</td><td>784,48</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,52</td><td>1044,86</td><td>1090,00</td><td>0,00</td><td>1094,00</td><td>764,13</td><td>69,60</td><td>764,13</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,50</td><td>1011,94</td><td>1030,00</td><td>0,00</td><td>1034,00</td><td>719,02</td><td>69,20</td><td>719,02</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,22</td><td>977,22</td><td>1230,00</td><td>0,00</td><td>1235,00</td><td>703,14</td><td>63,51</td><td>703,14</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,16</td><td>1105,83</td><td>1160,00</td><td>0,00</td><td>1156,00</td><td>780,88</td><td>62,29</td><td>780,88</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,05</td><td>1060,69</td><td>1160,00</td><td>0,00</td><td>1161,00</td><td>844,73</td><td>60,05</td><td>844,73</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,05</td><td>317,00</td><td>317,00</td><td>0,00</td><td>317,00</td><td>854,68</td><td>60,05</td><td>854,68</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,49</td><td>515,22</td><td>118,00</td><td>0,00</td><td>118,00</td><td>884,60</td><td>68,99</td><td>884,60</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,58</td><td>998,25</td><td>917,00</td><td>0,00</td><td>917,00</td><td>918,08</td><td>70,82</td><td>918,08</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,56</td><td>944,94</td><td>963,00</td><td>0,00</td><td>963,00</td><td>895,40</td><td>70,42</td><td>895,40</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>1087,08</td><td>1060,00</td><td>0,00</td><td>1056,00</td><td>867,06</td><td>71,03</td><td>867,06</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,49</td><td>1099,72</td><td>1190,00</td><td>0,00</td><td>1188,00</td><td>978,44</td><td>68,99</td><td>978,44</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,62</td><td>1197,36</td><td>1080,00</td><td>0,00</td><td>1082,00</td><td>1536,08</td><td>71,64</td><td>1536,08</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,21</td><td>699,86</td><td>1070,00</td><td>0,00</td><td>1074,00</td><td>1848,00</td><td>63,30</td><td>1848,00</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,80</td><td>578,33</td><td>945,00</td><td>0,00</td><td>945,00</td><td>1835,15</td><td>55,05</td><td>1835,15</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,17</td><td>1440,56</td><td>1110,00</td><td>0,00</td><td>1110,00</td><td>1842,41</td><td>62,49</td><td>1842,41</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,65</td><td>1703,33</td><td>1270,00</td><td>0,00</td><td>1273,00</td><td>1750,36</td><td>72,25</td><td>1750,36</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,83</td><td>1482,50</td><td>1320,00</td><td>0,00</td><td>1317,00</td><td>1649,27</td><td>75,91</td><td>1649,27</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,96</td><td>1157,36</td><td>1040,00</td><td>0,00</td><td>1038,00</td><td>1583,18</td><td>78,55</td><td>1583,18</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,07</td><td>1340,23</td><td>1240,00</td><td>0,00</td><td>1243,00</td><td>1510,63</td><td>80,81</td><td>1510,63</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,92</td><td>818,66</td><td>955,00</td><td>0,00</td><td>955,00</td><td>1453,12</td><td>77,74</td><td>1453,12</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,71</td><td>650,42</td><td>840,00</td><td>0,00</td><td>840,00</td><td>1402,12</td><td>73,47</td><td>1402,12</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,69</td><td>1231,94</td><td>1250,00</td><td>0,00</td><td>1252,00</td><td>1324,71</td><td>73,06</td><td>1324,71</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,88</td><td>1391,53</td><td>1220,00</td><td>0,00</td><td>1218,00</td><td>1234,70</td><td>76,92</td><td>1234,70</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,10</td><td>1540,00</td><td>1340,00</td><td>0,00</td><td>1342,00</td><td>1131,41</td><td>81,43</td><td>1131,41</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,35</td><td>1519,05</td><td>1290,00</td><td>0,00</td><td>1289,00</td><td>1028,55</td><td>86,59</td><td>1028,55</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,45</td><td>1381,67</td><td>1290,00</td><td>0,00</td><td>1294,00</td><td>937,94</td><td>88,65</td><td>937,94</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,22</td><td>1109,24</td><td>1320,00</td><td>0,00</td><td>1321,00</td><td>864,88</td><td>83,90</td><td>864,88</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,79</td><td>898,80</td><td>1290,00</td><td>0,00</td><td>1291,00</td><td>800,76</td><td>75,09</td><td>800,76</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,76</td><td>1202,92</td><td>1230,00</td><td>0,00</td><td>1234,00</td><td>762,19</td><td>74,48</td><td>762,19</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,92</td><td>1444,44</td><td>1300,00</td><td>0,00</td><td>1305,00</td><td>716,98</td><td>77,74</td><td>716,98</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,01</td><td>1411,37</td><td>1330,00</td><td>0,00</td><td>1331,00</td><td>710,27</td><td>79,57</td><td>710,27</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,05</td><td>1306,69</td><td>1270,00</td><td>0,00</td><td>1272,00</td><td>720,10</td><td>80,40</td><td>720,10</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,24</td><td>1163,07</td><td>989,00</td><td>0,00</td><td>989,00</td><td>728,96</td><td>84,32</td><td>728,96</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,34</td><td>992,67</td><td>901,00</td><td>0,00</td><td>901,00</td><td>765,22</td><td>86,38</td><td>765,22</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>349,38</td><td>551,00</td><td>0,00</td><td>551,00</td><td>815,78</td><td>81,84</td><td>815,78</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,90</td><td>959,77</td><td>1160,00</td><td>0,00</td><td>1158,00</td><td>790,52</td><td>77,33</td><td>790,52</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>1360,23</td><td>1160,00</td><td>0,00</td><td>1161,00</td><td>817,50</td><td>81,84</td><td>817,50</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,29</td><td>1325,79</td><td>1170,00</td><td>0,08</td><td>1169,00</td><td>929,78</td><td>85,35</td><td>929,78</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,26</td><td>1312,57</td><td>1340,00</td><td>0,10</td><td>1337,00</td><td>981,70</td><td>84,73</td><td>981,70</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,54</td><td>1576,60</td><td>1320,00</td><td>0,00</td><td>1319,00</td><td>1004,84</td><td>90,51</td><td>1004,84</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,45</td><td>1237,48</td><td>1320,00</td><td>0,00</td><td>1320,00</td><td>1000,31</td><td>88,65</td><td>1000,31</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,02</td><td>395,90</td><td>790,00</td><td>0,00</td><td>790,00</td><td>982,78</td><td>79,77</td><td>982,78</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,02</td><td>1070,00</td><td>1070,00</td><td>0,00</td><td>1070,00</td><td>917,53</td><td>79,77</td><td>917,53</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,93</td><td>1298,52</td><td>1380,00</td><td>0,00</td><td>1385,00</td><td>852,88</td><td>77,94</td><td>852,88</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,03</td><td>1440,74</td><td>1350,00</td><td>0,00</td><td>1345,00</td><td>816,58</td><td>79,98</td><td>816,58</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,77</td><td>1104,81</td><td>1340,00</td><td>0,16</td><td>1339,00</td><td>796,27</td><td>74,69</td><td>796,27</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,76</td><td>1250,97</td><td>1260,00</td><td>0,00</td><td>1264,00</td><td>751,59</td><td>74,48</td><td>751,59</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,78</td><td>1328,06</td><td>1310,00</td><td>0,00</td><td>1308,00</td><td>867,99</td><td>74,89</td><td>867,99</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,82</td><td>1033,11</td><td>997,00</td><td>0,00</td><td>997,00</td><td>1037,16</td><td>75,70</td><td>1037,16</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,92</td><td>1400,28</td><td>1310,00</td><td>0,00</td><td>1305,00</td><td>1202,79</td><td>77,74</td><td>1202,79</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,07</td><td>1496,34</td><td>1360,00</td><td>0,00</td><td>1362,00</td><td>1409,13</td><td>80,81</td><td>1409,13</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,21</td><td>1468,36</td><td>1340,00</td><td>0,00</td><td>1344,00</td><td>1523,08</td><td>83,70</td><td>1523,08</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,27</td><td>1334,98</td><td>1280,00</td><td>0,00</td><td>1276,00</td><td>1454,38</td><td>84,94</td><td>1454,38</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,37</td><td>1361,67</td><td>1270,00</td><td>0,00</td><td>1272,00</td><td>1402,08</td><td>87,00</td><td>1402,08</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,21</td><td>1173,36</td><td>1320,00</td><td>0,00</td><td>1320,00</td><td>1366,07</td><td>83,70</td><td>1366,07</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,78</td><td>668,91</td><td>1060,00</td><td>0,00</td><td>1062,00</td><td>1294,91</td><td>74,89</td><td>1294,91</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,64</td><td>1233,61</td><td>1360,00</td><td>0,00</td><td>1365,00</td><td>1189,16</td><td>72,04</td><td>1189,16</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,78</td><td>1456,39</td><td>1330,00</td><td>0,00</td><td>1326,00</td><td>1064,32</td><td>74,89</td><td>1064,32</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,81</td><td>1347,08</td><td>1320,00</td><td>0,00</td><td>1320,00</td><td>995,05</td><td>75,50</td><td>995,05</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,87</td><td>1364,17</td><td>1310,00</td><td>0,00</td><td>1309,00</td><td>950,98</td><td>76,72</td><td>950,98</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,96</td><td>1391,25</td><td>1310,00</td><td>0,00</td><td>1314,00</td><td>914,66</td><td>78,55</td><td>914,66</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,58</td><td>906,94</td><td>1250,00</td><td>0,00</td><td>1246,00</td><td>855,40</td><td>70,82</td><td>855,40</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,52</td><td>625,83</td><td>680,00</td><td>0,00</td><td>680,00</td><td>831,93</td><td>69,60</td><td>831,93</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,36</td><td>865,56</td><td>1010,00</td><td>0,00</td><td>1006,00</td><td>791,30</td><td>66,35</td><td>791,30</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,74</td><td>704,79</td><td>1260,00</td><td>0,00</td><td>1265,00</td><td>753,26</td><td>53,85</td><td>753,26</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,68</td><td>1326,87</td><td>1380,00</td><td>0,00</td><td>1378,00</td><td>754,53</td><td>52,65</td><td>754,53</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,67</td><td>1301,09</td><td>1310,00</td><td>0,00</td><td>1315,00</td><td>835,01</td><td>52,45</td><td>835,01</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,73</td><td>1323,13</td><td>1270,00</td><td>0,00</td><td>1267,00</td><td>864,40</td><td>53,65</td><td>864,40</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,34</td><td>784,75</td><td>1130,00</td><td>0,00</td><td>1125,00</td><td>832,86</td><td>45,87</td><td>832,86</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,29</td><td>310,67</td><td>355,00</td><td>0,00</td><td>355,00</td><td>867,46</td><td>44,88</td><td>867,46</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,53</td><td>1272,50</td><td>1060,00</td><td>0,00</td><td>1058,00</td><td>872,46</td><td>49,66</td><td>872,46</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,77</td><td>1222,50</td><td>1010,00</td><td>0,00</td><td>1007,00</td><td>830,97</td><td>54,45</td><td>830,97</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,00</td><td>1172,70</td><td>969,00</td><td>0,00</td><td>969,00</td><td>753,00</td><td>59,03</td><td>753,00</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,21</td><td>1167,58</td><td>978,00</td><td>0,00</td><td>978,00</td><td>710,67</td><td>63,30</td><td>710,67</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,52</td><td>1238,86</td><td>959,00</td><td>0,00</td><td>959,00</td><td>659,23</td><td>69,60</td><td>659,23</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,32</td><td>748,44</td><td>929,00</td><td>0,00</td><td>929,00</td><td>665,75</td><td>65,54</td><td>665,75</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,18</td><td>569,61</td><td>696,00</td><td>0,00</td><td>696,00</td><td>662,89</td><td>62,69</td><td>662,89</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,36</td><td>975,50</td><td>813,00</td><td>0,00</td><td>813,00</td><td>640,26</td><td>66,35</td><td>640,26</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,48</td><td>958,33</td><td>850,00</td><td>0,00</td><td>849,00</td><td>591,58</td><td>68,79</td><td>591,58</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,54</td><td>927,17</td><td>873,00</td><td>0,00</td><td>873,00</td><td>558,62</td><td>70,01</td><td>558,62</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,58</td><td>1027,11</td><td>991,00</td><td>0,00</td><td>991,00</td><td>555,57</td><td>70,82</td><td>555,57</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>989,03</td><td>980,00</td><td>0,00</td><td>980,00</td><td>551,95</td><td>71,03</td><td>551,95</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,51</td><td>316,78</td><td>389,00</td><td>0,00</td><td>389,00</td><td>526,01</td><td>69,40</td><td>526,01</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,58</td><td>175,19</td><td>112,00</td><td>0,00</td><td>112,00</td><td>489,48</td><td>70,82</td><td>489,48</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,66</td><td>769,22</td><td>697,00</td><td>0,00</td><td>697,00</td><td>457,31</td><td>72,45</td><td>457,31</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>826,56</td><td>646,00</td><td>0,00</td><td>646,00</td><td>428,40</td><td>76,52</td><td>428,40</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,93</td><td>871,19</td><td>808,00</td><td>0,00</td><td>808,00</td><td>415,04</td><td>77,94</td><td>415,04</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,96</td><td>930,08</td><td>903,00</td><td>0,00</td><td>903,00</td><td>410,66</td><td>78,55</td><td>410,66</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,08</td><td>951,38</td><td>842,00</td><td>0,00</td><td>842,00</td><td>409,33</td><td>81,01</td><td>409,33</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,36</td><td>348,96</td><td>1000,00</td><td>0,00</td><td>1001,00</td><td>399,38</td><td>66,35</td><td>399,38</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,23</td><td>200,64</td><td>318,00</td><td>0,00</td><td>318,00</td><td>389,02</td><td>63,71</td><td>389,02</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,46</td><td>907,64</td><td>700,00</td><td>0,00</td><td>700,00</td><td>378,77</td><td>68,39</td><td>378,77</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,71</td><td>1033,69</td><td>808,00</td><td>0,00</td><td>808,00</td><td>363,08</td><td>73,47</td><td>363,08</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>903,42</td><td>768,00</td><td>0,00</td><td>768,00</td><td>345,09</td><td>76,52</td><td>345,09</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>764,00</td><td>764,00</td><td>0,00</td><td>761,00</td><td>319,17</td><td>76,52</td><td>319,17</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,04</td><td>856,08</td><td>693,00</td><td>0,00</td><td>688,00</td><td>300,34</td><td>80,19</td><td>300,34</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,76</td><td>195,64</td><td>449,00</td><td>0,00</td><td>445,00</td><td>291,72</td><td>74,48</td><td>291,72</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,66</td><td>76,72</td><td>167,00</td><td>0,00</td><td>157,00</td><td>300,17</td><td>72,45</td><td>300,17</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,87</td><td>886,58</td><td>697,00</td><td>0,00</td><td>689,00</td><td>318,59</td><td>76,72</td><td>318,59</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,11</td><td>1036,17</td><td>818,00</td><td>0,00</td><td>819,00</td><td>346,70</td><td>81,63</td><td>346,70</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,28</td><td>963,79</td><td>808,00</td><td>0,00</td><td>808,00</td><td>371,49</td><td>85,14</td><td>371,49</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,36</td><td>917,26</td><td>844,00</td><td>0,00</td><td>844,00</td><td>395,38</td><td>86,79</td><td>395,38</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,22</td><td>731,76</td><td>860,00</td><td>0,00</td><td>860,00</td><td>393,27</td><td>83,90</td><td>393,27</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,61</td><td>153,30</td><td>707,00</td><td>0,00</td><td>707,00</td><td>383,88</td><td>71,43</td><td>383,88</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,68</td><td>104,39</td><td>41,20</td><td>0,00</td><td>41,00</td><td>387,39</td><td>72,86</td><td>387,39</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,49</td><td>750,47</td><td>922,00</td><td>0,00</td><td>917,00</td><td>408,97</td><td>68,99</td><td>408,97</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,47</td><td>1021,94</td><td>1040,00</td><td>0,00</td><td>1042,00</td><td>419,26</td><td>68,59</td><td>419,26</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,47</td><td>971,00</td><td>971,00</td><td>0,00</td><td>971,00</td><td>406,03</td><td>68,59</td><td>406,03</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,39</td><td>997,78</td><td>1070,00</td><td>0,00</td><td>1073,00</td><td>373,07</td><td>66,96</td><td>373,07</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,96</td><td>148,50</td><td>536,00</td><td>0,00</td><td>536,00</td><td>349,48</td><td>58,24</td><td>349,48</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,50</td><td>88,71</td><td>496,00</td><td>0,00</td><td>493,00</td><td>329,96</td><td>49,06</td><td>329,96</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,59</td><td>88,95</td><td>9,32</td><td>0,00</td><td>5,00</td><td>335,32</td><td>50,86</td><td>335,32</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>624,87</td><td>917,00</td><td>0,00</td><td>909,00</td><td>341,41</td><td>44,28</td><td>341,41</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,97</td><td>733,52</td><td>990,00</td><td>0,00</td><td>990,00</td><td>331,25</td><td>38,50</td><td>331,25</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,42</td><td>392,44</td><td>873,00</td><td>0,00</td><td>873,00</td><td>304,60</td><td>27,68</td><td>304,60</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,11</td><td>483,05</td><td>754,00</td><td>0,00</td><td>754,00</td><td>277,71</td><td>21,58</td><td>277,71</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,11</td><td>147,00</td><td>147,00</td><td>0,00</td><td>146,00</td><td>274,47</td><td>21,58</td><td>274,47</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,10</td><td>60,82</td><td>69,50</td><td>0,00</td><td>55,00</td><td>276,02</td><td>21,39</td><td>276,02</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,02</td><td>87,09</td><td>157,00</td><td>0,00</td><td>149,00</td><td>289,80</td><td>19,81</td><td>289,80</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,76</td><td>519,58</td><td>744,00</td><td>0,00</td><td>738,00</td><td>291,16</td><td>14,76</td><td>291,16</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,74</td><td>738,75</td><td>756,00</td><td>0,00</td><td>756,00</td><td>303,47</td><td>14,37</td><td>303,47</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,11</td><td>595,25</td><td>275,00</td><td>0,00</td><td>275,00</td><td>313,12</td><td>21,58</td><td>313,12</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,61</td><td>586,92</td><td>150,00</td><td>0,00</td><td>150,00</td><td>320,14</td><td>31,42</td><td>320,14</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,88</td><td>482,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>314,35</td><td>36,73</td><td>314,35</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,87</td><td>74,10</td><td>82,90</td><td>0,00</td><td>72,00</td><td>304,51</td><td>36,54</td><td>304,51</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,91</td><td>49,75</td><td>14,80</td><td>0,00</td><td>0,00</td><td>307,82</td><td>37,32</td><td>307,82</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,97</td><td>65,93</td><td>13,50</td><td>0,00</td><td>0,00</td><td>313,20</td><td>38,50</td><td>313,20</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,90</td><td>281,89</td><td>343,00</td><td>0,00</td><td>336,00</td><td>304,79</td><td>37,13</td><td>304,79</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,88</td><td>254,52</td><td>272,00</td><td>0,00</td><td>272,00</td><td>302,51</td><td>36,73</td><td>302,51</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,88</td><td>277,00</td><td>277,00</td><td>0,00</td><td>277,00</td><td>297,27</td><td>36,73</td><td>297,27</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,92</td><td>267,95</td><td>233,00</td><td>0,00</td><td>233,00</td><td>298,09</td><td>37,52</td><td>298,09</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,89</td><td>103,73</td><td>130,00</td><td>0,00</td><td>126,00</td><td>281,61</td><td>36,93</td><td>281,61</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,95</td><td>62,53</td><td>10,10</td><td>0,00</td><td>3,00</td><td>266,26</td><td>38,11</td><td>266,26</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,02</td><td>251,46</td><td>190,00</td><td>0,00</td><td>190,00</td><td>254,24</td><td>39,49</td><td>254,24</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,98</td><td>228,81</td><td>264,00</td><td>0,00</td><td>264,00</td><td>245,20</td><td>38,70</td><td>245,20</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,94</td><td>213,05</td><td>248,00</td><td>0,00</td><td>248,00</td><td>243,04</td><td>37,91</td><td>243,04</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,89</td><td>221,25</td><td>265,00</td><td>0,00</td><td>265,00</td><td>239,64</td><td>36,93</td><td>239,64</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,86</td><td>214,84</td><td>241,00</td><td>0,00</td><td>275,00</td><td>246,61</td><td>36,34</td><td>246,61</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,92</td><td>271,43</td><td>219,00</td><td>0,00</td><td>217,00</td><td>255,73</td><td>37,52</td><td>255,73</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,85</td><td>102,77</td><td>164,00</td><td>0,00</td><td>162,00</td><td>273,92</td><td>36,14</td><td>273,92</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,72</td><td>354,46</td><td>468,00</td><td>0,00</td><td>465,00</td><td>273,87</td><td>33,59</td><td>273,87</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,81</td><td>488,59</td><td>410,00</td><td>0,00</td><td>410,00</td><td>260,20</td><td>35,35</td><td>260,20</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,90</td><td>497,70</td><td>419,00</td><td>0,00</td><td>419,00</td><td>264,15</td><td>37,13</td><td>264,15</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>841,59</td><td>524,00</td><td>0,00</td><td>524,00</td><td>604,66</td><td>44,28</td><td>604,66</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,90</td><td>1112,67</td><td>546,00</td><td>0,00</td><td>546,00</td><td>1737,95</td><td>57,04</td><td>1737,95</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,67</td><td>556,30</td><td>760,00</td><td>0,00</td><td>760,00</td><td>1714,81</td><td>52,45</td><td>1714,81</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,92</td><td>399,41</td><td>178,00</td><td>0,00</td><td>178,00</td><td>1402,49</td><td>57,44</td><td>1402,49</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,42</td><td>437,29</td><td>880,00</td><td>0,00</td><td>880,00</td><td>1300,50</td><td>47,47</td><td>1300,50</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,95</td><td>389,38</td><td>805,00</td><td>0,00</td><td>805,00</td><td>1227,90</td><td>38,11</td><td>1227,90</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,82</td><td>324,46</td><td>438,00</td><td>0,00</td><td>438,00</td><td>1175,23</td><td>35,55</td><td>1175,23</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,86</td><td>276,95</td><td>242,00</td><td>0,00</td><td>242,00</td><td>1125,30</td><td>36,34</td><td>1125,30</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,67</td><td>298,91</td><td>465,00</td><td>0,00</td><td>465,00</td><td>1066,07</td><td>32,60</td><td>1066,07</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,15</td><td>603,18</td><td>182,00</td><td>0,00</td><td>182,00</td><td>1160,88</td><td>42,08</td><td>1160,88</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,71</td><td>495,83</td><td>0,00</td><td>0,00</td><td>0,00</td><td>1347,13</td><td>53,25</td><td>1347,13</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,88</td><td>665,58</td><td>515,00</td><td>0,00</td><td>515,00</td><td>1641,84</td><td>56,64</td><td>1641,84</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,66</td><td>655,21</td><td>850,00</td><td>0,00</td><td>850,00</td><td>1589,01</td><td>52,25</td><td>1589,01</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,05</td><td>1150,18</td><td>804,00</td><td>0,00</td><td>804,00</td><td>2081,97</td><td>60,05</td><td>2081,97</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,98</td><td>1330,58</td><td>491,00</td><td>0,00</td><td>491,00</td><td>2453,37</td><td>78,96</td><td>2453,37</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,52</td><td>1412,56</td><td>918,00</td><td>0,00</td><td>918,00</td><td>2358,15</td><td>90,09</td><td>2358,15</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,24</td><td>538,40</td><td>795,00</td><td>0,00</td><td>795,00</td><td>2039,95</td><td>84,32</td><td>2039,95</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,59</td><td>508,83</td><td>188,00</td><td>0,00</td><td>188,00</td><td>1910,61</td><td>91,54</td><td>1910,61</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,01</td><td>1554,95</td><td>1170,00</td><td>218,00</td><td>950,00</td><td>2166,07</td><td>100,21</td><td>2166,07</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,00</td><td>1640,74</td><td>1650,00</td><td>411,00</td><td>1237,00</td><td>2125,10</td><td>100,00</td><td>2125,10</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1545,88</td><td>1610,00</td><td>606,00</td><td>1007,00</td><td>2077,70</td><td>98,56</td><td>2077,70</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>897,43</td><td>870,00</td><td>43,80</td><td>826,00</td><td>2090,47</td><td>99,17</td><td>2090,47</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,66</td><td>815,12</td><td>1090,00</td><td>101,00</td><td>988,00</td><td>2121,23</td><td>92,98</td><td>2121,23</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,45</td><td>495,52</td><td>688,00</td><td>0,00</td><td>688,00</td><td>1935,15</td><td>88,65</td><td>1935,15</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,84</td><td>464,41</td><td>107,00</td><td>37,00</td><td>70,00</td><td>1867,72</td><td>96,70</td><td>1867,72</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,87</td><td>1067,55</td><td>1040,00</td><td>217,00</td><td>819,00</td><td>1927,07</td><td>97,32</td><td>1927,07</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>607,02</td><td>1307,62</td><td>1170,00</td><td>147,00</td><td>1020,00</td><td>1716,83</td><td>100,42</td><td>1716,83</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,86</td><td>1163,12</td><td>1310,00</td><td>297,00</td><td>1014,00</td><td>1617,26</td><td>97,11</td><td>1617,26</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1104,24</td><td>1040,00</td><td>566,00</td><td>476,00</td><td>1560,72</td><td>98,56</td><td>1560,72</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,91</td><td>1691,60</td><td>1710,00</td><td>768,00</td><td>942,00</td><td>1491,28</td><td>98,14</td><td>1491,28</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,96</td><td>1385,83</td><td>1340,00</td><td>357,00</td><td>980,00</td><td>1441,73</td><td>99,17</td><td>1441,73</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,97</td><td>1499,14</td><td>1490,00</td><td>1310,00</td><td>173,00</td><td>1343,89</td><td>99,38</td><td>1343,89</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1287,59</td><td>1370,00</td><td>441,00</td><td>926,00</td><td>1279,16</td><td>97,52</td><td>1279,16</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1420,00</td><td>1420,00</td><td>432,00</td><td>991,00</td><td>1192,97</td><td>97,52</td><td>1192,97</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,94</td><td>1033,98</td><td>979,00</td><td>99,00</td><td>880,00</td><td>1068,78</td><td>98,76</td><td>1068,78</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,86</td><td>1226,62</td><td>1300,00</td><td>333,00</td><td>969,00</td><td>961,32</td><td>97,11</td><td>961,32</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,83</td><td>1182,57</td><td>1210,00</td><td>176,00</td><td>1039,00</td><td>872,65</td><td>96,49</td><td>872,65</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,48</td><td>662,28</td><td>983,00</td><td>0,00</td><td>983,00</td><td>772,77</td><td>89,27</td><td>772,77</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,67</td><td>605,07</td><td>431,00</td><td>0,00</td><td>431,00</td><td>683,35</td><td>93,19</td><td>683,35</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,82</td><td>1083,50</td><td>946,00</td><td>0,00</td><td>946,00</td><td>630,82</td><td>96,29</td><td>630,82</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,88</td><td>1015,98</td><td>961,00</td><td>0,00</td><td>961,00</td><td>584,80</td><td>97,52</td><td>584,80</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,93</td><td>1175,83</td><td>1130,00</td><td>0,00</td><td>1130,00</td><td>541,29</td><td>98,56</td><td>541,29</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,98</td><td>1145,83</td><td>1100,00</td><td>0,00</td><td>1105,00</td><td>507,39</td><td>99,59</td><td>507,39</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,95</td><td>1222,45</td><td>1250,00</td><td>0,00</td><td>1251,00</td><td>476,83</td><td>98,97</td><td>476,83</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,45</td><td>581,78</td><td>1040,00</td><td>0,00</td><td>1040,00</td><td>463,70</td><td>88,65</td><td>463,70</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,08</td><td>230,88</td><td>570,00</td><td>0,00</td><td>570,00</td><td>445,82</td><td>81,01</td><td>445,82</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,08</td><td>889,00</td><td>889,00</td><td>0,00</td><td>889,00</td><td>424,30</td><td>81,01</td><td>424,30</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,10</td><td>971,40</td><td>953,00</td><td>0,00</td><td>953,00</td><td>393,10</td><td>81,43</td><td>393,10</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,31</td><td>1146,48</td><td>954,00</td><td>0,00</td><td>955,00</td><td>366,82</td><td>85,76</td><td>366,82</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,49</td><td>1254,93</td><td>1090,00</td><td>0,00</td><td>1094,00</td><td>353,34</td><td>89,48</td><td>353,34</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,43</td><td>1175,02</td><td>1230,00</td><td>0,00</td><td>1233,00</td><td>342,47</td><td>88,24</td><td>342,47</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,26</td><td>800,21</td><td>956,00</td><td>0,00</td><td>956,00</td><td>339,25</td><td>84,73</td><td>339,25</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>339,30</td><td>704,00</td><td>0,00</td><td>705,00</td><td>334,17</td><td>76,52</td><td>334,17</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,84</td><td>1031,94</td><td>1050,00</td><td>0,00</td><td>1052,00</td><td>325,04</td><td>76,11</td><td>325,04</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,94</td><td>1075,00</td><td>1110,00</td><td>0,00</td><td>1109,00</td><td>312,82</td><td>78,14</td><td>312,82</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,93</td><td>861,00</td><td>995,00</td><td>0,00</td><td>995,00</td><td>304,79</td><td>77,94</td><td>304,79</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,95</td><td>1018,06</td><td>1000,00</td><td>0,00</td><td>1002,00</td><td>298,82</td><td>78,35</td><td>298,82</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>1235,09</td><td>1080,00</td><td>0,00</td><td>1077,00</td><td>293,07</td><td>81,84</td><td>293,07</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,05</td><td>955,88</td><td>1020,00</td><td>0,00</td><td>1025,00</td><td>286,22</td><td>80,40</td><td>286,22</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,99</td><td>475,14</td><td>530,00</td><td>0,00</td><td>530,00</td><td>282,44</td><td>79,16</td><td>282,44</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,10</td><td>1084,69</td><td>984,00</td><td>0,00</td><td>984,00</td><td>276,27</td><td>81,43</td><td>276,27</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,12</td><td>1168,29</td><td>1150,00</td><td>0,00</td><td>1148,00</td><td>270,21</td><td>81,84</td><td>270,21</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,20</td><td>1213,38</td><td>1140,00</td><td>0,00</td><td>1142,00</td><td>266,52</td><td>83,49</td><td>266,52</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,32</td><td>1229,95</td><td>1120,00</td><td>0,00</td><td>1115,00</td><td>265,48</td><td>85,97</td><td>265,48</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,37</td><td>1215,83</td><td>1170,00</td><td>0,00</td><td>1167,00</td><td>264,39</td><td>87,00</td><td>264,39</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,42</td><td>1155,83</td><td>1110,00</td><td>0,00</td><td>1110,00</td><td>262,47</td><td>88,03</td><td>262,47</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,11</td><td>529,86</td><td>814,00</td><td>0,00</td><td>814,00</td><td>255,42</td><td>81,63</td><td>255,42</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,14</td><td>1107,55</td><td>1080,00</td><td>0,00</td><td>1076,00</td><td>245,92</td><td>82,25</td><td>245,92</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,11</td><td>1162,45</td><td>1190,00</td><td>0,00</td><td>1186,00</td><td>236,66</td><td>81,63</td><td>236,66</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,10</td><td>1170,86</td><td>1180,00</td><td>0,00</td><td>1176,00</td><td>226,52</td><td>81,43</td><td>226,52</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,05</td><td>1154,17</td><td>1200,00</td><td>0,00</td><td>1205,00</td><td>218,98</td><td>80,40</td><td>218,98</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,99</td><td>1135,14</td><td>1190,00</td><td>0,00</td><td>1188,00</td><td>210,79</td><td>79,16</td><td>210,79</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,60</td><td>631,92</td><td>984,00</td><td>0,00</td><td>971,00</td><td>204,20</td><td>71,23</td><td>204,20</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>401,97</td><td>411,00</td><td>0,00</td><td>411,00</td><td>200,74</td><td>71,03</td><td>200,74</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,79</td><td>884,56</td><td>704,00</td><td>0,00</td><td>704,00</td><td>194,23</td><td>75,09</td><td>194,23</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,82</td><td>894,08</td><td>867,00</td><td>0,00</td><td>867,00</td><td>190,15</td><td>75,70</td><td>190,15</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>922,11</td><td>886,00</td><td>0,00</td><td>886,00</td><td>194,43</td><td>76,52</td><td>194,43</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,03</td><td>974,94</td><td>821,00</td><td>0,00</td><td>821,00</td><td>210,13</td><td>79,98</td><td>210,13</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>606,14</td><td>1018,81</td><td>918,00</td><td>0,00</td><td>918,00</td><td>224,86</td><td>82,25</td><td>224,86</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,84</td><td>542,20</td><td>815,00</td><td>0,00</td><td>815,00</td><td>228,11</td><td>76,11</td><td>228,11</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,87</td><td>288,08</td><td>261,00</td><td>0,00</td><td>261,00</td><td>224,28</td><td>76,72</td><td>224,28</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,74</td><td>532,64</td><td>650,00</td><td>0,00</td><td>653,00</td><td>227,66</td><td>74,08</td><td>227,66</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,81</td><td>752,19</td><td>689,00</td><td>0,00</td><td>689,00</td><td>232,34</td><td>75,50</td><td>232,34</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,86</td><td>762,14</td><td>717,00</td><td>0,00</td><td>717,00</td><td>235,64</td><td>76,52</td><td>235,64</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,98</td><td>899,33</td><td>791,00</td><td>0,00</td><td>791,00</td><td>228,17</td><td>78,96</td><td>228,17</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,88</td><td>871,72</td><td>962,00</td><td>0,00</td><td>962,00</td><td>210,63</td><td>76,92</td><td>210,63</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,73</td><td>573,58</td><td>709,00</td><td>0,00</td><td>709,00</td><td>223,78</td><td>73,87</td><td>223,78</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,71</td><td>287,94</td><td>306,00</td><td>0,00</td><td>306,00</td><td>276,83</td><td>73,47</td><td>276,83</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,76</td><td>761,14</td><td>716,00</td><td>0,00</td><td>716,00</td><td>336,17</td><td>74,48</td><td>336,17</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,77</td><td>786,03</td><td>777,00</td><td>0,00</td><td>778,00</td><td>346,68</td><td>74,69</td><td>346,68</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,71</td><td>760,83</td><td>815,00</td><td>0,00</td><td>815,00</td><td>331,36</td><td>73,47</td><td>331,36</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>773,67</td><td>882,00</td><td>0,00</td><td>882,00</td><td>305,05</td><td>71,03</td><td>305,05</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,54</td><td>786,86</td><td>832,00</td><td>0,00</td><td>832,00</td><td>294,81</td><td>70,01</td><td>294,81</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,39</td><td>501,58</td><td>637,00</td><td>0,00</td><td>637,00</td><td>347,93</td><td>66,96</td><td>347,93</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,44</td><td>297,14</td><td>252,00</td><td>0,00</td><td>252,00</td><td>567,54</td><td>67,98</td><td>567,54</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,56</td><td>711,33</td><td>603,00</td><td>0,00</td><td>603,00</td><td>801,34</td><td>70,42</td><td>801,34</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,58</td><td>707,06</td><td>689,00</td><td>0,00</td><td>689,00</td><td>762,48</td><td>70,82</td><td>762,48</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,55</td><td>741,92</td><td>769,00</td><td>0,00</td><td>769,00</td><td>697,58</td><td>70,21</td><td>697,58</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,55</td><td>718,00</td><td>718,00</td><td>0,00</td><td>718,00</td><td>689,63</td><td>70,21</td><td>689,63</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,59</td><td>784,11</td><td>748,00</td><td>0,00</td><td>748,00</td><td>659,70</td><td>71,03</td><td>659,70</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,35</td><td>505,33</td><td>722,00</td><td>0,00</td><td>722,00</td><td>610,21</td><td>66,15</td><td>610,21</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>282,22</td><td>535,00</td><td>0,00</td><td>535,00</td><td>553,08</td><td>60,46</td><td>553,08</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,02</td><td>757,86</td><td>803,00</td><td>0,00</td><td>803,00</td><td>494,81</td><td>59,44</td><td>494,81</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,98</td><td>755,24</td><td>791,00</td><td>0,00</td><td>791,00</td><td>446,14</td><td>58,63</td><td>446,14</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,87</td><td>767,55</td><td>865,00</td><td>0,00</td><td>865,00</td><td>412,74</td><td>56,44</td><td>412,74</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,70</td><td>827,54</td><td>978,00</td><td>0,00</td><td>978,00</td><td>384,62</td><td>53,05</td><td>384,62</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,47</td><td>792,30</td><td>996,00</td><td>0,00</td><td>996,00</td><td>357,33</td><td>48,46</td><td>357,33</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,07</td><td>621,83</td><td>976,00</td><td>0,00</td><td>976,00</td><td>324,10</td><td>40,49</td><td>324,10</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,13</td><td>157,12</td><td>104,00</td><td>0,00</td><td>104,00</td><td>299,43</td><td>41,69</td><td>299,43</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,86</td><td>645,62</td><td>883,00</td><td>0,00</td><td>882,00</td><td>281,30</td><td>36,34</td><td>281,30</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,67</td><td>728,91</td><td>895,00</td><td>0,00</td><td>895,00</td><td>264,58</td><td>32,60</td><td>264,58</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,44</td><td>718,07</td><td>919,00</td><td>0,00</td><td>919,00</td><td>250,08</td><td>28,08</td><td>250,08</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,55</td><td>326,06</td><td>230,00</td><td>0,00</td><td>228,00</td><td>240,47</td><td>30,24</td><td>240,47</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,40</td><td>594,98</td><td>726,00</td><td>0,00</td><td>725,00</td><td>238,58</td><td>27,29</td><td>238,58</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,34</td><td>399,57</td><td>452,00</td><td>0,00</td><td>452,00</td><td>233,41</td><td>26,11</td><td>233,41</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,45</td><td>105,12</td><td>9,06</td><td>0,00</td><td>7,00</td><td>224,36</td><td>28,27</td><td>224,36</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,19</td><td>765,80</td><td>993,00</td><td>0,00</td><td>993,00</td><td>209,97</td><td>23,15</td><td>209,97</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,02</td><td>780,50</td><td>929,00</td><td>0,00</td><td>929,00</td><td>197,22</td><td>19,81</td><td>197,22</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,84</td><td>828,56</td><td>984,00</td><td>0,00</td><td>984,00</td><td>185,64</td><td>16,31</td><td>185,64</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,65</td><td>817,11</td><td>981,00</td><td>0,00</td><td>981,00</td><td>177,41</td><td>12,62</td><td>177,41</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,42</td><td>831,74</td><td>1030,00</td><td>0,00</td><td>1029,00</td><td>163,85</td><td>8,16</td><td>163,85</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,73</td><td>485,25</td><td>218,00</td><td>0,00</td><td>218,00</td><td>162,23</td><td>14,17</td><td>162,23</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,84</td><td>166,11</td><td>71,20</td><td>0,00</td><td>71,00</td><td>163,23</td><td>16,31</td><td>163,23</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,84</td><td>327,00</td><td>327,00</td><td>0,00</td><td>325,00</td><td>162,01</td><td>16,31</td><td>162,01</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,89</td><td>448,06</td><td>405,00</td><td>0,00</td><td>405,00</td><td>157,55</td><td>17,28</td><td>157,55</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,86</td><td>320,19</td><td>346,00</td><td>0,00</td><td>346,00</td><td>151,15</td><td>16,70</td><td>151,15</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,01</td><td>520,40</td><td>391,00</td><td>0,00</td><td>391,00</td><td>146,93</td><td>19,61</td><td>146,93</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,13</td><td>505,86</td><td>401,00</td><td>0,00</td><td>401,00</td><td>147,91</td><td>21,97</td><td>147,91</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,22</td><td>184,70</td><td>106,00</td><td>0,00</td><td>106,00</td><td>153,32</td><td>23,75</td><td>153,32</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,29</td><td>61,51</td><td>0,40</td><td>0,00</td><td>0,00</td><td>155,61</td><td>25,12</td><td>155,61</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,23</td><td>429,57</td><td>482,00</td><td>0,00</td><td>479,00</td><td>151,62</td><td>23,94</td><td>151,62</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,18</td><td>389,37</td><td>433,00</td><td>0,00</td><td>431,00</td><td>144,25</td><td>22,96</td><td>144,25</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,18</td><td>411,00</td><td>411,00</td><td>0,00</td><td>411,00</td><td>149,75</td><td>22,96</td><td>149,75</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,18</td><td>341,00</td><td>341,00</td><td>0,00</td><td>341,00</td><td>175,25</td><td>22,96</td><td>175,25</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,20</td><td>250,48</td><td>233,00</td><td>0,00</td><td>231,00</td><td>216,52</td><td>23,35</td><td>216,52</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,32</td><td>233,86</td><td>129,00</td><td>0,00</td><td>124,00</td><td>260,63</td><td>25,71</td><td>260,63</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,47</td><td>186,02</td><td>55,00</td><td>0,00</td><td>55,00</td><td>280,99</td><td>28,66</td><td>280,99</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,44</td><td>411,84</td><td>438,00</td><td>0,00</td><td>435,00</td><td>262,99</td><td>28,08</td><td>262,99</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,45</td><td>381,68</td><td>373,00</td><td>0,00</td><td>370,00</td><td>249,17</td><td>28,27</td><td>249,17</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,27</td><td>290,71</td><td>448,00</td><td>0,00</td><td>446,00</td><td>247,45</td><td>24,73</td><td>247,45</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,11</td><td>479,19</td><td>619,00</td><td>0,00</td><td>616,00</td><td>271,95</td><td>21,58</td><td>271,95</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,10</td><td>550,32</td><td>559,00</td><td>0,00</td><td>558,00</td><td>305,48</td><td>21,39</td><td>305,48</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,16</td><td>202,43</td><td>150,00</td><td>0,00</td><td>150,00</td><td>399,60</td><td>22,57</td><td>399,60</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,32</td><td>290,81</td><td>151,00</td><td>0,00</td><td>151,00</td><td>554,14</td><td>25,71</td><td>554,14</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,56</td><td>808,72</td><td>599,00</td><td>0,00</td><td>599,00</td><td>832,66</td><td>30,44</td><td>832,66</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,04</td><td>1270,91</td><td>851,00</td><td>0,00</td><td>851,00</td><td>1221,10</td><td>39,89</td><td>1221,10</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,22</td><td>1159,37</td><td>1000,00</td><td>0,00</td><td>1002,00</td><td>1268,37</td><td>43,48</td><td>1268,37</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,74</td><td>505,01</td><td>927,00</td><td>0,00</td><td>927,00</td><td>1099,04</td><td>33,98</td><td>1099,04</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,69</td><td>955,25</td><td>999,00</td><td>0,00</td><td>999,00</td><td>1142,37</td><td>32,99</td><td>1142,37</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,49</td><td>432,23</td><td>607,00</td><td>0,00</td><td>642,00</td><td>1135,88</td><td>29,06</td><td>1135,88</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,56</td><td>244,23</td><td>183,00</td><td>0,00</td><td>183,00</td><td>1141,31</td><td>30,44</td><td>1141,31</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,59</td><td>619,16</td><td>593,00</td><td>0,00</td><td>593,00</td><td>1036,15</td><td>31,03</td><td>1036,15</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,35</td><td>524,28</td><td>734,00</td><td>0,00</td><td>734,00</td><td>916,89</td><td>26,30</td><td>916,89</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,11</td><td>840,28</td><td>1050,00</td><td>0,00</td><td>1052,00</td><td>831,83</td><td>21,58</td><td>831,83</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,96</td><td>828,44</td><td>959,00</td><td>0,00</td><td>959,00</td><td>786,75</td><td>18,64</td><td>786,75</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,21</td><td>1156,94</td><td>939,00</td><td>0,00</td><td>939,00</td><td>747,13</td><td>23,55</td><td>747,13</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,69</td><td>633,44</td><td>214,00</td><td>0,00</td><td>214,00</td><td>957,45</td><td>32,99</td><td>957,45</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,17</td><td>1028,41</td><td>607,00</td><td>0,00</td><td>607,00</td><td>1600,22</td><td>42,48</td><td>1600,22</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,43</td><td>1177,21</td><td>947,00</td><td>0,00</td><td>947,00</td><td>1479,61</td><td>47,67</td><td>1479,61</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,45</td><td>1117,71</td><td>1100,00</td><td>0,00</td><td>1098,00</td><td>1191,85</td><td>48,07</td><td>1191,85</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,57</td><td>1176,25</td><td>1070,00</td><td>0,00</td><td>1071,00</td><td>1064,58</td><td>50,46</td><td>1064,58</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,71</td><td>1203,96</td><td>1080,00</td><td>0,00</td><td>1083,00</td><td>1066,05</td><td>53,25</td><td>1066,05</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,53</td><td>1130,62</td><td>1290,00</td><td>0,00</td><td>1288,00</td><td>1070,93</td><td>49,66</td><td>1070,93</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,47</td><td>807,88</td><td>861,00</td><td>0,00</td><td>861,00</td><td>975,40</td><td>48,46</td><td>975,40</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,34</td><td>585,95</td><td>701,00</td><td>0,00</td><td>701,00</td><td>1054,76</td><td>45,87</td><td>1054,76</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>1646,57</td><td>999,00</td><td>0,00</td><td>999,00</td><td>1935,59</td><td>60,46</td><td>1935,59</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,35</td><td>1362,78</td><td>1110,00</td><td>0,00</td><td>1115,00</td><td>1957,02</td><td>66,15</td><td>1957,02</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,53</td><td>1262,50</td><td>1100,00</td><td>0,00</td><td>1099,00</td><td>1725,78</td><td>69,81</td><td>1725,78</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,57</td><td>537,11</td><td>501,00</td><td>0,00</td><td>501,00</td><td>1399,92</td><td>70,62</td><td>1399,92</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,75</td><td>963,50</td><td>801,00</td><td>0,00</td><td>801,00</td><td>1398,29</td><td>74,28</td><td>1398,29</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,73</td><td>923,94</td><td>942,00</td><td>0,00</td><td>942,00</td><td>1704,30</td><td>73,87</td><td>1704,30</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,97</td><td>676,67</td><td>460,00</td><td>0,00</td><td>460,00</td><td>1756,62</td><td>78,75</td><td>1756,62</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,54</td><td>651,81</td><td>1040,00</td><td>0,00</td><td>1042,00</td><td>1688,07</td><td>70,01</td><td>1688,07</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,36</td><td>927,50</td><td>1090,00</td><td>0,00</td><td>1087,00</td><td>1444,72</td><td>66,35</td><td>1444,72</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,20</td><td>895,56</td><td>1040,00</td><td>0,00</td><td>1044,00</td><td>1284,46</td><td>63,10</td><td>1284,46</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>880,64</td><td>998,00</td><td>0,00</td><td>998,00</td><td>1162,26</td><td>60,46</td><td>1162,26</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,00</td><td>1106,81</td><td>1170,00</td><td>0,00</td><td>1166,00</td><td>1188,22</td><td>59,03</td><td>1188,22</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,98</td><td>1132,29</td><td>1150,00</td><td>0,00</td><td>1153,00</td><td>1172,03</td><td>58,63</td><td>1172,03</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,25</td><td>590,40</td><td>347,00</td><td>0,00</td><td>347,00</td><td>1084,93</td><td>64,12</td><td>1084,93</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,24</td><td>1030,97</td><td>1040,00</td><td>0,00</td><td>1042,00</td><td>939,00</td><td>63,91</td><td>939,00</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,02</td><td>1061,39</td><td>1260,00</td><td>0,00</td><td>1256,00</td><td>832,56</td><td>59,44</td><td>832,56</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,77</td><td>691,24</td><td>913,00</td><td>0,00</td><td>913,00</td><td>750,45</td><td>54,45</td><td>750,45</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,63</td><td>1146,04</td><td>1270,00</td><td>0,00</td><td>1270,00</td><td>764,25</td><td>51,66</td><td>764,25</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,61</td><td>1202,29</td><td>1220,00</td><td>0,00</td><td>1220,00</td><td>673,74</td><td>51,26</td><td>673,74</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,77</td><td>1078,67</td><td>937,00</td><td>0,00</td><td>937,00</td><td>962,53</td><td>54,45</td><td>962,53</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,78</td><td>663,91</td><td>655,00</td><td>0,00</td><td>655,00</td><td>1039,05</td><td>54,65</td><td>1039,05</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,89</td><td>1107,34</td><td>1010,00</td><td>0,00</td><td>1008,00</td><td>999,45</td><td>56,84</td><td>999,45</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,20</td><td>1338,01</td><td>1060,00</td><td>0,00</td><td>1065,00</td><td>1147,72</td><td>63,10</td><td>1147,72</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,41</td><td>1409,58</td><td>1220,00</td><td>0,00</td><td>1220,00</td><td>1266,89</td><td>67,37</td><td>1266,89</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,47</td><td>1324,17</td><td>1270,00</td><td>0,00</td><td>1267,00</td><td>1201,70</td><td>68,59</td><td>1201,70</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,43</td><td>1163,89</td><td>1200,00</td><td>0,00</td><td>1204,00</td><td>1102,84</td><td>67,78</td><td>1102,84</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,68</td><td>1285,69</td><td>1060,00</td><td>0,00</td><td>1056,00</td><td>1057,73</td><td>72,86</td><td>1057,73</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,44</td><td>585,33</td><td>802,00</td><td>0,00</td><td>802,00</td><td>1025,04</td><td>67,98</td><td>1025,04</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,32</td><td>1051,67</td><td>1160,00</td><td>0,00</td><td>1161,00</td><td>951,70</td><td>65,54</td><td>951,70</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,21</td><td>1160,69</td><td>1260,00</td><td>0,00</td><td>1261,00</td><td>858,09</td><td>63,30</td><td>858,09</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,15</td><td>1205,83</td><td>1260,00</td><td>0,00</td><td>1263,00</td><td>809,99</td><td>62,08</td><td>809,99</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,14</td><td>1310,97</td><td>1320,00</td><td>0,00</td><td>1323,00</td><td>759,35</td><td>61,88</td><td>759,35</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,19</td><td>1295,14</td><td>1250,00</td><td>0,00</td><td>1251,00</td><td>704,83</td><td>62,90</td><td>704,83</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,27</td><td>1252,22</td><td>1180,00</td><td>0,00</td><td>1175,00</td><td>640,40</td><td>64,52</td><td>640,40</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,19</td><td>877,78</td><td>950,00</td><td>0,00</td><td>950,00</td><td>587,67</td><td>62,90</td><td>587,67</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,97</td><td>1051,85</td><td>1250,00</td><td>0,00</td><td>1245,00</td><td>542,69</td><td>58,43</td><td>542,69</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,96</td><td>1281,20</td><td>1290,00</td><td>0,00</td><td>1289,00</td><td>522,88</td><td>58,24</td><td>522,88</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,93</td><td>1063,38</td><td>1090,00</td><td>0,00</td><td>1085,00</td><td>530,59</td><td>57,64</td><td>530,59</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,90</td><td>1253,50</td><td>1280,00</td><td>0,00</td><td>1276,00</td><td>531,89</td><td>57,04</td><td>531,89</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,89</td><td>1301,09</td><td>1310,00</td><td>0,00</td><td>1306,00</td><td>501,66</td><td>56,84</td><td>501,66</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,88</td><td>1221,20</td><td>1230,00</td><td>0,00</td><td>1227,00</td><td>452,31</td><td>56,64</td><td>452,31</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,38</td><td>552,29</td><td>995,00</td><td>0,00</td><td>995,00</td><td>416,61</td><td>46,67</td><td>416,61</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,18</td><td>1072,92</td><td>1250,00</td><td>0,00</td><td>1248,00</td><td>400,59</td><td>42,68</td><td>400,59</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,03</td><td>987,13</td><td>1120,00</td><td>0,00</td><td>1122,00</td><td>380,67</td><td>39,69</td><td>380,67</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,86</td><td>971,16</td><td>1120,00</td><td>0,00</td><td>1123,00</td><td>358,12</td><td>36,34</td><td>358,12</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,70</td><td>1030,19</td><td>1170,00</td><td>0,00</td><td>1168,00</td><td>341,53</td><td>33,19</td><td>341,53</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,76</td><td>1035,43</td><td>983,00</td><td>0,00</td><td>983,00</td><td>338,00</td><td>34,37</td><td>338,00</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,99</td><td>1084,93</td><td>884,00</td><td>0,00</td><td>884,00</td><td>341,71</td><td>38,90</td><td>341,71</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>530,00</td><td>291,00</td><td>0,00</td><td>291,00</td><td>349,36</td><td>44,28</td><td>349,36</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,27</td><td>856,80</td><td>848,00</td><td>0,00</td><td>848,00</td><td>354,10</td><td>44,48</td><td>354,10</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,99</td><td>832,20</td><td>1080,00</td><td>0,00</td><td>1080,00</td><td>363,31</td><td>38,90</td><td>363,31</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,79</td><td>673,23</td><td>848,00</td><td>0,00</td><td>848,00</td><td>394,57</td><td>34,96</td><td>394,57</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,40</td><td>448,26</td><td>789,00</td><td>0,00</td><td>789,00</td><td>427,64</td><td>27,29</td><td>427,64</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,25</td><td>715,87</td><td>847,00</td><td>0,00</td><td>840,00</td><td>458,66</td><td>24,34</td><td>458,66</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,02</td><td>270,07</td><td>471,00</td><td>0,00</td><td>471,00</td><td>493,84</td><td>19,81</td><td>493,84</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>602,99</td><td>321,84</td><td>348,00</td><td>0,00</td><td>348,00</td><td>533,58</td><td>19,22</td><td>533,58</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,04</td><td>341,63</td><td>298,00</td><td>0,00</td><td>298,00</td><td>563,10</td><td>20,20</td><td>563,10</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,05</td><td>439,68</td><td>431,00</td><td>0,00</td><td>457,00</td><td>556,42</td><td>20,40</td><td>556,42</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,16</td><td>664,18</td><td>568,00</td><td>0,00</td><td>567,00</td><td>563,66</td><td>22,57</td><td>563,66</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>603,60</td><td>751,49</td><td>367,00</td><td>0,00</td><td>367,00</td><td>604,53</td><td>31,22</td><td>604,53</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,12</td><td>712,79</td><td>257,00</td><td>0,00</td><td>257,00</td><td>922,05</td><td>41,49</td><td>922,05</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,57</td><td>604,38</td><td>206,00</td><td>0,00</td><td>206,00</td><td>1366,73</td><td>50,46</td><td>1366,73</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,97</td><td>531,17</td><td>177,00</td><td>0,00</td><td>177,00</td><td>1480,51</td><td>58,43</td><td>1480,51</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,25</td><td>429,31</td><td>177,00</td><td>0,00</td><td>177,00</td><td>1426,23</td><td>64,12</td><td>1426,23</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,24</td><td>467,97</td><td>477,00</td><td>0,00</td><td>477,00</td><td>1450,66</td><td>63,91</td><td>1450,66</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,20</td><td>958,89</td><td>995,00</td><td>0,00</td><td>996,00</td><td>1461,04</td><td>63,10</td><td>1461,04</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,04</td><td>745,56</td><td>890,00</td><td>0,00</td><td>890,00</td><td>1339,86</td><td>59,85</td><td>1339,86</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,96</td><td>843,47</td><td>915,00</td><td>0,00</td><td>915,00</td><td>1216,17</td><td>58,24</td><td>1216,17</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,71</td><td>577,59</td><td>799,00</td><td>0,00</td><td>799,00</td><td>1123,02</td><td>53,25</td><td>1123,02</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,79</td><td>314,83</td><td>244,00</td><td>0,00</td><td>244,00</td><td>1051,06</td><td>54,85</td><td>1051,06</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,60</td><td>656,83</td><td>825,00</td><td>0,00</td><td>825,00</td><td>987,57</td><td>51,06</td><td>987,57</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,37</td><td>652,30</td><td>856,00</td><td>0,00</td><td>856,00</td><td>968,76</td><td>46,47</td><td>968,76</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,32</td><td>941,79</td><td>986,00</td><td>0,00</td><td>986,00</td><td>972,07</td><td>45,48</td><td>972,07</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,37</td><td>993,21</td><td>949,00</td><td>0,00</td><td>949,00</td><td>983,38</td><td>46,47</td><td>983,38</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,39</td><td>1047,71</td><td>1030,00</td><td>0,00</td><td>1031,00</td><td>1002,22</td><td>46,87</td><td>1002,22</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,18</td><td>1074,12</td><td>1260,00</td><td>0,00</td><td>1262,00</td><td>1071,54</td><td>42,68</td><td>1071,54</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,22</td><td>1075,42</td><td>1040,00</td><td>0,00</td><td>1041,00</td><td>1159,36</td><td>43,48</td><td>1159,36</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,26</td><td>1105,42</td><td>1070,00</td><td>0,00</td><td>1066,00</td><td>1127,15</td><td>44,28</td><td>1127,15</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,35</td><td>1289,63</td><td>1210,00</td><td>0,00</td><td>1210,00</td><td>1212,50</td><td>46,07</td><td>1212,50</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,67</td><td>1263,33</td><td>980,00</td><td>0,00</td><td>980,00</td><td>1330,95</td><td>52,45</td><td>1330,95</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,86</td><td>1438,29</td><td>1270,00</td><td>0,00</td><td>1268,00</td><td>1371,86</td><td>56,24</td><td>1371,86</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,09</td><td>1445,21</td><td>1240,00</td><td>0,00</td><td>1239,00</td><td>1347,39</td><td>60,86</td><td>1347,39</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,13</td><td>1316,11</td><td>1280,00</td><td>0,00</td><td>1276,00</td><td>1329,31</td><td>61,68</td><td>1329,31</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,19</td><td>557,17</td><td>503,00</td><td>0,00</td><td>503,00</td><td>1372,60</td><td>62,90</td><td>1372,60</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,07</td><td>1011,67</td><td>1120,00</td><td>0,00</td><td>1124,00</td><td>1485,64</td><td>60,46</td><td>1485,64</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,01</td><td>1235,83</td><td>1290,00</td><td>0,00</td><td>1294,00</td><td>1552,97</td><td>59,24</td><td>1552,97</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,97</td><td>1074,35</td><td>1110,00</td><td>0,00</td><td>1105,00</td><td>1610,00</td><td>58,43</td><td>1610,00</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,89</td><td>1109,17</td><td>1180,00</td><td>0,00</td><td>1185,00</td><td>1665,81</td><td>56,84</td><td>1665,81</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,55</td><td>798,96</td><td>1100,00</td><td>0,00</td><td>1099,00</td><td>1707,71</td><td>50,06</td><td>1707,71</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,43</td><td>850,75</td><td>957,00</td><td>0,00</td><td>957,00</td><td>1691,19</td><td>47,67</td><td>1691,19</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,74</td><td>823,54</td><td>549,00</td><td>0,00</td><td>549,00</td><td>1612,46</td><td>53,85</td><td>1612,46</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,86</td><td>964,25</td><td>1020,00</td><td>0,00</td><td>1020,00</td><td>1676,29</td><td>56,24</td><td>1676,29</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>604,99</td><td>1113,05</td><td>1160,00</td><td>0,00</td><td>1156,00</td><td>1704,22</td><td>58,83</td><td>1704,22</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,14</td><td>1145,30</td><td>1170,00</td><td>0,00</td><td>1167,00</td><td>1600,69</td><td>61,88</td><td>1600,69</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19060</td><td>SEGREDO                                           </td><td>605,29</td><td>1182,42</td><td>1203,00</td><td>0,00</td><td>1203,00</td><td>1498,48</td><td>64,93</td><td>1498,48</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

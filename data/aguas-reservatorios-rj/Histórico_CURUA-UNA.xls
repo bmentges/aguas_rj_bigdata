@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,65</td><td>70,64</td><td>88,00</td><td>0,00</td><td>88,00</td><td>75,68</td><td>6,62</td><td>75,68</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,63</td><td>77,58</td><td>88,00</td><td>0,00</td><td>88,00</td><td>76,85</td><td>6,39</td><td>76,85</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,61</td><td>81,06</td><td>88,00</td><td>0,00</td><td>88,00</td><td>79,17</td><td>6,24</td><td>79,17</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,59</td><td>77,58</td><td>88,00</td><td>0,00</td><td>88,00</td><td>79,16</td><td>6,02</td><td>79,16</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,57</td><td>77,58</td><td>88,00</td><td>0,00</td><td>88,00</td><td>79,16</td><td>5,79</td><td>79,16</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,56</td><td>81,06</td><td>88,00</td><td>0,00</td><td>88,00</td><td>79,96</td><td>5,64</td><td>79,96</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,56</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>81,58</td><td>5,64</td><td>81,58</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,58</td><td>82,42</td><td>72,00</td><td>0,00</td><td>72,00</td><td>80,87</td><td>5,87</td><td>80,87</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,59</td><td>78,94</td><td>72,00</td><td>0,00</td><td>72,00</td><td>79,37</td><td>6,02</td><td>79,37</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,60</td><td>75,47</td><td>72,00</td><td>0,00</td><td>72,00</td><td>78,21</td><td>6,09</td><td>78,21</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,61</td><td>78,94</td><td>72,00</td><td>0,00</td><td>72,00</td><td>77,05</td><td>6,24</td><td>77,05</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,62</td><td>75,47</td><td>72,00</td><td>0,00</td><td>72,00</td><td>77,05</td><td>6,32</td><td>77,05</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,63</td><td>75,47</td><td>72,00</td><td>0,00</td><td>72,00</td><td>77,06</td><td>6,39</td><td>77,06</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,64</td><td>78,94</td><td>72,00</td><td>0,00</td><td>72,00</td><td>79,37</td><td>6,54</td><td>79,37</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,66</td><td>82,42</td><td>72,00</td><td>0,00</td><td>72,00</td><td>81,69</td><td>6,77</td><td>81,69</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,68</td><td>82,42</td><td>72,00</td><td>0,00</td><td>72,00</td><td>82,52</td><td>6,99</td><td>82,52</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>81,42</td><td>71,00</td><td>0,00</td><td>71,00</td><td>80,20</td><td>7,22</td><td>80,20</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,71</td><td>75,47</td><td>72,00</td><td>0,00</td><td>72,00</td><td>76,40</td><td>7,30</td><td>76,40</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,71</td><td>71,00</td><td>71,00</td><td>0,00</td><td>74,00</td><td>74,44</td><td>7,30</td><td>74,44</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>75,53</td><td>79,00</td><td>0,00</td><td>79,00</td><td>75,61</td><td>7,22</td><td>75,61</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>78,28</td><td>7,22</td><td>78,28</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,44</td><td>7,22</td><td>79,44</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,44</td><td>7,22</td><td>79,44</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,44</td><td>7,22</td><td>79,44</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,43</td><td>7,22</td><td>79,43</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,43</td><td>7,22</td><td>79,43</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>79,44</td><td>7,22</td><td>79,44</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,70</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>80,73</td><td>7,22</td><td>80,73</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,73</td><td>82,89</td><td>69,00</td><td>0,00</td><td>69,00</td><td>83,01</td><td>7,52</td><td>83,01</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,77</td><td>85,83</td><td>65,00</td><td>0,00</td><td>65,00</td><td>88,17</td><td>7,97</td><td>88,17</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,90</td><td>94,44</td><td>25,00</td><td>0,00</td><td>25,00</td><td>95,94</td><td>9,48</td><td>95,94</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,08</td><td>106,22</td><td>9,00</td><td>0,00</td><td>9,00</td><td>104,39</td><td>11,58</td><td>104,39</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,15</td><td>111,19</td><td>73,00</td><td>0,00</td><td>73,00</td><td>110,16</td><td>12,41</td><td>110,16</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,20</td><td>111,78</td><td>84,00</td><td>0,00</td><td>84,00</td><td>112,02</td><td>13,01</td><td>112,02</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,25</td><td>111,78</td><td>84,00</td><td>0,00</td><td>84,00</td><td>112,08</td><td>13,61</td><td>112,08</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,28</td><td>111,36</td><td>94,00</td><td>0,00</td><td>94,00</td><td>111,96</td><td>13,99</td><td>111,96</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,30</td><td>111,42</td><td>101,00</td><td>0,00</td><td>101,00</td><td>112,00</td><td>14,21</td><td>112,00</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,32</td><td>111,89</td><td>98,00</td><td>0,00</td><td>98,00</td><td>111,02</td><td>14,51</td><td>111,02</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,34</td><td>108,42</td><td>98,00</td><td>0,00</td><td>98,00</td><td>107,71</td><td>14,74</td><td>107,71</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,35</td><td>101,47</td><td>98,00</td><td>0,00</td><td>98,00</td><td>101,92</td><td>14,82</td><td>101,92</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,34</td><td>94,53</td><td>98,00</td><td>0,00</td><td>98,00</td><td>95,02</td><td>14,74</td><td>95,02</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,30</td><td>87,69</td><td>112,00</td><td>0,00</td><td>112,00</td><td>90,77</td><td>14,21</td><td>90,77</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,24</td><td>88,75</td><td>120,00</td><td>0,00</td><td>120,00</td><td>88,84</td><td>13,54</td><td>88,84</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,19</td><td>88,75</td><td>120,00</td><td>0,00</td><td>120,00</td><td>89,99</td><td>12,86</td><td>89,99</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,15</td><td>91,17</td><td>112,00</td><td>0,00</td><td>112,00</td><td>92,07</td><td>12,41</td><td>92,07</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,15</td><td>95,00</td><td>95,00</td><td>0,00</td><td>95,00</td><td>94,76</td><td>12,41</td><td>94,76</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,19</td><td>96,83</td><td>76,00</td><td>0,00</td><td>76,00</td><td>95,17</td><td>12,86</td><td>95,17</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,22</td><td>92,36</td><td>75,00</td><td>0,00</td><td>75,00</td><td>93,80</td><td>13,24</td><td>93,80</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,24</td><td>90,89</td><td>77,00</td><td>0,00</td><td>77,00</td><td>91,49</td><td>13,54</td><td>91,49</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,27</td><td>89,89</td><td>76,00</td><td>0,00</td><td>76,00</td><td>90,66</td><td>13,84</td><td>90,66</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,29</td><td>89,89</td><td>76,00</td><td>0,00</td><td>76,00</td><td>87,53</td><td>14,14</td><td>87,53</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,30</td><td>81,47</td><td>78,00</td><td>0,00</td><td>78,00</td><td>85,21</td><td>14,21</td><td>85,21</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,31</td><td>82,94</td><td>76,00</td><td>0,00</td><td>76,00</td><td>82,90</td><td>14,36</td><td>82,90</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,32</td><td>82,94</td><td>76,00</td><td>0,00</td><td>76,00</td><td>85,88</td><td>14,51</td><td>85,88</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,34</td><td>90,42</td><td>80,00</td><td>0,00</td><td>80,00</td><td>89,36</td><td>14,74</td><td>89,36</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,37</td><td>93,36</td><td>76,00</td><td>0,00</td><td>76,00</td><td>93,66</td><td>15,12</td><td>93,66</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,41</td><td>95,83</td><td>75,00</td><td>0,00</td><td>75,00</td><td>94,96</td><td>15,57</td><td>94,96</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,45</td><td>93,00</td><td>70,00</td><td>0,00</td><td>70,00</td><td>96,74</td><td>16,09</td><td>96,74</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,53</td><td>100,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>97,80</td><td>17,07</td><td>97,80</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,56</td><td>99,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>105,77</td><td>17,52</td><td>105,77</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>117,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>113,73</td><td>18,28</td><td>113,73</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,71</td><td>124,00</td><td>69,00</td><td>0,00</td><td>69,00</td><td>122,37</td><td>19,40</td><td>122,37</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,82</td><td>125,00</td><td>57,00</td><td>0,00</td><td>57,00</td><td>127,37</td><td>20,83</td><td>127,37</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,92</td><td>132,00</td><td>69,00</td><td>0,00</td><td>69,00</td><td>128,38</td><td>22,19</td><td>128,38</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,95</td><td>127,00</td><td>108,00</td><td>0,00</td><td>108,00</td><td>131,39</td><td>22,64</td><td>131,39</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,01</td><td>130,72</td><td>96,00</td><td>0,00</td><td>96,00</td><td>131,83</td><td>23,39</td><td>131,83</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,05</td><td>134,78</td><td>107,00</td><td>0,00</td><td>107,00</td><td>132,33</td><td>23,99</td><td>132,33</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,09</td><td>130,31</td><td>106,00</td><td>0,00</td><td>106,00</td><td>131,82</td><td>24,52</td><td>131,82</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,15</td><td>129,19</td><td>91,00</td><td>0,00</td><td>91,00</td><td>128,34</td><td>25,34</td><td>128,34</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,19</td><td>124,31</td><td>100,00</td><td>0,00</td><td>100,00</td><td>126,18</td><td>25,87</td><td>126,18</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,22</td><td>123,83</td><td>103,00</td><td>0,00</td><td>103,00</td><td>124,43</td><td>26,32</td><td>124,43</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,23</td><td>123,94</td><td>117,00</td><td>0,00</td><td>117,00</td><td>124,78</td><td>26,47</td><td>124,78</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,26</td><td>125,36</td><td>108,00</td><td>0,00</td><td>108,00</td><td>127,10</td><td>26,85</td><td>127,10</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,30</td><td>130,78</td><td>103,00</td><td>0,00</td><td>103,00</td><td>130,22</td><td>27,45</td><td>130,22</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,34</td><td>133,31</td><td>109,00</td><td>0,00</td><td>109,00</td><td>136,51</td><td>27,98</td><td>136,51</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>144,19</td><td>106,00</td><td>0,00</td><td>106,00</td><td>141,48</td><td>28,80</td><td>141,48</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,46</td><td>145,67</td><td>104,00</td><td>0,00</td><td>104,00</td><td>148,80</td><td>29,71</td><td>148,80</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,51</td><td>155,25</td><td>124,00</td><td>0,00</td><td>124,00</td><td>157,73</td><td>30,38</td><td>157,73</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,51</td><td>171,00</td><td>171,00</td><td>0,00</td><td>171,00</td><td>168,76</td><td>30,38</td><td>168,76</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,56</td><td>178,72</td><td>144,00</td><td>0,00</td><td>144,00</td><td>178,97</td><td>31,14</td><td>178,97</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,58</td><td>185,89</td><td>172,00</td><td>0,00</td><td>172,00</td><td>184,43</td><td>31,44</td><td>184,43</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,61</td><td>187,36</td><td>170,00</td><td>0,00</td><td>170,00</td><td>186,48</td><td>31,81</td><td>186,48</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>184,89</td><td>171,00</td><td>0,00</td><td>171,00</td><td>186,49</td><td>32,11</td><td>186,49</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,65</td><td>185,89</td><td>172,00</td><td>0,00</td><td>172,00</td><td>186,00</td><td>32,41</td><td>186,00</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,67</td><td>185,89</td><td>172,00</td><td>0,00</td><td>172,00</td><td>186,00</td><td>32,71</td><td>186,00</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,69</td><td>184,89</td><td>171,00</td><td>0,00</td><td>171,00</td><td>184,35</td><td>33,02</td><td>184,35</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,70</td><td>180,94</td><td>174,00</td><td>0,00</td><td>174,00</td><td>182,69</td><td>33,17</td><td>182,69</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,72</td><td>180,89</td><td>167,00</td><td>0,00</td><td>167,00</td><td>183,51</td><td>33,47</td><td>183,51</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,75</td><td>187,36</td><td>170,00</td><td>0,00</td><td>170,00</td><td>185,83</td><td>33,84</td><td>185,83</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,77</td><td>187,89</td><td>174,00</td><td>0,00</td><td>174,00</td><td>191,44</td><td>34,14</td><td>191,44</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,82</td><td>197,72</td><td>163,00</td><td>0,00</td><td>163,00</td><td>199,45</td><td>34,90</td><td>199,45</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,89</td><td>211,61</td><td>163,00</td><td>0,00</td><td>163,00</td><td>213,04</td><td>35,95</td><td>213,04</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,98</td><td>228,87</td><td>171,00</td><td>0,00</td><td>171,00</td><td>226,87</td><td>37,20</td><td>226,87</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,08</td><td>239,44</td><td>170,00</td><td>0,00</td><td>170,00</td><td>239,34</td><td>38,83</td><td>239,34</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,19</td><td>243,23</td><td>168,00</td><td>0,00</td><td>168,00</td><td>244,13</td><td>40,46</td><td>244,13</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,31</td><td>249,02</td><td>168,00</td><td>0,00</td><td>168,00</td><td>249,26</td><td>42,22</td><td>249,26</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,43</td><td>254,81</td><td>168,00</td><td>0,00</td><td>168,00</td><td>255,05</td><td>44,10</td><td>255,05</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,56</td><td>260,59</td><td>168,00</td><td>0,00</td><td>168,00</td><td>258,91</td><td>46,10</td><td>258,91</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,69</td><td>260,59</td><td>168,00</td><td>0,00</td><td>168,00</td><td>259,70</td><td>48,11</td><td>259,70</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,84</td><td>257,17</td><td>153,00</td><td>0,00</td><td>153,00</td><td>260,16</td><td>50,36</td><td>260,16</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,99</td><td>261,95</td><td>152,00</td><td>0,00</td><td>152,00</td><td>258,02</td><td>52,75</td><td>258,02</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,14</td><td>254,17</td><td>150,00</td><td>0,00</td><td>150,00</td><td>258,29</td><td>55,00</td><td>258,29</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,29</td><td>257,95</td><td>148,00</td><td>0,00</td><td>148,00</td><td>252,77</td><td>57,38</td><td>252,77</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,43</td><td>245,38</td><td>147,00</td><td>0,00</td><td>147,00</td><td>247,63</td><td>59,51</td><td>247,63</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,59</td><td>238,74</td><td>123,00</td><td>0,00</td><td>123,00</td><td>236,16</td><td>62,02</td><td>236,16</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,76</td><td>223,53</td><td>102,00</td><td>0,00</td><td>102,00</td><td>227,69</td><td>64,65</td><td>227,69</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,91</td><td>219,95</td><td>110,00</td><td>0,00</td><td>110,00</td><td>217,58</td><td>67,03</td><td>217,58</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,05</td><td>208,38</td><td>110,00</td><td>0,00</td><td>110,00</td><td>211,87</td><td>69,17</td><td>211,87</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,19</td><td>206,38</td><td>108,00</td><td>0,00</td><td>108,00</td><td>204,77</td><td>71,30</td><td>204,77</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,28</td><td>198,66</td><td>135,00</td><td>0,00</td><td>135,00</td><td>200,96</td><td>72,67</td><td>200,96</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,32</td><td>196,94</td><td>168,00</td><td>0,00</td><td>168,00</td><td>193,96</td><td>73,30</td><td>193,96</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,34</td><td>185,36</td><td>168,00</td><td>0,00</td><td>168,00</td><td>188,19</td><td>73,68</td><td>188,19</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,37</td><td>181,36</td><td>164,00</td><td>0,00</td><td>164,00</td><td>182,41</td><td>74,05</td><td>182,41</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,38</td><td>179,57</td><td>168,00</td><td>0,00</td><td>168,00</td><td>176,62</td><td>74,30</td><td>176,62</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,38</td><td>168,00</td><td>168,00</td><td>0,00</td><td>168,00</td><td>170,17</td><td>74,30</td><td>170,17</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,38</td><td>162,00</td><td>162,00</td><td>0,00</td><td>162,00</td><td>158,59</td><td>74,30</td><td>158,59</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,35</td><td>144,85</td><td>168,00</td><td>0,00</td><td>168,00</td><td>152,80</td><td>73,80</td><td>152,80</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,33</td><td>150,64</td><td>168,00</td><td>0,00</td><td>168,00</td><td>154,33</td><td>73,43</td><td>154,33</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,34</td><td>166,57</td><td>155,00</td><td>0,00</td><td>155,00</td><td>163,97</td><td>73,68</td><td>163,97</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,35</td><td>173,79</td><td>168,00</td><td>0,00</td><td>168,00</td><td>176,74</td><td>73,80</td><td>176,74</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,39</td><td>188,94</td><td>160,00</td><td>0,00</td><td>160,00</td><td>185,49</td><td>74,43</td><td>185,49</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,46</td><td>193,08</td><td>141,00</td><td>0,00</td><td>141,00</td><td>191,61</td><td>75,56</td><td>191,61</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,56</td><td>192,44</td><td>123,00</td><td>0,00</td><td>123,00</td><td>190,88</td><td>77,06</td><td>190,88</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,67</td><td>187,02</td><td>106,00</td><td>0,00</td><td>106,00</td><td>186,93</td><td>78,82</td><td>186,93</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,78</td><td>181,23</td><td>106,00</td><td>0,00</td><td>106,00</td><td>181,20</td><td>80,45</td><td>181,20</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,88</td><td>175,23</td><td>100,00</td><td>0,00</td><td>100,00</td><td>176,67</td><td>82,08</td><td>176,67</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,98</td><td>173,44</td><td>104,00</td><td>0,00</td><td>104,00</td><td>171,48</td><td>83,58</td><td>171,48</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,07</td><td>165,66</td><td>102,00</td><td>0,00</td><td>102,00</td><td>167,02</td><td>84,96</td><td>167,02</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,15</td><td>161,87</td><td>104,00</td><td>0,00</td><td>104,00</td><td>161,24</td><td>86,21</td><td>161,24</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,22</td><td>156,08</td><td>104,00</td><td>0,00</td><td>104,00</td><td>156,12</td><td>87,34</td><td>156,12</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,28</td><td>150,30</td><td>104,00</td><td>0,00</td><td>104,00</td><td>150,33</td><td>88,34</td><td>150,33</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,34</td><td>144,51</td><td>104,00</td><td>0,00</td><td>104,00</td><td>146,73</td><td>89,22</td><td>146,73</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,40</td><td>145,30</td><td>99,00</td><td>0,00</td><td>99,00</td><td>148,54</td><td>90,22</td><td>148,54</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,45</td><td>155,72</td><td>121,00</td><td>0,00</td><td>121,00</td><td>156,23</td><td>90,98</td><td>156,23</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,46</td><td>167,57</td><td>156,00</td><td>0,00</td><td>156,00</td><td>165,59</td><td>91,23</td><td>165,59</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,49</td><td>173,36</td><td>156,00</td><td>0,00</td><td>156,00</td><td>173,06</td><td>91,60</td><td>173,06</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,52</td><td>178,15</td><td>155,00</td><td>0,00</td><td>155,00</td><td>176,92</td><td>92,10</td><td>176,92</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,55</td><td>179,15</td><td>156,00</td><td>0,00</td><td>156,00</td><td>178,85</td><td>92,60</td><td>178,85</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,58</td><td>179,15</td><td>156,00</td><td>0,00</td><td>156,00</td><td>175,32</td><td>93,11</td><td>175,32</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,60</td><td>167,57</td><td>156,00</td><td>0,00</td><td>156,00</td><td>167,61</td><td>93,36</td><td>167,61</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,60</td><td>156,00</td><td>156,00</td><td>0,00</td><td>156,00</td><td>159,89</td><td>93,36</td><td>159,89</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,60</td><td>156,00</td><td>156,00</td><td>0,00</td><td>156,00</td><td>156,03</td><td>93,36</td><td>156,03</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,60</td><td>156,00</td><td>156,00</td><td>0,00</td><td>156,00</td><td>154,10</td><td>93,36</td><td>154,10</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,59</td><td>150,21</td><td>156,00</td><td>0,00</td><td>156,00</td><td>150,24</td><td>93,23</td><td>150,24</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,57</td><td>144,43</td><td>156,00</td><td>0,00</td><td>156,00</td><td>146,39</td><td>92,98</td><td>146,39</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,56</td><td>144,43</td><td>156,00</td><td>0,00</td><td>156,00</td><td>145,98</td><td>92,73</td><td>145,98</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,56</td><td>149,00</td><td>149,00</td><td>0,00</td><td>149,00</td><td>145,98</td><td>92,73</td><td>145,98</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,54</td><td>144,43</td><td>156,00</td><td>0,00</td><td>156,00</td><td>144,05</td><td>92,48</td><td>144,05</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,52</td><td>138,64</td><td>156,00</td><td>0,00</td><td>156,00</td><td>141,53</td><td>92,10</td><td>141,53</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,50</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>139,60</td><td>91,85</td><td>139,60</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,48</td><td>138,64</td><td>156,00</td><td>0,00</td><td>156,00</td><td>137,67</td><td>91,48</td><td>137,67</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,45</td><td>132,85</td><td>156,00</td><td>0,00</td><td>156,00</td><td>134,72</td><td>90,98</td><td>134,72</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,42</td><td>132,85</td><td>156,00</td><td>0,00</td><td>156,00</td><td>136,55</td><td>90,47</td><td>136,55</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,40</td><td>144,43</td><td>156,00</td><td>0,00</td><td>156,00</td><td>138,39</td><td>90,22</td><td>138,39</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,38</td><td>138,64</td><td>156,00</td><td>0,00</td><td>156,00</td><td>140,32</td><td>89,85</td><td>140,32</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,35</td><td>138,64</td><td>156,00</td><td>0,00</td><td>156,00</td><td>138,39</td><td>89,47</td><td>138,39</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,33</td><td>138,64</td><td>156,00</td><td>0,00</td><td>156,00</td><td>137,39</td><td>89,10</td><td>137,39</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,31</td><td>135,64</td><td>153,00</td><td>0,00</td><td>153,00</td><td>138,39</td><td>88,72</td><td>138,39</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,28</td><td>141,64</td><td>159,00</td><td>0,00</td><td>159,00</td><td>137,46</td><td>88,34</td><td>137,46</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,25</td><td>135,85</td><td>159,00</td><td>0,00</td><td>159,00</td><td>136,20</td><td>87,84</td><td>136,20</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,22</td><td>131,85</td><td>155,00</td><td>0,00</td><td>155,00</td><td>132,40</td><td>87,34</td><td>132,40</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,18</td><td>130,06</td><td>159,00</td><td>0,00</td><td>159,00</td><td>128,59</td><td>86,71</td><td>128,59</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,13</td><td>124,28</td><td>159,00</td><td>0,00</td><td>159,00</td><td>123,57</td><td>85,96</td><td>123,57</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,11</td><td>116,64</td><td>134,00</td><td>0,00</td><td>134,00</td><td>121,64</td><td>85,59</td><td>121,64</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,06</td><td>124,28</td><td>159,00</td><td>0,00</td><td>159,00</td><td>121,65</td><td>84,83</td><td>121,65</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,01</td><td>124,28</td><td>159,00</td><td>0,00</td><td>159,00</td><td>126,12</td><td>84,08</td><td>126,12</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,97</td><td>130,06</td><td>159,00</td><td>0,00</td><td>159,00</td><td>130,32</td><td>83,45</td><td>130,32</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,94</td><td>136,85</td><td>160,00</td><td>0,00</td><td>160,00</td><td>133,25</td><td>82,95</td><td>133,25</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,90</td><td>133,06</td><td>162,00</td><td>0,00</td><td>162,00</td><td>131,99</td><td>82,33</td><td>131,99</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,85</td><td>126,28</td><td>161,00</td><td>0,00</td><td>161,00</td><td>129,23</td><td>81,57</td><td>129,23</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,87</td><td>128,57</td><td>117,00</td><td>0,00</td><td>117,00</td><td>127,30</td><td>81,83</td><td>127,30</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,82</td><td>127,28</td><td>162,00</td><td>0,00</td><td>162,00</td><td>125,70</td><td>81,07</td><td>125,70</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,76</td><td>121,49</td><td>162,00</td><td>0,00</td><td>162,00</td><td>121,41</td><td>80,20</td><td>121,41</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,70</td><td>115,70</td><td>162,00</td><td>0,00</td><td>162,00</td><td>120,74</td><td>79,19</td><td>120,74</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,65</td><td>125,28</td><td>160,00</td><td>0,00</td><td>160,00</td><td>120,74</td><td>78,44</td><td>120,74</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,59</td><td>121,49</td><td>162,00</td><td>0,00</td><td>162,00</td><td>121,74</td><td>77,56</td><td>121,74</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,53</td><td>118,70</td><td>165,00</td><td>0,00</td><td>165,00</td><td>119,54</td><td>76,56</td><td>119,54</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,46</td><td>118,70</td><td>165,00</td><td>0,00</td><td>165,00</td><td>116,73</td><td>75,56</td><td>116,73</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,42</td><td>113,06</td><td>142,00</td><td>0,00</td><td>142,00</td><td>114,37</td><td>74,93</td><td>114,37</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,40</td><td>111,64</td><td>129,00</td><td>0,00</td><td>129,00</td><td>110,87</td><td>74,56</td><td>110,87</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,39</td><td>108,21</td><td>114,00</td><td>0,00</td><td>114,00</td><td>110,72</td><td>74,43</td><td>110,72</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,37</td><td>112,64</td><td>130,00</td><td>0,00</td><td>130,00</td><td>111,71</td><td>74,05</td><td>111,71</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,34</td><td>114,64</td><td>132,00</td><td>0,00</td><td>132,00</td><td>111,92</td><td>73,68</td><td>111,92</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,31</td><td>108,85</td><td>132,00</td><td>0,00</td><td>132,00</td><td>108,72</td><td>73,18</td><td>108,72</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,27</td><td>103,06</td><td>132,00</td><td>0,00</td><td>132,00</td><td>104,19</td><td>72,55</td><td>104,19</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,23</td><td>101,06</td><td>130,00</td><td>0,00</td><td>130,00</td><td>100,33</td><td>71,92</td><td>100,33</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,18</td><td>97,28</td><td>132,00</td><td>0,00</td><td>132,00</td><td>98,06</td><td>71,17</td><td>98,06</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,13</td><td>96,28</td><td>131,00</td><td>0,00</td><td>131,00</td><td>98,72</td><td>70,42</td><td>98,72</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,09</td><td>103,06</td><td>132,00</td><td>0,00</td><td>132,00</td><td>100,31</td><td>69,79</td><td>100,31</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,05</td><td>102,06</td><td>131,00</td><td>0,00</td><td>131,00</td><td>104,50</td><td>69,17</td><td>104,50</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,02</td><td>108,85</td><td>132,00</td><td>0,00</td><td>132,00</td><td>106,42</td><td>68,66</td><td>106,42</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,99</td><td>108,85</td><td>132,00</td><td>0,00</td><td>132,00</td><td>106,75</td><td>68,16</td><td>106,75</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,95</td><td>103,06</td><td>132,00</td><td>0,00</td><td>132,00</td><td>106,41</td><td>67,54</td><td>106,41</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,91</td><td>107,85</td><td>131,00</td><td>0,00</td><td>131,00</td><td>105,15</td><td>67,03</td><td>105,15</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,87</td><td>105,06</td><td>134,00</td><td>0,00</td><td>134,00</td><td>106,14</td><td>66,41</td><td>106,14</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,83</td><td>106,06</td><td>135,00</td><td>0,00</td><td>135,00</td><td>105,54</td><td>65,78</td><td>105,54</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,79</td><td>106,06</td><td>135,00</td><td>0,00</td><td>135,00</td><td>103,94</td><td>65,15</td><td>103,94</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,74</td><td>100,28</td><td>135,00</td><td>0,00</td><td>135,00</td><td>100,08</td><td>64,40</td><td>100,08</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,69</td><td>94,49</td><td>135,00</td><td>0,00</td><td>135,00</td><td>96,22</td><td>63,52</td><td>96,22</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,63</td><td>94,49</td><td>135,00</td><td>0,00</td><td>135,00</td><td>92,37</td><td>62,65</td><td>92,37</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,57</td><td>88,70</td><td>135,00</td><td>0,00</td><td>135,00</td><td>94,29</td><td>61,64</td><td>94,29</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,52</td><td>100,28</td><td>135,00</td><td>0,00</td><td>135,00</td><td>97,22</td><td>60,89</td><td>97,22</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,47</td><td>103,28</td><td>138,00</td><td>0,00</td><td>138,00</td><td>102,08</td><td>60,14</td><td>102,08</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,42</td><td>103,28</td><td>138,00</td><td>0,00</td><td>138,00</td><td>105,01</td><td>59,39</td><td>105,01</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,38</td><td>109,06</td><td>138,00</td><td>0,00</td><td>138,00</td><td>105,01</td><td>58,76</td><td>105,01</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,33</td><td>103,28</td><td>138,00</td><td>0,00</td><td>138,00</td><td>106,27</td><td>58,01</td><td>106,27</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,29</td><td>107,06</td><td>136,00</td><td>0,00</td><td>136,00</td><td>104,35</td><td>57,38</td><td>104,35</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,24</td><td>103,28</td><td>138,00</td><td>0,00</td><td>138,00</td><td>102,42</td><td>56,63</td><td>102,42</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,19</td><td>97,49</td><td>138,00</td><td>0,00</td><td>138,00</td><td>97,63</td><td>55,75</td><td>97,63</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,12</td><td>92,70</td><td>139,00</td><td>0,00</td><td>139,00</td><td>94,78</td><td>54,75</td><td>94,78</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,06</td><td>94,70</td><td>141,00</td><td>0,00</td><td>141,00</td><td>93,85</td><td>53,75</td><td>93,85</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,99</td><td>94,70</td><td>141,00</td><td>0,00</td><td>141,00</td><td>94,19</td><td>52,75</td><td>94,19</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,93</td><td>93,70</td><td>140,00</td><td>0,00</td><td>140,00</td><td>90,34</td><td>51,74</td><td>90,34</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,85</td><td>83,13</td><td>141,00</td><td>0,00</td><td>141,00</td><td>88,75</td><td>50,49</td><td>88,75</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,77</td><td>89,92</td><td>142,00</td><td>0,00</td><td>142,00</td><td>86,09</td><td>49,36</td><td>86,09</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,71</td><td>85,70</td><td>132,00</td><td>0,00</td><td>132,00</td><td>85,88</td><td>48,36</td><td>85,88</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,65</td><td>82,49</td><td>123,00</td><td>0,00</td><td>123,00</td><td>84,08</td><td>47,48</td><td>84,08</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,59</td><td>84,49</td><td>125,00</td><td>0,00</td><td>125,00</td><td>84,01</td><td>46,60</td><td>84,01</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,54</td><td>85,49</td><td>126,00</td><td>0,00</td><td>126,00</td><td>83,09</td><td>45,73</td><td>83,09</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,47</td><td>79,70</td><td>126,00</td><td>0,00</td><td>126,00</td><td>79,57</td><td>44,72</td><td>79,57</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,40</td><td>73,92</td><td>126,00</td><td>0,00</td><td>126,00</td><td>75,72</td><td>43,59</td><td>75,72</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,32</td><td>73,92</td><td>126,00</td><td>0,00</td><td>126,00</td><td>73,79</td><td>42,47</td><td>73,79</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,25</td><td>73,92</td><td>126,00</td><td>0,00</td><td>126,00</td><td>74,47</td><td>41,34</td><td>74,47</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,17</td><td>75,92</td><td>128,00</td><td>0,00</td><td>128,00</td><td>76,19</td><td>40,21</td><td>76,19</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,13</td><td>79,06</td><td>108,00</td><td>0,00</td><td>108,00</td><td>77,91</td><td>39,58</td><td>77,91</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>79,06</td><td>108,00</td><td>0,00</td><td>108,00</td><td>77,37</td><td>38,96</td><td>77,37</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,04</td><td>74,28</td><td>109,00</td><td>0,00</td><td>109,00</td><td>76,45</td><td>38,21</td><td>76,45</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,99</td><td>76,28</td><td>111,00</td><td>0,00</td><td>111,00</td><td>77,45</td><td>37,45</td><td>77,45</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,95</td><td>82,06</td><td>111,00</td><td>0,00</td><td>111,00</td><td>78,13</td><td>36,83</td><td>78,13</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,90</td><td>76,28</td><td>111,00</td><td>0,00</td><td>111,00</td><td>78,52</td><td>36,07</td><td>78,52</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,85</td><td>77,44</td><td>111,00</td><td>0,00</td><td>111,00</td><td>76,59</td><td>35,35</td><td>76,59</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,80</td><td>76,28</td><td>111,00</td><td>0,00</td><td>111,00</td><td>77,76</td><td>34,60</td><td>77,76</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,75</td><td>79,75</td><td>111,00</td><td>0,00</td><td>111,00</td><td>77,38</td><td>33,92</td><td>77,38</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,70</td><td>76,28</td><td>111,00</td><td>0,00</td><td>111,00</td><td>79,03</td><td>33,17</td><td>79,03</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,66</td><td>81,22</td><td>109,00</td><td>0,00</td><td>109,00</td><td>80,49</td><td>32,56</td><td>80,49</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,64</td><td>84,11</td><td>98,00</td><td>0,00</td><td>98,00</td><td>84,09</td><td>32,26</td><td>84,09</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>87,06</td><td>94,00</td><td>0,00</td><td>94,00</td><td>88,02</td><td>32,11</td><td>88,02</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>90,99</td><td>32,11</td><td>90,99</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>91,97</td><td>32,11</td><td>91,97</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>90,00</td><td>90,00</td><td>0,00</td><td>92,00</td><td>91,98</td><td>32,11</td><td>91,98</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>91,98</td><td>32,11</td><td>91,98</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,32</td><td>32,11</td><td>93,32</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,63</td><td>94,00</td><td>94,00</td><td>0,00</td><td>94,00</td><td>91,01</td><td>32,11</td><td>91,01</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,62</td><td>86,06</td><td>93,00</td><td>0,00</td><td>93,00</td><td>88,71</td><td>31,96</td><td>88,71</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,61</td><td>86,06</td><td>93,00</td><td>0,00</td><td>93,00</td><td>84,91</td><td>31,81</td><td>84,91</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,59</td><td>82,58</td><td>93,00</td><td>0,00</td><td>93,00</td><td>82,60</td><td>31,59</td><td>82,60</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,57</td><td>79,11</td><td>93,00</td><td>0,00</td><td>93,00</td><td>80,29</td><td>31,29</td><td>80,29</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,55</td><td>79,11</td><td>93,00</td><td>0,00</td><td>93,00</td><td>76,83</td><td>30,99</td><td>76,83</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,52</td><td>72,17</td><td>93,00</td><td>0,00</td><td>93,00</td><td>74,52</td><td>30,53</td><td>74,52</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,49</td><td>72,17</td><td>93,00</td><td>0,00</td><td>93,00</td><td>73,37</td><td>30,08</td><td>73,37</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,46</td><td>75,64</td><td>93,00</td><td>0,00</td><td>93,00</td><td>75,69</td><td>29,71</td><td>75,69</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,44</td><td>79,11</td><td>93,00</td><td>0,00</td><td>93,00</td><td>80,33</td><td>29,41</td><td>80,33</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>86,06</td><td>93,00</td><td>0,00</td><td>93,00</td><td>86,13</td><td>29,26</td><td>86,13</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>90,76</td><td>29,26</td><td>90,76</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,09</td><td>29,26</td><td>93,09</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,10</td><td>29,26</td><td>93,10</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>92,77</td><td>29,26</td><td>92,77</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>92,00</td><td>92,00</td><td>0,00</td><td>92,00</td><td>92,78</td><td>29,26</td><td>92,78</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>92,79</td><td>29,26</td><td>92,79</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,14</td><td>29,26</td><td>93,14</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,15</td><td>29,26</td><td>93,15</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,16</td><td>29,26</td><td>93,16</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,17</td><td>29,26</td><td>93,17</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>92,52</td><td>29,26</td><td>92,52</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>91,00</td><td>91,00</td><td>0,00</td><td>91,00</td><td>90,22</td><td>29,26</td><td>90,22</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,42</td><td>86,06</td><td>93,00</td><td>0,00</td><td>93,00</td><td>85,60</td><td>29,11</td><td>85,60</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>79,11</td><td>93,00</td><td>0,00</td><td>93,00</td><td>80,49</td><td>28,80</td><td>80,49</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,37</td><td>75,64</td><td>93,00</td><td>0,00</td><td>93,00</td><td>78,52</td><td>28,43</td><td>78,52</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,35</td><td>80,11</td><td>94,00</td><td>0,00</td><td>94,00</td><td>77,22</td><td>28,13</td><td>77,22</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,32</td><td>75,17</td><td>96,00</td><td>0,00</td><td>96,00</td><td>79,86</td><td>27,68</td><td>79,86</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,31</td><td>83,53</td><td>87,00</td><td>0,00</td><td>87,00</td><td>80,54</td><td>27,60</td><td>80,54</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,29</td><td>82,11</td><td>96,00</td><td>0,00</td><td>96,00</td><td>83,53</td><td>27,30</td><td>83,53</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,27</td><td>84,11</td><td>98,00</td><td>0,00</td><td>98,00</td><td>86,39</td><td>27,00</td><td>86,39</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,26</td><td>92,06</td><td>99,00</td><td>0,00</td><td>99,00</td><td>91,37</td><td>26,85</td><td>91,37</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,26</td><td>97,00</td><td>97,00</td><td>0,00</td><td>97,00</td><td>93,36</td><td>26,85</td><td>93,36</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,25</td><td>90,06</td><td>97,00</td><td>0,00</td><td>97,00</td><td>91,88</td><td>26,70</td><td>91,88</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,23</td><td>87,58</td><td>98,00</td><td>0,00</td><td>98,00</td><td>89,92</td><td>26,47</td><td>89,92</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,22</td><td>91,06</td><td>98,00</td><td>0,00</td><td>98,00</td><td>90,28</td><td>26,32</td><td>90,28</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,20</td><td>91,11</td><td>105,00</td><td>0,00</td><td>105,00</td><td>87,00</td><td>26,02</td><td>87,00</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,16</td><td>77,69</td><td>102,00</td><td>0,00</td><td>102,00</td><td>81,69</td><td>25,50</td><td>81,69</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,14</td><td>75,11</td><td>89,00</td><td>0,00</td><td>89,00</td><td>78,37</td><td>25,19</td><td>78,37</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,12</td><td>81,11</td><td>95,00</td><td>0,00</td><td>95,00</td><td>78,03</td><td>24,89</td><td>78,03</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,09</td><td>76,64</td><td>94,00</td><td>0,00</td><td>94,00</td><td>81,37</td><td>24,52</td><td>81,37</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,07</td><td>85,11</td><td>99,00</td><td>0,00</td><td>99,00</td><td>82,23</td><td>24,22</td><td>82,23</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,04</td><td>83,64</td><td>101,00</td><td>0,00</td><td>101,00</td><td>86,73</td><td>23,84</td><td>86,73</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,02</td><td>90,11</td><td>104,00</td><td>0,00</td><td>104,00</td><td>87,58</td><td>23,54</td><td>87,58</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,99</td><td>87,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>87,43</td><td>23,16</td><td>87,43</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,96</td><td>83,17</td><td>104,00</td><td>0,00</td><td>104,00</td><td>86,62</td><td>22,71</td><td>86,62</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,93</td><td>87,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>85,29</td><td>22,34</td><td>85,29</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,90</td><td>83,64</td><td>101,00</td><td>0,00</td><td>101,00</td><td>81,16</td><td>21,96</td><td>81,16</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,85</td><td>70,75</td><td>102,00</td><td>0,00</td><td>102,00</td><td>75,22</td><td>21,28</td><td>75,22</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,79</td><td>69,81</td><td>108,00</td><td>0,00</td><td>108,00</td><td>73,25</td><td>20,46</td><td>73,25</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,75</td><td>77,69</td><td>102,00</td><td>0,00</td><td>102,00</td><td>77,88</td><td>19,93</td><td>77,88</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,72</td><td>84,64</td><td>102,00</td><td>0,00</td><td>102,00</td><td>82,83</td><td>19,55</td><td>82,83</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,69</td><td>84,64</td><td>102,00</td><td>0,00</td><td>102,00</td><td>85,16</td><td>19,18</td><td>85,16</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,66</td><td>84,64</td><td>102,00</td><td>0,00</td><td>102,00</td><td>85,49</td><td>18,80</td><td>85,49</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,63</td><td>85,64</td><td>103,00</td><td>0,00</td><td>103,00</td><td>83,19</td><td>18,43</td><td>83,19</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,59</td><td>77,69</td><td>102,00</td><td>0,00</td><td>102,00</td><td>78,74</td><td>17,90</td><td>78,74</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,53</td><td>71,28</td><td>106,00</td><td>0,00</td><td>106,00</td><td>73,95</td><td>17,15</td><td>73,95</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,47</td><td>71,28</td><td>106,00</td><td>0,00</td><td>106,00</td><td>72,83</td><td>16,40</td><td>72,83</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,40</td><td>74,33</td><td>116,00</td><td>0,00</td><td>116,00</td><td>75,97</td><td>15,49</td><td>75,97</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,36</td><td>80,69</td><td>105,00</td><td>0,00</td><td>105,00</td><td>85,05</td><td>14,97</td><td>85,05</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,35</td><td>98,53</td><td>102,00</td><td>0,00</td><td>102,00</td><td>96,77</td><td>14,89</td><td>96,77</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,36</td><td>109,47</td><td>106,00</td><td>0,00</td><td>106,00</td><td>104,73</td><td>14,97</td><td>104,73</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,35</td><td>104,53</td><td>108,00</td><td>0,00</td><td>108,00</td><td>103,26</td><td>14,89</td><td>103,26</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,33</td><td>94,11</td><td>108,00</td><td>0,00</td><td>&nbsp;</td><td>95,98</td><td>14,59</td><td>95,98</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,30</td><td>87,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>89,20</td><td>14,21</td><td>89,20</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,26</td><td>84,17</td><td>105,00</td><td>0,00</td><td>105,00</td><td>87,04</td><td>13,76</td><td>87,04</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,23</td><td>87,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>86,89</td><td>13,39</td><td>86,89</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,19</td><td>87,17</td><td>108,00</td><td>0,00</td><td>108,00</td><td>85,57</td><td>12,94</td><td>85,57</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,14</td><td>80,22</td><td>108,00</td><td>0,00</td><td>108,00</td><td>84,26</td><td>12,33</td><td>84,26</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,10</td><td>83,69</td><td>108,00</td><td>0,00</td><td>108,00</td><td>80,78</td><td>11,81</td><td>80,78</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,04</td><td>76,75</td><td>108,00</td><td>0,00</td><td>108,00</td><td>83,09</td><td>11,13</td><td>83,09</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,00</td><td>87,17</td><td>108,00</td><td>0,00</td><td>108,00</td><td>88,55</td><td>10,68</td><td>88,55</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,99</td><td>100,06</td><td>107,00</td><td>0,00</td><td>107,00</td><td>96,95</td><td>10,53</td><td>96,95</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,00</td><td>101,94</td><td>95,00</td><td>0,00</td><td>95,00</td><td>99,76</td><td>10,68</td><td>99,76</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,98</td><td>95,58</td><td>106,00</td><td>0,00</td><td>106,00</td><td>94,30</td><td>10,45</td><td>94,30</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,94</td><td>83,69</td><td>108,00</td><td>0,00</td><td>108,00</td><td>85,90</td><td>9,93</td><td>85,90</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,88</td><td>76,75</td><td>108,00</td><td>0,00</td><td>108,00</td><td>79,95</td><td>9,25</td><td>79,95</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,82</td><td>77,75</td><td>109,00</td><td>0,00</td><td>109,00</td><td>78,63</td><td>8,57</td><td>78,63</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,76</td><td>79,75</td><td>111,00</td><td>0,00</td><td>111,00</td><td>81,94</td><td>7,90</td><td>81,94</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,71</td><td>86,69</td><td>111,00</td><td>0,00</td><td>111,00</td><td>86,07</td><td>7,37</td><td>86,07</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,67</td><td>90,17</td><td>111,00</td><td>0,00</td><td>111,00</td><td>89,87</td><td>6,92</td><td>89,87</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,63</td><td>91,17</td><td>112,00</td><td>0,00</td><td>112,00</td><td>89,71</td><td>6,47</td><td>89,71</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,58</td><td>86,22</td><td>114,00</td><td>0,00</td><td>114,00</td><td>86,08</td><td>5,87</td><td>86,08</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,51</td><td>79,28</td><td>114,00</td><td>0,00</td><td>114,00</td><td>80,95</td><td>5,11</td><td>80,95</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,43</td><td>75,81</td><td>114,00</td><td>0,00</td><td>114,00</td><td>77,79</td><td>4,29</td><td>77,79</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,35</td><td>76,81</td><td>115,00</td><td>0,00</td><td>115,00</td><td>81,92</td><td>3,46</td><td>81,92</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,30</td><td>91,69</td><td>116,00</td><td>0,00</td><td>116,00</td><td>90,10</td><td>2,93</td><td>90,10</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,34</td><td>100,36</td><td>83,00</td><td>0,00</td><td>83,00</td><td>96,11</td><td>3,31</td><td>96,11</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,38</td><td>94,83</td><td>74,00</td><td>0,00</td><td>74,00</td><td>87,91</td><td>3,76</td><td>87,91</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,37</td><td>67,06</td><td>74,00</td><td>0,00</td><td>74,00</td><td>74,49</td><td>3,61</td><td>74,49</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,34</td><td>60,11</td><td>74,00</td><td>0,00</td><td>74,00</td><td>62,40</td><td>3,31</td><td>62,40</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,32</td><td>58,58</td><td>69,00</td><td>0,00</td><td>69,00</td><td>62,40</td><td>3,08</td><td>62,40</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,30</td><td>67,06</td><td>74,00</td><td>0,00</td><td>74,00</td><td>68,52</td><td>2,93</td><td>68,52</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,31</td><td>78,47</td><td>75,00</td><td>0,00</td><td>75,00</td><td>75,15</td><td>3,01</td><td>75,15</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,32</td><td>78,47</td><td>75,00</td><td>0,00</td><td>75,00</td><td>77,79</td><td>3,08</td><td>77,79</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,32</td><td>75,00</td><td>75,00</td><td>0,00</td><td>75,00</td><td>74,65</td><td>3,08</td><td>74,65</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,30</td><td>69,06</td><td>76,00</td><td>0,00</td><td>76,00</td><td>68,98</td><td>2,93</td><td>68,98</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,31</td><td>61,47</td><td>58,00</td><td>0,00</td><td>58,00</td><td>62,86</td><td>3,01</td><td>62,86</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,27</td><td>56,64</td><td>74,00</td><td>0,00</td><td>74,00</td><td>59,38</td><td>2,63</td><td>59,38</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,24</td><td>58,64</td><td>76,00</td><td>0,00</td><td>76,00</td><td>61,90</td><td>2,26</td><td>61,90</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,22</td><td>69,06</td><td>76,00</td><td>0,00</td><td>76,00</td><td>69,51</td><td>2,11</td><td>69,51</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,23</td><td>79,47</td><td>76,00</td><td>0,00</td><td>76,00</td><td>78,10</td><td>2,18</td><td>78,10</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,25</td><td>84,42</td><td>74,00</td><td>0,00</td><td>74,00</td><td>84,38</td><td>2,41</td><td>84,38</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,28</td><td>87,89</td><td>74,00</td><td>0,00</td><td>74,00</td><td>87,18</td><td>2,71</td><td>87,18</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,31</td><td>87,89</td><td>74,00</td><td>0,00</td><td>74,00</td><td>88,34</td><td>3,01</td><td>88,34</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,34</td><td>87,89</td><td>74,00</td><td>0,00</td><td>74,00</td><td>90,66</td><td>3,31</td><td>90,66</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,38</td><td>94,83</td><td>74,00</td><td>0,00</td><td>74,00</td><td>94,13</td><td>3,76</td><td>94,13</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,43</td><td>98,31</td><td>74,00</td><td>0,00</td><td>74,00</td><td>105,38</td><td>4,29</td><td>105,38</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,53</td><td>121,61</td><td>73,00</td><td>0,00</td><td>73,00</td><td>118,61</td><td>5,34</td><td>118,61</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,65</td><td>134,50</td><td>72,00</td><td>0,00</td><td>72,00</td><td>138,47</td><td>6,69</td><td>138,47</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>61,82</td><td>157,81</td><td>71,00</td><td>0,00</td><td>71,00</td><td>154,01</td><td>8,57</td><td>154,01</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,00</td><td>168,22</td><td>71,00</td><td>0,00</td><td>71,00</td><td>168,41</td><td>10,68</td><td>168,41</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,20</td><td>177,64</td><td>70,00</td><td>0,00</td><td>70,00</td><td>173,25</td><td>13,01</td><td>173,25</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,36</td><td>172,28</td><td>82,00</td><td>0,00</td><td>82,00</td><td>177,31</td><td>14,97</td><td>177,31</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,50</td><td>180,33</td><td>97,00</td><td>0,00</td><td>97,00</td><td>179,04</td><td>16,77</td><td>179,04</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,65</td><td>182,81</td><td>96,00</td><td>0,00</td><td>96,00</td><td>179,91</td><td>18,65</td><td>179,91</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,78</td><td>174,86</td><td>95,00</td><td>0,00</td><td>95,00</td><td>175,45</td><td>20,38</td><td>175,45</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,90</td><td>166,92</td><td>94,00</td><td>0,00</td><td>94,00</td><td>163,09</td><td>21,96</td><td>163,09</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,96</td><td>145,72</td><td>111,00</td><td>0,00</td><td>111,00</td><td>149,43</td><td>22,71</td><td>149,43</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,98</td><td>133,89</td><td>120,00</td><td>0,00</td><td>120,00</td><td>137,74</td><td>23,01</td><td>137,74</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,00</td><td>131,89</td><td>118,00</td><td>0,00</td><td>118,00</td><td>130,30</td><td>23,31</td><td>130,30</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,02</td><td>123,42</td><td>113,00</td><td>0,00</td><td>113,00</td><td>128,35</td><td>23,54</td><td>128,35</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,10</td><td>128,08</td><td>76,00</td><td>0,00</td><td>76,00</td><td>132,24</td><td>24,67</td><td>132,24</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,19</td><td>143,56</td><td>88,00</td><td>0,00</td><td>88,00</td><td>140,10</td><td>25,87</td><td>140,10</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,28</td><td>147,03</td><td>88,00</td><td>0,00</td><td>88,00</td><td>147,14</td><td>27,15</td><td>147,14</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,34</td><td>149,19</td><td>111,00</td><td>0,00</td><td>111,00</td><td>147,19</td><td>27,98</td><td>147,19</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,39</td><td>143,72</td><td>109,00</td><td>0,00</td><td>109,00</td><td>146,32</td><td>28,73</td><td>146,32</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>144,47</td><td>141,00</td><td>0,00</td><td>141,00</td><td>143,23</td><td>28,80</td><td>143,23</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,41</td><td>139,94</td><td>133,00</td><td>0,00</td><td>133,00</td><td>144,27</td><td>28,95</td><td>144,27</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>146,89</td><td>133,00</td><td>0,00</td><td>133,00</td><td>144,73</td><td>29,26</td><td>144,73</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,45</td><td>145,89</td><td>132,00</td><td>0,00</td><td>132,00</td><td>144,39</td><td>29,56</td><td>144,39</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,46</td><td>138,94</td><td>132,00</td><td>0,00</td><td>132,00</td><td>137,10</td><td>29,71</td><td>137,10</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,45</td><td>125,06</td><td>132,00</td><td>0,00</td><td>132,00</td><td>126,21</td><td>29,56</td><td>126,21</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>113,28</td><td>148,00</td><td>0,00</td><td>148,00</td><td>116,52</td><td>28,80</td><td>116,52</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,32</td><td>109,92</td><td>162,00</td><td>0,00</td><td>162,00</td><td>112,45</td><td>27,68</td><td>112,45</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,24</td><td>112,92</td><td>165,00</td><td>0,00</td><td>165,00</td><td>113,59</td><td>26,55</td><td>113,59</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,19</td><td>116,75</td><td>148,00</td><td>0,00</td><td>148,00</td><td>115,84</td><td>25,87</td><td>115,84</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,15</td><td>116,69</td><td>141,00</td><td>0,00</td><td>141,00</td><td>115,10</td><td>25,34</td><td>115,10</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,10</td><td>110,75</td><td>142,00</td><td>0,00</td><td>142,00</td><td>111,44</td><td>24,67</td><td>111,44</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,04</td><td>105,81</td><td>144,00</td><td>0,00</td><td>144,00</td><td>107,79</td><td>23,84</td><td>107,79</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,98</td><td>105,81</td><td>144,00</td><td>0,00</td><td>144,00</td><td>106,13</td><td>23,01</td><td>106,13</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,92</td><td>105,81</td><td>144,00</td><td>0,00</td><td>144,00</td><td>108,43</td><td>22,19</td><td>108,43</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,87</td><td>112,75</td><td>144,00</td><td>0,00</td><td>144,00</td><td>112,00</td><td>21,51</td><td>112,00</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,86</td><td>116,53</td><td>120,00</td><td>0,00</td><td>120,00</td><td>113,88</td><td>21,43</td><td>113,88</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,87</td><td>111,47</td><td>108,00</td><td>0,00</td><td>108,00</td><td>114,95</td><td>21,51</td><td>114,95</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,87</td><td>116,00</td><td>116,00</td><td>0,00</td><td>116,00</td><td>119,40</td><td>21,51</td><td>119,40</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,89</td><td>129,89</td><td>116,00</td><td>0,00</td><td>116,00</td><td>126,34</td><td>21,81</td><td>126,34</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,93</td><td>132,31</td><td>108,00</td><td>0,00</td><td>108,00</td><td>133,13</td><td>22,34</td><td>133,13</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,05</td><td>136,39</td><td>60,00</td><td>0,00</td><td>60,00</td><td>137,68</td><td>23,99</td><td>137,68</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,14</td><td>143,56</td><td>88,00</td><td>0,00</td><td>88,00</td><td>143,61</td><td>25,19</td><td>143,61</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,22</td><td>150,08</td><td>98,00</td><td>0,00</td><td>98,00</td><td>150,59</td><td>26,32</td><td>150,59</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,35</td><td>157,33</td><td>74,00</td><td>0,00</td><td>74,00</td><td>155,49</td><td>28,13</td><td>155,49</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,49</td><td>158,28</td><td>68,00</td><td>0,00</td><td>68,00</td><td>159,07</td><td>30,08</td><td>159,07</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,62</td><td>160,81</td><td>74,00</td><td>0,00</td><td>74,00</td><td>161,72</td><td>31,96</td><td>161,72</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,75</td><td>165,28</td><td>75,00</td><td>0,00</td><td>75,00</td><td>168,00</td><td>33,92</td><td>168,00</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,82</td><td>177,14</td><td>132,00</td><td>0,00</td><td>132,00</td><td>180,58</td><td>34,90</td><td>180,58</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,93</td><td>198,55</td><td>121,00</td><td>0,00</td><td>121,00</td><td>202,67</td><td>36,58</td><td>202,67</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,11</td><td>231,53</td><td>110,00</td><td>0,00</td><td>110,00</td><td>226,25</td><td>39,21</td><td>226,25</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,31</td><td>247,89</td><td>109,00</td><td>0,00</td><td>109,00</td><td>242,37</td><td>42,22</td><td>242,37</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,50</td><td>246,89</td><td>108,00</td><td>0,00</td><td>108,00</td><td>245,14</td><td>45,22</td><td>245,14</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,74</td><td>239,82</td><td>72,00</td><td>0,00</td><td>72,00</td><td>235,34</td><td>48,86</td><td>235,34</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,95</td><td>218,46</td><td>68,00</td><td>0,00</td><td>68,00</td><td>219,63</td><td>52,12</td><td>219,63</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,11</td><td>199,74</td><td>84,00</td><td>0,00</td><td>84,00</td><td>201,71</td><td>54,63</td><td>201,71</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,19</td><td>186,08</td><td>134,00</td><td>0,00</td><td>134,00</td><td>192,75</td><td>55,75</td><td>192,75</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,20</td><td>191,57</td><td>180,00</td><td>0,00</td><td>180,00</td><td>197,74</td><td>56,00</td><td>197,74</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,25</td><td>214,72</td><td>180,00</td><td>0,00</td><td>180,00</td><td>213,08</td><td>56,76</td><td>213,08</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,32</td><td>232,08</td><td>180,00</td><td>0,00</td><td>180,00</td><td>226,58</td><td>57,88</td><td>226,58</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,40</td><td>232,08</td><td>180,00</td><td>0,00</td><td>180,00</td><td>232,37</td><td>59,01</td><td>232,37</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,47</td><td>232,08</td><td>180,00</td><td>0,00</td><td>180,00</td><td>239,45</td><td>60,14</td><td>239,45</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,65</td><td>253,31</td><td>126,00</td><td>0,00</td><td>126,00</td><td>267,98</td><td>62,90</td><td>267,98</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,85</td><td>317,68</td><td>173,00</td><td>0,00</td><td>173,00</td><td>278,16</td><td>66,03</td><td>278,16</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,98</td><td>262,59</td><td>170,00</td><td>0,00</td><td>170,00</td><td>275,78</td><td>68,04</td><td>275,78</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,12</td><td>246,17</td><td>142,00</td><td>0,00</td><td>142,00</td><td>247,78</td><td>70,29</td><td>247,78</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,21</td><td>233,66</td><td>170,00</td><td>0,00</td><td>170,00</td><td>239,73</td><td>71,67</td><td>239,73</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,31</td><td>238,44</td><td>169,00</td><td>0,00</td><td>169,00</td><td>234,90</td><td>73,18</td><td>234,90</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,40</td><td>231,66</td><td>168,00</td><td>0,00</td><td>168,00</td><td>226,45</td><td>74,56</td><td>226,45</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,46</td><td>208,30</td><td>162,00</td><td>0,00</td><td>162,00</td><td>216,47</td><td>75,56</td><td>216,47</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,52</td><td>208,51</td><td>168,00</td><td>0,00</td><td>168,00</td><td>214,54</td><td>76,44</td><td>214,54</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,60</td><td>225,87</td><td>168,00</td><td>0,00</td><td>168,00</td><td>222,00</td><td>77,69</td><td>222,00</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,69</td><td>230,66</td><td>167,00</td><td>0,00</td><td>167,00</td><td>219,53</td><td>79,07</td><td>219,53</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,76</td><td>201,08</td><td>149,00</td><td>0,00</td><td>149,00</td><td>211,41</td><td>80,20</td><td>211,41</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,82</td><td>201,51</td><td>161,00</td><td>0,00</td><td>161,00</td><td>202,62</td><td>81,07</td><td>202,62</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,88</td><td>204,30</td><td>158,00</td><td>0,00</td><td>158,00</td><td>206,22</td><td>82,08</td><td>206,22</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,96</td><td>211,87</td><td>154,00</td><td>0,00</td><td>154,00</td><td>207,15</td><td>83,33</td><td>207,15</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,03</td><td>204,30</td><td>158,00</td><td>0,00</td><td>158,00</td><td>206,56</td><td>84,33</td><td>206,56</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,08</td><td>202,51</td><td>162,00</td><td>0,00</td><td>162,00</td><td>209,82</td><td>85,21</td><td>209,82</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,17</td><td>221,66</td><td>158,00</td><td>0,00</td><td>158,00</td><td>213,35</td><td>86,59</td><td>213,35</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,25</td><td>214,87</td><td>157,00</td><td>0,00</td><td>157,00</td><td>212,35</td><td>87,84</td><td>212,35</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,31</td><td>199,51</td><td>159,00</td><td>0,00</td><td>159,00</td><td>210,95</td><td>88,72</td><td>210,95</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,40</td><td>217,44</td><td>148,00</td><td>0,00</td><td>148,00</td><td>217,07</td><td>90,22</td><td>217,07</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,50</td><td>233,23</td><td>158,00</td><td>0,00</td><td>158,00</td><td>228,24</td><td>91,85</td><td>228,24</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,61</td><td>233,02</td><td>152,00</td><td>0,00</td><td>152,00</td><td>234,44</td><td>93,61</td><td>234,44</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,72</td><td>236,02</td><td>155,00</td><td>0,00</td><td>155,00</td><td>235,37</td><td>95,36</td><td>235,37</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,83</td><td>236,02</td><td>155,00</td><td>0,00</td><td>155,00</td><td>238,71</td><td>97,12</td><td>238,71</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,93</td><td>243,02</td><td>162,00</td><td>10,00</td><td>152,00</td><td>253,61</td><td>98,87</td><td>253,61</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>280,72</td><td>246,00</td><td>89,00</td><td>158,00</td><td>289,60</td><td>99,62</td><td>289,60</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>344,00</td><td>344,00</td><td>184,00</td><td>160,00</td><td>326,17</td><td>99,62</td><td>326,17</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>352,70</td><td>399,00</td><td>236,00</td><td>163,00</td><td>365,38</td><td>98,62</td><td>365,38</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>398,36</td><td>381,00</td><td>213,00</td><td>168,00</td><td>397,88</td><td>99,00</td><td>397,88</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>441,51</td><td>401,00</td><td>235,00</td><td>166,00</td><td>437,91</td><td>99,87</td><td>437,91</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>472,79</td><td>467,00</td><td>308,00</td><td>159,00</td><td>473,69</td><td>100,00</td><td>473,69</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>505,70</td><td>552,00</td><td>371,00</td><td>181,00</td><td>498,73</td><td>99,00</td><td>498,73</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>516,64</td><td>534,00</td><td>393,00</td><td>141,00</td><td>511,46</td><td>98,62</td><td>511,46</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>511,00</td><td>511,00</td><td>391,00</td><td>120,00</td><td>507,94</td><td>98,62</td><td>507,94</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>495,15</td><td>472,00</td><td>356,00</td><td>116,00</td><td>495,40</td><td>99,12</td><td>495,40</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>479,00</td><td>479,00</td><td>363,00</td><td>116,00</td><td>478,20</td><td>99,12</td><td>478,20</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,93</td><td>459,43</td><td>471,00</td><td>355,00</td><td>116,00</td><td>460,80</td><td>98,87</td><td>460,80</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>442,94</td><td>414,00</td><td>300,00</td><td>114,00</td><td>447,20</td><td>99,50</td><td>447,20</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>438,21</td><td>444,00</td><td>331,00</td><td>113,00</td><td>431,27</td><td>99,37</td><td>431,27</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>411,64</td><td>429,00</td><td>315,00</td><td>114,00</td><td>412,31</td><td>99,00</td><td>412,31</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,90</td><td>386,06</td><td>415,00</td><td>305,00</td><td>109,00</td><td>392,16</td><td>98,37</td><td>392,16</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,91</td><td>377,79</td><td>372,00</td><td>260,00</td><td>112,00</td><td>380,45</td><td>98,50</td><td>380,45</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>376,51</td><td>336,00</td><td>226,00</td><td>109,00</td><td>371,47</td><td>99,37</td><td>371,47</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>359,15</td><td>336,00</td><td>228,00</td><td>108,00</td><td>365,68</td><td>99,87</td><td>365,68</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>360,43</td><td>372,00</td><td>260,00</td><td>111,00</td><td>357,86</td><td>99,62</td><td>357,86</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>353,06</td><td>382,00</td><td>270,00</td><td>112,00</td><td>355,01</td><td>99,00</td><td>355,01</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>350,64</td><td>368,00</td><td>256,00</td><td>112,00</td><td>353,44</td><td>98,62</td><td>353,44</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>355,72</td><td>321,00</td><td>212,00</td><td>109,00</td><td>367,39</td><td>99,37</td><td>367,39</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>394,94</td><td>366,00</td><td>256,00</td><td>110,00</td><td>388,84</td><td>100,00</td><td>388,84</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>415,00</td><td>415,00</td><td>303,00</td><td>112,00</td><td>417,59</td><td>100,00</td><td>417,59</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>442,00</td><td>442,00</td><td>303,00</td><td>139,00</td><td>455,67</td><td>100,00</td><td>455,67</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>509,21</td><td>515,00</td><td>343,00</td><td>172,00</td><td>499,26</td><td>99,87</td><td>499,26</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>545,79</td><td>540,00</td><td>395,00</td><td>145,00</td><td>554,65</td><td>100,00</td><td>554,65</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>608,21</td><td>614,00</td><td>427,00</td><td>187,00</td><td>610,16</td><td>99,87</td><td>610,16</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>675,79</td><td>670,00</td><td>479,00</td><td>191,00</td><td>667,44</td><td>100,00</td><td>667,44</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>717,64</td><td>735,00</td><td>539,00</td><td>196,00</td><td>708,42</td><td>99,62</td><td>708,42</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>731,21</td><td>737,00</td><td>539,00</td><td>198,00</td><td>712,10</td><td>99,50</td><td>712,10</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>686,85</td><td>710,00</td><td>525,00</td><td>186,00</td><td>694,61</td><td>99,00</td><td>694,61</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,93</td><td>665,21</td><td>671,00</td><td>485,00</td><td>186,00</td><td>654,81</td><td>98,87</td><td>654,81</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,90</td><td>611,85</td><td>635,00</td><td>453,00</td><td>182,00</td><td>616,51</td><td>98,37</td><td>616,51</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,90</td><td>572,00</td><td>572,00</td><td>389,00</td><td>183,00</td><td>558,07</td><td>98,37</td><td>558,07</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>489,94</td><td>461,00</td><td>296,00</td><td>165,00</td><td>511,33</td><td>99,00</td><td>511,33</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>471,66</td><td>408,00</td><td>279,00</td><td>129,00</td><td>482,19</td><td>100,38</td><td>482,19</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>484,64</td><td>502,00</td><td>340,00</td><td>162,00</td><td>495,48</td><td>100,00</td><td>495,48</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>529,85</td><td>553,00</td><td>371,00</td><td>182,00</td><td>519,17</td><td>99,50</td><td>519,17</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>542,79</td><td>537,00</td><td>355,00</td><td>181,00</td><td>527,95</td><td>99,62</td><td>527,95</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>511,00</td><td>511,00</td><td>337,00</td><td>174,00</td><td>523,84</td><td>99,62</td><td>523,84</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>517,57</td><td>506,00</td><td>337,00</td><td>169,00</td><td>511,98</td><td>99,87</td><td>511,98</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>507,28</td><td>542,00</td><td>361,00</td><td>181,00</td><td>508,94</td><td>99,12</td><td>508,94</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,88</td><td>501,92</td><td>554,00</td><td>371,00</td><td>183,00</td><td>498,66</td><td>97,99</td><td>498,66</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,89</td><td>486,79</td><td>481,00</td><td>302,00</td><td>180,00</td><td>480,99</td><td>98,12</td><td>480,99</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>454,30</td><td>408,00</td><td>236,00</td><td>172,00</td><td>464,72</td><td>99,12</td><td>464,72</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>453,15</td><td>430,00</td><td>260,00</td><td>170,00</td><td>447,72</td><td>99,62</td><td>447,72</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>435,85</td><td>459,00</td><td>288,00</td><td>171,00</td><td>432,30</td><td>99,12</td><td>432,30</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,91</td><td>408,06</td><td>437,00</td><td>266,00</td><td>171,00</td><td>411,66</td><td>98,50</td><td>411,66</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>391,30</td><td>345,00</td><td>178,00</td><td>167,00</td><td>385,75</td><td>99,50</td><td>385,75</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>358,15</td><td>335,00</td><td>168,00</td><td>167,00</td><td>375,55</td><td>100,00</td><td>375,55</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,05</td><td>377,51</td><td>337,00</td><td>174,00</td><td>163,00</td><td>387,77</td><td>100,88</td><td>387,77</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,05</td><td>428,00</td><td>428,00</td><td>259,00</td><td>170,00</td><td>420,75</td><td>100,88</td><td>420,75</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>457,13</td><td>515,00</td><td>337,00</td><td>178,00</td><td>456,24</td><td>99,62</td><td>456,24</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>484,00</td><td>484,00</td><td>312,00</td><td>172,00</td><td>469,97</td><td>99,62</td><td>469,97</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>469,21</td><td>475,00</td><td>303,00</td><td>172,00</td><td>464,25</td><td>99,50</td><td>464,25</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>440,00</td><td>440,00</td><td>268,00</td><td>172,00</td><td>444,36</td><td>99,50</td><td>444,36</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>424,36</td><td>407,00</td><td>236,00</td><td>171,00</td><td>426,54</td><td>99,87</td><td>426,54</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>415,79</td><td>410,00</td><td>239,00</td><td>171,00</td><td>414,22</td><td>100,00</td><td>414,22</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>403,06</td><td>432,00</td><td>258,00</td><td>174,00</td><td>405,10</td><td>99,37</td><td>405,10</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>397,00</td><td>397,00</td><td>225,00</td><td>172,00</td><td>392,69</td><td>99,37</td><td>392,69</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>378,57</td><td>367,00</td><td>202,00</td><td>165,00</td><td>373,07</td><td>99,62</td><td>373,07</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,97</td><td>344,21</td><td>350,00</td><td>182,00</td><td>168,00</td><td>347,45</td><td>99,50</td><td>347,45</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>320,15</td><td>297,00</td><td>135,00</td><td>162,00</td><td>320,25</td><td>100,00</td><td>320,25</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>297,00</td><td>297,00</td><td>135,00</td><td>162,00</td><td>304,51</td><td>100,00</td><td>304,51</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>297,00</td><td>297,00</td><td>135,00</td><td>162,00</td><td>302,30</td><td>100,00</td><td>302,30</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,05</td><td>313,51</td><td>273,00</td><td>139,00</td><td>134,00</td><td>306,25</td><td>100,88</td><td>306,25</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>308,85</td><td>332,00</td><td>169,00</td><td>163,00</td><td>310,86</td><td>100,38</td><td>310,86</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,99</td><td>310,85</td><td>334,00</td><td>169,00</td><td>165,00</td><td>306,65</td><td>99,87</td><td>306,65</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>300,85</td><td>324,00</td><td>159,00</td><td>165,00</td><td>294,79</td><td>99,37</td><td>294,79</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>273,28</td><td>308,00</td><td>146,00</td><td>162,00</td><td>279,30</td><td>98,62</td><td>279,30</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,94</td><td>264,36</td><td>247,00</td><td>87,00</td><td>160,00</td><td>256,57</td><td>99,00</td><td>256,57</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>232,66</td><td>169,00</td><td>14,00</td><td>155,00</td><td>233,84</td><td>100,38</td><td>233,84</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>205,08</td><td>153,00</td><td>0,00</td><td>153,00</td><td>216,01</td><td>101,50</td><td>216,01</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,16</td><td>210,87</td><td>153,00</td><td>0,00</td><td>153,00</td><td>212,46</td><td>102,76</td><td>212,46</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,16</td><td>222,00</td><td>222,00</td><td>66,00</td><td>156,00</td><td>223,27</td><td>102,76</td><td>223,27</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,11</td><td>237,49</td><td>278,00</td><td>135,00</td><td>143,00</td><td>243,93</td><td>101,88</td><td>243,93</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>272,85</td><td>296,00</td><td>135,00</td><td>161,00</td><td>261,22</td><td>101,38</td><td>261,22</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,05</td><td>273,85</td><td>297,00</td><td>135,00</td><td>162,00</td><td>268,21</td><td>100,88</td><td>268,21</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,04</td><td>258,43</td><td>270,00</td><td>110,00</td><td>160,00</td><td>262,00</td><td>100,63</td><td>262,00</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,03</td><td>254,21</td><td>260,00</td><td>101,00</td><td>159,00</td><td>257,39</td><td>100,50</td><td>257,39</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,03</td><td>260,00</td><td>260,00</td><td>101,00</td><td>159,00</td><td>253,26</td><td>100,50</td><td>253,26</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,03</td><td>246,00</td><td>246,00</td><td>87,00</td><td>159,00</td><td>248,64</td><td>100,50</td><td>248,64</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,05</td><td>240,36</td><td>223,00</td><td>67,00</td><td>156,00</td><td>240,17</td><td>100,88</td><td>240,17</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,07</td><td>234,57</td><td>223,00</td><td>67,00</td><td>156,00</td><td>236,37</td><td>101,13</td><td>236,37</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>234,57</td><td>223,00</td><td>67,00</td><td>156,00</td><td>234,45</td><td>101,38</td><td>234,45</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>234,57</td><td>223,00</td><td>67,00</td><td>156,00</td><td>228,67</td><td>101,63</td><td>228,67</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>217,21</td><td>223,00</td><td>67,00</td><td>156,00</td><td>226,74</td><td>101,50</td><td>226,74</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>228,79</td><td>223,00</td><td>67,00</td><td>156,00</td><td>220,96</td><td>101,63</td><td>220,96</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>217,21</td><td>223,00</td><td>67,00</td><td>156,00</td><td>217,10</td><td>101,50</td><td>217,10</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,07</td><td>205,64</td><td>223,00</td><td>67,00</td><td>156,00</td><td>211,84</td><td>101,13</td><td>211,84</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,07</td><td>213,00</td><td>213,00</td><td>57,00</td><td>156,00</td><td>208,56</td><td>101,13</td><td>208,56</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>207,36</td><td>190,00</td><td>34,00</td><td>156,00</td><td>204,61</td><td>101,50</td><td>204,61</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>193,79</td><td>188,00</td><td>34,00</td><td>154,00</td><td>196,28</td><td>101,63</td><td>196,28</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>188,00</td><td>188,00</td><td>34,00</td><td>154,00</td><td>189,50</td><td>101,63</td><td>189,50</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>187,23</td><td>101,63</td><td>187,23</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>186,90</td><td>101,63</td><td>186,90</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>186,90</td><td>101,63</td><td>186,90</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>186,90</td><td>101,63</td><td>186,90</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>186,56</td><td>101,63</td><td>186,56</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>186,00</td><td>186,00</td><td>34,00</td><td>152,00</td><td>184,63</td><td>101,63</td><td>184,63</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>181,21</td><td>187,00</td><td>34,00</td><td>153,00</td><td>184,62</td><td>101,50</td><td>184,62</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>187,00</td><td>187,00</td><td>34,00</td><td>153,00</td><td>183,02</td><td>101,50</td><td>183,02</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>181,21</td><td>187,00</td><td>34,00</td><td>153,00</td><td>177,76</td><td>101,38</td><td>177,76</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,07</td><td>165,43</td><td>177,00</td><td>24,00</td><td>153,00</td><td>166,87</td><td>101,13</td><td>166,87</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>154,36</td><td>137,00</td><td>0,00</td><td>137,00</td><td>157,46</td><td>101,50</td><td>157,46</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>153,00</td><td>153,00</td><td>0,00</td><td>153,00</td><td>152,98</td><td>101,50</td><td>152,98</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>152,00</td><td>152,00</td><td>0,00</td><td>152,00</td><td>150,59</td><td>101,50</td><td>150,59</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>147,21</td><td>153,00</td><td>0,00</td><td>153,00</td><td>150,25</td><td>101,38</td><td>150,25</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>152,00</td><td>152,00</td><td>0,00</td><td>152,00</td><td>150,24</td><td>101,38</td><td>150,24</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>152,00</td><td>152,00</td><td>0,00</td><td>152,00</td><td>154,09</td><td>101,38</td><td>154,09</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>158,79</td><td>153,00</td><td>0,00</td><td>153,00</td><td>154,08</td><td>101,50</td><td>154,08</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,09</td><td>152,00</td><td>152,00</td><td>0,00</td><td>152,00</td><td>155,33</td><td>101,50</td><td>155,33</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,10</td><td>155,79</td><td>150,00</td><td>0,00</td><td>150,00</td><td>149,54</td><td>101,63</td><td>149,54</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,08</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>146,01</td><td>101,38</td><td>146,01</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,07</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>143,14</td><td>101,13</td><td>143,14</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,06</td><td>147,21</td><td>153,00</td><td>0,00</td><td>153,00</td><td>144,99</td><td>101,00</td><td>144,99</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,06</td><td>147,00</td><td>147,00</td><td>0,00</td><td>147,00</td><td>142,39</td><td>101,00</td><td>142,39</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,04</td><td>133,64</td><td>151,00</td><td>0,00</td><td>151,00</td><td>138,38</td><td>100,63</td><td>138,38</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,03</td><td>133,00</td><td>141,00</td><td>0,00</td><td>141,00</td><td>137,75</td><td>100,50</td><td>137,75</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>145,00</td><td>153,00</td><td>0,00</td><td>153,00</td><td>138,08</td><td>100,38</td><td>138,08</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>140,34</td><td>100,38</td><td>140,34</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,04</td><td>137,57</td><td>126,00</td><td>0,00</td><td>126,00</td><td>138,40</td><td>100,63</td><td>138,40</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,02</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>137,94</td><td>100,38</td><td>137,94</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>68,00</td><td>135,64</td><td>153,00</td><td>0,00</td><td>153,00</td><td>137,29</td><td>100,00</td><td>137,29</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,98</td><td>135,64</td><td>153,00</td><td>0,00</td><td>153,00</td><td>136,95</td><td>99,62</td><td>136,95</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,96</td><td>140,43</td><td>152,00</td><td>0,00</td><td>152,00</td><td>138,88</td><td>99,37</td><td>138,88</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,95</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>136,95</td><td>99,12</td><td>136,95</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,92</td><td>130,00</td><td>153,00</td><td>0,00</td><td>153,00</td><td>131,19</td><td>98,62</td><td>131,19</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,88</td><td>124,06</td><td>153,00</td><td>0,00</td><td>153,00</td><td>126,96</td><td>97,99</td><td>126,96</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,85</td><td>127,85</td><td>151,00</td><td>0,00</td><td>151,00</td><td>128,89</td><td>97,49</td><td>128,89</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,83</td><td>135,64</td><td>153,00</td><td>0,00</td><td>153,00</td><td>134,68</td><td>97,12</td><td>134,68</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,81</td><td>141,43</td><td>153,00</td><td>0,00</td><td>153,00</td><td>135,68</td><td>96,87</td><td>135,68</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,78</td><td>130,85</td><td>154,00</td><td>0,00</td><td>154,00</td><td>134,75</td><td>96,37</td><td>134,75</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,75</td><td>132,85</td><td>156,00</td><td>0,00</td><td>156,00</td><td>131,89</td><td>95,86</td><td>131,89</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,72</td><td>132,85</td><td>156,00</td><td>0,00</td><td>156,00</td><td>130,63</td><td>95,36</td><td>130,63</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,68</td><td>127,06</td><td>156,00</td><td>0,00</td><td>156,00</td><td>128,71</td><td>94,74</td><td>128,71</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,64</td><td>127,06</td><td>156,00</td><td>0,00</td><td>156,00</td><td>124,85</td><td>94,11</td><td>124,85</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,60</td><td>121,28</td><td>156,00</td><td>0,00</td><td>156,00</td><td>121,00</td><td>93,36</td><td>121,00</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,54</td><td>115,49</td><td>156,00</td><td>0,00</td><td>156,00</td><td>120,00</td><td>92,48</td><td>120,00</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,50</td><td>124,06</td><td>153,00</td><td>0,00</td><td>153,00</td><td>121,94</td><td>91,85</td><td>121,94</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,46</td><td>127,06</td><td>156,00</td><td>0,00</td><td>156,00</td><td>121,94</td><td>91,23</td><td>121,94</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,41</td><td>115,49</td><td>156,00</td><td>0,00</td><td>156,00</td><td>121,02</td><td>90,35</td><td>121,02</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,36</td><td>121,28</td><td>156,00</td><td>0,00</td><td>156,00</td><td>117,16</td><td>89,60</td><td>117,16</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,31</td><td>115,49</td><td>156,00</td><td>0,00</td><td>156,00</td><td>119,43</td><td>88,72</td><td>119,43</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,26</td><td>122,28</td><td>157,00</td><td>0,00</td><td>157,00</td><td>119,37</td><td>87,97</td><td>119,37</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,22</td><td>121,06</td><td>150,00</td><td>0,00</td><td>150,00</td><td>120,38</td><td>87,34</td><td>120,38</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,16</td><td>118,49</td><td>159,00</td><td>0,00</td><td>159,00</td><td>122,98</td><td>86,46</td><td>122,98</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,12</td><td>130,06</td><td>159,00</td><td>0,00</td><td>159,00</td><td>125,99</td><td>85,84</td><td>125,99</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,08</td><td>124,28</td><td>159,00</td><td>0,00</td><td>159,00</td><td>120,21</td><td>85,21</td><td>120,21</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>67,03</td><td>118,49</td><td>159,00</td><td>0,00</td><td>159,00</td><td>122,48</td><td>84,33</td><td>122,48</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,98</td><td>125,28</td><td>160,00</td><td>0,00</td><td>160,00</td><td>123,48</td><td>83,58</td><td>123,48</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,93</td><td>127,28</td><td>162,00</td><td>0,00</td><td>162,00</td><td>126,42</td><td>82,83</td><td>126,42</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,88</td><td>127,28</td><td>162,00</td><td>0,00</td><td>162,00</td><td>125,17</td><td>82,08</td><td>125,17</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,83</td><td>121,49</td><td>162,00</td><td>0,00</td><td>162,00</td><td>121,32</td><td>81,20</td><td>121,32</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,76</td><td>115,70</td><td>162,00</td><td>0,00</td><td>162,00</td><td>117,47</td><td>80,20</td><td>117,47</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,70</td><td>115,70</td><td>162,00</td><td>0,00</td><td>162,00</td><td>115,55</td><td>79,19</td><td>115,55</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,63</td><td>115,70</td><td>162,00</td><td>0,00</td><td>162,00</td><td>113,96</td><td>78,19</td><td>113,96</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,56</td><td>110,92</td><td>163,00</td><td>0,00</td><td>163,00</td><td>114,97</td><td>77,06</td><td>114,97</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,50</td><td>118,70</td><td>165,00</td><td>0,00</td><td>165,00</td><td>117,91</td><td>76,06</td><td>117,91</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,44</td><td>124,49</td><td>165,00</td><td>0,00</td><td>165,00</td><td>123,11</td><td>75,18</td><td>123,11</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,38</td><td>126,49</td><td>167,00</td><td>0,00</td><td>167,00</td><td>124,12</td><td>74,30</td><td>124,12</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,32</td><td>121,70</td><td>168,00</td><td>0,00</td><td>168,00</td><td>123,20</td><td>73,30</td><td>123,20</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,25</td><td>121,70</td><td>168,00</td><td>0,00</td><td>168,00</td><td>123,54</td><td>72,30</td><td>123,54</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,20</td><td>127,49</td><td>168,00</td><td>0,00</td><td>168,00</td><td>125,48</td><td>71,42</td><td>125,48</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,14</td><td>127,49</td><td>168,00</td><td>0,00</td><td>168,00</td><td>127,41</td><td>70,54</td><td>127,41</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,08</td><td>127,49</td><td>168,00</td><td>0,00</td><td>168,00</td><td>126,16</td><td>69,67</td><td>126,16</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>66,02</td><td>123,70</td><td>170,00</td><td>0,00</td><td>170,00</td><td>122,98</td><td>68,66</td><td>122,98</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,95</td><td>117,92</td><td>170,00</td><td>0,00</td><td>170,00</td><td>116,27</td><td>67,54</td><td>116,27</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,86</td><td>107,34</td><td>171,00</td><td>0,00</td><td>171,00</td><td>110,49</td><td>66,16</td><td>110,49</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,77</td><td>106,34</td><td>170,00</td><td>0,00</td><td>170,00</td><td>107,65</td><td>64,78</td><td>107,65</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,68</td><td>109,34</td><td>173,00</td><td>0,00</td><td>173,00</td><td>108,66</td><td>63,40</td><td>108,66</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,59</td><td>110,34</td><td>174,00</td><td>0,00</td><td>174,00</td><td>108,07</td><td>62,02</td><td>108,07</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,49</td><td>104,56</td><td>174,00</td><td>0,00</td><td>174,00</td><td>106,49</td><td>60,52</td><td>106,49</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,40</td><td>104,56</td><td>174,00</td><td>0,00</td><td>174,00</td><td>102,38</td><td>59,01</td><td>102,38</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,28</td><td>97,98</td><td>179,00</td><td>0,00</td><td>179,00</td><td>101,79</td><td>57,26</td><td>101,79</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,18</td><td>102,77</td><td>178,00</td><td>0,00</td><td>178,00</td><td>101,07</td><td>55,63</td><td>101,07</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,20</td><td>102,36</td><td>85,00</td><td>0,00</td><td>85,00</td><td>100,28</td><td>56,00</td><td>100,28</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,22</td><td>95,57</td><td>84,00</td><td>0,00</td><td>84,00</td><td>99,82</td><td>56,25</td><td>99,82</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,24</td><td>101,36</td><td>84,00</td><td>0,00</td><td>84,00</td><td>98,38</td><td>56,63</td><td>98,38</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,24</td><td>98,00</td><td>98,00</td><td>0,00</td><td>98,00</td><td>99,70</td><td>56,63</td><td>99,70</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,19</td><td>99,49</td><td>140,00</td><td>0,00</td><td>140,00</td><td>98,92</td><td>55,75</td><td>98,92</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>65,07</td><td>98,98</td><td>180,00</td><td>0,00</td><td>180,00</td><td>96,85</td><td>54,00</td><td>96,85</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,97</td><td>91,77</td><td>167,00</td><td>0,00</td><td>167,00</td><td>95,55</td><td>52,37</td><td>95,55</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,87</td><td>95,56</td><td>165,00</td><td>0,00</td><td>165,00</td><td>95,30</td><td>50,86</td><td>95,30</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,75</td><td>98,19</td><td>185,00</td><td>0,00</td><td>185,00</td><td>96,86</td><td>48,98</td><td>96,86</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,62</td><td>96,41</td><td>189,00</td><td>0,00</td><td>189,00</td><td>97,21</td><td>46,98</td><td>97,21</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,52</td><td>96,56</td><td>166,00</td><td>0,00</td><td>166,00</td><td>95,36</td><td>45,48</td><td>95,36</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,38</td><td>92,62</td><td>191,00</td><td>0,00</td><td>191,00</td><td>95,21</td><td>43,34</td><td>95,21</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,31</td><td>95,92</td><td>148,00</td><td>0,00</td><td>148,00</td><td>93,13</td><td>42,22</td><td>93,13</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,26</td><td>90,28</td><td>125,00</td><td>0,00</td><td>125,00</td><td>92,03</td><td>41,46</td><td>92,03</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,21</td><td>89,28</td><td>124,00</td><td>0,00</td><td>124,00</td><td>91,02</td><td>40,71</td><td>91,02</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,17</td><td>92,85</td><td>116,00</td><td>0,00</td><td>116,00</td><td>90,30</td><td>40,21</td><td>90,30</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,13</td><td>88,06</td><td>117,00</td><td>0,00</td><td>117,00</td><td>89,96</td><td>39,58</td><td>89,96</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,12</td><td>88,21</td><td>94,00</td><td>0,00</td><td>94,00</td><td>89,62</td><td>39,46</td><td>89,62</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,13</td><td>91,79</td><td>86,00</td><td>0,00</td><td>86,00</td><td>90,35</td><td>39,58</td><td>90,35</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,12</td><td>90,21</td><td>96,00</td><td>0,00</td><td>96,00</td><td>88,89</td><td>39,46</td><td>88,89</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,13</td><td>83,79</td><td>78,00</td><td>0,00</td><td>78,00</td><td>87,71</td><td>39,58</td><td>87,71</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,12</td><td>88,21</td><td>94,00</td><td>0,00</td><td>94,00</td><td>88,66</td><td>39,46</td><td>88,66</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,12</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>88,22</td><td>39,46</td><td>88,22</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,11</td><td>82,43</td><td>94,00</td><td>0,00</td><td>94,00</td><td>87,90</td><td>39,21</td><td>87,90</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,10</td><td>87,21</td><td>93,00</td><td>0,00</td><td>93,00</td><td>88,85</td><td>39,08</td><td>88,85</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,11</td><td>95,79</td><td>90,00</td><td>0,00</td><td>90,00</td><td>88,20</td><td>39,21</td><td>88,20</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>80,43</td><td>92,00</td><td>0,00</td><td>92,00</td><td>90,14</td><td>38,96</td><td>90,14</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>90,83</td><td>38,96</td><td>90,83</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,10</td><td>97,79</td><td>92,00</td><td>0,00</td><td>92,00</td><td>93,10</td><td>39,08</td><td>93,10</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>87,21</td><td>93,00</td><td>0,00</td><td>93,00</td><td>93,45</td><td>38,96</td><td>93,45</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>94,00</td><td>94,00</td><td>0,00</td><td>94,00</td><td>92,20</td><td>38,96</td><td>92,20</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,09</td><td>94,00</td><td>94,00</td><td>0,00</td><td>94,00</td><td>92,22</td><td>38,96</td><td>92,22</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,08</td><td>87,21</td><td>93,00</td><td>0,00</td><td>93,00</td><td>91,57</td><td>38,83</td><td>91,57</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,08</td><td>92,00</td><td>92,00</td><td>0,00</td><td>92,00</td><td>91,25</td><td>38,83</td><td>91,25</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,08</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>91,27</td><td>38,83</td><td>91,27</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,07</td><td>87,21</td><td>93,00</td><td>0,00</td><td>93,00</td><td>87,76</td><td>38,71</td><td>87,76</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,06</td><td>81,43</td><td>93,00</td><td>0,00</td><td>93,00</td><td>86,51</td><td>38,46</td><td>86,51</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,05</td><td>89,21</td><td>95,00</td><td>0,00</td><td>95,00</td><td>85,59</td><td>38,33</td><td>85,59</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,03</td><td>84,43</td><td>96,00</td><td>0,00</td><td>96,00</td><td>84,26</td><td>38,08</td><td>84,26</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,06</td><td>77,36</td><td>60,00</td><td>0,00</td><td>60,00</td><td>82,60</td><td>38,46</td><td>82,60</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,05</td><td>84,21</td><td>90,00</td><td>0,00</td><td>90,00</td><td>79,69</td><td>38,33</td><td>79,69</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,02</td><td>75,64</td><td>93,00</td><td>0,00</td><td>93,00</td><td>85,58</td><td>37,95</td><td>85,58</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,02</td><td>95,00</td><td>95,00</td><td>0,00</td><td>95,00</td><td>82,41</td><td>37,95</td><td>82,41</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,00</td><td>74,64</td><td>92,00</td><td>0,00</td><td>92,00</td><td>86,61</td><td>37,58</td><td>86,61</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,99</td><td>88,21</td><td>94,00</td><td>0,00</td><td>94,00</td><td>80,34</td><td>37,45</td><td>80,34</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,02</td><td>76,15</td><td>53,00</td><td>0,00</td><td>53,00</td><td>87,14</td><td>37,95</td><td>87,14</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>64,02</td><td>95,00</td><td>95,00</td><td>0,00</td><td>95,00</td><td>82,43</td><td>37,95</td><td>82,43</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,98</td><td>74,06</td><td>103,00</td><td>0,00</td><td>103,00</td><td>87,80</td><td>37,33</td><td>87,80</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,97</td><td>92,21</td><td>98,00</td><td>0,00</td><td>98,00</td><td>86,02</td><td>37,20</td><td>86,02</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,95</td><td>89,64</td><td>107,00</td><td>0,00</td><td>107,00</td><td>88,62</td><td>36,83</td><td>88,62</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,91</td><td>81,85</td><td>105,00</td><td>0,00</td><td>105,00</td><td>88,44</td><td>36,32</td><td>88,44</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,89</td><td>91,64</td><td>109,00</td><td>0,00</td><td>109,00</td><td>89,60</td><td>35,95</td><td>89,60</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,87</td><td>93,11</td><td>107,00</td><td>0,00</td><td>107,00</td><td>89,73</td><td>35,65</td><td>89,73</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,83</td><td>82,22</td><td>110,00</td><td>0,00</td><td>110,00</td><td>89,20</td><td>35,05</td><td>89,20</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,82</td><td>90,06</td><td>97,00</td><td>0,00</td><td>97,00</td><td>90,88</td><td>34,90</td><td>90,88</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,80</td><td>98,11</td><td>112,00</td><td>0,00</td><td>112,00</td><td>93,20</td><td>34,60</td><td>93,20</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,77</td><td>89,17</td><td>110,00</td><td>0,00</td><td>110,00</td><td>94,73</td><td>34,14</td><td>94,73</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,74</td><td>94,64</td><td>112,00</td><td>0,00</td><td>112,00</td><td>94,74</td><td>33,77</td><td>94,74</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,72</td><td>98,11</td><td>112,00</td><td>0,00</td><td>112,00</td><td>97,73</td><td>33,47</td><td>97,73</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,70</td><td>98,11</td><td>112,00</td><td>0,00</td><td>112,00</td><td>98,90</td><td>33,17</td><td>98,90</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,68</td><td>98,11</td><td>112,00</td><td>0,00</td><td>112,00</td><td>96,59</td><td>32,87</td><td>96,59</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,65</td><td>91,17</td><td>112,00</td><td>0,00</td><td>112,00</td><td>90,63</td><td>32,41</td><td>90,63</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,61</td><td>80,22</td><td>108,00</td><td>0,00</td><td>108,00</td><td>83,51</td><td>31,81</td><td>83,51</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,56</td><td>76,75</td><td>108,00</td><td>0,00</td><td>108,00</td><td>79,53</td><td>31,14</td><td>79,53</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,52</td><td>79,22</td><td>107,00</td><td>0,00</td><td>107,00</td><td>79,85</td><td>30,53</td><td>79,85</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,49</td><td>81,17</td><td>102,00</td><td>0,00</td><td>102,00</td><td>83,48</td><td>30,08</td><td>83,48</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,46</td><td>87,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>83,50</td><td>29,71</td><td>83,50</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,41</td><td>79,28</td><td>114,00</td><td>0,00</td><td>114,00</td><td>81,71</td><td>28,95</td><td>81,71</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,35</td><td>75,81</td><td>114,00</td><td>0,00</td><td>114,00</td><td>77,22</td><td>28,13</td><td>77,22</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,32</td><td>74,17</td><td>95,00</td><td>0,00</td><td>95,00</td><td>78,71</td><td>27,68</td><td>78,71</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,27</td><td>83,75</td><td>115,00</td><td>0,00</td><td>115,00</td><td>76,39</td><td>27,00</td><td>76,39</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,20</td><td>68,86</td><td>114,00</td><td>0,00</td><td>114,00</td><td>75,28</td><td>26,02</td><td>75,28</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,13</td><td>70,86</td><td>116,00</td><td>0,00</td><td>116,00</td><td>70,48</td><td>25,04</td><td>70,48</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,05</td><td>69,39</td><td>118,00</td><td>0,00</td><td>118,00</td><td>69,80</td><td>23,99</td><td>69,80</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,98</td><td>66,86</td><td>112,00</td><td>0,00</td><td>112,00</td><td>69,64</td><td>23,01</td><td>69,64</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,90</td><td>70,39</td><td>119,00</td><td>0,00</td><td>119,00</td><td>73,10</td><td>21,96</td><td>73,10</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,84</td><td>79,81</td><td>118,00</td><td>0,00</td><td>118,00</td><td>79,06</td><td>21,13</td><td>79,06</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,79</td><td>84,75</td><td>116,00</td><td>0,00</td><td>116,00</td><td>86,13</td><td>20,46</td><td>86,13</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,76</td><td>91,64</td><td>109,00</td><td>0,00</td><td>109,00</td><td>89,07</td><td>20,08</td><td>89,07</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,73</td><td>88,64</td><td>106,00</td><td>0,00</td><td>106,00</td><td>91,36</td><td>19,70</td><td>91,36</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,70</td><td>91,64</td><td>109,00</td><td>0,00</td><td>109,00</td><td>91,36</td><td>19,33</td><td>91,36</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,67</td><td>91,64</td><td>109,00</td><td>0,00</td><td>109,00</td><td>93,18</td><td>18,95</td><td>93,18</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,65</td><td>94,11</td><td>108,00</td><td>0,00</td><td>108,00</td><td>92,84</td><td>18,65</td><td>92,84</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>90,64</td><td>108,00</td><td>0,00</td><td>108,00</td><td>90,52</td><td>18,28</td><td>90,52</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,58</td><td>84,69</td><td>109,00</td><td>0,00</td><td>109,00</td><td>84,57</td><td>17,75</td><td>84,57</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,53</td><td>83,22</td><td>111,00</td><td>0,00</td><td>111,00</td><td>82,42</td><td>17,15</td><td>82,42</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,47</td><td>77,28</td><td>112,00</td><td>0,00</td><td>112,00</td><td>77,62</td><td>16,40</td><td>77,62</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,40</td><td>70,33</td><td>112,00</td><td>0,00</td><td>112,00</td><td>73,65</td><td>15,49</td><td>73,65</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,33</td><td>71,33</td><td>113,00</td><td>0,00</td><td>113,00</td><td>70,83</td><td>14,59</td><td>70,83</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,25</td><td>68,86</td><td>114,00</td><td>0,00</td><td>114,00</td><td>69,88</td><td>13,61</td><td>69,88</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,24</td><td>67,53</td><td>71,00</td><td>0,00</td><td>71,00</td><td>70,20</td><td>13,54</td><td>70,20</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,17</td><td>72,33</td><td>114,00</td><td>0,00</td><td>114,00</td><td>72,50</td><td>12,63</td><td>72,50</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,10</td><td>75,81</td><td>114,00</td><td>0,00</td><td>114,00</td><td>76,39</td><td>11,81</td><td>76,39</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,05</td><td>79,22</td><td>107,00</td><td>0,00</td><td>107,00</td><td>81,79</td><td>11,21</td><td>81,79</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,03</td><td>88,58</td><td>99,00</td><td>43,00</td><td>56,00</td><td>87,51</td><td>10,98</td><td>87,51</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,03</td><td>93,00</td><td>93,00</td><td>0,00</td><td>93,00</td><td>96,75</td><td>10,98</td><td>96,75</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,04</td><td>106,94</td><td>100,00</td><td>0,00</td><td>100,00</td><td>104,45</td><td>11,13</td><td>104,45</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,12</td><td>111,67</td><td>70,00</td><td>0,00</td><td>70,00</td><td>114,15</td><td>12,03</td><td>114,15</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,20</td><td>115,14</td><td>70,00</td><td>0,00</td><td>70,00</td><td>114,57</td><td>13,01</td><td>114,57</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,28</td><td>115,14</td><td>70,00</td><td>0,00</td><td>70,00</td><td>117,38</td><td>13,99</td><td>117,38</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,37</td><td>120,08</td><td>68,00</td><td>0,00</td><td>68,00</td><td>118,12</td><td>15,12</td><td>118,12</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,40</td><td>117,36</td><td>100,00</td><td>0,00</td><td>100,00</td><td>119,65</td><td>15,49</td><td>119,65</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,46</td><td>119,72</td><td>85,00</td><td>0,00</td><td>85,00</td><td>120,39</td><td>16,24</td><td>120,39</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,50</td><td>122,31</td><td>98,00</td><td>0,00</td><td>98,00</td><td>123,74</td><td>16,77</td><td>123,74</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,52</td><td>127,42</td><td>117,00</td><td>0,00</td><td>117,00</td><td>128,81</td><td>17,00</td><td>128,81</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,53</td><td>134,94</td><td>128,00</td><td>0,00</td><td>128,00</td><td>135,29</td><td>17,15</td><td>135,29</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,58</td><td>141,78</td><td>114,00</td><td>0,00</td><td>114,00</td><td>138,78</td><td>17,75</td><td>138,78</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,60</td><td>137,89</td><td>124,00</td><td>0,00</td><td>124,00</td><td>136,28</td><td>18,05</td><td>136,28</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,61</td><td>127,47</td><td>124,00</td><td>0,00</td><td>124,00</td><td>128,68</td><td>18,12</td><td>128,68</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,61</td><td>119,00</td><td>119,00</td><td>0,00</td><td>119,00</td><td>121,23</td><td>18,12</td><td>121,23</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,59</td><td>115,58</td><td>126,00</td><td>0,00</td><td>126,00</td><td>118,41</td><td>17,90</td><td>118,41</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,58</td><td>119,06</td><td>126,00</td><td>0,00</td><td>126,00</td><td>120,07</td><td>17,75</td><td>120,07</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,58</td><td>124,00</td><td>124,00</td><td>0,00</td><td>124,00</td><td>125,85</td><td>17,75</td><td>125,85</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,59</td><td>132,94</td><td>126,00</td><td>0,00</td><td>126,00</td><td>130,47</td><td>17,90</td><td>130,47</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,60</td><td>132,94</td><td>126,00</td><td>0,00</td><td>126,00</td><td>132,28</td><td>18,05</td><td>132,28</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,61</td><td>129,47</td><td>126,00</td><td>0,00</td><td>126,00</td><td>132,27</td><td>18,12</td><td>132,27</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>132,94</td><td>126,00</td><td>0,00</td><td>126,00</td><td>129,94</td><td>18,28</td><td>129,94</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>126,00</td><td>126,00</td><td>0,00</td><td>126,00</td><td>127,11</td><td>18,28</td><td>127,11</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>121,00</td><td>121,00</td><td>0,00</td><td>121,00</td><td>123,45</td><td>18,28</td><td>123,45</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>122,00</td><td>122,00</td><td>0,00</td><td>122,00</td><td>121,10</td><td>18,28</td><td>121,10</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>119,00</td><td>119,00</td><td>0,00</td><td>119,00</td><td>120,42</td><td>18,28</td><td>120,42</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,62</td><td>119,00</td><td>119,00</td><td>0,00</td><td>119,00</td><td>121,73</td><td>18,28</td><td>121,73</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,63</td><td>125,94</td><td>119,00</td><td>0,00</td><td>119,00</td><td>125,19</td><td>18,43</td><td>125,19</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,65</td><td>129,42</td><td>119,00</td><td>0,00</td><td>119,00</td><td>130,30</td><td>18,65</td><td>130,30</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,68</td><td>134,36</td><td>117,00</td><td>0,00</td><td>117,00</td><td>138,10</td><td>19,03</td><td>138,10</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,71</td><td>149,36</td><td>132,00</td><td>0,00</td><td>132,00</td><td>149,66</td><td>19,40</td><td>149,66</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,78</td><td>164,14</td><td>119,00</td><td>0,00</td><td>119,00</td><td>161,57</td><td>20,38</td><td>161,57</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,87</td><td>170,08</td><td>118,00</td><td>0,00</td><td>118,00</td><td>169,63</td><td>21,51</td><td>169,63</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>62,96</td><td>173,56</td><td>118,00</td><td>0,00</td><td>118,00</td><td>171,61</td><td>22,71</td><td>171,61</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,04</td><td>170,08</td><td>118,00</td><td>0,00</td><td>118,00</td><td>171,07</td><td>23,84</td><td>171,07</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,14</td><td>168,50</td><td>106,00</td><td>0,00</td><td>106,00</td><td>169,25</td><td>25,19</td><td>169,25</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,22</td><td>168,08</td><td>116,00</td><td>0,00</td><td>116,00</td><td>161,63</td><td>26,32</td><td>161,63</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,27</td><td>147,25</td><td>116,00</td><td>0,00</td><td>116,00</td><td>147,20</td><td>27,00</td><td>147,20</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,32</td><td>125,25</td><td>94,00</td><td>0,00</td><td>94,00</td><td>132,13</td><td>27,68</td><td>132,13</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,34</td><td>122,89</td><td>109,00</td><td>0,00</td><td>109,00</td><td>122,02</td><td>27,98</td><td>122,02</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,35</td><td>116,94</td><td>110,00</td><td>0,00</td><td>110,00</td><td>118,27</td><td>28,13</td><td>118,27</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,35</td><td>114,00</td><td>114,00</td><td>0,00</td><td>114,00</td><td>116,59</td><td>28,13</td><td>116,59</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,37</td><td>117,89</td><td>104,00</td><td>0,00</td><td>104,00</td><td>117,25</td><td>28,43</td><td>117,25</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,38</td><td>118,94</td><td>112,00</td><td>0,00</td><td>112,00</td><td>119,55</td><td>28,58</td><td>119,55</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,39</td><td>120,94</td><td>114,00</td><td>0,00</td><td>114,00</td><td>119,41</td><td>28,73</td><td>119,41</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>117,47</td><td>114,00</td><td>0,00</td><td>114,00</td><td>120,73</td><td>28,80</td><td>120,73</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,41</td><td>122,94</td><td>116,00</td><td>0,00</td><td>116,00</td><td>120,06</td><td>28,95</td><td>120,06</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,42</td><td>118,94</td><td>112,00</td><td>0,00</td><td>112,00</td><td>119,21</td><td>29,11</td><td>119,21</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,43</td><td>114,94</td><td>108,00</td><td>0,00</td><td>108,00</td><td>118,54</td><td>29,26</td><td>118,54</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,44</td><td>120,60</td><td>114,00</td><td>0,00</td><td>114,00</td><td>123,41</td><td>29,41</td><td>123,41</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,47</td><td>133,91</td><td>114,00</td><td>0,00</td><td>114,00</td><td>136,33</td><td>29,86</td><td>136,33</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,53</td><td>153,70</td><td>114,00</td><td>0,00</td><td>114,00</td><td>122,46</td><td>30,68</td><td>122,46</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19139</td><td>CURUA-UNA                                         </td><td>63,40</td><td>79,01</td><td>165,00</td><td>0,00</td><td>165,00</td><td>116,60</td><td>29,03</td><td>116,60</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,47</td><td>245,95</td><td>186,00</td><td>0,00</td><td>186,00</td><td>261,37</td><td>24,27</td><td>261,37</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,70</td><td>237,78</td><td>146,00</td><td>0,00</td><td>146,00</td><td>286,18</td><td>25,04</td><td>286,18</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,82</td><td>192,92</td><td>145,00</td><td>0,00</td><td>145,00</td><td>284,40</td><td>25,45</td><td>284,40</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,92</td><td>184,93</td><td>145,00</td><td>0,00</td><td>145,00</td><td>286,11</td><td>25,78</td><td>286,11</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,02</td><td>185,28</td><td>145,00</td><td>0,00</td><td>145,00</td><td>303,88</td><td>26,12</td><td>303,88</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,14</td><td>193,65</td><td>144,00</td><td>0,00</td><td>144,00</td><td>328,68</td><td>26,54</td><td>328,68</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,35</td><td>231,04</td><td>144,00</td><td>0,00</td><td>144,00</td><td>353,41</td><td>27,27</td><td>353,41</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,60</td><td>294,59</td><td>191,00</td><td>0,00</td><td>191,00</td><td>385,08</td><td>28,15</td><td>385,08</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,92</td><td>416,64</td><td>284,00</td><td>0,00</td><td>284,00</td><td>397,67</td><td>29,27</td><td>397,67</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,40</td><td>494,32</td><td>289,00</td><td>0,00</td><td>289,00</td><td>387,68</td><td>31,00</td><td>387,68</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,70</td><td>431,17</td><td>302,00</td><td>0,00</td><td>302,00</td><td>366,00</td><td>32,09</td><td>366,00</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,02</td><td>421,08</td><td>283,00</td><td>0,00</td><td>283,00</td><td>335,23</td><td>33,25</td><td>335,23</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,30</td><td>405,77</td><td>281,00</td><td>0,00</td><td>281,00</td><td>348,06</td><td>34,30</td><td>348,06</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,70</td><td>393,24</td><td>215,00</td><td>0,00</td><td>215,00</td><td>445,20</td><td>35,80</td><td>445,20</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,85</td><td>379,90</td><td>313,00</td><td>0,00</td><td>313,00</td><td>503,50</td><td>36,37</td><td>503,50</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,42</td><td>416,23</td><td>155,00</td><td>0,00</td><td>155,00</td><td>533,77</td><td>38,57</td><td>533,77</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,70</td><td>406,63</td><td>277,00</td><td>0,00</td><td>277,00</td><td>558,67</td><td>39,66</td><td>558,67</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,40</td><td>468,02</td><td>137,00</td><td>0,00</td><td>137,00</td><td>550,49</td><td>42,45</td><td>550,49</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,70</td><td>458,10</td><td>314,00</td><td>0,00</td><td>314,00</td><td>565,06</td><td>43,67</td><td>565,06</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,80</td><td>674,25</td><td>132,00</td><td>0,00</td><td>132,00</td><td>558,08</td><td>48,24</td><td>558,08</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,64</td><td>680,17</td><td>251,00</td><td>0,00</td><td>251,00</td><td>583,95</td><td>51,86</td><td>583,95</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,42</td><td>571,49</td><td>162,00</td><td>0,00</td><td>162,00</td><td>979,09</td><td>55,31</td><td>979,09</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,26</td><td>583,01</td><td>130,00</td><td>0,00</td><td>130,00</td><td>1258,49</td><td>59,13</td><td>1258,49</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,95</td><td>577,02</td><td>196,00</td><td>0,00</td><td>196,00</td><td>1123,91</td><td>62,34</td><td>1123,91</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,80</td><td>614,88</td><td>129,00</td><td>0,00</td><td>129,00</td><td>903,72</td><td>66,44</td><td>903,72</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,35</td><td>529,64</td><td>208,00</td><td>0,00</td><td>208,00</td><td>814,00</td><td>69,15</td><td>814,00</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,70</td><td>388,94</td><td>182,00</td><td>0,00</td><td>182,00</td><td>699,41</td><td>70,89</td><td>699,41</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,35</td><td>547,78</td><td>156,00</td><td>0,00</td><td>156,00</td><td>722,24</td><td>74,19</td><td>722,24</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,56</td><td>560,47</td><td>432,00</td><td>0,00</td><td>432,00</td><td>698,21</td><td>75,28</td><td>698,21</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,05</td><td>520,16</td><td>219,00</td><td>0,00</td><td>219,00</td><td>639,23</td><td>77,82</td><td>639,23</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,35</td><td>470,93</td><td>281,00</td><td>0,00</td><td>281,00</td><td>593,58</td><td>79,42</td><td>593,58</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,42</td><td>408,21</td><td>364,00</td><td>0,00</td><td>364,00</td><td>541,18</td><td>79,79</td><td>541,18</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,82</td><td>384,24</td><td>131,00</td><td>0,00</td><td>131,00</td><td>531,43</td><td>81,93</td><td>531,43</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,02</td><td>314,08</td><td>187,00</td><td>0,00</td><td>187,00</td><td>510,89</td><td>83,00</td><td>510,89</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,09</td><td>234,83</td><td>189,00</td><td>0,00</td><td>189,00</td><td>462,20</td><td>83,38</td><td>462,20</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,17</td><td>299,31</td><td>247,00</td><td>0,00</td><td>247,00</td><td>408,35</td><td>83,82</td><td>408,35</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,40</td><td>272,35</td><td>122,00</td><td>0,00</td><td>122,00</td><td>414,82</td><td>85,09</td><td>414,82</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,62</td><td>266,87</td><td>123,00</td><td>0,00</td><td>123,00</td><td>417,21</td><td>86,30</td><td>417,21</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,84</td><td>267,87</td><td>124,00</td><td>0,00</td><td>124,00</td><td>400,68</td><td>87,52</td><td>400,68</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,04</td><td>255,71</td><td>124,00</td><td>0,00</td><td>124,00</td><td>378,28</td><td>88,63</td><td>378,28</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,02</td><td>248,46</td><td>262,00</td><td>0,00</td><td>262,00</td><td>366,24</td><td>88,51</td><td>366,24</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,02</td><td>269,00</td><td>269,00</td><td>0,00</td><td>269,00</td><td>371,64</td><td>88,51</td><td>371,64</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,17</td><td>290,62</td><td>189,00</td><td>0,00</td><td>189,00</td><td>377,94</td><td>89,37</td><td>377,94</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,40</td><td>277,67</td><td>122,00</td><td>0,00</td><td>122,00</td><td>406,40</td><td>90,68</td><td>406,40</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,60</td><td>310,42</td><td>175,00</td><td>0,00</td><td>175,00</td><td>437,40</td><td>91,82</td><td>437,40</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,73</td><td>387,08</td><td>299,00</td><td>0,00</td><td>299,00</td><td>486,29</td><td>92,57</td><td>486,29</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,75</td><td>337,54</td><td>324,00</td><td>0,00</td><td>324,00</td><td>526,59</td><td>92,68</td><td>526,59</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,68</td><td>334,55</td><td>382,00</td><td>0,00</td><td>382,00</td><td>524,36</td><td>92,28</td><td>524,36</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,53</td><td>313,50</td><td>415,00</td><td>0,00</td><td>415,00</td><td>497,94</td><td>91,42</td><td>497,94</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,39</td><td>257,21</td><td>352,00</td><td>0,00</td><td>352,00</td><td>463,98</td><td>90,63</td><td>463,98</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,55</td><td>236,33</td><td>128,00</td><td>0,00</td><td>128,00</td><td>403,49</td><td>91,54</td><td>403,49</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,60</td><td>252,80</td><td>219,00</td><td>0,00</td><td>219,00</td><td>381,04</td><td>91,82</td><td>381,04</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,42</td><td>229,13</td><td>351,00</td><td>0,00</td><td>351,00</td><td>371,26</td><td>90,80</td><td>371,26</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,20</td><td>251,04</td><td>400,00</td><td>0,00</td><td>400,00</td><td>368,57</td><td>89,54</td><td>368,57</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,07</td><td>241,04</td><td>329,00</td><td>0,00</td><td>329,00</td><td>357,35</td><td>88,80</td><td>357,35</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,92</td><td>249,23</td><td>349,00</td><td>0,00</td><td>349,00</td><td>344,28</td><td>87,96</td><td>344,28</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,79</td><td>210,05</td><td>295,00</td><td>0,00</td><td>295,00</td><td>322,47</td><td>87,24</td><td>322,47</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,93</td><td>214,00</td><td>123,00</td><td>0,00</td><td>123,00</td><td>332,36</td><td>88,01</td><td>332,36</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,01</td><td>260,00</td><td>207,00</td><td>0,00</td><td>207,00</td><td>333,40</td><td>88,46</td><td>333,40</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,96</td><td>249,00</td><td>282,00</td><td>0,00</td><td>282,00</td><td>340,84</td><td>88,18</td><td>340,84</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,00</td><td>244,00</td><td>218,00</td><td>0,00</td><td>218,00</td><td>355,85</td><td>88,40</td><td>355,85</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,76</td><td>246,00</td><td>403,00</td><td>0,00</td><td>403,00</td><td>374,48</td><td>87,08</td><td>374,48</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,60</td><td>273,00</td><td>378,00</td><td>0,00</td><td>378,00</td><td>393,04</td><td>86,19</td><td>393,04</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,60</td><td>285,00</td><td>285,00</td><td>0,00</td><td>285,00</td><td>418,19</td><td>86,19</td><td>418,19</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,70</td><td>242,00</td><td>177,00</td><td>0,00</td><td>177,00</td><td>462,19</td><td>86,75</td><td>462,19</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,90</td><td>322,79</td><td>192,00</td><td>0,00</td><td>192,00</td><td>481,94</td><td>87,85</td><td>481,94</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,20</td><td>487,81</td><td>287,00</td><td>0,00</td><td>287,00</td><td>565,53</td><td>89,54</td><td>565,53</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,62</td><td>545,37</td><td>261,00</td><td>0,00</td><td>261,00</td><td>699,26</td><td>91,94</td><td>699,26</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,94</td><td>520,67</td><td>304,00</td><td>0,00</td><td>304,00</td><td>745,27</td><td>93,76</td><td>745,27</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,95</td><td>420,83</td><td>414,00</td><td>0,00</td><td>414,00</td><td>682,21</td><td>93,82</td><td>682,21</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,83</td><td>458,75</td><td>540,00</td><td>0,00</td><td>540,00</td><td>649,67</td><td>93,14</td><td>649,67</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,87</td><td>556,08</td><td>529,00</td><td>0,00</td><td>529,00</td><td>704,74</td><td>93,37</td><td>704,74</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>594,19</td><td>609,83</td><td>389,00</td><td>0,00</td><td>389,00</td><td>752,12</td><td>95,23</td><td>752,12</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>594,38</td><td>587,75</td><td>455,00</td><td>114,00</td><td>341,00</td><td>783,48</td><td>96,35</td><td>783,48</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,98</td><td>627,83</td><td>907,00</td><td>339,00</td><td>568,00</td><td>774,92</td><td>93,99</td><td>774,92</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,68</td><td>702,88</td><td>906,00</td><td>335,00</td><td>571,00</td><td>738,19</td><td>92,28</td><td>738,19</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,26</td><td>622,63</td><td>907,00</td><td>331,00</td><td>576,00</td><td>675,51</td><td>89,88</td><td>675,51</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,97</td><td>576,40</td><td>772,00</td><td>205,00</td><td>567,00</td><td>605,37</td><td>88,23</td><td>605,37</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,88</td><td>518,09</td><td>577,00</td><td>0,00</td><td>577,00</td><td>514,95</td><td>87,74</td><td>514,95</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,03</td><td>464,84</td><td>366,00</td><td>0,00</td><td>366,00</td><td>447,45</td><td>88,57</td><td>447,45</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,06</td><td>407,25</td><td>387,00</td><td>0,00</td><td>387,00</td><td>418,18</td><td>88,74</td><td>418,18</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,06</td><td>415,00</td><td>415,00</td><td>0,00</td><td>415,00</td><td>398,41</td><td>88,74</td><td>398,41</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,15</td><td>455,00</td><td>394,00</td><td>0,00</td><td>394,00</td><td>380,22</td><td>89,26</td><td>380,22</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,28</td><td>429,96</td><td>342,00</td><td>0,00</td><td>342,00</td><td>370,50</td><td>90,00</td><td>370,50</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,52</td><td>369,50</td><td>207,00</td><td>0,00</td><td>207,00</td><td>375,69</td><td>91,37</td><td>375,69</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,73</td><td>408,25</td><td>266,00</td><td>0,00</td><td>266,00</td><td>395,89</td><td>92,57</td><td>395,89</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,86</td><td>384,96</td><td>297,00</td><td>0,00</td><td>297,00</td><td>425,52</td><td>93,31</td><td>425,52</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,84</td><td>369,46</td><td>383,00</td><td>0,00</td><td>383,00</td><td>418,53</td><td>93,19</td><td>418,53</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,84</td><td>375,00</td><td>375,00</td><td>0,00</td><td>375,00</td><td>394,09</td><td>93,19</td><td>394,09</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,80</td><td>360,92</td><td>388,00</td><td>0,00</td><td>388,00</td><td>369,73</td><td>92,97</td><td>369,73</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,79</td><td>350,29</td><td>357,00</td><td>0,00</td><td>357,00</td><td>346,51</td><td>92,91</td><td>346,51</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,75</td><td>330,92</td><td>358,00</td><td>0,00</td><td>358,00</td><td>331,09</td><td>92,68</td><td>331,09</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,93</td><td>305,87</td><td>184,00</td><td>0,00</td><td>184,00</td><td>315,55</td><td>93,71</td><td>315,55</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>594,04</td><td>294,35</td><td>219,00</td><td>0,00</td><td>219,00</td><td>306,64</td><td>94,34</td><td>306,64</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,89</td><td>309,57</td><td>412,00</td><td>0,00</td><td>412,00</td><td>296,19</td><td>93,48</td><td>296,19</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,85</td><td>347,92</td><td>375,00</td><td>0,00</td><td>375,00</td><td>289,93</td><td>93,25</td><td>289,93</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,79</td><td>303,38</td><td>344,00</td><td>0,00</td><td>344,00</td><td>285,84</td><td>92,91</td><td>285,84</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,69</td><td>319,29</td><td>387,00</td><td>0,00</td><td>387,00</td><td>279,36</td><td>92,34</td><td>279,36</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,59</td><td>299,29</td><td>367,00</td><td>0,00</td><td>367,00</td><td>272,17</td><td>91,77</td><td>272,17</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,63</td><td>268,08</td><td>241,00</td><td>0,00</td><td>241,00</td><td>264,83</td><td>92,00</td><td>264,83</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,79</td><td>272,33</td><td>164,00</td><td>0,00</td><td>164,00</td><td>258,73</td><td>92,91</td><td>258,73</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,68</td><td>300,46</td><td>375,00</td><td>0,00</td><td>375,00</td><td>252,05</td><td>92,28</td><td>252,05</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,66</td><td>262,46</td><td>276,00</td><td>0,00</td><td>276,00</td><td>245,48</td><td>92,17</td><td>245,48</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,54</td><td>229,75</td><td>311,00</td><td>0,00</td><td>311,00</td><td>241,04</td><td>91,48</td><td>241,04</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,50</td><td>284,92</td><td>312,00</td><td>0,00</td><td>312,00</td><td>238,58</td><td>91,25</td><td>238,58</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,58</td><td>305,17</td><td>251,00</td><td>0,00</td><td>251,00</td><td>237,25</td><td>91,71</td><td>237,25</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,56</td><td>266,46</td><td>280,00</td><td>0,00</td><td>280,00</td><td>233,12</td><td>91,60</td><td>233,12</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,84</td><td>311,58</td><td>122,00</td><td>0,00</td><td>122,00</td><td>230,35</td><td>93,19</td><td>230,35</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,87</td><td>338,37</td><td>318,00</td><td>0,00</td><td>318,00</td><td>224,93</td><td>93,37</td><td>224,93</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,88</td><td>277,71</td><td>271,00</td><td>0,00</td><td>271,00</td><td>221,75</td><td>93,42</td><td>221,75</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,83</td><td>243,20</td><td>277,00</td><td>0,00</td><td>277,00</td><td>218,71</td><td>93,14</td><td>218,71</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,79</td><td>222,92</td><td>250,00</td><td>0,00</td><td>250,00</td><td>218,13</td><td>92,91</td><td>218,13</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,58</td><td>161,75</td><td>304,00</td><td>0,00</td><td>304,00</td><td>214,75</td><td>91,71</td><td>214,75</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,53</td><td>173,20</td><td>207,00</td><td>0,00</td><td>207,00</td><td>214,81</td><td>91,42</td><td>214,81</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,44</td><td>166,00</td><td>227,00</td><td>0,00</td><td>227,00</td><td>213,21</td><td>90,91</td><td>213,21</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,18</td><td>168,96</td><td>345,00</td><td>0,00</td><td>345,00</td><td>211,02</td><td>89,43</td><td>211,02</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,94</td><td>181,89</td><td>343,00</td><td>0,00</td><td>343,00</td><td>209,90</td><td>88,07</td><td>209,90</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,89</td><td>174,36</td><td>207,00</td><td>0,00</td><td>207,00</td><td>208,89</td><td>87,79</td><td>208,89</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,95</td><td>161,24</td><td>122,00</td><td>0,00</td><td>122,00</td><td>207,08</td><td>88,12</td><td>207,08</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,00</td><td>154,64</td><td>122,00</td><td>0,00</td><td>122,00</td><td>206,43</td><td>88,40</td><td>206,43</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,00</td><td>209,00</td><td>209,00</td><td>0,00</td><td>209,00</td><td>204,41</td><td>88,40</td><td>204,41</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,15</td><td>342,62</td><td>241,00</td><td>0,00</td><td>241,00</td><td>203,53</td><td>89,26</td><td>203,53</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,42</td><td>309,75</td><td>127,00</td><td>0,00</td><td>127,00</td><td>200,77</td><td>90,80</td><td>200,77</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,45</td><td>145,37</td><td>125,00</td><td>0,00</td><td>125,00</td><td>192,72</td><td>90,97</td><td>192,72</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,25</td><td>135,58</td><td>271,00</td><td>0,00</td><td>271,00</td><td>188,04</td><td>89,83</td><td>188,04</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,06</td><td>185,30</td><td>314,00</td><td>0,00</td><td>314,00</td><td>189,24</td><td>88,74</td><td>189,24</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,01</td><td>239,20</td><td>273,00</td><td>0,00</td><td>273,00</td><td>188,74</td><td>88,46</td><td>188,74</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,99</td><td>248,69</td><td>262,00</td><td>0,00</td><td>262,00</td><td>185,44</td><td>88,34</td><td>185,44</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,19</td><td>381,19</td><td>246,00</td><td>0,00</td><td>246,00</td><td>179,37</td><td>89,48</td><td>179,37</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>593,12</td><td>272,55</td><td>320,00</td><td>0,00</td><td>320,00</td><td>177,12</td><td>89,08</td><td>177,12</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,95</td><td>160,11</td><td>274,00</td><td>0,00</td><td>274,00</td><td>174,89</td><td>88,12</td><td>174,89</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,83</td><td>232,53</td><td>311,00</td><td>0,00</td><td>311,00</td><td>172,30</td><td>87,46</td><td>172,30</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,79</td><td>195,84</td><td>222,00</td><td>0,00</td><td>222,00</td><td>170,72</td><td>87,24</td><td>170,72</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,54</td><td>182,46</td><td>346,00</td><td>0,00</td><td>346,00</td><td>171,27</td><td>85,86</td><td>171,27</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,44</td><td>230,61</td><td>296,00</td><td>0,00</td><td>296,00</td><td>169,03</td><td>85,31</td><td>169,03</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,37</td><td>140,28</td><td>186,00</td><td>0,00</td><td>186,00</td><td>165,25</td><td>84,93</td><td>165,25</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,15</td><td>146,13</td><td>290,00</td><td>0,00</td><td>290,00</td><td>165,39</td><td>83,71</td><td>165,39</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,11</td><td>234,84</td><td>261,00</td><td>0,00</td><td>261,00</td><td>176,00</td><td>83,49</td><td>176,00</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,31</td><td>252,79</td><td>122,00</td><td>0,00</td><td>122,00</td><td>187,67</td><td>84,60</td><td>187,67</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,22</td><td>140,09</td><td>199,00</td><td>0,00</td><td>199,00</td><td>192,02</td><td>84,10</td><td>192,02</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,10</td><td>142,53</td><td>221,00</td><td>0,00</td><td>221,00</td><td>194,56</td><td>83,44</td><td>194,56</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,04</td><td>145,76</td><td>185,00</td><td>0,00</td><td>185,00</td><td>189,75</td><td>83,11</td><td>189,75</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,06</td><td>135,08</td><td>122,00</td><td>0,00</td><td>122,00</td><td>180,29</td><td>83,22</td><td>180,29</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,86</td><td>147,11</td><td>275,00</td><td>0,00</td><td>275,00</td><td>178,38</td><td>82,14</td><td>178,38</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,65</td><td>136,13</td><td>269,00</td><td>0,00</td><td>269,00</td><td>171,93</td><td>81,02</td><td>171,93</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,63</td><td>131,27</td><td>144,00</td><td>0,00</td><td>144,00</td><td>163,21</td><td>80,91</td><td>163,21</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,57</td><td>113,04</td><td>151,00</td><td>0,00</td><td>151,00</td><td>161,23</td><td>80,59</td><td>161,23</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,58</td><td>129,37</td><td>123,00</td><td>0,00</td><td>123,00</td><td>162,82</td><td>80,64</td><td>162,82</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,57</td><td>116,63</td><td>123,00</td><td>0,00</td><td>123,00</td><td>160,86</td><td>80,59</td><td>160,86</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,48</td><td>122,06</td><td>179,00</td><td>0,00</td><td>179,00</td><td>155,87</td><td>80,11</td><td>155,87</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,36</td><td>159,96</td><td>236,00</td><td>0,00</td><td>236,00</td><td>149,67</td><td>79,47</td><td>149,67</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,25</td><td>210,44</td><td>280,00</td><td>0,00</td><td>280,00</td><td>149,24</td><td>78,88</td><td>149,24</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,08</td><td>180,36</td><td>288,00</td><td>0,00</td><td>288,00</td><td>146,68</td><td>77,98</td><td>146,68</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,00</td><td>229,31</td><td>280,00</td><td>0,00</td><td>280,00</td><td>142,71</td><td>77,55</td><td>142,71</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,99</td><td>240,87</td><td>247,00</td><td>0,00</td><td>247,00</td><td>142,48</td><td>77,50</td><td>142,48</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,90</td><td>206,91</td><td>262,00</td><td>0,00</td><td>262,00</td><td>142,71</td><td>77,03</td><td>142,71</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,90</td><td>178,00</td><td>178,00</td><td>0,00</td><td>178,00</td><td>141,20</td><td>77,03</td><td>141,20</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,74</td><td>117,08</td><td>215,00</td><td>0,00</td><td>215,00</td><td>138,73</td><td>76,21</td><td>138,73</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,60</td><td>155,24</td><td>241,00</td><td>0,00</td><td>241,00</td><td>139,82</td><td>75,48</td><td>139,82</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,53</td><td>268,18</td><td>311,00</td><td>0,00</td><td>310,00</td><td>138,39</td><td>75,12</td><td>138,39</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,47</td><td>249,19</td><td>286,00</td><td>0,00</td><td>286,00</td><td>134,82</td><td>74,81</td><td>134,82</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,51</td><td>240,54</td><td>216,00</td><td>0,00</td><td>216,00</td><td>133,21</td><td>75,02</td><td>133,21</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,54</td><td>187,40</td><td>169,00</td><td>0,00</td><td>169,00</td><td>138,23</td><td>75,18</td><td>138,23</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,54</td><td>150,00</td><td>150,00</td><td>0,00</td><td>150,00</td><td>138,11</td><td>75,18</td><td>138,11</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,32</td><td>106,28</td><td>241,00</td><td>0,00</td><td>241,00</td><td>133,13</td><td>74,04</td><td>133,13</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,11</td><td>105,41</td><td>234,00</td><td>0,00</td><td>234,00</td><td>128,45</td><td>72,96</td><td>128,45</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,95</td><td>180,12</td><td>277,00</td><td>0,00</td><td>277,00</td><td>129,20</td><td>72,14</td><td>129,20</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,77</td><td>163,52</td><td>270,00</td><td>0,00</td><td>270,00</td><td>129,99</td><td>71,24</td><td>129,99</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,63</td><td>235,13</td><td>318,00</td><td>0,00</td><td>318,00</td><td>126,49</td><td>70,54</td><td>126,49</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,72</td><td>178,24</td><td>125,00</td><td>0,00</td><td>125,00</td><td>124,43</td><td>70,99</td><td>124,43</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,60</td><td>153,05</td><td>224,00</td><td>0,00</td><td>224,00</td><td>124,79</td><td>70,39</td><td>124,79</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,74</td><td>207,75</td><td>125,00</td><td>0,00</td><td>125,00</td><td>124,50</td><td>71,09</td><td>124,50</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,56</td><td>157,63</td><td>264,00</td><td>0,00</td><td>264,00</td><td>128,21</td><td>70,19</td><td>128,21</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,42</td><td>149,13</td><td>232,00</td><td>0,00</td><td>232,00</td><td>130,41</td><td>69,50</td><td>130,41</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,40</td><td>147,19</td><td>159,00</td><td>0,00</td><td>159,00</td><td>128,66</td><td>69,40</td><td>128,66</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,44</td><td>149,61</td><td>126,00</td><td>0,00</td><td>126,00</td><td>126,73</td><td>69,60</td><td>126,73</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,56</td><td>197,06</td><td>126,00</td><td>0,00</td><td>126,00</td><td>128,34</td><td>70,19</td><td>128,34</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,69</td><td>202,85</td><td>126,00</td><td>0,00</td><td>126,00</td><td>127,71</td><td>70,84</td><td>127,71</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,81</td><td>240,95</td><td>170,00</td><td>0,00</td><td>170,00</td><td>126,93</td><td>71,44</td><td>126,93</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,77</td><td>216,39</td><td>240,00</td><td>0,00</td><td>240,00</td><td>129,41</td><td>71,24</td><td>129,41</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,91</td><td>214,75</td><td>132,00</td><td>0,00</td><td>132,00</td><td>130,64</td><td>71,94</td><td>130,64</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,00</td><td>205,24</td><td>152,00</td><td>0,00</td><td>152,00</td><td>129,45</td><td>72,39</td><td>129,45</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,00</td><td>163,00</td><td>163,00</td><td>0,00</td><td>163,00</td><td>126,28</td><td>72,39</td><td>126,28</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,03</td><td>159,40</td><td>141,00</td><td>0,00</td><td>141,00</td><td>125,42</td><td>72,54</td><td>125,42</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,00</td><td>195,60</td><td>214,00</td><td>0,00</td><td>214,00</td><td>124,29</td><td>72,39</td><td>124,29</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,04</td><td>215,54</td><td>191,00</td><td>0,00</td><td>191,00</td><td>123,63</td><td>72,59</td><td>123,63</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,89</td><td>201,42</td><td>291,00</td><td>0,00</td><td>291,00</td><td>123,76</td><td>71,84</td><td>123,76</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,78</td><td>183,95</td><td>249,00</td><td>0,00</td><td>249,00</td><td>124,94</td><td>71,29</td><td>124,94</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,84</td><td>177,42</td><td>142,00</td><td>0,00</td><td>142,00</td><td>123,98</td><td>71,59</td><td>123,98</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,64</td><td>151,71</td><td>270,00</td><td>0,00</td><td>270,00</td><td>117,70</td><td>70,59</td><td>117,70</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,59</td><td>145,49</td><td>175,00</td><td>0,00</td><td>175,00</td><td>116,15</td><td>70,34</td><td>116,15</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,53</td><td>123,47</td><td>159,00</td><td>0,00</td><td>170,00</td><td>118,98</td><td>70,04</td><td>118,98</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,36</td><td>155,54</td><td>256,00</td><td>0,00</td><td>256,00</td><td>118,52</td><td>69,20</td><td>118,52</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,23</td><td>161,03</td><td>238,00</td><td>0,00</td><td>238,00</td><td>115,97</td><td>68,55</td><td>115,97</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,14</td><td>156,76</td><td>210,00</td><td>0,00</td><td>210,00</td><td>111,87</td><td>68,10</td><td>111,87</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,93</td><td>138,20</td><td>261,00</td><td>0,00</td><td>261,00</td><td>113,03</td><td>67,06</td><td>113,03</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,86</td><td>160,84</td><td>201,00</td><td>0,00</td><td>201,00</td><td>110,34</td><td>66,73</td><td>110,34</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,81</td><td>124,41</td><td>153,00</td><td>0,00</td><td>153,00</td><td>106,89</td><td>66,48</td><td>106,89</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,80</td><td>151,21</td><td>157,00</td><td>0,00</td><td>157,00</td><td>107,41</td><td>66,44</td><td>107,41</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,71</td><td>143,50</td><td>195,00</td><td>0,00</td><td>195,00</td><td>106,64</td><td>66,00</td><td>106,64</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,62</td><td>89,38</td><td>141,00</td><td>0,00</td><td>141,00</td><td>104,25</td><td>65,57</td><td>104,25</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,56</td><td>91,62</td><td>126,00</td><td>0,00</td><td>126,00</td><td>104,61</td><td>65,28</td><td>104,61</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,46</td><td>93,71</td><td>151,00</td><td>0,00</td><td>151,00</td><td>104,78</td><td>64,79</td><td>104,78</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,36</td><td>91,71</td><td>149,00</td><td>0,00</td><td>149,00</td><td>103,73</td><td>64,31</td><td>103,73</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,26</td><td>90,71</td><td>148,00</td><td>0,00</td><td>148,00</td><td>102,00</td><td>63,83</td><td>102,00</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,19</td><td>87,95</td><td>128,00</td><td>0,00</td><td>128,00</td><td>99,96</td><td>63,49</td><td>99,96</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,12</td><td>86,84</td><td>127,00</td><td>0,00</td><td>127,00</td><td>100,57</td><td>63,15</td><td>100,57</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,05</td><td>87,95</td><td>128,00</td><td>0,00</td><td>128,00</td><td>101,32</td><td>62,81</td><td>101,32</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,86</td><td>85,98</td><td>192,00</td><td>0,00</td><td>192,00</td><td>99,89</td><td>61,92</td><td>99,89</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,67</td><td>105,14</td><td>210,00</td><td>0,00</td><td>210,00</td><td>94,77</td><td>61,04</td><td>94,77</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,37</td><td>119,38</td><td>285,00</td><td>0,00</td><td>285,00</td><td>95,65</td><td>59,64</td><td>95,65</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,24</td><td>89,24</td><td>161,00</td><td>0,00</td><td>161,00</td><td>95,35</td><td>59,04</td><td>95,35</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,21</td><td>112,45</td><td>129,00</td><td>0,00</td><td>129,00</td><td>91,62</td><td>58,90</td><td>91,62</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,97</td><td>73,06</td><td>205,00</td><td>0,00</td><td>205,00</td><td>90,91</td><td>57,78</td><td>90,91</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,80</td><td>91,26</td><td>182,00</td><td>0,00</td><td>182,00</td><td>91,26</td><td>57,02</td><td>91,26</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,75</td><td>102,38</td><td>129,00</td><td>0,00</td><td>129,00</td><td>90,58</td><td>56,79</td><td>90,58</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,56</td><td>85,61</td><td>187,00</td><td>0,00</td><td>187,00</td><td>90,67</td><td>55,94</td><td>90,67</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,40</td><td>145,58</td><td>231,00</td><td>0,00</td><td>231,00</td><td>92,52</td><td>55,22</td><td>92,52</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,42</td><td>155,65</td><td>145,00</td><td>0,00</td><td>145,00</td><td>93,51</td><td>55,31</td><td>93,51</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,33</td><td>82,97</td><td>131,00</td><td>0,00</td><td>131,00</td><td>90,27</td><td>54,90</td><td>90,27</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,00</td><td>80,96</td><td>257,00</td><td>0,00</td><td>257,00</td><td>89,12</td><td>53,42</td><td>89,12</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,85</td><td>136,80</td><td>214,00</td><td>0,00</td><td>214,00</td><td>89,49</td><td>52,77</td><td>89,49</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,78</td><td>163,89</td><td>200,00</td><td>0,00</td><td>200,00</td><td>89,12</td><td>52,46</td><td>89,12</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,75</td><td>163,61</td><td>179,00</td><td>0,00</td><td>179,00</td><td>87,99</td><td>52,33</td><td>87,99</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,77</td><td>140,30</td><td>130,00</td><td>0,00</td><td>130,00</td><td>88,59</td><td>52,42</td><td>88,59</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,75</td><td>119,70</td><td>130,00</td><td>0,00</td><td>130,00</td><td>87,72</td><td>52,33</td><td>87,72</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,62</td><td>62,99</td><td>130,00</td><td>0,00</td><td>130,00</td><td>86,79</td><td>51,77</td><td>86,79</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,42</td><td>78,99</td><td>182,00</td><td>0,00</td><td>182,00</td><td>87,20</td><td>50,90</td><td>87,20</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,26</td><td>152,59</td><td>235,00</td><td>0,00</td><td>235,00</td><td>87,71</td><td>50,21</td><td>87,71</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,20</td><td>150,10</td><td>181,00</td><td>0,00</td><td>181,00</td><td>87,96</td><td>49,95</td><td>87,96</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,09</td><td>156,40</td><td>213,00</td><td>0,00</td><td>213,00</td><td>91,38</td><td>49,47</td><td>91,38</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,86</td><td>143,91</td><td>260,00</td><td>0,00</td><td>260,00</td><td>94,62</td><td>48,49</td><td>94,62</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,84</td><td>139,05</td><td>149,00</td><td>0,00</td><td>149,00</td><td>94,00</td><td>48,41</td><td>94,00</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,74</td><td>81,23</td><td>131,00</td><td>0,00</td><td>131,00</td><td>93,44</td><td>47,99</td><td>93,44</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,44</td><td>89,69</td><td>239,00</td><td>0,00</td><td>239,00</td><td>89,49</td><td>46,73</td><td>89,49</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,31</td><td>150,30</td><td>215,00</td><td>0,00</td><td>215,00</td><td>89,00</td><td>46,18</td><td>89,00</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,12</td><td>154,44</td><td>249,00</td><td>0,00</td><td>249,00</td><td>89,70</td><td>45,39</td><td>89,70</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,91</td><td>140,11</td><td>243,00</td><td>0,00</td><td>243,00</td><td>93,32</td><td>44,52</td><td>93,32</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,77</td><td>140,75</td><td>208,00</td><td>0,00</td><td>208,00</td><td>92,01</td><td>43,95</td><td>92,01</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,70</td><td>134,32</td><td>168,00</td><td>0,00</td><td>168,00</td><td>94,99</td><td>43,67</td><td>94,99</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,60</td><td>85,97</td><td>134,00</td><td>0,00</td><td>134,00</td><td>95,27</td><td>43,26</td><td>95,27</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,24</td><td>78,08</td><td>251,00</td><td>0,00</td><td>251,00</td><td>93,85</td><td>41,81</td><td>93,85</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,00</td><td>111,72</td><td>227,00</td><td>0,00</td><td>227,00</td><td>88,62</td><td>40,83</td><td>88,62</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,68</td><td>118,85</td><td>267,00</td><td>0,00</td><td>267,00</td><td>82,68</td><td>39,58</td><td>82,68</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,47</td><td>129,78</td><td>227,00</td><td>0,00</td><td>227,00</td><td>81,39</td><td>38,76</td><td>81,39</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,30</td><td>121,30</td><td>200,00</td><td>0,00</td><td>200,00</td><td>82,03</td><td>38,10</td><td>82,03</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,15</td><td>113,56</td><td>183,00</td><td>0,00</td><td>183,00</td><td>83,02</td><td>37,52</td><td>83,02</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,99</td><td>63,16</td><td>137,00</td><td>0,00</td><td>137,00</td><td>82,73</td><td>36,89</td><td>82,73</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,81</td><td>84,79</td><td>165,00</td><td>0,00</td><td>165,00</td><td>81,47</td><td>36,22</td><td>81,47</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,62</td><td>128,28</td><td>213,00</td><td>0,00</td><td>213,00</td><td>79,85</td><td>35,50</td><td>79,85</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,50</td><td>108,53</td><td>162,00</td><td>0,00</td><td>162,00</td><td>79,12</td><td>35,05</td><td>79,12</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,31</td><td>102,39</td><td>187,00</td><td>0,00</td><td>187,00</td><td>77,29</td><td>34,34</td><td>77,29</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,18</td><td>81,01</td><td>139,00</td><td>0,00</td><td>139,00</td><td>73,92</td><td>33,85</td><td>73,92</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,91</td><td>52,02</td><td>171,00</td><td>0,00</td><td>171,00</td><td>72,22</td><td>32,85</td><td>72,22</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,67</td><td>96,64</td><td>200,00</td><td>0,00</td><td>200,00</td><td>71,20</td><td>31,98</td><td>71,20</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,48</td><td>151,29</td><td>233,00</td><td>0,00</td><td>233,00</td><td>68,97</td><td>31,29</td><td>68,97</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,03</td><td>97,25</td><td>291,00</td><td>0,00</td><td>291,00</td><td>67,91</td><td>29,65</td><td>67,91</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,77</td><td>114,78</td><td>223,00</td><td>0,00</td><td>223,00</td><td>68,00</td><td>28,74</td><td>68,00</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,62</td><td>113,85</td><td>176,00</td><td>0,00</td><td>176,00</td><td>67,24</td><td>28,22</td><td>67,24</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,51</td><td>95,40</td><td>141,00</td><td>0,00</td><td>141,00</td><td>66,47</td><td>27,83</td><td>66,47</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,36</td><td>78,85</td><td>141,00</td><td>0,00</td><td>141,00</td><td>66,09</td><td>27,31</td><td>66,09</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,18</td><td>66,35</td><td>141,00</td><td>0,00</td><td>141,00</td><td>65,69</td><td>26,68</td><td>65,69</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,03</td><td>79,85</td><td>142,00</td><td>0,00</td><td>142,00</td><td>64,35</td><td>26,16</td><td>64,35</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,88</td><td>79,70</td><td>140,00</td><td>0,00</td><td>140,00</td><td>64,37</td><td>25,65</td><td>64,37</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,74</td><td>87,10</td><td>143,00</td><td>0,00</td><td>143,00</td><td>64,74</td><td>25,18</td><td>64,74</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,61</td><td>91,15</td><td>143,00</td><td>0,00</td><td>143,00</td><td>65,55</td><td>24,74</td><td>65,55</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,45</td><td>80,11</td><td>144,00</td><td>0,00</td><td>144,00</td><td>66,00</td><td>24,20</td><td>66,00</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,30</td><td>84,05</td><td>144,00</td><td>0,00</td><td>144,00</td><td>65,42</td><td>23,69</td><td>65,42</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,12</td><td>73,12</td><td>145,00</td><td>0,00</td><td>145,00</td><td>67,80</td><td>23,09</td><td>67,80</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,92</td><td>66,30</td><td>145,00</td><td>0,00</td><td>145,00</td><td>70,56</td><td>22,43</td><td>70,56</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,79</td><td>95,12</td><td>145,00</td><td>0,00</td><td>145,00</td><td>77,24</td><td>22,01</td><td>77,24</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,65</td><td>92,18</td><td>146,00</td><td>0,00</td><td>146,00</td><td>82,31</td><td>21,55</td><td>82,31</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,50</td><td>88,36</td><td>146,00</td><td>0,00</td><td>146,00</td><td>80,30</td><td>21,07</td><td>80,30</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,38</td><td>100,94</td><td>147,00</td><td>0,00</td><td>147,00</td><td>75,68</td><td>20,68</td><td>75,68</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,22</td><td>85,43</td><td>147,00</td><td>0,00</td><td>147,00</td><td>72,07</td><td>20,16</td><td>72,07</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,00</td><td>62,51</td><td>147,00</td><td>0,00</td><td>147,00</td><td>70,55</td><td>19,45</td><td>70,55</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,81</td><td>77,86</td><td>148,00</td><td>0,00</td><td>148,00</td><td>71,64</td><td>18,85</td><td>71,64</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,61</td><td>75,16</td><td>149,00</td><td>0,00</td><td>149,00</td><td>75,67</td><td>18,23</td><td>75,67</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,45</td><td>90,97</td><td>150,00</td><td>0,00</td><td>150,00</td><td>87,26</td><td>17,73</td><td>87,26</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,38</td><td>124,07</td><td>150,00</td><td>0,00</td><td>150,00</td><td>104,03</td><td>17,52</td><td>104,03</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,32</td><td>127,89</td><td>150,00</td><td>0,00</td><td>150,00</td><td>111,81</td><td>17,33</td><td>111,81</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,30</td><td>142,59</td><td>150,00</td><td>0,00</td><td>150,00</td><td>114,40</td><td>17,27</td><td>114,40</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,25</td><td>132,60</td><td>151,00</td><td>0,00</td><td>151,00</td><td>111,07</td><td>17,11</td><td>111,07</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,10</td><td>95,56</td><td>151,00</td><td>0,00</td><td>151,00</td><td>100,91</td><td>16,64</td><td>100,91</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,95</td><td>96,25</td><td>151,00</td><td>0,00</td><td>151,00</td><td>90,40</td><td>16,18</td><td>90,40</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,78</td><td>90,35</td><td>151,00</td><td>0,00</td><td>151,00</td><td>83,43</td><td>15,67</td><td>83,43</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,60</td><td>86,88</td><td>151,00</td><td>0,00</td><td>151,00</td><td>82,16</td><td>15,13</td><td>82,16</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,48</td><td>109,18</td><td>152,00</td><td>0,00</td><td>152,00</td><td>81,77</td><td>14,77</td><td>81,77</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,31</td><td>90,47</td><td>151,00</td><td>0,00</td><td>151,00</td><td>75,95</td><td>14,26</td><td>75,95</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,95</td><td>98,45</td><td>226,00</td><td>0,00</td><td>226,00</td><td>73,67</td><td>13,18</td><td>73,67</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,93</td><td>157,17</td><td>164,00</td><td>0,00</td><td>164,00</td><td>74,01</td><td>13,13</td><td>74,01</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,78</td><td>106,73</td><td>158,00</td><td>0,00</td><td>158,00</td><td>72,69</td><td>12,69</td><td>72,69</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,72</td><td>133,51</td><td>154,00</td><td>0,00</td><td>154,00</td><td>73,42</td><td>12,52</td><td>73,42</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,59</td><td>109,67</td><td>154,00</td><td>0,00</td><td>154,00</td><td>73,02</td><td>12,15</td><td>73,02</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,47</td><td>114,03</td><td>155,00</td><td>0,00</td><td>155,00</td><td>69,93</td><td>11,80</td><td>69,93</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,35</td><td>114,03</td><td>155,00</td><td>0,00</td><td>155,00</td><td>73,17</td><td>11,46</td><td>73,17</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,23</td><td>115,03</td><td>156,00</td><td>0,00</td><td>156,00</td><td>80,62</td><td>11,11</td><td>80,62</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,22</td><td>152,53</td><td>156,00</td><td>0,00</td><td>156,00</td><td>90,72</td><td>11,08</td><td>90,72</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,18</td><td>142,34</td><td>156,00</td><td>0,00</td><td>156,00</td><td>101,64</td><td>10,97</td><td>101,64</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,20</td><td>163,83</td><td>157,00</td><td>0,00</td><td>157,00</td><td>111,60</td><td>11,03</td><td>111,60</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,15</td><td>138,99</td><td>156,00</td><td>0,00</td><td>156,00</td><td>98,10</td><td>10,88</td><td>98,10</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,06</td><td>126,21</td><td>157,00</td><td>0,00</td><td>157,00</td><td>75,99</td><td>10,62</td><td>75,99</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,91</td><td>106,88</td><td>157,00</td><td>0,00</td><td>157,00</td><td>76,84</td><td>10,20</td><td>76,84</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,72</td><td>95,50</td><td>158,00</td><td>0,00</td><td>158,00</td><td>87,19</td><td>9,67</td><td>87,19</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,52</td><td>92,26</td><td>158,00</td><td>0,00</td><td>158,00</td><td>94,74</td><td>9,12</td><td>94,74</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,44</td><td>131,73</td><td>158,00</td><td>0,00</td><td>158,00</td><td>99,05</td><td>8,90</td><td>99,05</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,20</td><td>148,95</td><td>228,00</td><td>0,00</td><td>228,00</td><td>105,15</td><td>8,23</td><td>105,15</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,24</td><td>172,19</td><td>159,00</td><td>0,00</td><td>159,00</td><td>106,87</td><td>8,34</td><td>106,87</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,14</td><td>126,13</td><td>159,00</td><td>0,00</td><td>159,00</td><td>103,03</td><td>8,07</td><td>103,03</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,96</td><td>100,32</td><td>159,00</td><td>0,00</td><td>159,00</td><td>97,47</td><td>7,57</td><td>97,47</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,68</td><td>70,46</td><td>159,00</td><td>0,00</td><td>159,00</td><td>91,29</td><td>6,82</td><td>91,29</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,44</td><td>83,19</td><td>159,00</td><td>0,00</td><td>159,00</td><td>86,55</td><td>6,18</td><td>86,55</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,37</td><td>137,89</td><td>160,00</td><td>0,00</td><td>160,00</td><td>85,46</td><td>6,00</td><td>85,46</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,36</td><td>146,88</td><td>150,00</td><td>0,00</td><td>150,00</td><td>91,49</td><td>5,97</td><td>91,49</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,30</td><td>115,02</td><td>134,00</td><td>0,00</td><td>134,00</td><td>93,63</td><td>5,81</td><td>93,63</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,28</td><td>128,63</td><td>135,00</td><td>0,00</td><td>135,00</td><td>110,19</td><td>5,76</td><td>110,19</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,30</td><td>141,37</td><td>135,00</td><td>0,00</td><td>135,00</td><td>140,28</td><td>5,81</td><td>140,28</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,39</td><td>163,47</td><td>135,00</td><td>0,00</td><td>135,00</td><td>169,07</td><td>6,05</td><td>169,07</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,42</td><td>144,49</td><td>135,00</td><td>0,00</td><td>135,00</td><td>190,44</td><td>6,13</td><td>190,44</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,52</td><td>165,60</td><td>134,00</td><td>0,00</td><td>134,00</td><td>197,67</td><td>6,40</td><td>197,67</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,65</td><td>175,09</td><td>134,00</td><td>0,00</td><td>134,00</td><td>211,75</td><td>6,75</td><td>211,75</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>572,91</td><td>222,06</td><td>140,00</td><td>0,00</td><td>140,00</td><td>221,61</td><td>7,44</td><td>221,61</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,27</td><td>251,25</td><td>134,00</td><td>0,00</td><td>134,00</td><td>212,28</td><td>8,43</td><td>212,28</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,67</td><td>263,60</td><td>132,00</td><td>0,00</td><td>132,00</td><td>208,63</td><td>9,53</td><td>208,63</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>573,97</td><td>229,73</td><td>131,00</td><td>0,00</td><td>131,00</td><td>208,08</td><td>10,37</td><td>208,08</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,14</td><td>188,64</td><td>131,00</td><td>0,00</td><td>131,00</td><td>207,17</td><td>10,85</td><td>207,17</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>574,45</td><td>235,90</td><td>130,00</td><td>0,00</td><td>130,00</td><td>247,33</td><td>11,75</td><td>247,33</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,08</td><td>344,20</td><td>128,00</td><td>0,00</td><td>128,00</td><td>328,67</td><td>13,57</td><td>328,67</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,65</td><td>330,24</td><td>127,00</td><td>0,00</td><td>127,00</td><td>341,72</td><td>15,28</td><td>341,72</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,15</td><td>306,21</td><td>126,00</td><td>0,00</td><td>126,00</td><td>339,99</td><td>16,80</td><td>339,99</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,72</td><td>335,42</td><td>125,00</td><td>0,00</td><td>125,00</td><td>346,48</td><td>18,57</td><td>346,48</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,27</td><td>331,06</td><td>124,00</td><td>0,00</td><td>124,00</td><td>336,70</td><td>20,32</td><td>336,70</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,85</td><td>363,92</td><td>141,00</td><td>0,00</td><td>141,00</td><td>363,39</td><td>22,20</td><td>363,39</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,58</td><td>411,24</td><td>122,00</td><td>0,00</td><td>122,00</td><td>386,14</td><td>24,64</td><td>386,14</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,25</td><td>392,30</td><td>121,00</td><td>0,00</td><td>121,00</td><td>339,33</td><td>26,92</td><td>339,33</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,59</td><td>348,86</td><td>208,00</td><td>0,00</td><td>208,00</td><td>302,39</td><td>28,11</td><td>302,39</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,21</td><td>379,30</td><td>119,00</td><td>0,00</td><td>119,00</td><td>308,29</td><td>30,31</td><td>308,29</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,80</td><td>372,05</td><td>118,00</td><td>0,00</td><td>118,00</td><td>294,66</td><td>32,45</td><td>294,66</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,25</td><td>314,57</td><td>117,00</td><td>0,00</td><td>117,00</td><td>281,28</td><td>34,11</td><td>281,28</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,32</td><td>315,13</td><td>284,00</td><td>0,00</td><td>284,00</td><td>282,56</td><td>34,38</td><td>282,56</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,55</td><td>343,55</td><td>241,00</td><td>0,00</td><td>241,00</td><td>269,47</td><td>35,24</td><td>269,47</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,75</td><td>333,12</td><td>244,00</td><td>0,00</td><td>244,00</td><td>240,59</td><td>35,99</td><td>240,59</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,13</td><td>368,53</td><td>197,00</td><td>0,00</td><td>197,00</td><td>242,85</td><td>37,44</td><td>242,85</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,35</td><td>364,85</td><td>263,00</td><td>0,00</td><td>263,00</td><td>287,17</td><td>38,30</td><td>287,17</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,50</td><td>405,44</td><td>336,00</td><td>0,00</td><td>336,00</td><td>329,50</td><td>38,88</td><td>329,50</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,86</td><td>343,67</td><td>177,00</td><td>0,00</td><td>177,00</td><td>343,66</td><td>40,29</td><td>343,66</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,55</td><td>328,48</td><td>472,00</td><td>0,00</td><td>472,00</td><td>347,73</td><td>39,08</td><td>347,73</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,42</td><td>373,81</td><td>434,00</td><td>0,00</td><td>434,00</td><td>342,02</td><td>38,57</td><td>342,02</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,58</td><td>497,07</td><td>423,00</td><td>0,00</td><td>423,00</td><td>490,56</td><td>39,19</td><td>490,56</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,90</td><td>493,15</td><td>345,00</td><td>0,00</td><td>345,00</td><td>506,91</td><td>40,44</td><td>506,91</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,25</td><td>477,44</td><td>311,00</td><td>0,00</td><td>311,00</td><td>447,89</td><td>41,85</td><td>447,89</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,43</td><td>456,46</td><td>370,00</td><td>0,00</td><td>370,00</td><td>424,90</td><td>42,57</td><td>424,90</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,75</td><td>429,70</td><td>276,00</td><td>0,00</td><td>276,00</td><td>384,45</td><td>43,87</td><td>384,45</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,88</td><td>388,38</td><td>326,00</td><td>0,00</td><td>326,00</td><td>332,32</td><td>44,40</td><td>332,32</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,17</td><td>360,25</td><td>218,00</td><td>0,00</td><td>218,00</td><td>282,82</td><td>45,60</td><td>282,82</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,06</td><td>316,25</td><td>371,00</td><td>0,00</td><td>371,00</td><td>239,39</td><td>45,13</td><td>239,39</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,02</td><td>307,09</td><td>327,00</td><td>0,00</td><td>327,00</td><td>208,72</td><td>44,97</td><td>208,72</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,75</td><td>270,02</td><td>400,00</td><td>0,00</td><td>400,00</td><td>198,52</td><td>43,87</td><td>198,52</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,59</td><td>226,15</td><td>303,00</td><td>0,00</td><td>303,00</td><td>198,07</td><td>43,22</td><td>198,07</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,75</td><td>210,85</td><td>134,00</td><td>0,00</td><td>134,00</td><td>189,14</td><td>43,87</td><td>189,14</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,38</td><td>209,22</td><td>387,00</td><td>0,00</td><td>387,00</td><td>184,59</td><td>42,37</td><td>184,59</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,11</td><td>209,37</td><td>339,00</td><td>0,00</td><td>339,00</td><td>179,87</td><td>41,28</td><td>179,87</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,72</td><td>190,48</td><td>373,00</td><td>0,00</td><td>373,00</td><td>181,66</td><td>39,74</td><td>181,66</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,50</td><td>191,15</td><td>293,00</td><td>0,00</td><td>293,00</td><td>196,08</td><td>38,88</td><td>196,08</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,47</td><td>216,11</td><td>230,00</td><td>0,00</td><td>230,00</td><td>204,70</td><td>38,76</td><td>204,70</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,52</td><td>235,15</td><td>212,00</td><td>0,00</td><td>212,00</td><td>215,35</td><td>38,96</td><td>215,35</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,74</td><td>237,85</td><td>136,00</td><td>0,00</td><td>136,00</td><td>210,95</td><td>39,82</td><td>210,95</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,55</td><td>228,04</td><td>316,00</td><td>0,00</td><td>316,00</td><td>185,91</td><td>39,08</td><td>185,91</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,51</td><td>190,48</td><td>209,00</td><td>0,00</td><td>209,00</td><td>168,12</td><td>38,92</td><td>168,12</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,34</td><td>203,30</td><td>282,00</td><td>0,00</td><td>282,00</td><td>164,09</td><td>38,26</td><td>164,09</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,16</td><td>233,67</td><td>317,00</td><td>0,00</td><td>317,00</td><td>178,63</td><td>37,55</td><td>178,63</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,95</td><td>221,70</td><td>318,00</td><td>0,00</td><td>318,00</td><td>201,69</td><td>36,74</td><td>201,69</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,02</td><td>228,48</td><td>197,00</td><td>0,00</td><td>197,00</td><td>210,66</td><td>37,01</td><td>210,66</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,09</td><td>169,41</td><td>137,00</td><td>0,00</td><td>137,00</td><td>193,01</td><td>37,28</td><td>193,01</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,62</td><td>132,00</td><td>343,00</td><td>0,00</td><td>343,00</td><td>165,58</td><td>35,50</td><td>165,58</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,25</td><td>121,19</td><td>286,00</td><td>0,00</td><td>286,00</td><td>150,95</td><td>34,11</td><td>150,95</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,76</td><td>131,19</td><td>346,00</td><td>0,00</td><td>346,00</td><td>153,47</td><td>32,30</td><td>153,47</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,72</td><td>122,75</td><td>140,00</td><td>0,00</td><td>140,00</td><td>162,00</td><td>32,16</td><td>162,00</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,68</td><td>128,87</td><td>146,00</td><td>0,00</td><td>146,00</td><td>160,52</td><td>32,01</td><td>160,52</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,53</td><td>130,42</td><td>195,00</td><td>0,00</td><td>195,00</td><td>176,00</td><td>31,47</td><td>176,00</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,52</td><td>135,60</td><td>140,00</td><td>0,00</td><td>140,00</td><td>189,69</td><td>31,43</td><td>189,69</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,40</td><td>147,38</td><td>199,00</td><td>0,00</td><td>199,00</td><td>200,86</td><td>31,00</td><td>200,86</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,46</td><td>165,81</td><td>140,00</td><td>0,00</td><td>140,00</td><td>228,84</td><td>31,21</td><td>228,84</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,54</td><td>174,49</td><td>140,00</td><td>0,00</td><td>140,00</td><td>256,17</td><td>31,50</td><td>256,17</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,74</td><td>225,11</td><td>139,00</td><td>0,00</td><td>139,00</td><td>294,79</td><td>32,23</td><td>294,79</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,05</td><td>273,26</td><td>139,00</td><td>0,00</td><td>139,00</td><td>363,11</td><td>33,36</td><td>363,11</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,44</td><td>313,73</td><td>140,00</td><td>0,00</td><td>140,00</td><td>390,74</td><td>34,83</td><td>390,74</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,70</td><td>253,86</td><td>138,00</td><td>0,00</td><td>138,00</td><td>345,19</td><td>35,80</td><td>345,19</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,90</td><td>226,12</td><td>137,00</td><td>0,00</td><td>137,00</td><td>312,92</td><td>36,55</td><td>312,92</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,94</td><td>214,82</td><td>197,00</td><td>0,00</td><td>197,00</td><td>307,00</td><td>36,71</td><td>307,00</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,12</td><td>219,29</td><td>137,00</td><td>0,00</td><td>137,00</td><td>315,16</td><td>37,40</td><td>315,16</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,30</td><td>219,33</td><td>136,00</td><td>0,00</td><td>136,00</td><td>311,75</td><td>38,10</td><td>311,75</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,55</td><td>251,74</td><td>136,00</td><td>0,00</td><td>136,00</td><td>331,59</td><td>39,08</td><td>331,59</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,78</td><td>241,48</td><td>135,00</td><td>0,00</td><td>135,00</td><td>321,38</td><td>39,97</td><td>321,38</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,99</td><td>232,22</td><td>135,00</td><td>0,00</td><td>135,00</td><td>309,98</td><td>40,79</td><td>309,98</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,20</td><td>235,69</td><td>135,00</td><td>0,00</td><td>135,00</td><td>295,19</td><td>41,64</td><td>295,19</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,34</td><td>202,25</td><td>135,00</td><td>0,00</td><td>135,00</td><td>262,08</td><td>42,21</td><td>262,08</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,40</td><td>162,82</td><td>134,00</td><td>0,00</td><td>134,00</td><td>230,65</td><td>42,45</td><td>230,65</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,46</td><td>162,82</td><td>134,00</td><td>0,00</td><td>134,00</td><td>215,21</td><td>42,70</td><td>215,21</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,55</td><td>177,29</td><td>134,00</td><td>0,00</td><td>134,00</td><td>235,46</td><td>43,06</td><td>235,46</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,60</td><td>157,96</td><td>134,00</td><td>0,00</td><td>134,00</td><td>241,71</td><td>43,26</td><td>241,71</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,68</td><td>172,43</td><td>134,00</td><td>0,00</td><td>134,00</td><td>277,96</td><td>43,59</td><td>277,96</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,77</td><td>246,29</td><td>203,00</td><td>0,00</td><td>203,00</td><td>367,81</td><td>43,95</td><td>367,81</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,99</td><td>238,67</td><td>133,00</td><td>0,00</td><td>133,00</td><td>413,46</td><td>44,84</td><td>413,46</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,22</td><td>247,24</td><td>133,00</td><td>0,00</td><td>133,00</td><td>455,77</td><td>45,81</td><td>455,77</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,56</td><td>301,21</td><td>132,00</td><td>0,00</td><td>132,00</td><td>542,58</td><td>47,23</td><td>542,58</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,01</td><td>355,19</td><td>131,00</td><td>0,00</td><td>131,00</td><td>579,32</td><td>49,12</td><td>579,32</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,37</td><td>316,42</td><td>131,00</td><td>0,00</td><td>131,00</td><td>558,92</td><td>50,68</td><td>558,92</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,76</td><td>330,81</td><td>130,00</td><td>0,00</td><td>130,00</td><td>530,40</td><td>52,38</td><td>530,40</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,17</td><td>344,35</td><td>130,00</td><td>0,00</td><td>130,00</td><td>530,03</td><td>54,18</td><td>530,03</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,59</td><td>353,07</td><td>129,00</td><td>0,00</td><td>129,00</td><td>520,04</td><td>56,07</td><td>520,04</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,93</td><td>310,37</td><td>129,00</td><td>0,00</td><td>129,00</td><td>472,06</td><td>57,60</td><td>472,06</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,93</td><td>275,00</td><td>275,00</td><td>0,00</td><td>275,00</td><td>394,48</td><td>57,60</td><td>394,48</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,91</td><td>284,35</td><td>295,00</td><td>0,00</td><td>295,00</td><td>328,02</td><td>57,51</td><td>328,02</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,21</td><td>293,00</td><td>129,00</td><td>0,00</td><td>129,00</td><td>295,01</td><td>58,90</td><td>295,01</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,52</td><td>299,06</td><td>128,00</td><td>0,00</td><td>128,00</td><td>278,00</td><td>60,34</td><td>278,00</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,72</td><td>328,42</td><td>218,00</td><td>0,00</td><td>218,00</td><td>265,90</td><td>61,27</td><td>265,90</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,80</td><td>316,21</td><td>272,00</td><td>0,00</td><td>272,00</td><td>257,74</td><td>61,64</td><td>257,74</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,91</td><td>309,76</td><td>249,00</td><td>0,00</td><td>249,00</td><td>243,97</td><td>62,15</td><td>243,97</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,77</td><td>248,69</td><td>326,00</td><td>0,00</td><td>326,00</td><td>230,49</td><td>61,50</td><td>230,49</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,95</td><td>227,42</td><td>128,00</td><td>0,00</td><td>128,00</td><td>221,45</td><td>62,34</td><td>221,45</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,05</td><td>184,25</td><td>128,00</td><td>0,00</td><td>128,00</td><td>223,54</td><td>62,81</td><td>223,54</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,14</td><td>179,50</td><td>128,00</td><td>0,00</td><td>128,00</td><td>253,36</td><td>63,25</td><td>253,36</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,30</td><td>274,67</td><td>183,00</td><td>0,00</td><td>183,00</td><td>321,25</td><td>64,02</td><td>321,25</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,65</td><td>326,58</td><td>126,00</td><td>0,00</td><td>126,00</td><td>342,60</td><td>65,71</td><td>342,60</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,75</td><td>240,29</td><td>183,00</td><td>0,00</td><td>183,00</td><td>351,50</td><td>66,19</td><td>351,50</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,71</td><td>261,08</td><td>284,00</td><td>0,00</td><td>284,00</td><td>373,55</td><td>66,00</td><td>373,55</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,95</td><td>264,50</td><td>127,00</td><td>0,00</td><td>127,00</td><td>368,58</td><td>67,16</td><td>368,58</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,89</td><td>252,62</td><td>287,00</td><td>0,00</td><td>287,00</td><td>361,83</td><td>66,87</td><td>361,83</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,07</td><td>234,40</td><td>130,00</td><td>0,00</td><td>130,00</td><td>341,31</td><td>67,75</td><td>341,31</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,23</td><td>221,56</td><td>127,00</td><td>0,00</td><td>127,00</td><td>305,87</td><td>68,55</td><td>305,87</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,13</td><td>282,86</td><td>342,00</td><td>0,00</td><td>342,00</td><td>277,26</td><td>68,05</td><td>277,26</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,12</td><td>329,10</td><td>335,00</td><td>0,00</td><td>335,00</td><td>265,60</td><td>68,00</td><td>265,60</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,92</td><td>296,22</td><td>413,00</td><td>0,00</td><td>413,00</td><td>241,34</td><td>67,02</td><td>241,34</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,85</td><td>310,95</td><td>351,00</td><td>0,00</td><td>351,00</td><td>229,80</td><td>66,68</td><td>229,80</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,10</td><td>271,02</td><td>126,00</td><td>0,00</td><td>126,00</td><td>224,41</td><td>67,90</td><td>224,41</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,12</td><td>137,81</td><td>126,00</td><td>0,00</td><td>126,00</td><td>225,73</td><td>68,00</td><td>225,73</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,99</td><td>153,38</td><td>230,00</td><td>0,00</td><td>230,00</td><td>218,74</td><td>67,35</td><td>218,74</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,00</td><td>132,67</td><td>127,00</td><td>0,00</td><td>127,00</td><td>211,27</td><td>67,40</td><td>211,27</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,95</td><td>137,41</td><td>166,00</td><td>0,00</td><td>166,00</td><td>204,03</td><td>67,16</td><td>204,03</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,80</td><td>145,00</td><td>231,00</td><td>0,00</td><td>231,00</td><td>201,02</td><td>66,44</td><td>201,02</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,78</td><td>154,54</td><td>166,00</td><td>0,00</td><td>166,00</td><td>211,44</td><td>66,34</td><td>211,44</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,83</td><td>154,70</td><td>126,00</td><td>0,00</td><td>126,00</td><td>214,85</td><td>66,58</td><td>214,85</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,85</td><td>137,46</td><td>126,00</td><td>0,00</td><td>126,00</td><td>213,90</td><td>66,68</td><td>213,90</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,87</td><td>137,46</td><td>126,00</td><td>0,00</td><td>126,00</td><td>222,32</td><td>66,77</td><td>222,32</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,95</td><td>171,83</td><td>126,00</td><td>0,00</td><td>126,00</td><td>239,87</td><td>67,16</td><td>239,87</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,07</td><td>196,02</td><td>126,00</td><td>0,00</td><td>126,00</td><td>268,73</td><td>67,75</td><td>268,73</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,20</td><td>202,85</td><td>126,00</td><td>0,00</td><td>126,00</td><td>276,78</td><td>68,40</td><td>276,78</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,31</td><td>191,05</td><td>126,00</td><td>0,00</td><td>126,00</td><td>273,79</td><td>68,95</td><td>273,79</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,38</td><td>167,44</td><td>126,00</td><td>0,00</td><td>126,00</td><td>264,73</td><td>69,30</td><td>264,73</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,47</td><td>178,24</td><td>125,00</td><td>0,00</td><td>125,00</td><td>252,98</td><td>69,75</td><td>252,98</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,60</td><td>201,85</td><td>125,00</td><td>0,00</td><td>125,00</td><td>252,94</td><td>70,39</td><td>252,94</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,61</td><td>130,90</td><td>125,00</td><td>0,00</td><td>125,00</td><td>268,05</td><td>70,44</td><td>268,05</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,67</td><td>160,53</td><td>125,00</td><td>0,00</td><td>125,00</td><td>284,09</td><td>70,74</td><td>284,09</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,77</td><td>184,14</td><td>125,00</td><td>0,00</td><td>125,00</td><td>313,95</td><td>71,24</td><td>313,95</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,89</td><td>195,95</td><td>125,00</td><td>0,00</td><td>125,00</td><td>348,61</td><td>71,84</td><td>348,61</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,12</td><td>262,54</td><td>124,00</td><td>0,00</td><td>124,00</td><td>385,19</td><td>73,01</td><td>385,19</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,37</td><td>277,01</td><td>124,00</td><td>0,00</td><td>124,00</td><td>396,60</td><td>74,30</td><td>396,60</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,55</td><td>234,30</td><td>124,00</td><td>0,00</td><td>124,00</td><td>360,24</td><td>75,23</td><td>360,24</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,69</td><td>209,65</td><td>124,00</td><td>0,00</td><td>124,00</td><td>333,05</td><td>75,95</td><td>333,05</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,80</td><td>191,36</td><td>124,00</td><td>0,00</td><td>124,00</td><td>319,45</td><td>76,52</td><td>319,45</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,92</td><td>197,50</td><td>124,00</td><td>0,00</td><td>124,00</td><td>307,56</td><td>77,14</td><td>307,56</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,02</td><td>185,57</td><td>124,00</td><td>0,00</td><td>124,00</td><td>300,33</td><td>77,66</td><td>300,33</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,12</td><td>187,31</td><td>124,00</td><td>0,00</td><td>124,00</td><td>289,97</td><td>78,19</td><td>289,97</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,19</td><td>167,33</td><td>123,00</td><td>0,00</td><td>123,00</td><td>267,64</td><td>78,56</td><td>267,64</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,28</td><td>180,06</td><td>123,00</td><td>0,00</td><td>123,00</td><td>239,90</td><td>79,04</td><td>239,90</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,46</td><td>237,89</td><td>124,00</td><td>0,00</td><td>124,00</td><td>225,02</td><td>80,00</td><td>225,02</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,62</td><td>225,27</td><td>124,00</td><td>0,00</td><td>124,00</td><td>209,58</td><td>80,86</td><td>209,58</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,80</td><td>218,91</td><td>124,00</td><td>0,00</td><td>124,00</td><td>199,93</td><td>81,82</td><td>199,93</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,89</td><td>180,94</td><td>124,00</td><td>0,00</td><td>124,00</td><td>201,78</td><td>82,30</td><td>201,78</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,92</td><td>142,98</td><td>124,00</td><td>0,00</td><td>124,00</td><td>196,91</td><td>82,46</td><td>196,91</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,94</td><td>136,73</td><td>124,00</td><td>0,00</td><td>124,00</td><td>190,88</td><td>82,57</td><td>190,88</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,97</td><td>142,98</td><td>124,00</td><td>0,00</td><td>124,00</td><td>186,90</td><td>82,73</td><td>186,90</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,05</td><td>175,74</td><td>124,00</td><td>0,00</td><td>124,00</td><td>185,74</td><td>83,16</td><td>185,74</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,13</td><td>175,31</td><td>123,00</td><td>0,00</td><td>123,00</td><td>182,60</td><td>83,60</td><td>182,60</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,12</td><td>116,40</td><td>123,00</td><td>0,00</td><td>123,00</td><td>180,50</td><td>83,55</td><td>180,50</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,11</td><td>116,52</td><td>123,00</td><td>0,00</td><td>123,00</td><td>182,49</td><td>83,49</td><td>182,49</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,11</td><td>123,00</td><td>123,00</td><td>0,00</td><td>123,00</td><td>188,70</td><td>83,49</td><td>188,70</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,12</td><td>129,48</td><td>123,00</td><td>0,00</td><td>123,00</td><td>194,48</td><td>83,55</td><td>194,48</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,12</td><td>123,00</td><td>123,00</td><td>0,00</td><td>123,00</td><td>194,11</td><td>83,55</td><td>194,11</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,14</td><td>136,08</td><td>123,00</td><td>0,00</td><td>123,00</td><td>188,93</td><td>83,66</td><td>188,93</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,18</td><td>149,16</td><td>123,00</td><td>0,00</td><td>123,00</td><td>190,31</td><td>83,88</td><td>190,31</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,22</td><td>149,16</td><td>123,00</td><td>0,00</td><td>123,00</td><td>190,61</td><td>84,10</td><td>190,61</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,25</td><td>141,68</td><td>122,00</td><td>0,00</td><td>122,00</td><td>191,90</td><td>84,26</td><td>191,90</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,29</td><td>149,16</td><td>123,00</td><td>0,00</td><td>123,00</td><td>193,25</td><td>84,49</td><td>193,25</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,32</td><td>142,56</td><td>123,00</td><td>0,00</td><td>123,00</td><td>190,63</td><td>84,65</td><td>190,63</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,35</td><td>141,68</td><td>122,00</td><td>0,00</td><td>122,00</td><td>190,37</td><td>84,82</td><td>190,37</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,36</td><td>129,48</td><td>123,00</td><td>0,00</td><td>123,00</td><td>175,38</td><td>84,87</td><td>175,38</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,32</td><td>96,84</td><td>123,00</td><td>0,00</td><td>123,00</td><td>160,69</td><td>84,65</td><td>160,69</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,32</td><td>123,00</td><td>123,00</td><td>0,00</td><td>123,00</td><td>162,40</td><td>84,65</td><td>162,40</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,30</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>166,65</td><td>84,54</td><td>166,65</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,28</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>161,26</td><td>84,43</td><td>161,26</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,25</td><td>103,44</td><td>123,00</td><td>0,00</td><td>123,00</td><td>154,24</td><td>84,26</td><td>154,24</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,23</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>159,12</td><td>84,15</td><td>159,12</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,23</td><td>122,00</td><td>122,00</td><td>0,00</td><td>122,00</td><td>159,53</td><td>84,15</td><td>159,53</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,21</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>152,75</td><td>84,04</td><td>152,75</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,19</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>146,58</td><td>83,93</td><td>146,58</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,17</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>148,06</td><td>83,82</td><td>148,06</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,15</td><td>109,92</td><td>123,00</td><td>0,00</td><td>123,00</td><td>148,74</td><td>83,71</td><td>148,74</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,11</td><td>97,84</td><td>124,00</td><td>0,00</td><td>124,00</td><td>143,50</td><td>83,49</td><td>143,50</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,06</td><td>91,25</td><td>124,00</td><td>0,00</td><td>124,00</td><td>138,59</td><td>83,22</td><td>138,59</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,99</td><td>110,40</td><td>156,00</td><td>0,00</td><td>156,00</td><td>145,03</td><td>82,83</td><td>145,03</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,96</td><td>105,02</td><td>124,00</td><td>0,00</td><td>124,00</td><td>150,77</td><td>82,67</td><td>150,77</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,93</td><td>105,02</td><td>124,00</td><td>0,00</td><td>124,00</td><td>150,69</td><td>82,51</td><td>150,69</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,90</td><td>105,02</td><td>124,00</td><td>0,00</td><td>124,00</td><td>163,85</td><td>82,35</td><td>163,85</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,91</td><td>130,37</td><td>124,00</td><td>0,00</td><td>124,00</td><td>194,33</td><td>82,41</td><td>194,33</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,97</td><td>161,96</td><td>124,00</td><td>0,00</td><td>124,00</td><td>222,68</td><td>82,73</td><td>222,68</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,02</td><td>156,06</td><td>124,00</td><td>0,00</td><td>124,00</td><td>225,39</td><td>83,00</td><td>225,39</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,05</td><td>143,68</td><td>124,00</td><td>0,00</td><td>124,00</td><td>213,09</td><td>83,16</td><td>213,09</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,07</td><td>137,08</td><td>124,00</td><td>0,00</td><td>124,00</td><td>202,36</td><td>83,27</td><td>202,36</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,08</td><td>130,48</td><td>124,00</td><td>0,00</td><td>124,00</td><td>190,04</td><td>83,33</td><td>190,04</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,09</td><td>130,60</td><td>124,00</td><td>0,00</td><td>124,00</td><td>174,84</td><td>83,38</td><td>174,84</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,08</td><td>117,40</td><td>124,00</td><td>0,00</td><td>124,00</td><td>159,04</td><td>83,33</td><td>159,04</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,06</td><td>110,92</td><td>124,00</td><td>0,00</td><td>124,00</td><td>148,77</td><td>83,22</td><td>148,77</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,04</td><td>110,92</td><td>124,00</td><td>0,00</td><td>124,00</td><td>147,54</td><td>83,11</td><td>147,54</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>592,01</td><td>105,44</td><td>125,00</td><td>0,00</td><td>125,00</td><td>147,04</td><td>82,94</td><td>147,04</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,97</td><td>98,42</td><td>124,00</td><td>0,00</td><td>124,00</td><td>140,50</td><td>82,73</td><td>140,50</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,93</td><td>99,65</td><td>125,00</td><td>0,00</td><td>125,00</td><td>136,93</td><td>82,51</td><td>136,93</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,89</td><td>98,65</td><td>124,00</td><td>0,00</td><td>124,00</td><td>137,86</td><td>82,30</td><td>137,86</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,85</td><td>99,77</td><td>125,00</td><td>0,00</td><td>125,00</td><td>141,24</td><td>82,09</td><td>141,24</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,82</td><td>105,90</td><td>125,00</td><td>0,00</td><td>125,00</td><td>132,98</td><td>81,93</td><td>132,98</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,78</td><td>98,77</td><td>124,00</td><td>0,00</td><td>124,00</td><td>125,72</td><td>81,71</td><td>125,72</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,74</td><td>98,65</td><td>124,00</td><td>0,00</td><td>124,00</td><td>124,79</td><td>81,50</td><td>124,79</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,69</td><td>92,29</td><td>124,00</td><td>0,00</td><td>124,00</td><td>124,54</td><td>81,23</td><td>124,54</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,61</td><td>95,42</td><td>146,00</td><td>0,00</td><td>146,00</td><td>120,07</td><td>80,80</td><td>120,07</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,55</td><td>86,04</td><td>124,00</td><td>0,00</td><td>124,00</td><td>114,34</td><td>80,48</td><td>114,34</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,50</td><td>93,29</td><td>125,00</td><td>0,00</td><td>125,00</td><td>114,50</td><td>80,22</td><td>114,50</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,45</td><td>92,40</td><td>124,00</td><td>0,00</td><td>124,00</td><td>114,92</td><td>79,95</td><td>114,92</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,41</td><td>97,65</td><td>123,00</td><td>0,00</td><td>123,00</td><td>111,13</td><td>79,74</td><td>111,13</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,35</td><td>86,04</td><td>124,00</td><td>0,00</td><td>124,00</td><td>108,21</td><td>79,42</td><td>108,21</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,29</td><td>85,92</td><td>124,00</td><td>0,00</td><td>124,00</td><td>110,48</td><td>79,10</td><td>110,48</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,22</td><td>80,67</td><td>125,00</td><td>0,00</td><td>125,00</td><td>110,51</td><td>78,72</td><td>110,51</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,15</td><td>81,79</td><td>126,00</td><td>0,00</td><td>126,00</td><td>107,14</td><td>78,35</td><td>107,14</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,08</td><td>81,67</td><td>126,00</td><td>0,00</td><td>126,00</td><td>102,54</td><td>77,98</td><td>102,54</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>591,00</td><td>75,31</td><td>126,00</td><td>0,00</td><td>126,00</td><td>100,72</td><td>77,55</td><td>100,72</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,93</td><td>83,18</td><td>126,00</td><td>0,00</td><td>126,00</td><td>101,88</td><td>77,19</td><td>101,88</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,85</td><td>77,04</td><td>126,00</td><td>0,00</td><td>126,00</td><td>99,79</td><td>76,78</td><td>99,79</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,77</td><td>76,93</td><td>126,00</td><td>0,00</td><td>126,00</td><td>96,01</td><td>76,36</td><td>96,01</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,69</td><td>77,04</td><td>126,00</td><td>0,00</td><td>126,00</td><td>97,48</td><td>75,95</td><td>97,48</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,62</td><td>83,18</td><td>126,00</td><td>0,00</td><td>126,00</td><td>100,66</td><td>75,59</td><td>100,66</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,55</td><td>83,18</td><td>126,00</td><td>0,00</td><td>126,00</td><td>98,05</td><td>75,23</td><td>98,05</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,46</td><td>70,79</td><td>126,00</td><td>0,00</td><td>126,00</td><td>96,34</td><td>74,76</td><td>96,34</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,38</td><td>77,04</td><td>126,00</td><td>0,00</td><td>126,00</td><td>92,80</td><td>74,35</td><td>92,80</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,29</td><td>71,91</td><td>127,00</td><td>0,00</td><td>127,00</td><td>93,51</td><td>73,88</td><td>93,51</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,20</td><td>71,91</td><td>127,00</td><td>0,00</td><td>127,00</td><td>91,41</td><td>73,42</td><td>91,41</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>590,13</td><td>84,18</td><td>127,00</td><td>0,00</td><td>127,00</td><td>87,97</td><td>73,06</td><td>87,97</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,57</td><td>73,09</td><td>407,00</td><td>0,00</td><td>407,00</td><td>84,75</td><td>70,24</td><td>84,75</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,47</td><td>66,86</td><td>126,00</td><td>0,00</td><td>126,00</td><td>83,05</td><td>69,75</td><td>83,05</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,38</td><td>71,76</td><td>125,00</td><td>0,00</td><td>125,00</td><td>84,75</td><td>69,30</td><td>84,75</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,29</td><td>72,76</td><td>126,00</td><td>0,00</td><td>126,00</td><td>86,25</td><td>68,85</td><td>86,25</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,20</td><td>72,76</td><td>126,00</td><td>0,00</td><td>126,00</td><td>84,79</td><td>68,40</td><td>84,79</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,10</td><td>67,86</td><td>127,00</td><td>0,00</td><td>127,00</td><td>83,15</td><td>67,90</td><td>83,15</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,00</td><td>67,86</td><td>127,00</td><td>0,00</td><td>127,00</td><td>80,03</td><td>67,40</td><td>80,03</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,90</td><td>68,71</td><td>126,00</td><td>0,00</td><td>126,00</td><td>78,54</td><td>66,92</td><td>78,54</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,81</td><td>74,50</td><td>126,00</td><td>0,00</td><td>126,00</td><td>80,33</td><td>66,48</td><td>80,33</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,70</td><td>63,92</td><td>127,00</td><td>0,00</td><td>127,00</td><td>81,23</td><td>65,95</td><td>81,23</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,59</td><td>64,04</td><td>127,00</td><td>0,00</td><td>127,00</td><td>80,89</td><td>65,42</td><td>80,89</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,48</td><td>64,00</td><td>127,00</td><td>0,00</td><td>127,00</td><td>81,39</td><td>64,89</td><td>81,39</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,37</td><td>64,00</td><td>127,00</td><td>0,00</td><td>127,00</td><td>80,35</td><td>64,36</td><td>80,35</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,25</td><td>61,25</td><td>130,00</td><td>0,00</td><td>130,00</td><td>82,93</td><td>63,78</td><td>82,93</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,14</td><td>65,92</td><td>129,00</td><td>0,00</td><td>129,00</td><td>80,75</td><td>63,25</td><td>80,75</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,02</td><td>60,25</td><td>129,00</td><td>0,00</td><td>129,00</td><td>80,62</td><td>62,67</td><td>80,62</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,90</td><td>62,33</td><td>129,00</td><td>0,00</td><td>129,00</td><td>80,53</td><td>62,11</td><td>80,53</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,78</td><td>62,80</td><td>129,00</td><td>0,00</td><td>129,00</td><td>78,54</td><td>61,55</td><td>78,54</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,67</td><td>68,24</td><td>129,00</td><td>0,00</td><td>129,00</td><td>77,40</td><td>61,04</td><td>77,40</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,55</td><td>62,80</td><td>129,00</td><td>0,00</td><td>129,00</td><td>76,90</td><td>60,48</td><td>76,90</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,44</td><td>68,00</td><td>129,00</td><td>0,00</td><td>129,00</td><td>77,15</td><td>59,97</td><td>77,15</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,26</td><td>61,58</td><td>161,00</td><td>0,00</td><td>161,00</td><td>78,84</td><td>59,13</td><td>78,84</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,08</td><td>63,69</td><td>163,00</td><td>0,00</td><td>163,00</td><td>78,09</td><td>58,29</td><td>78,09</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,95</td><td>60,17</td><td>131,00</td><td>0,00</td><td>131,00</td><td>77,05</td><td>57,69</td><td>77,05</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,78</td><td>72,26</td><td>163,00</td><td>0,00</td><td>163,00</td><td>76,64</td><td>56,93</td><td>76,64</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,62</td><td>110,58</td><td>196,00</td><td>0,00</td><td>196,00</td><td>75,67</td><td>56,21</td><td>75,67</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,51</td><td>152,32</td><td>211,00</td><td>0,00</td><td>211,00</td><td>76,19</td><td>55,71</td><td>76,19</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,60</td><td>178,03</td><td>130,00</td><td>0,00</td><td>130,00</td><td>76,75</td><td>56,12</td><td>76,75</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,58</td><td>136,35</td><td>147,00</td><td>0,00</td><td>147,00</td><td>72,73</td><td>56,03</td><td>72,73</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,56</td><td>118,35</td><td>129,00</td><td>0,00</td><td>129,00</td><td>73,35</td><td>55,94</td><td>73,35</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,47</td><td>80,97</td><td>129,00</td><td>0,00</td><td>129,00</td><td>73,92</td><td>55,53</td><td>73,92</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,20</td><td>87,90</td><td>232,00</td><td>0,00</td><td>232,00</td><td>73,80</td><td>54,32</td><td>73,80</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,94</td><td>93,36</td><td>215,00</td><td>0,00</td><td>215,00</td><td>70,65</td><td>53,16</td><td>70,65</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,73</td><td>73,90</td><td>182,00</td><td>0,00</td><td>182,00</td><td>70,32</td><td>52,25</td><td>70,32</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,50</td><td>92,48</td><td>211,00</td><td>0,00</td><td>211,00</td><td>69,64</td><td>51,25</td><td>69,64</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,35</td><td>53,80</td><td>131,00</td><td>0,00</td><td>131,00</td><td>71,97</td><td>50,60</td><td>71,97</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,16</td><td>52,08</td><td>150,00</td><td>0,00</td><td>150,00</td><td>71,68</td><td>49,77</td><td>71,68</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,02</td><td>58,89</td><td>131,00</td><td>0,00</td><td>131,00</td><td>70,89</td><td>49,16</td><td>70,89</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,69</td><td>54,42</td><td>219,00</td><td>0,00</td><td>219,00</td><td>70,26</td><td>47,78</td><td>70,26</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,29</td><td>56,93</td><td>256,00</td><td>0,00</td><td>256,00</td><td>68,72</td><td>46,10</td><td>68,72</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,73</td><td>52,04</td><td>326,00</td><td>0,00</td><td>326,00</td><td>67,06</td><td>43,79</td><td>67,06</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,54</td><td>49,68</td><td>141,00</td><td>0,00</td><td>141,00</td><td>70,17</td><td>43,02</td><td>70,17</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,16</td><td>55,48</td><td>238,00</td><td>0,00</td><td>238,00</td><td>71,78</td><td>41,48</td><td>71,78</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,98</td><td>60,89</td><td>147,00</td><td>0,00</td><td>147,00</td><td>69,40</td><td>40,76</td><td>69,40</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,81</td><td>56,30</td><td>135,00</td><td>0,00</td><td>135,00</td><td>69,47</td><td>40,09</td><td>69,47</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,64</td><td>56,30</td><td>135,00</td><td>0,00</td><td>135,00</td><td>68,61</td><td>39,43</td><td>68,61</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,38</td><td>47,63</td><td>168,00</td><td>0,00</td><td>168,00</td><td>67,08</td><td>38,41</td><td>67,08</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,23</td><td>68,56</td><td>138,00</td><td>0,00</td><td>138,00</td><td>65,31</td><td>37,83</td><td>65,31</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,14</td><td>96,33</td><td>138,00</td><td>0,00</td><td>138,00</td><td>65,46</td><td>37,48</td><td>65,46</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,09</td><td>114,85</td><td>138,00</td><td>0,00</td><td>138,00</td><td>64,67</td><td>37,28</td><td>64,67</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,98</td><td>115,42</td><td>166,00</td><td>0,00</td><td>166,00</td><td>64,28</td><td>36,86</td><td>64,28</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,93</td><td>124,78</td><td>147,00</td><td>0,00</td><td>147,00</td><td>63,72</td><td>36,67</td><td>63,72</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,89</td><td>120,18</td><td>138,00</td><td>0,00</td><td>138,00</td><td>63,14</td><td>36,52</td><td>63,14</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,83</td><td>111,26</td><td>138,00</td><td>0,00</td><td>138,00</td><td>62,33</td><td>36,29</td><td>62,33</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,77</td><td>110,26</td><td>137,00</td><td>0,00</td><td>137,00</td><td>61,74</td><td>36,07</td><td>61,74</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,71</td><td>111,26</td><td>138,00</td><td>0,00</td><td>138,00</td><td>60,67</td><td>35,84</td><td>60,67</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,65</td><td>111,26</td><td>138,00</td><td>0,00</td><td>138,00</td><td>62,14</td><td>35,62</td><td>62,14</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,56</td><td>98,84</td><td>139,00</td><td>0,00</td><td>139,00</td><td>62,36</td><td>35,28</td><td>62,36</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,41</td><td>72,22</td><td>139,00</td><td>0,00</td><td>139,00</td><td>61,44</td><td>34,71</td><td>61,44</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,27</td><td>75,62</td><td>138,00</td><td>0,00</td><td>138,00</td><td>61,19</td><td>34,19</td><td>61,19</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,20</td><td>106,75</td><td>138,00</td><td>0,00</td><td>138,00</td><td>60,74</td><td>33,93</td><td>60,74</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,06</td><td>83,62</td><td>146,00</td><td>0,00</td><td>146,00</td><td>59,12</td><td>33,40</td><td>59,12</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,02</td><td>120,18</td><td>138,00</td><td>0,00</td><td>138,00</td><td>58,51</td><td>33,25</td><td>58,51</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,96</td><td>112,84</td><td>139,00</td><td>0,00</td><td>139,00</td><td>60,70</td><td>33,03</td><td>60,70</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,88</td><td>104,62</td><td>139,00</td><td>0,00</td><td>139,00</td><td>61,83</td><td>32,74</td><td>61,83</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,77</td><td>92,55</td><td>140,00</td><td>0,00</td><td>140,00</td><td>61,42</td><td>32,34</td><td>61,42</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,72</td><td>118,47</td><td>140,00</td><td>0,00</td><td>140,00</td><td>60,91</td><td>32,16</td><td>60,91</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,62</td><td>97,94</td><td>141,00</td><td>0,00</td><td>141,00</td><td>59,91</td><td>31,79</td><td>59,91</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,53</td><td>115,34</td><td>154,00</td><td>0,00</td><td>154,00</td><td>56,95</td><td>31,47</td><td>56,95</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,48</td><td>119,47</td><td>141,00</td><td>0,00</td><td>141,00</td><td>53,03</td><td>31,29</td><td>53,03</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,40</td><td>106,51</td><td>141,00</td><td>0,00</td><td>141,00</td><td>51,66</td><td>31,00</td><td>51,66</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,33</td><td>108,91</td><td>139,00</td><td>0,00</td><td>139,00</td><td>49,97</td><td>30,74</td><td>49,97</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,24</td><td>99,23</td><td>138,00</td><td>0,00</td><td>138,00</td><td>48,91</td><td>30,42</td><td>48,91</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,15</td><td>101,23</td><td>140,00</td><td>0,00</td><td>140,00</td><td>48,82</td><td>30,09</td><td>48,82</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,05</td><td>97,94</td><td>141,00</td><td>0,00</td><td>141,00</td><td>49,20</td><td>29,73</td><td>49,20</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,96</td><td>103,92</td><td>142,00</td><td>0,00</td><td>142,00</td><td>48,50</td><td>29,40</td><td>48,50</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,90</td><td>103,73</td><td>141,00</td><td>0,00</td><td>141,00</td><td>51,77</td><td>29,20</td><td>51,77</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,80</td><td>100,56</td><td>142,00</td><td>0,00</td><td>142,00</td><td>49,65</td><td>28,85</td><td>49,65</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,70</td><td>107,56</td><td>149,00</td><td>0,00</td><td>149,00</td><td>49,04</td><td>28,50</td><td>49,04</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,51</td><td>118,30</td><td>197,00</td><td>0,00</td><td>197,00</td><td>48,45</td><td>27,83</td><td>48,45</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,50</td><td>138,83</td><td>143,00</td><td>0,00</td><td>143,00</td><td>46,63</td><td>27,80</td><td>46,63</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,40</td><td>107,56</td><td>149,00</td><td>0,00</td><td>149,00</td><td>47,34</td><td>27,45</td><td>47,34</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,31</td><td>105,73</td><td>143,00</td><td>0,00</td><td>143,00</td><td>44,48</td><td>27,13</td><td>44,48</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,24</td><td>104,95</td><td>134,00</td><td>0,00</td><td>134,00</td><td>42,91</td><td>26,89</td><td>42,91</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,97</td><td>122,66</td><td>234,00</td><td>0,00</td><td>234,00</td><td>41,88</td><td>25,95</td><td>41,88</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,96</td><td>140,95</td><td>145,00</td><td>0,00</td><td>145,00</td><td>40,61</td><td>25,92</td><td>40,61</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,87</td><td>109,12</td><td>145,00</td><td>0,00</td><td>145,00</td><td>39,44</td><td>25,61</td><td>39,44</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,68</td><td>121,07</td><td>197,00</td><td>0,00</td><td>197,00</td><td>38,61</td><td>24,97</td><td>38,61</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,42</td><td>134,18</td><td>238,00</td><td>0,00</td><td>238,00</td><td>37,92</td><td>24,10</td><td>37,92</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,94</td><td>158,26</td><td>349,00</td><td>0,00</td><td>349,00</td><td>37,09</td><td>22,49</td><td>37,09</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,40</td><td>172,48</td><td>380,00</td><td>0,00</td><td>380,00</td><td>38,25</td><td>20,74</td><td>38,25</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,94</td><td>171,19</td><td>347,00</td><td>0,00</td><td>347,00</td><td>41,16</td><td>19,26</td><td>41,16</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,92</td><td>168,59</td><td>176,00</td><td>0,00</td><td>176,00</td><td>42,70</td><td>19,20</td><td>42,70</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,91</td><td>144,30</td><td>148,00</td><td>0,00</td><td>148,00</td><td>47,97</td><td>19,17</td><td>47,97</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,71</td><td>165,16</td><td>239,00</td><td>0,00</td><td>239,00</td><td>56,17</td><td>18,54</td><td>56,17</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,46</td><td>149,64</td><td>242,00</td><td>0,00</td><td>242,00</td><td>61,30</td><td>17,76</td><td>61,30</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,43</td><td>139,00</td><td>150,00</td><td>0,00</td><td>150,00</td><td>74,57</td><td>17,67</td><td>74,57</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,26</td><td>144,15</td><td>207,00</td><td>0,00</td><td>207,00</td><td>83,19</td><td>17,14</td><td>83,19</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,37</td><td>190,62</td><td>150,00</td><td>0,00</td><td>150,00</td><td>93,35</td><td>17,48</td><td>93,35</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,64</td><td>249,77</td><td>150,00</td><td>0,00</td><td>150,00</td><td>92,24</td><td>18,33</td><td>92,24</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,82</td><td>216,44</td><td>150,00</td><td>0,00</td><td>150,00</td><td>87,03</td><td>18,89</td><td>87,03</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,96</td><td>201,62</td><td>150,00</td><td>0,00</td><td>150,00</td><td>82,14</td><td>19,32</td><td>82,14</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,21</td><td>244,49</td><td>149,00</td><td>0,00</td><td>149,00</td><td>70,27</td><td>20,13</td><td>70,27</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,43</td><td>233,61</td><td>149,00</td><td>0,00</td><td>149,00</td><td>61,12</td><td>20,84</td><td>61,12</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,57</td><td>201,70</td><td>148,00</td><td>0,00</td><td>148,00</td><td>56,02</td><td>21,29</td><td>56,02</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,58</td><td>151,94</td><td>148,00</td><td>0,00</td><td>148,00</td><td>53,33</td><td>21,33</td><td>53,33</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,57</td><td>144,06</td><td>148,00</td><td>0,00</td><td>148,00</td><td>48,87</td><td>21,29</td><td>48,87</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,54</td><td>135,54</td><td>147,00</td><td>0,00</td><td>147,00</td><td>47,60</td><td>21,20</td><td>47,60</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,56</td><td>154,64</td><td>147,00</td><td>0,00</td><td>147,00</td><td>46,87</td><td>21,26</td><td>46,87</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,54</td><td>139,36</td><td>147,00</td><td>0,00</td><td>147,00</td><td>45,21</td><td>21,20</td><td>45,21</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,24</td><td>132,72</td><td>248,00</td><td>0,00</td><td>248,00</td><td>45,61</td><td>20,22</td><td>45,61</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,98</td><td>159,35</td><td>259,00</td><td>0,00</td><td>259,00</td><td>44,75</td><td>19,38</td><td>44,75</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,75</td><td>165,16</td><td>250,00</td><td>0,00</td><td>250,00</td><td>43,34</td><td>18,67</td><td>43,34</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,61</td><td>190,26</td><td>242,00</td><td>0,00</td><td>242,00</td><td>42,30</td><td>18,23</td><td>42,30</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,79</td><td>216,44</td><td>150,00</td><td>0,00</td><td>150,00</td><td>39,87</td><td>18,79</td><td>39,87</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,86</td><td>175,81</td><td>150,00</td><td>0,00</td><td>150,00</td><td>39,82</td><td>19,01</td><td>39,82</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,77</td><td>116,78</td><td>150,00</td><td>0,00</td><td>150,00</td><td>40,35</td><td>18,73</td><td>40,35</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,69</td><td>120,49</td><td>150,00</td><td>0,00</td><td>150,00</td><td>39,25</td><td>18,48</td><td>39,25</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,61</td><td>120,49</td><td>150,00</td><td>0,00</td><td>150,00</td><td>41,79</td><td>18,23</td><td>41,79</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,55</td><td>127,89</td><td>150,00</td><td>0,00</td><td>150,00</td><td>46,05</td><td>18,05</td><td>46,05</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,46</td><td>117,67</td><td>151,00</td><td>0,00</td><td>151,00</td><td>44,24</td><td>17,76</td><td>44,24</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,35</td><td>109,49</td><td>150,00</td><td>0,00</td><td>150,00</td><td>39,90</td><td>17,42</td><td>39,90</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,02</td><td>131,12</td><td>253,00</td><td>0,00</td><td>253,00</td><td>40,48</td><td>16,40</td><td>40,48</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,99</td><td>139,00</td><td>150,00</td><td>0,00</td><td>150,00</td><td>44,89</td><td>16,30</td><td>44,89</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,97</td><td>142,94</td><td>150,00</td><td>0,00</td><td>150,00</td><td>55,75</td><td>16,24</td><td>55,75</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,00</td><td>160,65</td><td>150,00</td><td>0,00</td><td>150,00</td><td>78,58</td><td>16,33</td><td>78,58</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,01</td><td>153,70</td><td>150,00</td><td>0,00</td><td>150,00</td><td>94,22</td><td>16,36</td><td>94,22</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,02</td><td>153,70</td><td>150,00</td><td>0,00</td><td>150,00</td><td>91,40</td><td>16,40</td><td>91,40</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,05</td><td>160,11</td><td>149,00</td><td>0,00</td><td>149,00</td><td>93,23</td><td>16,49</td><td>93,23</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>575,95</td><td>252,66</td><td>289,00</td><td>0,00</td><td>289,00</td><td>160,64</td><td>16,18</td><td>160,64</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,23</td><td>252,78</td><td>150,00</td><td>0,00</td><td>150,00</td><td>166,18</td><td>17,05</td><td>166,18</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,30</td><td>173,81</td><td>148,00</td><td>0,00</td><td>148,00</td><td>132,17</td><td>17,27</td><td>132,17</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,42</td><td>192,33</td><td>148,00</td><td>0,00</td><td>148,00</td><td>153,01</td><td>17,64</td><td>153,01</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,60</td><td>214,44</td><td>148,00</td><td>0,00</td><td>148,00</td><td>199,83</td><td>18,20</td><td>199,83</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>576,90</td><td>257,76</td><td>147,00</td><td>0,00</td><td>147,00</td><td>232,51</td><td>19,13</td><td>232,51</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,25</td><td>278,99</td><td>146,00</td><td>0,00</td><td>146,00</td><td>252,55</td><td>20,26</td><td>252,55</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,60</td><td>279,49</td><td>145,00</td><td>0,00</td><td>145,00</td><td>260,37</td><td>21,39</td><td>260,37</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>577,90</td><td>261,28</td><td>146,00</td><td>0,00</td><td>146,00</td><td>250,36</td><td>22,36</td><td>250,36</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,09</td><td>219,42</td><td>145,00</td><td>0,00</td><td>145,00</td><td>222,17</td><td>22,99</td><td>222,17</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,05</td><td>198,03</td><td>214,00</td><td>0,00</td><td>214,00</td><td>185,26</td><td>22,85</td><td>185,26</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,00</td><td>204,98</td><td>225,00</td><td>0,00</td><td>225,00</td><td>136,88</td><td>22,69</td><td>136,88</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,08</td><td>176,94</td><td>145,00</td><td>0,00</td><td>145,00</td><td>104,80</td><td>22,95</td><td>104,80</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,12</td><td>161,97</td><td>146,00</td><td>0,00</td><td>146,00</td><td>101,66</td><td>23,09</td><td>101,66</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,26</td><td>201,90</td><td>146,00</td><td>0,00</td><td>146,00</td><td>129,09</td><td>23,56</td><td>129,09</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,44</td><td>217,87</td><td>146,00</td><td>0,00</td><td>146,00</td><td>149,67</td><td>24,17</td><td>149,67</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,60</td><td>209,89</td><td>146,00</td><td>0,00</td><td>146,00</td><td>139,49</td><td>24,70</td><td>139,49</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,68</td><td>176,94</td><td>145,00</td><td>0,00</td><td>145,00</td><td>130,71</td><td>24,97</td><td>130,71</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,61</td><td>118,11</td><td>146,00</td><td>0,00</td><td>146,00</td><td>122,49</td><td>24,74</td><td>122,49</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,52</td><td>110,00</td><td>146,00</td><td>0,00</td><td>146,00</td><td>113,64</td><td>24,44</td><td>113,64</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,45</td><td>117,11</td><td>145,00</td><td>0,00</td><td>145,00</td><td>123,72</td><td>24,20</td><td>123,72</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,40</td><td>124,98</td><td>145,00</td><td>0,00</td><td>145,00</td><td>171,75</td><td>24,03</td><td>171,75</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,40</td><td>198,00</td><td>198,00</td><td>0,00</td><td>198,00</td><td>240,44</td><td>24,03</td><td>240,44</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,50</td><td>237,93</td><td>198,00</td><td>0,00</td><td>198,00</td><td>259,55</td><td>24,37</td><td>259,55</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>578,65</td><td>260,95</td><td>201,00</td><td>0,00</td><td>201,00</td><td>299,13</td><td>24,87</td><td>299,13</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,07</td><td>366,75</td><td>198,00</td><td>0,00</td><td>198,00</td><td>412,92</td><td>26,30</td><td>412,92</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,49</td><td>318,96</td><td>145,00</td><td>0,00</td><td>145,00</td><td>403,43</td><td>27,76</td><td>403,43</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,80</td><td>272,47</td><td>144,00</td><td>0,00</td><td>144,00</td><td>377,05</td><td>28,85</td><td>377,05</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,67</td><td>243,18</td><td>297,00</td><td>0,00</td><td>297,00</td><td>315,44</td><td>28,39</td><td>315,44</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,62</td><td>272,28</td><td>293,00</td><td>0,00</td><td>293,00</td><td>283,65</td><td>28,22</td><td>283,65</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>579,77</td><td>285,15</td><td>223,00</td><td>0,00</td><td>223,00</td><td>287,98</td><td>28,74</td><td>287,98</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,20</td><td>323,37</td><td>142,00</td><td>0,00</td><td>142,00</td><td>321,15</td><td>30,27</td><td>321,15</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,37</td><td>292,15</td><td>219,00</td><td>0,00</td><td>219,00</td><td>299,71</td><td>30,89</td><td>299,71</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,65</td><td>261,60</td><td>141,00</td><td>0,00</td><td>141,00</td><td>303,12</td><td>31,90</td><td>303,12</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,90</td><td>246,64</td><td>139,00</td><td>0,00</td><td>139,00</td><td>344,81</td><td>32,81</td><td>344,81</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>580,82</td><td>305,51</td><td>340,00</td><td>0,00</td><td>340,00</td><td>407,23</td><td>32,52</td><td>407,23</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,23</td><td>393,09</td><td>213,00</td><td>0,00</td><td>213,00</td><td>488,34</td><td>34,04</td><td>488,34</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,83</td><td>406,36</td><td>139,00</td><td>0,00</td><td>139,00</td><td>550,06</td><td>36,29</td><td>550,06</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>581,95</td><td>340,47</td><td>287,00</td><td>0,00</td><td>287,00</td><td>577,48</td><td>36,74</td><td>577,48</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>582,10</td><td>342,52</td><td>274,00</td><td>0,00</td><td>274,00</td><td>632,40</td><td>37,32</td><td>632,40</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>583,01</td><td>557,53</td><td>136,00</td><td>0,00</td><td>136,00</td><td>819,86</td><td>40,87</td><td>819,86</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,01</td><td>614,44</td><td>134,00</td><td>0,00</td><td>134,00</td><td>940,41</td><td>44,92</td><td>940,41</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>584,86</td><td>556,03</td><td>133,00</td><td>0,00</td><td>133,00</td><td>829,18</td><td>48,49</td><td>829,18</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,42</td><td>474,00</td><td>188,00</td><td>0,00</td><td>188,00</td><td>712,49</td><td>50,90</td><td>712,49</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,46</td><td>389,60</td><td>369,00</td><td>0,00</td><td>369,00</td><td>593,71</td><td>51,08</td><td>593,71</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,75</td><td>348,42</td><td>199,00</td><td>0,00</td><td>199,00</td><td>518,88</td><td>52,33</td><td>518,88</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,05</td><td>335,44</td><td>180,00</td><td>0,00</td><td>180,00</td><td>437,43</td><td>53,65</td><td>437,43</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>585,92</td><td>266,06</td><td>334,00</td><td>0,00</td><td>334,00</td><td>393,32</td><td>53,07</td><td>393,32</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,20</td><td>278,92</td><td>131,00</td><td>0,00</td><td>131,00</td><td>385,24</td><td>54,32</td><td>385,24</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,48</td><td>280,42</td><td>131,00</td><td>0,00</td><td>131,00</td><td>390,16</td><td>55,58</td><td>390,16</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,76</td><td>280,42</td><td>131,00</td><td>0,00</td><td>131,00</td><td>376,22</td><td>56,84</td><td>376,22</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,05</td><td>286,67</td><td>131,00</td><td>0,00</td><td>131,00</td><td>395,63</td><td>58,15</td><td>395,63</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,88</td><td>273,33</td><td>365,00</td><td>0,00</td><td>365,00</td><td>347,92</td><td>57,38</td><td>347,92</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,72</td><td>246,58</td><td>332,00</td><td>0,00</td><td>332,00</td><td>329,93</td><td>56,66</td><td>329,93</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,60</td><td>257,00</td><td>321,00</td><td>0,00</td><td>321,00</td><td>319,70</td><td>56,12</td><td>319,70</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,74</td><td>247,65</td><td>173,00</td><td>0,00</td><td>173,00</td><td>338,91</td><td>56,75</td><td>338,91</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,10</td><td>343,98</td><td>150,00</td><td>0,00</td><td>150,00</td><td>420,49</td><td>58,38</td><td>420,49</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,40</td><td>296,63</td><td>131,00</td><td>0,00</td><td>131,00</td><td>416,81</td><td>59,78</td><td>416,81</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,64</td><td>284,52</td><td>152,00</td><td>0,00</td><td>152,00</td><td>392,35</td><td>60,90</td><td>392,35</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,50</td><td>282,69</td><td>360,00</td><td>0,00</td><td>360,00</td><td>395,61</td><td>60,24</td><td>395,61</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,58</td><td>285,21</td><td>241,00</td><td>0,00</td><td>241,00</td><td>431,31</td><td>60,62</td><td>431,31</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,06</td><td>395,20</td><td>129,00</td><td>0,00</td><td>129,00</td><td>549,93</td><td>62,86</td><td>549,93</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,58</td><td>425,92</td><td>128,00</td><td>0,00</td><td>128,00</td><td>592,79</td><td>65,37</td><td>592,79</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,96</td><td>420,71</td><td>203,00</td><td>0,00</td><td>203,00</td><td>598,31</td><td>67,21</td><td>598,31</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,20</td><td>369,20</td><td>228,00</td><td>0,00</td><td>228,00</td><td>576,42</td><td>68,40</td><td>576,42</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,25</td><td>362,63</td><td>333,00</td><td>0,00</td><td>333,00</td><td>561,24</td><td>68,65</td><td>561,24</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,35</td><td>328,14</td><td>269,00</td><td>0,00</td><td>269,00</td><td>507,76</td><td>69,15</td><td>507,76</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,38</td><td>369,71</td><td>352,00</td><td>0,00</td><td>352,00</td><td>430,96</td><td>69,30</td><td>430,96</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,05</td><td>260,86</td><td>456,00</td><td>0,00</td><td>456,00</td><td>376,90</td><td>67,65</td><td>376,90</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,24</td><td>239,27</td><td>127,00</td><td>0,00</td><td>127,00</td><td>336,13</td><td>68,60</td><td>336,13</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,28</td><td>264,73</td><td>241,00</td><td>0,00</td><td>241,00</td><td>305,19</td><td>68,80</td><td>305,19</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>589,10</td><td>243,52</td><td>350,00</td><td>0,00</td><td>350,00</td><td>285,29</td><td>67,90</td><td>285,29</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,78</td><td>250,81</td><td>436,00</td><td>0,00</td><td>436,00</td><td>283,48</td><td>66,34</td><td>283,48</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,59</td><td>296,20</td><td>405,00</td><td>0,00</td><td>405,00</td><td>277,37</td><td>65,42</td><td>277,37</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>588,28</td><td>246,34</td><td>424,00</td><td>0,00</td><td>424,00</td><td>262,92</td><td>63,92</td><td>262,92</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,99</td><td>273,03</td><td>439,00</td><td>0,00</td><td>439,00</td><td>259,21</td><td>62,53</td><td>259,21</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,84</td><td>236,25</td><td>319,00</td><td>0,00</td><td>319,00</td><td>260,87</td><td>61,83</td><td>260,87</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,48</td><td>250,27</td><td>449,00</td><td>0,00</td><td>449,00</td><td>259,97</td><td>60,15</td><td>259,97</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,46</td><td>306,89</td><td>318,00</td><td>0,00</td><td>318,00</td><td>260,77</td><td>60,06</td><td>260,77</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,34</td><td>292,80</td><td>359,00</td><td>0,00</td><td>359,00</td><td>263,87</td><td>59,50</td><td>263,87</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,00</td><td>296,27</td><td>484,00</td><td>0,00</td><td>484,00</td><td>260,29</td><td>57,92</td><td>260,29</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,84</td><td>266,58</td><td>352,00</td><td>0,00</td><td>352,00</td><td>263,63</td><td>57,20</td><td>263,63</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,97</td><td>241,44</td><td>172,00</td><td>0,00</td><td>172,00</td><td>277,69</td><td>57,78</td><td>277,69</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,01</td><td>207,53</td><td>186,00</td><td>0,00</td><td>186,00</td><td>290,42</td><td>57,96</td><td>290,42</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,91</td><td>241,41</td><td>295,00</td><td>0,00</td><td>295,00</td><td>312,60</td><td>57,51</td><td>312,60</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,81</td><td>215,64</td><td>269,00</td><td>0,00</td><td>269,00</td><td>342,13</td><td>57,06</td><td>342,13</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>586,91</td><td>265,36</td><td>212,00</td><td>0,00</td><td>212,00</td><td>365,54</td><td>57,51</td><td>365,54</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19024</td><td>CORUMBA                                           </td><td>587,05</td><td>283,58</td><td>208,00</td><td>0,00</td><td>208,00</td><td>380,87</td><td>58,15</td><td>380,87</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

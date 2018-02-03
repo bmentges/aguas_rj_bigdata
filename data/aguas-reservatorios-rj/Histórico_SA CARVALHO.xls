@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>20,17</td><td>19,82</td><td>0,00</td><td>20,00</td><td>24,97</td><td>&nbsp;</td><td>24,97</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>21,72</td><td>21,72</td><td>0,00</td><td>22,00</td><td>24,86</td><td>&nbsp;</td><td>24,86</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>21,31</td><td>21,66</td><td>0,00</td><td>21,00</td><td>31,06</td><td>&nbsp;</td><td>31,06</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,73</td><td>36,35</td><td>33,80</td><td>0,00</td><td>35,00</td><td>49,57</td><td>&nbsp;</td><td>49,57</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,95</td><td>83,88</td><td>82,61</td><td>10,92</td><td>71,00</td><td>61,84</td><td>&nbsp;</td><td>61,84</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,97</td><td>58,34</td><td>58,22</td><td>0,00</td><td>57,00</td><td>62,09</td><td>&nbsp;</td><td>62,09</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,69</td><td>40,14</td><td>41,76</td><td>0,00</td><td>44,00</td><td>45,92</td><td>&nbsp;</td><td>45,92</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>30,46</td><td>33,35</td><td>0,00</td><td>33,00</td><td>35,13</td><td>&nbsp;</td><td>35,13</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>21,93</td><td>21,47</td><td>0,00</td><td>22,00</td><td>31,23</td><td>&nbsp;</td><td>31,23</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>26,17</td><td>25,13</td><td>0,00</td><td>25,00</td><td>30,41</td><td>&nbsp;</td><td>30,41</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>23,42</td><td>23,42</td><td>0,00</td><td>23,00</td><td>33,26</td><td>&nbsp;</td><td>33,26</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>26,79</td><td>27,37</td><td>0,00</td><td>28,00</td><td>44,34</td><td>&nbsp;</td><td>44,34</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,78</td><td>75,03</td><td>72,48</td><td>3,71</td><td>66,00</td><td>59,20</td><td>&nbsp;</td><td>59,20</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,60</td><td>92,96</td><td>94,00</td><td>22,00</td><td>72,00</td><td>69,15</td><td>&nbsp;</td><td>69,15</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>60,61</td><td>58,30</td><td>0,00</td><td>59,00</td><td>87,47</td><td>&nbsp;</td><td>87,47</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>118,58</td><td>119,16</td><td>45,04</td><td>74,00</td><td>160,72</td><td>&nbsp;</td><td>160,72</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,95</td><td>297,52</td><td>297,29</td><td>224,50</td><td>72,00</td><td>292,07</td><td>&nbsp;</td><td>292,07</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,99</td><td>478,90</td><td>478,67</td><td>411,63</td><td>65,00</td><td>381,36</td><td>&nbsp;</td><td>381,36</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>445,77</td><td>446,23</td><td>384,23</td><td>62,00</td><td>409,12</td><td>&nbsp;</td><td>409,12</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,97</td><td>353,44</td><td>353,09</td><td>284,58</td><td>69,00</td><td>360,89</td><td>&nbsp;</td><td>360,89</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>291,62</td><td>291,39</td><td>255,00</td><td>70,00</td><td>321,38</td><td>&nbsp;</td><td>321,38</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>202,75</td><td>202,75</td><td>133,90</td><td>68,00</td><td>236,08</td><td>&nbsp;</td><td>236,08</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>145,00</td><td>145,00</td><td>79,00</td><td>66,00</td><td>167,21</td><td>&nbsp;</td><td>167,21</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>104,00</td><td>104,00</td><td>39,67</td><td>64,00</td><td>129,40</td><td>&nbsp;</td><td>129,40</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>94,14</td><td>94,14</td><td>26,15</td><td>66,00</td><td>129,24</td><td>&nbsp;</td><td>129,24</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,97</td><td>159,41</td><td>159,64</td><td>91,41</td><td>66,00</td><td>143,43</td><td>&nbsp;</td><td>143,43</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>112,75</td><td>112,52</td><td>44,39</td><td>68,00</td><td>144,64</td><td>&nbsp;</td><td>144,64</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>123,61</td><td>123,61</td><td>47,07</td><td>77,00</td><td>143,91</td><td>&nbsp;</td><td>143,91</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>122,84</td><td>122,84</td><td>44,17</td><td>79,00</td><td>137,69</td><td>&nbsp;</td><td>137,69</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>130,82</td><td>130,82</td><td>51,00</td><td>79,00</td><td>129,62</td><td>&nbsp;</td><td>129,62</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>101,53</td><td>101,53</td><td>21,71</td><td>79,00</td><td>106,93</td><td>&nbsp;</td><td>106,93</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,96</td><td>69,53</td><td>69,76</td><td>2,08</td><td>66,00</td><td>81,92</td><td>&nbsp;</td><td>81,92</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>62,90</td><td>62,67</td><td>0,00</td><td>63,00</td><td>66,84</td><td>&nbsp;</td><td>66,84</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,33</td><td>67,49</td><td>71,08</td><td>0,00</td><td>70,00</td><td>59,17</td><td>&nbsp;</td><td>59,17</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,79</td><td>35,80</td><td>38,00</td><td>0,00</td><td>38,00</td><td>56,59</td><td>&nbsp;</td><td>56,59</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,97</td><td>55,78</td><td>50,22</td><td>0,00</td><td>49,00</td><td>50,20</td><td>&nbsp;</td><td>50,20</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,97</td><td>44,46</td><td>49,32</td><td>0,00</td><td>50,00</td><td>46,59</td><td>&nbsp;</td><td>46,59</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>39,81</td><td>39,00</td><td>0,00</td><td>39,00</td><td>42,47</td><td>&nbsp;</td><td>42,47</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,57</td><td>36,85</td><td>35,00</td><td>0,00</td><td>35,00</td><td>40,41</td><td>&nbsp;</td><td>40,41</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>37,73</td><td>39,00</td><td>0,00</td><td>39,00</td><td>39,23</td><td>&nbsp;</td><td>39,23</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>35,37</td><td>34,68</td><td>0,00</td><td>35,00</td><td>37,98</td><td>&nbsp;</td><td>37,98</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,59</td><td>32,73</td><td>32,04</td><td>0,00</td><td>32,00</td><td>37,90</td><td>&nbsp;</td><td>37,90</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>38,85</td><td>36,54</td><td>0,00</td><td>35,00</td><td>51,84</td><td>&nbsp;</td><td>51,84</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>71,11</td><td>71,11</td><td>5,83</td><td>66,00</td><td>79,90</td><td>&nbsp;</td><td>79,90</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>139,20</td><td>139,20</td><td>66,79</td><td>73,00</td><td>94,45</td><td>&nbsp;</td><td>94,45</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>97,15</td><td>97,15</td><td>28,50</td><td>69,00</td><td>86,47</td><td>&nbsp;</td><td>86,47</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>59,44</td><td>63,03</td><td>3,50</td><td>61,00</td><td>63,87</td><td>&nbsp;</td><td>63,87</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,81</td><td>50,27</td><td>47,84</td><td>0,00</td><td>45,00</td><td>51,33</td><td>&nbsp;</td><td>51,33</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,75</td><td>39,70</td><td>40,05</td><td>0,00</td><td>40,00</td><td>46,25</td><td>&nbsp;</td><td>46,25</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,89</td><td>38,96</td><td>38,15</td><td>0,00</td><td>38,00</td><td>43,67</td><td>&nbsp;</td><td>43,67</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,83</td><td>44,62</td><td>44,97</td><td>0,00</td><td>45,00</td><td>40,93</td><td>&nbsp;</td><td>40,93</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>32,72</td><td>35,73</td><td>0,00</td><td>35,00</td><td>38,83</td><td>&nbsp;</td><td>38,83</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,65</td><td>35,42</td><td>33,45</td><td>0,00</td><td>33,00</td><td>35,10</td><td>&nbsp;</td><td>35,10</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>29,84</td><td>31,69</td><td>0,00</td><td>32,00</td><td>33,91</td><td>&nbsp;</td><td>33,91</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>35,47</td><td>33,16</td><td>0,00</td><td>33,00</td><td>34,01</td><td>&nbsp;</td><td>34,01</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>26,46</td><td>28,08</td><td>0,00</td><td>28,00</td><td>35,37</td><td>&nbsp;</td><td>35,37</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,51</td><td>45,31</td><td>44,85</td><td>0,00</td><td>45,00</td><td>36,89</td><td>&nbsp;</td><td>36,89</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,66</td><td>34,78</td><td>33,97</td><td>0,00</td><td>34,00</td><td>37,92</td><td>&nbsp;</td><td>37,92</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,55</td><td>43,51</td><td>44,09</td><td>0,00</td><td>44,00</td><td>38,44</td><td>&nbsp;</td><td>38,44</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,78</td><td>39,90</td><td>38,63</td><td>0,00</td><td>38,00</td><td>38,72</td><td>&nbsp;</td><td>38,72</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,52</td><td>35,38</td><td>36,77</td><td>0,00</td><td>37,00</td><td>38,28</td><td>&nbsp;</td><td>38,28</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>33,64</td><td>33,64</td><td>0,00</td><td>34,00</td><td>36,80</td><td>&nbsp;</td><td>36,80</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,59</td><td>32,35</td><td>32,00</td><td>0,00</td><td>32,00</td><td>36,38</td><td>&nbsp;</td><td>36,38</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>29,29</td><td>29,98</td><td>0,00</td><td>29,00</td><td>38,81</td><td>&nbsp;</td><td>38,81</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,51</td><td>52,78</td><td>52,55</td><td>0,00</td><td>52,00</td><td>42,73</td><td>&nbsp;</td><td>42,73</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>51,12</td><td>51,00</td><td>0,00</td><td>51,00</td><td>45,48</td><td>&nbsp;</td><td>45,48</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>38,26</td><td>40,34</td><td>0,00</td><td>42,00</td><td>44,96</td><td>&nbsp;</td><td>44,96</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,59</td><td>29,84</td><td>27,41</td><td>0,00</td><td>27,00</td><td>41,93</td><td>&nbsp;</td><td>41,93</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,57</td><td>32,38</td><td>32,50</td><td>0,00</td><td>32,00</td><td>37,45</td><td>&nbsp;</td><td>37,45</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>27,40</td><td>27,75</td><td>0,00</td><td>27,00</td><td>33,63</td><td>&nbsp;</td><td>33,63</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>28,12</td><td>28,70</td><td>0,00</td><td>28,00</td><td>33,27</td><td>&nbsp;</td><td>33,27</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,61</td><td>38,12</td><td>36,96</td><td>0,00</td><td>35,00</td><td>35,93</td><td>&nbsp;</td><td>35,93</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>44,34</td><td>45,96</td><td>0,00</td><td>47,00</td><td>41,26</td><td>&nbsp;</td><td>41,26</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,57</td><td>48,28</td><td>46,89</td><td>0,00</td><td>48,00</td><td>46,53</td><td>&nbsp;</td><td>46,53</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,66</td><td>51,15</td><td>50,69</td><td>0,00</td><td>50,00</td><td>49,98</td><td>&nbsp;</td><td>49,98</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,57</td><td>54,22</td><td>54,68</td><td>0,00</td><td>54,00</td><td>49,94</td><td>&nbsp;</td><td>49,94</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>41,05</td><td>40,24</td><td>0,00</td><td>41,00</td><td>46,45</td><td>&nbsp;</td><td>46,45</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>42,13</td><td>44,33</td><td>0,00</td><td>44,00</td><td>42,65</td><td>&nbsp;</td><td>42,65</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>31,46</td><td>31,69</td><td>0,00</td><td>31,00</td><td>38,78</td><td>&nbsp;</td><td>38,78</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,65</td><td>32,19</td><td>30,22</td><td>0,00</td><td>30,00</td><td>35,86</td><td>&nbsp;</td><td>35,86</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>26,43</td><td>28,51</td><td>0,00</td><td>28,00</td><td>34,11</td><td>&nbsp;</td><td>34,11</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>30,51</td><td>29,93</td><td>0,00</td><td>30,00</td><td>32,61</td><td>&nbsp;</td><td>32,61</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>28,81</td><td>28,00</td><td>0,00</td><td>28,00</td><td>32,04</td><td>&nbsp;</td><td>32,04</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,62</td><td>26,58</td><td>26,00</td><td>0,00</td><td>26,00</td><td>31,31</td><td>&nbsp;</td><td>31,31</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,51</td><td>24,42</td><td>25,00</td><td>0,00</td><td>25,00</td><td>33,76</td><td>&nbsp;</td><td>33,76</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>40,42</td><td>41,00</td><td>0,00</td><td>41,00</td><td>37,78</td><td>&nbsp;</td><td>37,78</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,64</td><td>46,27</td><td>45,00</td><td>0,00</td><td>45,00</td><td>41,19</td><td>&nbsp;</td><td>41,19</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,51</td><td>40,31</td><td>41,00</td><td>0,00</td><td>41,00</td><td>41,19</td><td>&nbsp;</td><td>41,19</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>30,19</td><td>31,00</td><td>0,00</td><td>31,00</td><td>37,30</td><td>&nbsp;</td><td>37,30</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>27,00</td><td>27,00</td><td>0,00</td><td>27,00</td><td>32,82</td><td>&nbsp;</td><td>32,82</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>25,77</td><td>26,00</td><td>0,00</td><td>26,00</td><td>29,37</td><td>&nbsp;</td><td>29,37</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>23,00</td><td>23,00</td><td>0,00</td><td>23,00</td><td>28,28</td><td>&nbsp;</td><td>28,28</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>22,81</td><td>22,00</td><td>0,00</td><td>22,00</td><td>28,05</td><td>&nbsp;</td><td>28,05</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>23,07</td><td>24,00</td><td>0,00</td><td>24,00</td><td>27,84</td><td>&nbsp;</td><td>27,84</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>21,77</td><td>22,00</td><td>0,00</td><td>22,00</td><td>27,22</td><td>&nbsp;</td><td>27,22</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>24,23</td><td>24,00</td><td>0,00</td><td>24,00</td><td>26,61</td><td>&nbsp;</td><td>26,61</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>22,31</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,05</td><td>&nbsp;</td><td>26,05</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>20,35</td><td>20,00</td><td>0,00</td><td>20,00</td><td>25,48</td><td>&nbsp;</td><td>25,48</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>21,23</td><td>21,00</td><td>0,00</td><td>21,00</td><td>24,76</td><td>&nbsp;</td><td>24,76</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>21,00</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,99</td><td>&nbsp;</td><td>23,99</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>21,12</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,02</td><td>&nbsp;</td><td>23,02</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>20,65</td><td>21,00</td><td>0,00</td><td>21,00</td><td>22,09</td><td>&nbsp;</td><td>22,09</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>18,88</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,19</td><td>&nbsp;</td><td>21,19</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,92</td><td>17,07</td><td>18,00</td><td>0,00</td><td>18,00</td><td>20,80</td><td>&nbsp;</td><td>20,80</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,37</td><td>16,85</td><td>15,00</td><td>0,00</td><td>15,00</td><td>20,77</td><td>&nbsp;</td><td>20,77</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>19,12</td><td>19,00</td><td>0,00</td><td>19,00</td><td>20,66</td><td>&nbsp;</td><td>20,66</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>19,07</td><td>20,00</td><td>0,00</td><td>20,00</td><td>20,31</td><td>&nbsp;</td><td>20,31</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>15,77</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,64</td><td>&nbsp;</td><td>19,64</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>16,88</td><td>17,00</td><td>0,00</td><td>17,00</td><td>19,24</td><td>&nbsp;</td><td>19,24</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>16,35</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,32</td><td>&nbsp;</td><td>19,32</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>17,12</td><td>17,00</td><td>0,00</td><td>17,00</td><td>19,74</td><td>&nbsp;</td><td>19,74</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>17,00</td><td>17,00</td><td>0,00</td><td>17,00</td><td>19,57</td><td>&nbsp;</td><td>19,57</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>16,00</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,04</td><td>&nbsp;</td><td>19,04</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>16,77</td><td>17,00</td><td>0,00</td><td>17,00</td><td>18,63</td><td>&nbsp;</td><td>18,63</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>16,00</td><td>16,00</td><td>0,00</td><td>16,00</td><td>18,56</td><td>&nbsp;</td><td>18,56</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>16,65</td><td>17,00</td><td>0,00</td><td>17,00</td><td>19,15</td><td>&nbsp;</td><td>19,15</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>20,74</td><td>&nbsp;</td><td>20,74</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>15,77</td><td>16,00</td><td>0,00</td><td>16,00</td><td>25,07</td><td>&nbsp;</td><td>25,07</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>32,56</td><td>&nbsp;</td><td>32,56</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,93</td><td>44,82</td><td>41,00</td><td>0,00</td><td>41,00</td><td>42,56</td><td>&nbsp;</td><td>42,56</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>74,84</td><td>76,00</td><td>0,00</td><td>76,00</td><td>47,62</td><td>&nbsp;</td><td>47,62</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>43,38</td><td>45,00</td><td>0,00</td><td>45,00</td><td>46,40</td><td>&nbsp;</td><td>46,40</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>40,29</td><td>&nbsp;</td><td>40,29</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>23,88</td><td>24,00</td><td>0,00</td><td>24,00</td><td>35,76</td><td>&nbsp;</td><td>35,76</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,37</td><td>23,88</td><td>24,00</td><td>0,00</td><td>24,00</td><td>33,19</td><td>&nbsp;</td><td>33,19</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>26,81</td><td>26,00</td><td>0,00</td><td>26,00</td><td>30,43</td><td>&nbsp;</td><td>30,43</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>22,07</td><td>23,00</td><td>0,00</td><td>23,00</td><td>27,66</td><td>&nbsp;</td><td>27,66</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>21,00</td><td>21,00</td><td>0,00</td><td>21,00</td><td>25,30</td><td>&nbsp;</td><td>25,30</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>21,23</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,85</td><td>&nbsp;</td><td>23,85</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>19,31</td><td>20,00</td><td>0,00</td><td>20,00</td><td>23,05</td><td>&nbsp;</td><td>23,05</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>16,65</td><td>17,00</td><td>0,00</td><td>17,00</td><td>22,18</td><td>&nbsp;</td><td>22,18</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>16,12</td><td>16,00</td><td>0,00</td><td>16,00</td><td>21,77</td><td>&nbsp;</td><td>21,77</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>16,77</td><td>17,00</td><td>0,00</td><td>17,00</td><td>21,80</td><td>&nbsp;</td><td>21,80</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>17,00</td><td>17,00</td><td>0,00</td><td>17,00</td><td>22,03</td><td>&nbsp;</td><td>22,03</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>19,16</td><td>18,00</td><td>0,00</td><td>18,00</td><td>22,68</td><td>&nbsp;</td><td>22,68</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>21,61</td><td>23,00</td><td>0,00</td><td>23,00</td><td>23,96</td><td>&nbsp;</td><td>23,96</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>17,46</td><td>17,00</td><td>0,00</td><td>17,00</td><td>25,11</td><td>&nbsp;</td><td>25,11</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>19,58</td><td>19,00</td><td>0,00</td><td>19,00</td><td>25,65</td><td>&nbsp;</td><td>25,65</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>18,42</td><td>19,00</td><td>0,00</td><td>19,00</td><td>24,84</td><td>&nbsp;</td><td>24,84</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>21,00</td><td>21,00</td><td>0,00</td><td>21,00</td><td>24,16</td><td>&nbsp;</td><td>24,16</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>22,35</td><td>22,00</td><td>0,00</td><td>22,00</td><td>23,92</td><td>&nbsp;</td><td>23,92</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>25,12</td><td>25,00</td><td>0,00</td><td>25,00</td><td>24,04</td><td>&nbsp;</td><td>24,04</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>21,84</td><td>23,00</td><td>0,00</td><td>23,00</td><td>23,88</td><td>&nbsp;</td><td>23,88</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>20,93</td><td>20,00</td><td>0,00</td><td>20,00</td><td>23,16</td><td>&nbsp;</td><td>23,16</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>19,88</td><td>20,00</td><td>0,00</td><td>20,00</td><td>22,13</td><td>&nbsp;</td><td>22,13</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,03</td><td>&nbsp;</td><td>21,03</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>18,77</td><td>19,00</td><td>0,00</td><td>19,00</td><td>20,19</td><td>&nbsp;</td><td>20,19</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,78</td><td>&nbsp;</td><td>19,78</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>19,23</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,69</td><td>&nbsp;</td><td>19,69</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>18,88</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,56</td><td>&nbsp;</td><td>19,56</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,41</td><td>&nbsp;</td><td>19,41</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>18,88</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,56</td><td>&nbsp;</td><td>19,56</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>18,88</td><td>19,00</td><td>0,00</td><td>19,00</td><td>20,80</td><td>&nbsp;</td><td>20,80</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>18,23</td><td>18,00</td><td>0,00</td><td>18,00</td><td>23,40</td><td>&nbsp;</td><td>23,40</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>19,12</td><td>19,00</td><td>0,00</td><td>19,00</td><td>28,19</td><td>&nbsp;</td><td>28,19</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>32,39</td><td>31,00</td><td>0,00</td><td>29,00</td><td>35,61</td><td>&nbsp;</td><td>35,61</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>42,78</td><td>40,00</td><td>0,00</td><td>33,00</td><td>40,08</td><td>&nbsp;</td><td>40,08</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>47,49</td><td>52,00</td><td>2,00</td><td>61,00</td><td>39,24</td><td>&nbsp;</td><td>39,24</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>28,35</td><td>28,00</td><td>0,00</td><td>28,00</td><td>33,39</td><td>&nbsp;</td><td>33,39</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,03</td><td>17,31</td><td>18,00</td><td>0,00</td><td>18,00</td><td>28,62</td><td>&nbsp;</td><td>28,62</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>23,23</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,66</td><td>&nbsp;</td><td>26,66</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>21,12</td><td>21,00</td><td>0,00</td><td>21,00</td><td>26,24</td><td>&nbsp;</td><td>26,24</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,48</td><td>25,62</td><td>24,00</td><td>0,00</td><td>24,00</td><td>26,01</td><td>&nbsp;</td><td>26,01</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>19,07</td><td>20,00</td><td>0,00</td><td>20,00</td><td>25,33</td><td>&nbsp;</td><td>25,33</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>19,31</td><td>20,00</td><td>0,00</td><td>20,00</td><td>24,15</td><td>&nbsp;</td><td>24,15</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>21,58</td><td>21,00</td><td>0,00</td><td>21,00</td><td>22,91</td><td>&nbsp;</td><td>22,91</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>17,96</td><td>19,00</td><td>0,00</td><td>19,00</td><td>22,00</td><td>&nbsp;</td><td>22,00</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>18,04</td><td>17,00</td><td>0,00</td><td>17,00</td><td>21,11</td><td>&nbsp;</td><td>21,11</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>20,65</td><td>21,00</td><td>0,00</td><td>21,00</td><td>20,28</td><td>&nbsp;</td><td>20,28</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,57</td><td>&nbsp;</td><td>19,57</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,42</td><td>&nbsp;</td><td>19,42</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>18,12</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,70</td><td>&nbsp;</td><td>19,70</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>18,65</td><td>19,00</td><td>0,00</td><td>19,00</td><td>20,06</td><td>&nbsp;</td><td>20,06</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>18,23</td><td>18,00</td><td>0,00</td><td>18,00</td><td>20,15</td><td>&nbsp;</td><td>20,15</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>18,12</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,93</td><td>&nbsp;</td><td>19,93</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>18,12</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,54</td><td>&nbsp;</td><td>19,54</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>18,00</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,18</td><td>&nbsp;</td><td>19,18</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>18,91</td><td>&nbsp;</td><td>18,91</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>18,83</td><td>&nbsp;</td><td>18,83</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>18,97</td><td>&nbsp;</td><td>18,97</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>19,12</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,11</td><td>&nbsp;</td><td>19,11</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>19,88</td><td>20,00</td><td>0,00</td><td>20,00</td><td>18,99</td><td>&nbsp;</td><td>18,99</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>20,00</td><td>20,00</td><td>0,00</td><td>20,00</td><td>18,61</td><td>&nbsp;</td><td>18,61</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>20,00</td><td>20,00</td><td>0,00</td><td>20,00</td><td>18,18</td><td>&nbsp;</td><td>18,18</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>20,00</td><td>20,00</td><td>0,00</td><td>19,00</td><td>17,88</td><td>&nbsp;</td><td>17,88</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>17,80</td><td>&nbsp;</td><td>17,80</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>18,88</td><td>19,00</td><td>0,00</td><td>19,00</td><td>17,80</td><td>&nbsp;</td><td>17,80</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>18,54</td><td>19,00</td><td>0,00</td><td>19,00</td><td>17,80</td><td>&nbsp;</td><td>17,80</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>18,27</td><td>17,00</td><td>0,00</td><td>17,00</td><td>17,76</td><td>&nbsp;</td><td>17,76</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>17,79</td><td>&nbsp;</td><td>17,79</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>13,00</td><td>13,00</td><td>0,00</td><td>13,00</td><td>17,94</td><td>&nbsp;</td><td>17,94</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,40</td><td>8,00</td><td>8,00</td><td>0,00</td><td>8,00</td><td>18,02</td><td>&nbsp;</td><td>18,02</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,52</td><td>21,08</td><td>15,18</td><td>0,00</td><td>16,00</td><td>17,88</td><td>&nbsp;</td><td>17,88</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>19,42</td><td>23,13</td><td>0,00</td><td>22,00</td><td>17,69</td><td>&nbsp;</td><td>17,69</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>18,95</td><td>18,48</td><td>0,00</td><td>19,00</td><td>17,63</td><td>&nbsp;</td><td>17,63</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>16,28</td><td>17,09</td><td>0,00</td><td>17,00</td><td>17,72</td><td>&nbsp;</td><td>17,72</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,89</td><td>8,10</td><td>9,26</td><td>0,00</td><td>9,00</td><td>17,76</td><td>&nbsp;</td><td>17,76</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,59</td><td>7,42</td><td>9,04</td><td>0,00</td><td>9,00</td><td>17,68</td><td>&nbsp;</td><td>17,68</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>9,86</td><td>8,01</td><td>0,00</td><td>8,00</td><td>17,48</td><td>&nbsp;</td><td>17,48</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,77</td><td>0,27</td><td>13,00</td><td>0,00</td><td>3,00</td><td>17,26</td><td>&nbsp;</td><td>17,26</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,71</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>17,01</td><td>&nbsp;</td><td>17,01</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,71</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,55</td><td>&nbsp;</td><td>16,55</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,71</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,99</td><td>&nbsp;</td><td>15,99</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,71</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,57</td><td>&nbsp;</td><td>15,57</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>7,84</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,45</td><td>&nbsp;</td><td>15,45</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,50</td><td>&nbsp;</td><td>15,50</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,50</td><td>&nbsp;</td><td>15,50</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>13,12</td><td>13,12</td><td>13,00</td><td>0,00</td><td>15,44</td><td>&nbsp;</td><td>15,44</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>18,00</td><td>18,00</td><td>18,00</td><td>0,00</td><td>15,24</td><td>&nbsp;</td><td>15,24</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>18,00</td><td>18,00</td><td>18,00</td><td>0,00</td><td>15,13</td><td>&nbsp;</td><td>15,13</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,69</td><td>15,19</td><td>15,19</td><td>15,00</td><td>0,00</td><td>15,26</td><td>&nbsp;</td><td>15,26</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,80</td><td>&nbsp;</td><td>15,80</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,71</td><td>10,16</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,38</td><td>&nbsp;</td><td>16,38</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>7,84</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,60</td><td>&nbsp;</td><td>16,60</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,69</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,50</td><td>&nbsp;</td><td>16,50</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,18</td><td>&nbsp;</td><td>16,18</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,66</td><td>10,00</td><td>10,00</td><td>10,00</td><td>0,00</td><td>15,83</td><td>&nbsp;</td><td>15,83</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,77</td><td>&nbsp;</td><td>15,77</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,96</td><td>&nbsp;</td><td>15,96</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,70</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,08</td><td>&nbsp;</td><td>16,08</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,69</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>16,00</td><td>&nbsp;</td><td>16,00</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,66</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,75</td><td>&nbsp;</td><td>15,75</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,60</td><td>&nbsp;</td><td>15,60</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,69</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,41</td><td>&nbsp;</td><td>15,41</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>15,15</td><td>&nbsp;</td><td>15,15</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>14,78</td><td>&nbsp;</td><td>14,78</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,67</td><td>9,00</td><td>9,00</td><td>9,00</td><td>0,00</td><td>14,62</td><td>&nbsp;</td><td>14,62</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>366,60</td><td>12,00</td><td>12,00</td><td>12,00</td><td>0,00</td><td>14,58</td><td>&nbsp;</td><td>14,58</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,20</td><td>14,79</td><td>9,00</td><td>9,00</td><td>0,00</td><td>14,64</td><td>&nbsp;</td><td>14,64</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,93</td><td>11,89</td><td>9,00</td><td>0,00</td><td>9,00</td><td>14,51</td><td>&nbsp;</td><td>14,51</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,02</td><td>16,86</td><td>12,00</td><td>0,00</td><td>12,00</td><td>14,08</td><td>&nbsp;</td><td>14,08</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>13,35</td><td>13,00</td><td>0,00</td><td>13,00</td><td>13,44</td><td>&nbsp;</td><td>13,44</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>13,00</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,71</td><td>&nbsp;</td><td>12,71</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,02</td><td>12,65</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,06</td><td>&nbsp;</td><td>12,06</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>12,58</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,46</td><td>&nbsp;</td><td>11,46</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,10</td><td>&nbsp;</td><td>11,10</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>12,77</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,11</td><td>&nbsp;</td><td>11,11</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,02</td><td>12,54</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,30</td><td>&nbsp;</td><td>11,30</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>12,69</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,55</td><td>&nbsp;</td><td>11,55</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>11,77</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,63</td><td>&nbsp;</td><td>11,63</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,66</td><td>&nbsp;</td><td>11,66</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,75</td><td>&nbsp;</td><td>11,75</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>11,88</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,98</td><td>&nbsp;</td><td>11,98</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>11,88</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,37</td><td>&nbsp;</td><td>12,37</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,62</td><td>&nbsp;</td><td>12,62</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,67</td><td>&nbsp;</td><td>12,67</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,48</td><td>&nbsp;</td><td>12,48</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,20</td><td>&nbsp;</td><td>12,20</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>11,77</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,91</td><td>&nbsp;</td><td>11,91</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,69</td><td>&nbsp;</td><td>11,69</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,56</td><td>&nbsp;</td><td>11,56</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>11,12</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,53</td><td>&nbsp;</td><td>11,53</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,45</td><td>&nbsp;</td><td>11,45</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>11,88</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,36</td><td>&nbsp;</td><td>11,36</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>11,12</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,28</td><td>&nbsp;</td><td>11,28</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,29</td><td>&nbsp;</td><td>11,29</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,34</td><td>&nbsp;</td><td>11,34</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,32</td><td>&nbsp;</td><td>11,32</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,28</td><td>&nbsp;</td><td>11,28</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>11,00</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,15</td><td>&nbsp;</td><td>11,15</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>11,23</td><td>11,00</td><td>0,00</td><td>11,00</td><td>11,04</td><td>&nbsp;</td><td>11,04</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>10,88</td><td>11,00</td><td>0,00</td><td>11,00</td><td>10,86</td><td>&nbsp;</td><td>10,86</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,86</td><td>8,96</td><td>10,00</td><td>0,00</td><td>10,00</td><td>10,73</td><td>&nbsp;</td><td>10,73</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,59</td><td>7,07</td><td>8,00</td><td>0,00</td><td>8,00</td><td>10,68</td><td>&nbsp;</td><td>10,68</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,68</td><td>7,35</td><td>7,00</td><td>0,00</td><td>7,00</td><td>11,16</td><td>&nbsp;</td><td>11,16</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,92</td><td>7,81</td><td>7,00</td><td>0,00</td><td>7,00</td><td>12,69</td><td>&nbsp;</td><td>12,69</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,33</td><td>12,74</td><td>11,00</td><td>0,00</td><td>11,00</td><td>16,11</td><td>&nbsp;</td><td>16,11</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>14,35</td><td>14,00</td><td>0,00</td><td>14,00</td><td>21,19</td><td>&nbsp;</td><td>21,19</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,73</td><td>22,62</td><td>21,00</td><td>0,00</td><td>21,00</td><td>26,82</td><td>&nbsp;</td><td>26,82</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,69</td><td>43,77</td><td>44,00</td><td>0,00</td><td>44,00</td><td>31,23</td><td>&nbsp;</td><td>31,23</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,48</td><td>49,96</td><td>51,00</td><td>0,00</td><td>51,00</td><td>33,42</td><td>&nbsp;</td><td>33,42</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,04</td><td>33,03</td><td>35,00</td><td>0,00</td><td>35,00</td><td>33,05</td><td>&nbsp;</td><td>33,05</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>18,04</td><td>17,00</td><td>0,00</td><td>17,00</td><td>30,11</td><td>&nbsp;</td><td>30,11</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>17,58</td><td>17,00</td><td>0,00</td><td>17,00</td><td>25,90</td><td>&nbsp;</td><td>25,90</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>21,19</td><td>22,00</td><td>0,00</td><td>22,00</td><td>22,04</td><td>&nbsp;</td><td>22,04</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,82</td><td>16,38</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,94</td><td>&nbsp;</td><td>19,94</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,86</td><td>15,12</td><td>15,00</td><td>0,00</td><td>15,00</td><td>19,54</td><td>&nbsp;</td><td>19,54</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>25,97</td><td>24,00</td><td>0,00</td><td>24,00</td><td>20,19</td><td>&nbsp;</td><td>20,19</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,40</td><td>18,53</td><td>22,00</td><td>0,00</td><td>22,00</td><td>21,88</td><td>&nbsp;</td><td>21,88</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,10</td><td>24,31</td><td>25,00</td><td>0,00</td><td>25,00</td><td>23,82</td><td>&nbsp;</td><td>23,82</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>370,80</td><td>33,31</td><td>34,00</td><td>0,00</td><td>34,00</td><td>25,47</td><td>&nbsp;</td><td>25,47</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,44</td><td>34,88</td><td>38,00</td><td>0,00</td><td>37,00</td><td>26,08</td><td>&nbsp;</td><td>26,08</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,60</td><td>28,09</td><td>23,00</td><td>0,00</td><td>23,00</td><td>25,61</td><td>&nbsp;</td><td>25,61</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,90</td><td>20,04</td><td>19,00</td><td>0,00</td><td>19,00</td><td>24,10</td><td>&nbsp;</td><td>24,10</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>15,46</td><td>15,00</td><td>0,00</td><td>15,00</td><td>21,98</td><td>&nbsp;</td><td>21,98</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>14,35</td><td>14,00</td><td>0,00</td><td>14,00</td><td>19,76</td><td>&nbsp;</td><td>19,76</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>14,46</td><td>14,00</td><td>0,00</td><td>14,00</td><td>17,89</td><td>&nbsp;</td><td>17,89</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>16,93</td><td>16,00</td><td>0,00</td><td>16,00</td><td>16,28</td><td>&nbsp;</td><td>16,28</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>17,96</td><td>19,00</td><td>0,00</td><td>19,00</td><td>15,05</td><td>&nbsp;</td><td>15,05</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>14,08</td><td>&nbsp;</td><td>14,08</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,33</td><td>15,81</td><td>15,00</td><td>0,00</td><td>15,00</td><td>13,44</td><td>&nbsp;</td><td>13,44</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>13,96</td><td>15,00</td><td>0,00</td><td>15,00</td><td>12,96</td><td>&nbsp;</td><td>12,96</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>12,69</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,73</td><td>&nbsp;</td><td>12,73</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>11,77</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,74</td><td>&nbsp;</td><td>12,74</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>14,58</td><td>14,00</td><td>0,00</td><td>14,00</td><td>12,80</td><td>&nbsp;</td><td>12,80</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>14,00</td><td>14,00</td><td>0,00</td><td>14,00</td><td>12,97</td><td>&nbsp;</td><td>12,97</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>12,54</td><td>13,00</td><td>0,00</td><td>13,00</td><td>13,32</td><td>&nbsp;</td><td>13,32</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>12,42</td><td>13,00</td><td>0,00</td><td>13,00</td><td>13,95</td><td>&nbsp;</td><td>13,95</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>13,00</td><td>13,00</td><td>0,00</td><td>13,00</td><td>14,64</td><td>&nbsp;</td><td>14,64</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>20,81</td><td>20,00</td><td>0,00</td><td>20,00</td><td>14,95</td><td>&nbsp;</td><td>14,95</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>13,54</td><td>14,00</td><td>0,00</td><td>14,00</td><td>14,96</td><td>&nbsp;</td><td>14,96</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>13,88</td><td>14,00</td><td>0,00</td><td>14,00</td><td>15,18</td><td>&nbsp;</td><td>15,18</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>14,88</td><td>15,00</td><td>0,00</td><td>15,00</td><td>16,01</td><td>&nbsp;</td><td>16,01</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,33</td><td>17,93</td><td>17,00</td><td>0,00</td><td>18,00</td><td>17,91</td><td>&nbsp;</td><td>17,91</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>17,77</td><td>18,00</td><td>0,00</td><td>18,00</td><td>21,23</td><td>&nbsp;</td><td>21,23</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>20,27</td><td>19,00</td><td>0,00</td><td>19,00</td><td>24,89</td><td>&nbsp;</td><td>24,89</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,43</td><td>22,42</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,93</td><td>&nbsp;</td><td>26,93</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>24,84</td><td>26,00</td><td>0,00</td><td>26,00</td><td>25,97</td><td>&nbsp;</td><td>25,97</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>23,00</td><td>23,00</td><td>0,00</td><td>23,00</td><td>23,72</td><td>&nbsp;</td><td>23,72</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>21,93</td><td>21,00</td><td>0,00</td><td>22,00</td><td>21,91</td><td>&nbsp;</td><td>21,91</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,29</td><td>17,54</td><td>18,00</td><td>0,00</td><td>18,00</td><td>21,61</td><td>&nbsp;</td><td>21,61</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>23,27</td><td>22,00</td><td>0,00</td><td>22,00</td><td>22,43</td><td>&nbsp;</td><td>22,43</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>25,93</td><td>25,00</td><td>0,00</td><td>25,00</td><td>23,98</td><td>&nbsp;</td><td>23,98</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,58</td><td>22,19</td><td>23,00</td><td>0,00</td><td>23,00</td><td>25,67</td><td>&nbsp;</td><td>25,67</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,71</td><td>31,69</td><td>31,00</td><td>0,00</td><td>31,00</td><td>26,41</td><td>&nbsp;</td><td>26,41</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>22,73</td><td>24,00</td><td>0,00</td><td>24,00</td><td>27,37</td><td>&nbsp;</td><td>27,37</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,69</td><td>27,16</td><td>26,00</td><td>0,00</td><td>26,00</td><td>29,72</td><td>&nbsp;</td><td>29,72</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>31,19</td><td>32,00</td><td>0,00</td><td>32,00</td><td>35,92</td><td>&nbsp;</td><td>35,92</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,81</td><td>52,50</td><td>51,00</td><td>0,00</td><td>51,00</td><td>71,45</td><td>&nbsp;</td><td>71,45</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,99</td><td>105,04</td><td>104,00</td><td>32,00</td><td>76,00</td><td>125,16</td><td>&nbsp;</td><td>125,16</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,91</td><td>223,54</td><td>224,00</td><td>144,00</td><td>78,00</td><td>149,95</td><td>&nbsp;</td><td>149,95</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,95</td><td>127,23</td><td>127,00</td><td>42,00</td><td>83,00</td><td>132,00</td><td>&nbsp;</td><td>132,00</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,63</td><td>80,15</td><td>82,00</td><td>2,00</td><td>80,00</td><td>90,32</td><td>&nbsp;</td><td>90,32</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,70</td><td>66,46</td><td>66,00</td><td>0,00</td><td>66,00</td><td>76,91</td><td>&nbsp;</td><td>76,91</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>60,26</td><td>62,00</td><td>0,00</td><td>62,00</td><td>64,78</td><td>&nbsp;</td><td>64,78</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>45,93</td><td>45,00</td><td>0,00</td><td>45,00</td><td>53,65</td><td>&nbsp;</td><td>53,65</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>38,88</td><td>39,00</td><td>0,00</td><td>39,00</td><td>59,00</td><td>&nbsp;</td><td>59,00</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,94</td><td>70,31</td><td>68,00</td><td>9,00</td><td>59,00</td><td>93,44</td><td>&nbsp;</td><td>93,44</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,57</td><td>125,92</td><td>128,00</td><td>62,00</td><td>67,00</td><td>113,51</td><td>&nbsp;</td><td>113,51</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,68</td><td>108,58</td><td>108,00</td><td>42,00</td><td>66,00</td><td>107,65</td><td>&nbsp;</td><td>107,65</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,89</td><td>80,16</td><td>79,00</td><td>12,00</td><td>67,00</td><td>90,53</td><td>&nbsp;</td><td>90,53</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>77,57</td><td>80,00</td><td>1,00</td><td>78,00</td><td>76,99</td><td>&nbsp;</td><td>76,99</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,43</td><td>61,00</td><td>61,00</td><td>0,00</td><td>61,00</td><td>66,46</td><td>&nbsp;</td><td>66,46</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>53,12</td><td>53,00</td><td>0,00</td><td>53,00</td><td>67,49</td><td>&nbsp;</td><td>67,49</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,94</td><td>73,66</td><td>71,00</td><td>0,00</td><td>71,00</td><td>100,88</td><td>&nbsp;</td><td>100,88</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,84</td><td>174,42</td><td>175,00</td><td>94,00</td><td>82,00</td><td>125,39</td><td>&nbsp;</td><td>125,39</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,84</td><td>146,00</td><td>146,00</td><td>62,00</td><td>84,00</td><td>125,58</td><td>&nbsp;</td><td>125,58</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,88</td><td>108,23</td><td>108,00</td><td>26,00</td><td>82,00</td><td>96,25</td><td>&nbsp;</td><td>96,25</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>77,03</td><td>79,00</td><td>0,00</td><td>79,00</td><td>83,23</td><td>&nbsp;</td><td>83,23</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>79,54</td><td>80,00</td><td>0,00</td><td>80,00</td><td>135,93</td><td>&nbsp;</td><td>135,93</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,88</td><td>244,43</td><td>242,00</td><td>162,00</td><td>82,00</td><td>171,60</td><td>&nbsp;</td><td>171,60</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,91</td><td>216,12</td><td>216,00</td><td>128,00</td><td>83,00</td><td>178,66</td><td>&nbsp;</td><td>178,66</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>112,77</td><td>113,00</td><td>29,00</td><td>84,00</td><td>124,90</td><td>&nbsp;</td><td>124,90</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>69,11</td><td>72,00</td><td>0,00</td><td>72,00</td><td>89,93</td><td>&nbsp;</td><td>89,93</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,63</td><td>65,50</td><td>64,00</td><td>0,00</td><td>64,00</td><td>91,96</td><td>&nbsp;</td><td>91,96</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,91</td><td>95,62</td><td>94,00</td><td>11,00</td><td>83,00</td><td>124,90</td><td>&nbsp;</td><td>124,90</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,89</td><td>226,88</td><td>227,00</td><td>143,00</td><td>84,00</td><td>160,76</td><td>&nbsp;</td><td>160,76</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,91</td><td>144,12</td><td>144,00</td><td>63,00</td><td>81,00</td><td>199,79</td><td>&nbsp;</td><td>199,79</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>229,77</td><td>230,00</td><td>161,00</td><td>84,00</td><td>261,55</td><td>&nbsp;</td><td>261,55</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,86</td><td>360,00</td><td>360,00</td><td>275,00</td><td>83,00</td><td>331,49</td><td>&nbsp;</td><td>331,49</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,79</td><td>430,54</td><td>431,00</td><td>350,00</td><td>82,00</td><td>359,11</td><td>&nbsp;</td><td>359,11</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,82</td><td>373,23</td><td>373,00</td><td>291,00</td><td>81,00</td><td>321,18</td><td>&nbsp;</td><td>321,18</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,79</td><td>209,77</td><td>210,00</td><td>128,00</td><td>82,00</td><td>234,96</td><td>&nbsp;</td><td>234,96</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,82</td><td>169,23</td><td>169,00</td><td>87,00</td><td>82,00</td><td>161,79</td><td>&nbsp;</td><td>161,79</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,98</td><td>90,93</td><td>90,00</td><td>7,00</td><td>82,00</td><td>118,72</td><td>&nbsp;</td><td>118,72</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>89,31</td><td>90,00</td><td>8,00</td><td>82,00</td><td>96,09</td><td>&nbsp;</td><td>96,09</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>80,69</td><td>83,00</td><td>2,00</td><td>81,00</td><td>80,38</td><td>&nbsp;</td><td>80,38</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>65,58</td><td>65,00</td><td>0,00</td><td>65,00</td><td>67,88</td><td>&nbsp;</td><td>67,88</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,66</td><td>57,58</td><td>57,00</td><td>0,00</td><td>57,00</td><td>61,73</td><td>&nbsp;</td><td>61,73</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>54,31</td><td>55,00</td><td>0,00</td><td>55,00</td><td>61,87</td><td>&nbsp;</td><td>61,87</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,80</td><td>73,50</td><td>72,00</td><td>0,00</td><td>72,00</td><td>65,05</td><td>&nbsp;</td><td>65,05</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>72,35</td><td>72,00</td><td>0,00</td><td>72,00</td><td>65,75</td><td>&nbsp;</td><td>65,75</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,58</td><td>49,38</td><td>51,00</td><td>0,00</td><td>51,00</td><td>60,01</td><td>&nbsp;</td><td>60,01</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>44,81</td><td>44,00</td><td>0,00</td><td>44,00</td><td>52,10</td><td>&nbsp;</td><td>52,10</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,75</td><td>47,12</td><td>47,00</td><td>0,00</td><td>47,00</td><td>45,99</td><td>&nbsp;</td><td>45,99</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,77</td><td>38,12</td><td>38,00</td><td>0,00</td><td>38,00</td><td>42,60</td><td>&nbsp;</td><td>42,60</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>34,38</td><td>36,00</td><td>0,00</td><td>36,00</td><td>40,42</td><td>&nbsp;</td><td>40,42</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>33,20</td><td>31,00</td><td>0,00</td><td>31,00</td><td>38,78</td><td>&nbsp;</td><td>38,78</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,62</td><td>34,61</td><td>36,00</td><td>0,00</td><td>36,00</td><td>38,37</td><td>&nbsp;</td><td>38,37</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>37,96</td><td>39,00</td><td>0,00</td><td>39,00</td><td>38,31</td><td>&nbsp;</td><td>38,31</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>37,23</td><td>37,00</td><td>0,00</td><td>37,00</td><td>37,45</td><td>&nbsp;</td><td>37,45</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,67</td><td>37,04</td><td>36,00</td><td>0,00</td><td>36,00</td><td>35,39</td><td>&nbsp;</td><td>35,39</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,67</td><td>30,00</td><td>30,00</td><td>0,00</td><td>30,00</td><td>31,99</td><td>&nbsp;</td><td>31,99</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>25,26</td><td>27,00</td><td>0,00</td><td>26,00</td><td>29,58</td><td>&nbsp;</td><td>29,58</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>23,00</td><td>23,00</td><td>0,00</td><td>24,00</td><td>28,97</td><td>&nbsp;</td><td>28,97</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>28,00</td><td>28,00</td><td>0,00</td><td>28,00</td><td>31,79</td><td>&nbsp;</td><td>31,79</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>40,00</td><td>40,00</td><td>0,00</td><td>38,00</td><td>37,68</td><td>&nbsp;</td><td>37,68</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>49,69</td><td>49,00</td><td>0,00</td><td>49,00</td><td>46,39</td><td>&nbsp;</td><td>46,39</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>63,84</td><td>65,00</td><td>0,00</td><td>65,00</td><td>59,10</td><td>&nbsp;</td><td>59,10</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>68,58</td><td>68,00</td><td>0,00</td><td>68,00</td><td>77,18</td><td>&nbsp;</td><td>77,18</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>147,58</td><td>147,00</td><td>66,00</td><td>82,00</td><td>95,80</td><td>&nbsp;</td><td>95,80</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>122,00</td><td>122,00</td><td>36,00</td><td>83,00</td><td>108,66</td><td>&nbsp;</td><td>108,66</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>127,00</td><td>127,00</td><td>44,00</td><td>84,00</td><td>107,44</td><td>&nbsp;</td><td>107,44</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>85,00</td><td>85,00</td><td>4,00</td><td>81,00</td><td>96,08</td><td>&nbsp;</td><td>96,08</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,81</td><td>65,85</td><td>64,00</td><td>0,00</td><td>64,00</td><td>77,75</td><td>&nbsp;</td><td>77,75</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,68</td><td>51,31</td><td>52,00</td><td>0,00</td><td>52,00</td><td>60,47</td><td>&nbsp;</td><td>60,47</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,68</td><td>44,00</td><td>44,00</td><td>0,00</td><td>44,00</td><td>48,62</td><td>&nbsp;</td><td>48,62</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,65</td><td>46,77</td><td>47,00</td><td>0,00</td><td>47,00</td><td>43,06</td><td>&nbsp;</td><td>43,06</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,43</td><td>41,96</td><td>43,00</td><td>0,00</td><td>43,00</td><td>41,32</td><td>&nbsp;</td><td>41,32</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>43,12</td><td>43,00</td><td>0,00</td><td>43,00</td><td>39,94</td><td>&nbsp;</td><td>39,94</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,62</td><td>40,81</td><td>40,00</td><td>0,00</td><td>40,00</td><td>38,35</td><td>&nbsp;</td><td>38,35</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,58</td><td>39,77</td><td>40,00</td><td>0,00</td><td>40,00</td><td>36,05</td><td>&nbsp;</td><td>36,05</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>33,77</td><td>34,00</td><td>0,00</td><td>34,00</td><td>33,92</td><td>&nbsp;</td><td>33,92</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,48</td><td>29,77</td><td>30,00</td><td>0,00</td><td>30,00</td><td>32,77</td><td>&nbsp;</td><td>32,77</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,72</td><td>35,27</td><td>34,00</td><td>0,00</td><td>34,00</td><td>32,68</td><td>&nbsp;</td><td>32,68</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>30,61</td><td>32,00</td><td>0,00</td><td>32,00</td><td>32,80</td><td>&nbsp;</td><td>32,80</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>27,42</td><td>28,00</td><td>0,00</td><td>28,00</td><td>31,80</td><td>&nbsp;</td><td>31,80</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>24,58</td><td>24,00</td><td>0,00</td><td>23,00</td><td>30,86</td><td>&nbsp;</td><td>30,86</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>24,00</td><td>24,00</td><td>0,00</td><td>24,00</td><td>31,73</td><td>&nbsp;</td><td>31,73</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>33,65</td><td>34,00</td><td>0,00</td><td>34,00</td><td>37,50</td><td>&nbsp;</td><td>37,50</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,59</td><td>49,04</td><td>48,00</td><td>0,00</td><td>48,00</td><td>50,00</td><td>&nbsp;</td><td>50,00</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>68,74</td><td>67,00</td><td>2,00</td><td>65,00</td><td>66,07</td><td>&nbsp;</td><td>66,07</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>85,00</td><td>85,00</td><td>40,00</td><td>45,00</td><td>80,34</td><td>&nbsp;</td><td>80,34</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,86</td><td>91,77</td><td>92,00</td><td>36,00</td><td>56,00</td><td>88,49</td><td>&nbsp;</td><td>88,49</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,93</td><td>90,35</td><td>90,00</td><td>6,00</td><td>83,00</td><td>90,99</td><td>&nbsp;</td><td>90,99</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>92,46</td><td>92,00</td><td>8,00</td><td>84,00</td><td>90,24</td><td>&nbsp;</td><td>90,24</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>83,37</td><td>88,00</td><td>4,00</td><td>84,00</td><td>86,66</td><td>&nbsp;</td><td>86,66</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,66</td><td>77,66</td><td>75,00</td><td>0,00</td><td>75,00</td><td>80,10</td><td>&nbsp;</td><td>80,10</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>64,97</td><td>63,00</td><td>0,00</td><td>63,00</td><td>70,65</td><td>&nbsp;</td><td>70,65</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>43,00</td><td>43,00</td><td>0,00</td><td>43,00</td><td>59,26</td><td>&nbsp;</td><td>59,26</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,63</td><td>46,80</td><td>49,00</td><td>0,00</td><td>49,00</td><td>49,53</td><td>&nbsp;</td><td>49,53</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>37,50</td><td>39,00</td><td>0,00</td><td>39,00</td><td>42,60</td><td>&nbsp;</td><td>42,60</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>29,69</td><td>29,00</td><td>0,00</td><td>29,00</td><td>38,63</td><td>&nbsp;</td><td>38,63</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>33,65</td><td>34,00</td><td>0,00</td><td>34,00</td><td>35,80</td><td>&nbsp;</td><td>35,80</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>31,77</td><td>32,00</td><td>0,00</td><td>32,00</td><td>33,56</td><td>&nbsp;</td><td>33,56</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>25,04</td><td>24,00</td><td>0,00</td><td>24,00</td><td>31,88</td><td>&nbsp;</td><td>31,88</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,49</td><td>29,65</td><td>30,00</td><td>0,00</td><td>30,00</td><td>31,12</td><td>&nbsp;</td><td>31,12</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,61</td><td>24,69</td><td>24,00</td><td>0,00</td><td>24,00</td><td>31,22</td><td>&nbsp;</td><td>31,22</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>26,92</td><td>29,00</td><td>0,00</td><td>29,00</td><td>31,27</td><td>&nbsp;</td><td>31,27</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,48</td><td>27,39</td><td>26,00</td><td>0,00</td><td>26,00</td><td>31,20</td><td>&nbsp;</td><td>31,20</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>26,88</td><td>27,00</td><td>0,00</td><td>27,00</td><td>29,97</td><td>&nbsp;</td><td>29,97</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,49</td><td>24,12</td><td>24,00</td><td>0,00</td><td>24,00</td><td>28,45</td><td>&nbsp;</td><td>28,45</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>22,19</td><td>23,00</td><td>0,00</td><td>23,00</td><td>29,35</td><td>&nbsp;</td><td>29,35</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,69</td><td>39,85</td><td>38,00</td><td>0,00</td><td>38,00</td><td>32,55</td><td>&nbsp;</td><td>32,55</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,68</td><td>40,00</td><td>40,00</td><td>0,00</td><td>40,00</td><td>36,77</td><td>&nbsp;</td><td>36,77</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>45,50</td><td>47,00</td><td>0,00</td><td>47,00</td><td>38,60</td><td>&nbsp;</td><td>38,60</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>29,35</td><td>29,00</td><td>0,00</td><td>29,00</td><td>37,89</td><td>&nbsp;</td><td>37,89</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>27,77</td><td>28,00</td><td>0,00</td><td>28,00</td><td>35,78</td><td>&nbsp;</td><td>35,78</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,55</td><td>29,69</td><td>29,00</td><td>0,00</td><td>29,00</td><td>33,50</td><td>&nbsp;</td><td>33,50</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>25,84</td><td>27,00</td><td>0,00</td><td>28,00</td><td>31,36</td><td>&nbsp;</td><td>31,36</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>22,00</td><td>22,00</td><td>0,00</td><td>22,00</td><td>29,91</td><td>&nbsp;</td><td>29,91</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>24,69</td><td>24,00</td><td>0,00</td><td>24,00</td><td>30,96</td><td>&nbsp;</td><td>30,96</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,79</td><td>33,74</td><td>32,00</td><td>0,00</td><td>32,00</td><td>39,37</td><td>&nbsp;</td><td>39,37</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,70</td><td>64,09</td><td>73,00</td><td>0,00</td><td>73,00</td><td>50,23</td><td>&nbsp;</td><td>50,23</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>87,77</td><td>88,00</td><td>23,00</td><td>67,00</td><td>59,39</td><td>&nbsp;</td><td>59,39</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,51</td><td>59,00</td><td>59,00</td><td>0,00</td><td>59,00</td><td>59,18</td><td>&nbsp;</td><td>59,18</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>36,00</td><td>36,00</td><td>0,00</td><td>36,00</td><td>51,01</td><td>&nbsp;</td><td>51,01</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>370,80</td><td>30,97</td><td>29,00</td><td>0,00</td><td>29,00</td><td>40,43</td><td>&nbsp;</td><td>40,43</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>29,86</td><td>25,00</td><td>0,00</td><td>25,00</td><td>32,34</td><td>&nbsp;</td><td>32,34</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>26,00</td><td>26,00</td><td>0,00</td><td>27,00</td><td>29,31</td><td>&nbsp;</td><td>29,31</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>26,59</td><td>23,00</td><td>0,00</td><td>23,00</td><td>28,65</td><td>&nbsp;</td><td>28,65</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>24,00</td><td>24,00</td><td>0,00</td><td>24,00</td><td>28,70</td><td>&nbsp;</td><td>28,70</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>25,00</td><td>25,00</td><td>0,00</td><td>25,00</td><td>33,45</td><td>&nbsp;</td><td>33,45</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>44,00</td><td>44,00</td><td>7,00</td><td>37,00</td><td>43,98</td><td>&nbsp;</td><td>43,98</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>83,58</td><td>94,00</td><td>32,00</td><td>62,00</td><td>59,65</td><td>&nbsp;</td><td>59,65</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>83,00</td><td>83,00</td><td>2,00</td><td>81,00</td><td>66,44</td><td>&nbsp;</td><td>66,44</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,50</td><td>47,70</td><td>44,00</td><td>0,00</td><td>44,00</td><td>61,84</td><td>&nbsp;</td><td>61,84</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>36,74</td><td>35,00</td><td>0,00</td><td>35,00</td><td>48,43</td><td>&nbsp;</td><td>48,43</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>38,12</td><td>&nbsp;</td><td>38,12</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>29,00</td><td>29,00</td><td>0,00</td><td>29,00</td><td>33,78</td><td>&nbsp;</td><td>33,78</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>29,98</td><td>25,00</td><td>0,00</td><td>25,00</td><td>34,41</td><td>&nbsp;</td><td>34,41</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>39,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>39,63</td><td>&nbsp;</td><td>39,63</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>48,00</td><td>48,00</td><td>0,00</td><td>48,00</td><td>46,57</td><td>&nbsp;</td><td>46,57</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,70</td><td>69,26</td><td>71,00</td><td>0,00</td><td>71,00</td><td>52,24</td><td>&nbsp;</td><td>52,24</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>59,15</td><td>61,00</td><td>0,00</td><td>61,00</td><td>52,23</td><td>&nbsp;</td><td>52,23</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,63</td><td>36,39</td><td>35,00</td><td>0,00</td><td>35,00</td><td>47,25</td><td>&nbsp;</td><td>47,25</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,67</td><td>35,23</td><td>35,00</td><td>0,00</td><td>34,00</td><td>39,94</td><td>&nbsp;</td><td>39,94</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>27,57</td><td>30,00</td><td>0,00</td><td>30,00</td><td>33,83</td><td>&nbsp;</td><td>33,83</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>25,69</td><td>25,00</td><td>0,00</td><td>25,00</td><td>30,55</td><td>&nbsp;</td><td>30,55</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>27,65</td><td>28,00</td><td>0,00</td><td>28,00</td><td>28,73</td><td>&nbsp;</td><td>28,73</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>25,35</td><td>25,00</td><td>0,00</td><td>25,00</td><td>28,06</td><td>&nbsp;</td><td>28,06</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>25,69</td><td>25,00</td><td>0,00</td><td>25,00</td><td>27,42</td><td>&nbsp;</td><td>27,42</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>24,77</td><td>25,00</td><td>0,00</td><td>25,00</td><td>26,96</td><td>&nbsp;</td><td>26,96</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>23,00</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,15</td><td>&nbsp;</td><td>26,15</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>22,19</td><td>23,00</td><td>0,00</td><td>23,00</td><td>25,59</td><td>&nbsp;</td><td>25,59</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,55</td><td>23,50</td><td>22,00</td><td>0,00</td><td>22,00</td><td>25,52</td><td>&nbsp;</td><td>25,52</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>23,84</td><td>25,00</td><td>0,00</td><td>25,00</td><td>25,77</td><td>&nbsp;</td><td>25,77</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>24,93</td><td>24,00</td><td>0,00</td><td>24,00</td><td>25,56</td><td>&nbsp;</td><td>25,56</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>22,19</td><td>23,00</td><td>0,00</td><td>23,00</td><td>24,88</td><td>&nbsp;</td><td>24,88</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>21,35</td><td>21,00</td><td>0,00</td><td>21,00</td><td>24,45</td><td>&nbsp;</td><td>24,45</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>22,69</td><td>22,00</td><td>0,00</td><td>22,00</td><td>24,11</td><td>&nbsp;</td><td>24,11</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>21,92</td><td>24,00</td><td>0,00</td><td>24,00</td><td>24,11</td><td>&nbsp;</td><td>24,11</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>19,93</td><td>19,00</td><td>0,00</td><td>19,00</td><td>23,99</td><td>&nbsp;</td><td>23,99</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>22,35</td><td>22,00</td><td>0,00</td><td>22,00</td><td>23,93</td><td>&nbsp;</td><td>23,93</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>18,73</td><td>20,00</td><td>0,00</td><td>20,00</td><td>23,85</td><td>&nbsp;</td><td>23,85</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>21,58</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,88</td><td>&nbsp;</td><td>23,88</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>22,00</td><td>22,00</td><td>0,00</td><td>22,00</td><td>24,75</td><td>&nbsp;</td><td>24,75</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>22,27</td><td>21,00</td><td>0,00</td><td>21,00</td><td>25,79</td><td>&nbsp;</td><td>25,79</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>28,61</td><td>30,00</td><td>0,00</td><td>30,00</td><td>26,69</td><td>&nbsp;</td><td>26,69</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>370,80</td><td>24,72</td><td>29,00</td><td>0,00</td><td>28,00</td><td>26,76</td><td>&nbsp;</td><td>26,76</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,30</td><td>24,16</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,23</td><td>&nbsp;</td><td>26,23</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>24,70</td><td>21,00</td><td>0,00</td><td>21,00</td><td>25,75</td><td>&nbsp;</td><td>25,75</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>22,00</td><td>22,00</td><td>0,00</td><td>22,00</td><td>30,64</td><td>&nbsp;</td><td>30,64</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,65</td><td>50,50</td><td>49,00</td><td>0,00</td><td>49,00</td><td>33,93</td><td>&nbsp;</td><td>33,93</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>34,07</td><td>35,00</td><td>0,00</td><td>35,00</td><td>36,09</td><td>&nbsp;</td><td>36,09</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>31,88</td><td>32,00</td><td>0,00</td><td>32,00</td><td>33,00</td><td>&nbsp;</td><td>33,00</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>27,88</td><td>28,00</td><td>0,00</td><td>28,00</td><td>31,49</td><td>&nbsp;</td><td>31,49</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,48</td><td>25,35</td><td>25,00</td><td>0,00</td><td>25,00</td><td>30,20</td><td>&nbsp;</td><td>30,20</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>26,73</td><td>28,00</td><td>0,00</td><td>28,00</td><td>28,62</td><td>&nbsp;</td><td>28,62</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>24,16</td><td>23,00</td><td>0,00</td><td>23,00</td><td>27,07</td><td>&nbsp;</td><td>27,07</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>23,19</td><td>24,00</td><td>0,00</td><td>24,00</td><td>26,71</td><td>&nbsp;</td><td>26,71</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>21,46</td><td>21,00</td><td>0,00</td><td>21,00</td><td>27,35</td><td>&nbsp;</td><td>27,35</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>31,31</td><td>32,00</td><td>0,00</td><td>31,00</td><td>28,10</td><td>&nbsp;</td><td>28,10</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>21,88</td><td>22,00</td><td>0,00</td><td>22,00</td><td>28,14</td><td>&nbsp;</td><td>28,14</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>23,81</td><td>23,00</td><td>0,00</td><td>23,00</td><td>27,18</td><td>&nbsp;</td><td>27,18</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>20,00</td><td>20,00</td><td>0,00</td><td>20,00</td><td>25,87</td><td>&nbsp;</td><td>25,87</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>22,31</td><td>23,00</td><td>0,00</td><td>22,00</td><td>24,64</td><td>&nbsp;</td><td>24,64</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,29</td><td>20,23</td><td>20,00</td><td>0,00</td><td>20,00</td><td>23,44</td><td>&nbsp;</td><td>23,44</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>19,77</td><td>20,00</td><td>0,00</td><td>20,00</td><td>22,61</td><td>&nbsp;</td><td>22,61</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>19,77</td><td>20,00</td><td>0,00</td><td>20,00</td><td>22,08</td><td>&nbsp;</td><td>22,08</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>19,93</td><td>19,00</td><td>0,00</td><td>19,00</td><td>22,07</td><td>&nbsp;</td><td>22,07</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,29</td><td>19,54</td><td>20,00</td><td>0,00</td><td>20,00</td><td>22,66</td><td>&nbsp;</td><td>22,66</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>21,58</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,39</td><td>&nbsp;</td><td>23,39</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>20,77</td><td>21,00</td><td>0,00</td><td>21,00</td><td>24,14</td><td>&nbsp;</td><td>24,14</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>21,00</td><td>21,00</td><td>0,00</td><td>21,00</td><td>25,67</td><td>&nbsp;</td><td>25,67</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,46</td><td>26,46</td><td>26,00</td><td>0,00</td><td>27,00</td><td>28,18</td><td>&nbsp;</td><td>28,18</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>33,35</td><td>33,00</td><td>0,00</td><td>33,00</td><td>31,45</td><td>&nbsp;</td><td>31,45</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>38,03</td><td>40,00</td><td>0,00</td><td>40,00</td><td>34,10</td><td>&nbsp;</td><td>34,10</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,56</td><td>30,08</td><td>28,00</td><td>0,00</td><td>28,00</td><td>35,48</td><td>&nbsp;</td><td>35,48</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>38,31</td><td>39,00</td><td>0,00</td><td>39,00</td><td>35,26</td><td>&nbsp;</td><td>35,26</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>28,88</td><td>29,00</td><td>0,00</td><td>29,00</td><td>33,32</td><td>&nbsp;</td><td>33,32</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>30,07</td><td>31,00</td><td>0,00</td><td>31,00</td><td>30,55</td><td>&nbsp;</td><td>30,55</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>20,58</td><td>20,00</td><td>0,00</td><td>19,00</td><td>27,99</td><td>&nbsp;</td><td>27,99</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>23,69</td><td>23,00</td><td>0,00</td><td>23,00</td><td>26,16</td><td>&nbsp;</td><td>26,16</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,49</td><td>21,12</td><td>21,00</td><td>0,00</td><td>21,00</td><td>24,77</td><td>&nbsp;</td><td>24,77</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>20,54</td><td>21,00</td><td>0,00</td><td>21,00</td><td>23,39</td><td>&nbsp;</td><td>23,39</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>18,77</td><td>19,00</td><td>0,00</td><td>19,00</td><td>22,16</td><td>&nbsp;</td><td>22,16</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,29</td><td>18,77</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,34</td><td>&nbsp;</td><td>21,34</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>19,46</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,15</td><td>&nbsp;</td><td>21,15</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>18,65</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,39</td><td>&nbsp;</td><td>21,39</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>21,54</td><td>22,00</td><td>0,00</td><td>22,00</td><td>21,66</td><td>&nbsp;</td><td>21,66</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,58</td><td>19,74</td><td>18,00</td><td>0,00</td><td>18,00</td><td>21,87</td><td>&nbsp;</td><td>21,87</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>17,15</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,76</td><td>&nbsp;</td><td>21,76</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>19,58</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,68</td><td>&nbsp;</td><td>21,68</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>18,46</td><td>18,00</td><td>0,00</td><td>18,00</td><td>21,41</td><td>&nbsp;</td><td>21,41</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>18,84</td><td>20,00</td><td>0,00</td><td>20,00</td><td>21,17</td><td>&nbsp;</td><td>21,17</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>18,39</td><td>17,00</td><td>0,00</td><td>17,00</td><td>20,81</td><td>&nbsp;</td><td>20,81</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>16,96</td><td>18,00</td><td>0,00</td><td>18,00</td><td>20,65</td><td>&nbsp;</td><td>20,65</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>18,23</td><td>18,00</td><td>0,00</td><td>18,00</td><td>20,92</td><td>&nbsp;</td><td>20,92</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>20,23</td><td>20,00</td><td>0,00</td><td>21,00</td><td>22,22</td><td>&nbsp;</td><td>22,22</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>17,42</td><td>18,00</td><td>0,00</td><td>18,00</td><td>23,85</td><td>&nbsp;</td><td>23,85</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,62</td><td>29,97</td><td>28,00</td><td>0,00</td><td>27,00</td><td>25,04</td><td>&nbsp;</td><td>25,04</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>21,26</td><td>23,00</td><td>0,00</td><td>23,00</td><td>24,64</td><td>&nbsp;</td><td>24,64</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>18,42</td><td>19,00</td><td>0,00</td><td>19,00</td><td>23,33</td><td>&nbsp;</td><td>23,33</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,68</td><td>17,38</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,95</td><td>&nbsp;</td><td>21,95</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>20,01</td><td>17,00</td><td>0,00</td><td>17,00</td><td>21,02</td><td>&nbsp;</td><td>21,02</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>20,42</td><td>21,00</td><td>0,00</td><td>21,00</td><td>20,39</td><td>&nbsp;</td><td>20,39</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>18,54</td><td>19,00</td><td>0,00</td><td>19,00</td><td>20,01</td><td>&nbsp;</td><td>20,01</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>15,54</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,94</td><td>&nbsp;</td><td>19,94</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>16,27</td><td>15,00</td><td>0,00</td><td>15,00</td><td>20,01</td><td>&nbsp;</td><td>20,01</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,95</td><td>&nbsp;</td><td>19,95</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,01</td><td>17,38</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,60</td><td>&nbsp;</td><td>19,60</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>14,93</td><td>14,00</td><td>0,00</td><td>14,00</td><td>19,18</td><td>&nbsp;</td><td>19,18</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>18,35</td><td>18,00</td><td>0,00</td><td>18,00</td><td>18,83</td><td>&nbsp;</td><td>18,83</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>18,00</td><td>18,00</td><td>0,00</td><td>18,00</td><td>18,59</td><td>&nbsp;</td><td>18,59</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>16,54</td><td>17,00</td><td>0,00</td><td>17,00</td><td>18,77</td><td>&nbsp;</td><td>18,77</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>16,46</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,01</td><td>&nbsp;</td><td>19,01</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,58</td><td>19,27</td><td>18,00</td><td>0,00</td><td>18,00</td><td>19,19</td><td>&nbsp;</td><td>19,19</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>17,03</td><td>19,00</td><td>0,00</td><td>19,00</td><td>19,03</td><td>&nbsp;</td><td>19,03</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,90</td><td>15,96</td><td>17,00</td><td>0,00</td><td>17,00</td><td>18,65</td><td>&nbsp;</td><td>18,65</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>18,04</td><td>17,00</td><td>0,00</td><td>17,00</td><td>18,12</td><td>&nbsp;</td><td>18,12</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>16,77</td><td>17,00</td><td>0,00</td><td>17,00</td><td>17,56</td><td>&nbsp;</td><td>17,56</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,87</td><td>15,07</td><td>16,00</td><td>0,00</td><td>16,00</td><td>17,11</td><td>&nbsp;</td><td>17,11</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,77</td><td>14,65</td><td>15,00</td><td>0,00</td><td>15,00</td><td>16,89</td><td>&nbsp;</td><td>16,89</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>16,39</td><td>15,00</td><td>0,00</td><td>15,00</td><td>16,86</td><td>&nbsp;</td><td>16,86</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>16,00</td><td>16,00</td><td>0,00</td><td>16,00</td><td>16,95</td><td>&nbsp;</td><td>16,95</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>19,27</td><td>18,00</td><td>0,00</td><td>18,00</td><td>17,03</td><td>&nbsp;</td><td>17,03</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,29</td><td>17,00</td><td>18,00</td><td>0,00</td><td>18,00</td><td>16,76</td><td>&nbsp;</td><td>16,76</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>22,00</td><td>21,00</td><td>0,00</td><td>22,00</td><td>16,82</td><td>&nbsp;</td><td>16,82</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>16,96</td><td>18,00</td><td>0,00</td><td>18,00</td><td>17,01</td><td>&nbsp;</td><td>17,01</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,01</td><td>15,19</td><td>16,00</td><td>0,00</td><td>16,00</td><td>16,91</td><td>&nbsp;</td><td>16,91</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>21,69</td><td>21,00</td><td>0,00</td><td>21,00</td><td>16,60</td><td>&nbsp;</td><td>16,60</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>17,12</td><td>17,00</td><td>0,00</td><td>17,00</td><td>16,37</td><td>&nbsp;</td><td>16,37</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>17,65</td><td>18,00</td><td>0,00</td><td>18,00</td><td>16,26</td><td>&nbsp;</td><td>16,26</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>15,93</td><td>15,00</td><td>0,00</td><td>15,00</td><td>16,47</td><td>&nbsp;</td><td>16,47</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>17,12</td><td>17,00</td><td>0,00</td><td>17,00</td><td>16,86</td><td>&nbsp;</td><td>16,86</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>17,00</td><td>17,00</td><td>0,00</td><td>17,00</td><td>16,79</td><td>&nbsp;</td><td>16,79</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>17,23</td><td>17,00</td><td>0,00</td><td>17,00</td><td>16,54</td><td>&nbsp;</td><td>16,54</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,90</td><td>14,92</td><td>17,00</td><td>0,00</td><td>17,00</td><td>15,92</td><td>&nbsp;</td><td>15,92</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,12</td><td>15,93</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,44</td><td>&nbsp;</td><td>15,44</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>15,23</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,09</td><td>&nbsp;</td><td>15,09</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>15,12</td><td>15,00</td><td>0,00</td><td>15,00</td><td>14,99</td><td>&nbsp;</td><td>14,99</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>15,00</td><td>15,00</td><td>0,00</td><td>15,00</td><td>14,90</td><td>&nbsp;</td><td>14,90</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>14,86</td><td>&nbsp;</td><td>14,86</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>14,31</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,04</td><td>&nbsp;</td><td>15,04</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>15,00</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,39</td><td>&nbsp;</td><td>15,39</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,22</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,89</td><td>&nbsp;</td><td>15,89</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,38</td><td>15,81</td><td>15,00</td><td>0,00</td><td>15,00</td><td>16,02</td><td>&nbsp;</td><td>16,02</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,44</td><td>18,23</td><td>18,00</td><td>0,00</td><td>18,00</td><td>15,95</td><td>&nbsp;</td><td>15,95</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>16,50</td><td>18,00</td><td>0,00</td><td>18,00</td><td>15,76</td><td>&nbsp;</td><td>15,76</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,90</td><td>14,19</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,67</td><td>&nbsp;</td><td>15,67</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>15,27</td><td>14,00</td><td>0,00</td><td>14,00</td><td>15,43</td><td>&nbsp;</td><td>15,43</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,00</td><td>&nbsp;</td><td>15,00</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,97</td><td>12,73</td><td>14,00</td><td>0,00</td><td>14,00</td><td>14,40</td><td>&nbsp;</td><td>14,40</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>13,12</td><td>13,00</td><td>0,00</td><td>13,00</td><td>13,91</td><td>&nbsp;</td><td>13,91</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>12,93</td><td>12,00</td><td>0,00</td><td>12,00</td><td>13,66</td><td>&nbsp;</td><td>13,66</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>14,00</td><td>14,00</td><td>0,00</td><td>14,00</td><td>13,52</td><td>&nbsp;</td><td>13,52</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,97</td><td>13,96</td><td>15,00</td><td>0,00</td><td>15,00</td><td>13,33</td><td>&nbsp;</td><td>13,33</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,01</td><td>14,12</td><td>14,00</td><td>0,00</td><td>14,00</td><td>12,91</td><td>&nbsp;</td><td>12,91</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,93</td><td>13,65</td><td>14,00</td><td>0,00</td><td>14,00</td><td>12,40</td><td>&nbsp;</td><td>12,40</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,82</td><td>13,65</td><td>14,00</td><td>0,00</td><td>14,00</td><td>11,89</td><td>&nbsp;</td><td>11,89</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,79</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,56</td><td>&nbsp;</td><td>11,56</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,76</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,48</td><td>&nbsp;</td><td>11,48</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,82</td><td>13,23</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,60</td><td>&nbsp;</td><td>11,60</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,90</td><td>12,23</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,72</td><td>&nbsp;</td><td>11,72</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,28</td><td>13,62</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,89</td><td>&nbsp;</td><td>11,89</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>12,65</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,13</td><td>&nbsp;</td><td>12,13</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,56</td><td>&nbsp;</td><td>12,56</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,45</td><td>15,16</td><td>14,00</td><td>0,00</td><td>14,00</td><td>12,98</td><td>&nbsp;</td><td>12,98</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>14,38</td><td>16,00</td><td>0,00</td><td>16,00</td><td>13,34</td><td>&nbsp;</td><td>13,34</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,04</td><td>12,77</td><td>13,00</td><td>0,00</td><td>13,00</td><td>13,48</td><td>&nbsp;</td><td>13,48</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>12,58</td><td>12,00</td><td>0,00</td><td>12,00</td><td>13,47</td><td>&nbsp;</td><td>13,47</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>14,23</td><td>14,00</td><td>0,00</td><td>14,00</td><td>13,27</td><td>&nbsp;</td><td>13,27</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,94</td><td>&nbsp;</td><td>12,94</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,59</td><td>&nbsp;</td><td>12,59</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>13,12</td><td>13,00</td><td>0,00</td><td>13,00</td><td>12,18</td><td>&nbsp;</td><td>12,18</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>12,65</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,86</td><td>&nbsp;</td><td>11,86</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>12,35</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,63</td><td>&nbsp;</td><td>11,63</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>12,54</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,49</td><td>&nbsp;</td><td>11,49</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,44</td><td>&nbsp;</td><td>11,44</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,49</td><td>&nbsp;</td><td>11,49</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,64</td><td>&nbsp;</td><td>11,64</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>12,77</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,79</td><td>&nbsp;</td><td>11,79</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>12,35</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,84</td><td>&nbsp;</td><td>11,84</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>12,23</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,87</td><td>&nbsp;</td><td>11,87</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,15</td><td>12,77</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,84</td><td>&nbsp;</td><td>11,84</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,01</td><td>11,42</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,85</td><td>&nbsp;</td><td>11,85</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>12,35</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,80</td><td>&nbsp;</td><td>11,80</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,17</td><td>12,35</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,79</td><td>&nbsp;</td><td>11,79</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>16,62</td><td>15,00</td><td>0,00</td><td>15,00</td><td>11,79</td><td>&nbsp;</td><td>11,79</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>17,50</td><td>19,00</td><td>0,00</td><td>19,00</td><td>11,75</td><td>&nbsp;</td><td>11,75</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,72</td><td>&nbsp;</td><td>11,72</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,07</td><td>11,42</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,67</td><td>&nbsp;</td><td>11,67</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,76</td><td>8,84</td><td>10,00</td><td>0,00</td><td>10,00</td><td>11,65</td><td>&nbsp;</td><td>11,65</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,80</td><td>7,12</td><td>7,00</td><td>0,00</td><td>7,00</td><td>11,61</td><td>&nbsp;</td><td>11,61</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,80</td><td>8,00</td><td>8,00</td><td>0,00</td><td>8,00</td><td>11,72</td><td>&nbsp;</td><td>11,72</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,76</td><td>6,88</td><td>7,00</td><td>0,00</td><td>7,00</td><td>12,00</td><td>&nbsp;</td><td>12,00</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,69</td><td>6,77</td><td>7,00</td><td>0,00</td><td>7,00</td><td>12,32</td><td>&nbsp;</td><td>12,32</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,55</td><td>13,59</td><td>10,00</td><td>0,00</td><td>10,00</td><td>12,55</td><td>&nbsp;</td><td>12,55</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>15,80</td><td>18,00</td><td>0,00</td><td>18,00</td><td>12,68</td><td>&nbsp;</td><td>12,68</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,04</td><td>8,88</td><td>9,00</td><td>0,00</td><td>9,00</td><td>12,74</td><td>&nbsp;</td><td>12,74</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,68</td><td>6,73</td><td>8,00</td><td>0,00</td><td>8,00</td><td>12,70</td><td>&nbsp;</td><td>12,70</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,84</td><td>7,46</td><td>7,00</td><td>0,00</td><td>7,00</td><td>12,53</td><td>&nbsp;</td><td>12,53</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>7,93</td><td>7,00</td><td>0,00</td><td>7,00</td><td>12,29</td><td>&nbsp;</td><td>12,29</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,93</td><td>7,42</td><td>8,00</td><td>0,00</td><td>8,00</td><td>11,96</td><td>&nbsp;</td><td>11,96</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>9,39</td><td>8,00</td><td>0,00</td><td>8,00</td><td>11,61</td><td>&nbsp;</td><td>11,61</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>13,12</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,34</td><td>&nbsp;</td><td>11,34</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>12,65</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,23</td><td>&nbsp;</td><td>11,23</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,21</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,27</td><td>&nbsp;</td><td>11,27</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,30</td><td>13,35</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,39</td><td>&nbsp;</td><td>11,39</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>12,54</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,48</td><td>&nbsp;</td><td>11,48</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,08</td><td>13,54</td><td>14,00</td><td>0,00</td><td>14,00</td><td>11,65</td><td>&nbsp;</td><td>11,65</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,04</td><td>12,88</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,81</td><td>&nbsp;</td><td>11,81</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,05</td><td>13,00</td><td>13,00</td><td>0,00</td><td>13,00</td><td>11,90</td><td>&nbsp;</td><td>11,90</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,08</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,70</td><td>&nbsp;</td><td>11,70</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,06</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>11,34</td><td>&nbsp;</td><td>11,34</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,09</td><td>12,12</td><td>12,00</td><td>0,00</td><td>12,00</td><td>10,90</td><td>&nbsp;</td><td>10,90</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,08</td><td>11,88</td><td>12,00</td><td>0,00</td><td>12,00</td><td>10,43</td><td>&nbsp;</td><td>10,43</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,08</td><td>12,00</td><td>12,00</td><td>0,00</td><td>12,00</td><td>10,21</td><td>&nbsp;</td><td>10,21</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>13,04</td><td>12,00</td><td>0,00</td><td>12,00</td><td>10,04</td><td>&nbsp;</td><td>10,04</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,89</td><td>12,26</td><td>14,00</td><td>0,00</td><td>14,00</td><td>10,25</td><td>&nbsp;</td><td>10,25</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,63</td><td>6,07</td><td>7,00</td><td>0,00</td><td>7,00</td><td>10,86</td><td>&nbsp;</td><td>10,86</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,53</td><td>5,77</td><td>6,00</td><td>0,00</td><td>6,00</td><td>11,87</td><td>&nbsp;</td><td>11,87</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,34</td><td>4,42</td><td>5,00</td><td>0,00</td><td>5,00</td><td>12,72</td><td>&nbsp;</td><td>12,72</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,50</td><td>4,46</td><td>4,00</td><td>0,00</td><td>4,00</td><td>13,02</td><td>&nbsp;</td><td>13,02</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,74</td><td>5,69</td><td>5,00</td><td>0,00</td><td>5,00</td><td>12,81</td><td>&nbsp;</td><td>12,81</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,81</td><td>6,23</td><td>6,00</td><td>0,00</td><td>6,00</td><td>12,26</td><td>&nbsp;</td><td>12,26</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,87</td><td>6,23</td><td>6,00</td><td>0,00</td><td>6,00</td><td>11,66</td><td>&nbsp;</td><td>11,66</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,78</td><td>7,77</td><td>8,00</td><td>2,00</td><td>6,00</td><td>11,31</td><td>&nbsp;</td><td>11,31</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,74</td><td>6,77</td><td>7,00</td><td>0,00</td><td>7,00</td><td>11,37</td><td>&nbsp;</td><td>11,37</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,84</td><td>6,35</td><td>6,00</td><td>0,00</td><td>6,00</td><td>11,75</td><td>&nbsp;</td><td>11,75</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,64</td><td>4,42</td><td>5,00</td><td>0,00</td><td>5,00</td><td>12,15</td><td>&nbsp;</td><td>12,15</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,57</td><td>4,77</td><td>5,00</td><td>0,00</td><td>5,00</td><td>12,37</td><td>&nbsp;</td><td>12,37</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>10,31</td><td>8,00</td><td>0,00</td><td>8,00</td><td>12,54</td><td>&nbsp;</td><td>12,54</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,25</td><td>15,12</td><td>15,00</td><td>0,00</td><td>15,00</td><td>12,80</td><td>&nbsp;</td><td>12,80</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,99</td><td>6,96</td><td>8,00</td><td>0,00</td><td>8,00</td><td>13,43</td><td>&nbsp;</td><td>13,43</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,89</td><td>7,65</td><td>8,00</td><td>0,00</td><td>8,00</td><td>14,30</td><td>&nbsp;</td><td>14,30</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,94</td><td>7,23</td><td>7,00</td><td>0,00</td><td>7,00</td><td>15,03</td><td>&nbsp;</td><td>15,03</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>16,62</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,49</td><td>&nbsp;</td><td>15,49</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>15,88</td><td>16,00</td><td>0,00</td><td>16,00</td><td>15,83</td><td>&nbsp;</td><td>15,83</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,49</td><td>22,81</td><td>22,00</td><td>0,00</td><td>22,00</td><td>16,32</td><td>&nbsp;</td><td>16,32</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,41</td><td>23,65</td><td>24,00</td><td>0,00</td><td>24,00</td><td>16,83</td><td>&nbsp;</td><td>16,83</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,53</td><td>21,58</td><td>21,00</td><td>0,00</td><td>21,00</td><td>17,22</td><td>&nbsp;</td><td>17,22</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>15,03</td><td>17,00</td><td>0,00</td><td>17,00</td><td>17,87</td><td>&nbsp;</td><td>17,87</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,76</td><td>6,73</td><td>8,00</td><td>0,00</td><td>8,00</td><td>19,03</td><td>&nbsp;</td><td>19,03</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>20,31</td><td>18,00</td><td>0,00</td><td>18,00</td><td>20,75</td><td>&nbsp;</td><td>20,75</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,08</td><td>25,84</td><td>27,00</td><td>0,00</td><td>27,00</td><td>22,41</td><td>&nbsp;</td><td>22,41</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>31,04</td><td>30,00</td><td>0,00</td><td>30,00</td><td>23,55</td><td>&nbsp;</td><td>23,55</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,03</td><td>27,84</td><td>29,00</td><td>0,00</td><td>29,00</td><td>23,87</td><td>&nbsp;</td><td>23,87</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,98</td><td>23,77</td><td>24,00</td><td>0,00</td><td>24,00</td><td>23,98</td><td>&nbsp;</td><td>23,98</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,14</td><td>22,58</td><td>22,00</td><td>0,00</td><td>22,00</td><td>24,23</td><td>&nbsp;</td><td>24,23</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,05</td><td>30,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>24,40</td><td>&nbsp;</td><td>24,40</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,97</td><td>22,77</td><td>23,00</td><td>0,00</td><td>23,00</td><td>24,28</td><td>&nbsp;</td><td>24,28</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,24</td><td>27,04</td><td>26,00</td><td>0,00</td><td>26,00</td><td>23,70</td><td>&nbsp;</td><td>23,70</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>23,07</td><td>24,00</td><td>0,00</td><td>24,00</td><td>21,93</td><td>&nbsp;</td><td>21,93</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,01</td><td>20,00</td><td>20,00</td><td>0,00</td><td>20,00</td><td>19,51</td><td>&nbsp;</td><td>19,51</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,12</td><td>15,46</td><td>15,00</td><td>0,00</td><td>15,00</td><td>17,23</td><td>&nbsp;</td><td>17,23</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,19</td><td>15,23</td><td>15,00</td><td>0,00</td><td>15,00</td><td>17,04</td><td>&nbsp;</td><td>17,04</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,50</td><td>13,57</td><td>16,00</td><td>0,00</td><td>16,00</td><td>19,98</td><td>&nbsp;</td><td>19,98</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,70</td><td>20,58</td><td>20,00</td><td>0,00</td><td>20,00</td><td>29,76</td><td>&nbsp;</td><td>29,76</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,70</td><td>44,40</td><td>40,00</td><td>0,00</td><td>40,00</td><td>48,37</td><td>&nbsp;</td><td>48,37</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>119,93</td><td>119,00</td><td>51,00</td><td>68,00</td><td>69,12</td><td>&nbsp;</td><td>69,12</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,83</td><td>106,77</td><td>107,00</td><td>26,00</td><td>81,00</td><td>82,57</td><td>&nbsp;</td><td>82,57</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>73,46</td><td>73,00</td><td>0,00</td><td>73,00</td><td>82,28</td><td>&nbsp;</td><td>82,28</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,52</td><td>82,92</td><td>85,00</td><td>5,00</td><td>80,00</td><td>72,76</td><td>&nbsp;</td><td>72,76</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>53,26</td><td>55,00</td><td>0,00</td><td>55,00</td><td>60,79</td><td>&nbsp;</td><td>60,79</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,54</td><td>37,74</td><td>36,00</td><td>0,00</td><td>36,00</td><td>52,49</td><td>&nbsp;</td><td>52,49</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,35</td><td>50,07</td><td>51,00</td><td>0,00</td><td>51,00</td><td>50,23</td><td>&nbsp;</td><td>50,23</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,31</td><td>60,88</td><td>61,00</td><td>0,00</td><td>61,00</td><td>49,49</td><td>&nbsp;</td><td>49,49</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>55,42</td><td>56,00</td><td>0,00</td><td>56,00</td><td>51,88</td><td>&nbsp;</td><td>51,88</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,34</td><td>42,69</td><td>42,00</td><td>0,00</td><td>42,00</td><td>74,21</td><td>&nbsp;</td><td>74,21</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>126,59</td><td>123,00</td><td>55,00</td><td>68,00</td><td>119,39</td><td>&nbsp;</td><td>119,39</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>202,58</td><td>213,00</td><td>144,00</td><td>69,00</td><td>162,05</td><td>&nbsp;</td><td>162,05</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>369,50</td><td>166,00</td><td>166,00</td><td>96,00</td><td>70,00</td><td>175,22</td><td>&nbsp;</td><td>175,22</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>133,42</td><td>123,00</td><td>53,00</td><td>70,00</td><td>160,23</td><td>&nbsp;</td><td>160,23</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>370,00</td><td>172,28</td><td>182,00</td><td>113,00</td><td>69,00</td><td>149,84</td><td>&nbsp;</td><td>149,84</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,91</td><td>119,14</td><td>110,00</td><td>40,00</td><td>70,00</td><td>135,94</td><td>&nbsp;</td><td>135,94</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,89</td><td>126,88</td><td>127,00</td><td>57,00</td><td>70,00</td><td>130,28</td><td>&nbsp;</td><td>130,28</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,99</td><td>126,58</td><td>126,00</td><td>56,00</td><td>70,00</td><td>131,49</td><td>&nbsp;</td><td>131,49</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,99</td><td>146,00</td><td>146,00</td><td>78,00</td><td>68,00</td><td>130,47</td><td>&nbsp;</td><td>130,47</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,60</td><td>113,80</td><td>116,00</td><td>35,00</td><td>81,00</td><td>124,11</td><td>&nbsp;</td><td>124,11</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,85</td><td>117,39</td><td>116,00</td><td>35,00</td><td>81,00</td><td>115,59</td><td>&nbsp;</td><td>115,59</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>373,00</td><td>99,93</td><td>99,00</td><td>16,00</td><td>83,00</td><td>99,24</td><td>&nbsp;</td><td>99,24</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,64</td><td>67,92</td><td>70,00</td><td>2,00</td><td>68,00</td><td>80,90</td><td>&nbsp;</td><td>80,90</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,78</td><td>61,81</td><td>61,00</td><td>0,00</td><td>61,00</td><td>65,82</td><td>&nbsp;</td><td>65,82</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,00</td><td>54,29</td><td>61,00</td><td>0,00</td><td>61,00</td><td>55,59</td><td>&nbsp;</td><td>55,59</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,00</td><td>49,00</td><td>49,00</td><td>0,00</td><td>49,00</td><td>50,76</td><td>&nbsp;</td><td>50,76</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,85</td><td>45,06</td><td>38,00</td><td>0,00</td><td>38,00</td><td>48,26</td><td>&nbsp;</td><td>48,26</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,59</td><td>40,61</td><td>42,00</td><td>0,00</td><td>42,00</td><td>45,83</td><td>&nbsp;</td><td>45,83</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,20</td><td>31,15</td><td>33,00</td><td>0,00</td><td>33,00</td><td>41,89</td><td>&nbsp;</td><td>41,89</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,12</td><td>29,65</td><td>30,00</td><td>0,00</td><td>30,00</td><td>37,87</td><td>&nbsp;</td><td>37,87</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,16</td><td>27,12</td><td>27,00</td><td>0,00</td><td>27,00</td><td>34,84</td><td>&nbsp;</td><td>34,84</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>26,69</td><td>26,00</td><td>0,00</td><td>26,00</td><td>32,39</td><td>&nbsp;</td><td>32,39</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>25,23</td><td>25,00</td><td>0,00</td><td>25,00</td><td>29,96</td><td>&nbsp;</td><td>29,96</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>22,84</td><td>24,00</td><td>0,00</td><td>24,00</td><td>28,91</td><td>&nbsp;</td><td>28,91</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>24,39</td><td>23,00</td><td>0,00</td><td>23,00</td><td>27,96</td><td>&nbsp;</td><td>27,96</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>24,31</td><td>25,00</td><td>0,00</td><td>25,00</td><td>27,41</td><td>&nbsp;</td><td>27,41</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>22,00</td><td>22,00</td><td>0,00</td><td>22,00</td><td>26,24</td><td>&nbsp;</td><td>26,24</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,32</td><td>21,23</td><td>21,00</td><td>0,00</td><td>21,00</td><td>26,10</td><td>&nbsp;</td><td>26,10</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,47</td><td>21,69</td><td>21,00</td><td>0,00</td><td>21,00</td><td>28,56</td><td>&nbsp;</td><td>28,56</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,42</td><td>31,77</td><td>32,00</td><td>0,00</td><td>32,00</td><td>32,26</td><td>&nbsp;</td><td>32,26</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,36</td><td>34,77</td><td>35,00</td><td>0,00</td><td>35,00</td><td>35,80</td><td>&nbsp;</td><td>35,80</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>36,12</td><td>36,00</td><td>0,00</td><td>36,00</td><td>36,49</td><td>&nbsp;</td><td>36,49</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>30,07</td><td>31,00</td><td>0,00</td><td>31,00</td><td>36,05</td><td>&nbsp;</td><td>36,05</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,52</td><td>29,62</td><td>28,00</td><td>0,00</td><td>28,00</td><td>42,05</td><td>&nbsp;</td><td>42,05</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,84</td><td>56,74</td><td>55,00</td><td>3,00</td><td>52,00</td><td>56,59</td><td>&nbsp;</td><td>56,59</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>86,12</td><td>86,00</td><td>7,00</td><td>79,00</td><td>72,57</td><td>&nbsp;</td><td>72,57</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>74,23</td><td>74,00</td><td>0,00</td><td>74,00</td><td>78,55</td><td>&nbsp;</td><td>78,55</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,10</td><td>78,95</td><td>83,00</td><td>6,00</td><td>77,00</td><td>73,41</td><td>&nbsp;</td><td>73,41</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,90</td><td>48,05</td><td>44,00</td><td>0,00</td><td>44,00</td><td>60,60</td><td>&nbsp;</td><td>60,60</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,50</td><td>38,80</td><td>41,00</td><td>0,00</td><td>41,00</td><td>45,94</td><td>&nbsp;</td><td>45,94</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,33</td><td>29,19</td><td>30,00</td><td>0,00</td><td>30,00</td><td>36,41</td><td>&nbsp;</td><td>36,41</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,39</td><td>28,23</td><td>28,00</td><td>0,00</td><td>28,00</td><td>31,45</td><td>&nbsp;</td><td>31,45</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,27</td><td>24,42</td><td>25,00</td><td>0,00</td><td>25,00</td><td>29,66</td><td>&nbsp;</td><td>29,66</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,18</td><td>24,65</td><td>25,00</td><td>0,00</td><td>25,00</td><td>28,54</td><td>&nbsp;</td><td>28,54</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,80</td><td>24,12</td><td>21,00</td><td>0,00</td><td>21,00</td><td>28,15</td><td>&nbsp;</td><td>28,15</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,26</td><td>22,22</td><td>25,00</td><td>0,00</td><td>25,00</td><td>27,60</td><td>&nbsp;</td><td>27,60</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,05</td><td>24,07</td><td>25,00</td><td>0,00</td><td>25,00</td><td>26,16</td><td>&nbsp;</td><td>26,16</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,98</td><td>18,77</td><td>19,00</td><td>0,00</td><td>19,00</td><td>24,13</td><td>&nbsp;</td><td>24,13</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>19,12</td><td>19,00</td><td>0,00</td><td>19,00</td><td>21,85</td><td>&nbsp;</td><td>21,85</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>20,35</td><td>20,00</td><td>0,00</td><td>20,00</td><td>20,33</td><td>&nbsp;</td><td>20,33</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,05</td><td>14,77</td><td>15,00</td><td>0,00</td><td>15,00</td><td>19,02</td><td>&nbsp;</td><td>19,02</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,13</td><td>15,35</td><td>15,00</td><td>0,00</td><td>15,00</td><td>18,18</td><td>&nbsp;</td><td>18,18</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,85</td><td>13,96</td><td>15,00</td><td>0,00</td><td>15,00</td><td>18,15</td><td>&nbsp;</td><td>18,15</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,23</td><td>17,50</td><td>16,00</td><td>0,00</td><td>16,00</td><td>18,64</td><td>&nbsp;</td><td>18,64</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,12</td><td>21,54</td><td>22,00</td><td>0,00</td><td>22,00</td><td>18,88</td><td>&nbsp;</td><td>18,88</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>17,54</td><td>18,00</td><td>0,00</td><td>18,00</td><td>17,84</td><td>&nbsp;</td><td>17,84</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,00</td><td>16,00</td><td>16,00</td><td>0,00</td><td>16,00</td><td>16,15</td><td>&nbsp;</td><td>16,15</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>371,99</td><td>14,88</td><td>15,00</td><td>0,00</td><td>15,00</td><td>15,11</td><td>&nbsp;</td><td>15,11</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,11</td><td>16,93</td><td>16,00</td><td>0,00</td><td>16,00</td><td>15,30</td><td>&nbsp;</td><td>15,30</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,37</td><td>23,20</td><td>21,00</td><td>0,00</td><td>21,00</td><td>19,80</td><td>&nbsp;</td><td>19,80</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,87</td><td>95,28</td><td>91,00</td><td>23,00</td><td>68,00</td><td>33,83</td><td>&nbsp;</td><td>33,83</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19106</td><td>SA CARVALHO                                       </td><td>372,82</td><td>221,54</td><td>222,00</td><td>139,00</td><td>83,00</td><td>173,28</td><td>&nbsp;</td><td>173,28</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

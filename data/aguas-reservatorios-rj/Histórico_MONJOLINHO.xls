@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>163,61</td><td>187,00</td><td>71,00</td><td>132,00</td><td>240,10</td><td>&nbsp;</td><td>240,10</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,79</td><td>175,80</td><td>167,00</td><td>51,00</td><td>132,00</td><td>203,07</td><td>&nbsp;</td><td>203,07</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>142,57</td><td>145,00</td><td>29,00</td><td>133,00</td><td>168,29</td><td>&nbsp;</td><td>168,29</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>216,55</td><td>221,00</td><td>105,00</td><td>133,00</td><td>167,24</td><td>&nbsp;</td><td>167,24</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>131,96</td><td>139,00</td><td>7,00</td><td>132,00</td><td>170,15</td><td>&nbsp;</td><td>170,15</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,01</td><td>193,29</td><td>166,00</td><td>35,00</td><td>131,00</td><td>220,89</td><td>&nbsp;</td><td>220,89</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,96</td><td>324,96</td><td>328,00</td><td>195,00</td><td>133,00</td><td>226,40</td><td>&nbsp;</td><td>226,40</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,73</td><td>175,98</td><td>190,00</td><td>58,00</td><td>131,00</td><td>184,14</td><td>&nbsp;</td><td>184,14</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>201,25</td><td>200,00</td><td>68,00</td><td>132,00</td><td>197,84</td><td>&nbsp;</td><td>197,84</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,74</td><td>185,39</td><td>186,00</td><td>54,00</td><td>132,00</td><td>189,93</td><td>&nbsp;</td><td>189,93</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>172,88</td><td>178,00</td><td>46,00</td><td>133,00</td><td>164,41</td><td>&nbsp;</td><td>164,41</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>150,16</td><td>154,00</td><td>24,00</td><td>130,00</td><td>125,51</td><td>&nbsp;</td><td>125,51</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,58</td><td>145,72</td><td>147,00</td><td>17,00</td><td>130,00</td><td>114,34</td><td>&nbsp;</td><td>114,34</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,55</td><td>139,08</td><td>141,00</td><td>10,00</td><td>130,00</td><td>94,21</td><td>&nbsp;</td><td>94,21</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,34</td><td>119,57</td><td>133,00</td><td>1,00</td><td>133,00</td><td>87,27</td><td>&nbsp;</td><td>87,27</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,07</td><td>109,73</td><td>127,00</td><td>0,00</td><td>127,00</td><td>93,30</td><td>&nbsp;</td><td>93,30</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,25</td><td>37,35</td><td>91,00</td><td>0,00</td><td>91,00</td><td>89,98</td><td>&nbsp;</td><td>89,98</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,08</td><td>75,78</td><td>87,00</td><td>0,00</td><td>87,00</td><td>74,96</td><td>&nbsp;</td><td>74,96</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,03</td><td>78,70</td><td>82,00</td><td>0,00</td><td>82,00</td><td>70,80</td><td>&nbsp;</td><td>70,80</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,59</td><td>82,97</td><td>46,00</td><td>0,00</td><td>46,00</td><td>68,75</td><td>&nbsp;</td><td>68,75</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,80</td><td>87,87</td><td>74,00</td><td>0,00</td><td>74,00</td><td>68,35</td><td>&nbsp;</td><td>68,35</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>78,72</td><td>84,00</td><td>0,00</td><td>84,00</td><td>58,52</td><td>&nbsp;</td><td>58,52</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,06</td><td>80,98</td><td>59,00</td><td>0,00</td><td>59,00</td><td>49,97</td><td>&nbsp;</td><td>49,97</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,03</td><td>16,08</td><td>18,00</td><td>0,00</td><td>18,00</td><td>50,28</td><td>&nbsp;</td><td>50,28</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,11</td><td>82,12</td><td>77,00</td><td>0,00</td><td>77,00</td><td>52,48</td><td>&nbsp;</td><td>52,48</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,61</td><td>73,56</td><td>106,00</td><td>0,00</td><td>106,00</td><td>99,59</td><td>&nbsp;</td><td>99,59</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>71,49</td><td>88,00</td><td>0,00</td><td>88,00</td><td>66,44</td><td>&nbsp;</td><td>66,44</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,76</td><td>72,41</td><td>46,00</td><td>0,00</td><td>46,00</td><td>50,73</td><td>&nbsp;</td><td>50,73</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,45</td><td>66,53</td><td>87,00</td><td>0,00</td><td>87,00</td><td>50,70</td><td>&nbsp;</td><td>50,70</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,05</td><td>76,16</td><td>37,00</td><td>0,00</td><td>37,00</td><td>59,11</td><td>&nbsp;</td><td>59,11</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,87</td><td>701,71</td><td>589,00</td><td>495,00</td><td>94,00</td><td>754,76</td><td>&nbsp;</td><td>754,76</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,34</td><td>738,92</td><td>771,00</td><td>636,00</td><td>135,00</td><td>693,08</td><td>&nbsp;</td><td>693,08</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,85</td><td>338,21</td><td>368,00</td><td>235,00</td><td>133,00</td><td>393,46</td><td>&nbsp;</td><td>393,46</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,77</td><td>223,14</td><td>228,00</td><td>95,00</td><td>133,00</td><td>247,26</td><td>&nbsp;</td><td>247,26</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,79</td><td>197,22</td><td>196,00</td><td>63,00</td><td>133,00</td><td>205,14</td><td>&nbsp;</td><td>205,14</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>165,12</td><td>172,00</td><td>39,00</td><td>133,00</td><td>201,02</td><td>&nbsp;</td><td>201,02</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,82</td><td>167,70</td><td>159,00</td><td>26,00</td><td>133,00</td><td>163,59</td><td>&nbsp;</td><td>163,59</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,22</td><td>106,87</td><td>145,00</td><td>17,00</td><td>129,00</td><td>157,86</td><td>&nbsp;</td><td>157,86</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,03</td><td>110,84</td><td>123,00</td><td>0,00</td><td>123,00</td><td>152,11</td><td>&nbsp;</td><td>152,11</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,04</td><td>111,64</td><td>111,00</td><td>0,00</td><td>111,00</td><td>135,93</td><td>&nbsp;</td><td>135,93</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,92</td><td>125,32</td><td>133,00</td><td>0,00</td><td>133,00</td><td>101,84</td><td>&nbsp;</td><td>101,84</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,20</td><td>137,91</td><td>120,00</td><td>0,00</td><td>120,00</td><td>105,24</td><td>&nbsp;</td><td>105,24</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,82</td><td>107,67</td><td>132,00</td><td>0,00</td><td>132,00</td><td>81,40</td><td>&nbsp;</td><td>81,40</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,37</td><td>98,29</td><td>128,00</td><td>0,00</td><td>128,00</td><td>96,48</td><td>&nbsp;</td><td>96,48</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,76</td><td>90,75</td><td>65,00</td><td>0,00</td><td>65,00</td><td>178,01</td><td>&nbsp;</td><td>178,01</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,14</td><td>149,45</td><td>125,00</td><td>0,00</td><td>125,00</td><td>204,51</td><td>&nbsp;</td><td>204,51</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,54</td><td>138,59</td><td>113,00</td><td>2,00</td><td>111,00</td><td>154,15</td><td>&nbsp;</td><td>154,15</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,77</td><td>178,62</td><td>164,00</td><td>34,00</td><td>130,00</td><td>189,14</td><td>&nbsp;</td><td>189,14</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>167,42</td><td>175,00</td><td>44,00</td><td>131,00</td><td>189,85</td><td>&nbsp;</td><td>189,85</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,50</td><td>124,40</td><td>134,00</td><td>4,00</td><td>130,00</td><td>152,72</td><td>&nbsp;</td><td>152,72</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,10</td><td>103,41</td><td>129,00</td><td>0,00</td><td>129,00</td><td>141,61</td><td>&nbsp;</td><td>141,61</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,93</td><td>84,12</td><td>95,00</td><td>0,00</td><td>95,00</td><td>110,99</td><td>&nbsp;</td><td>110,99</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,21</td><td>117,91</td><td>100,00</td><td>0,00</td><td>107,00</td><td>119,40</td><td>&nbsp;</td><td>119,40</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,47</td><td>134,63</td><td>118,00</td><td>6,00</td><td>112,00</td><td>107,03</td><td>&nbsp;</td><td>107,03</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,25</td><td>118,93</td><td>133,00</td><td>0,00</td><td>133,00</td><td>103,72</td><td>&nbsp;</td><td>103,72</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,94</td><td>100,17</td><td>120,00</td><td>0,00</td><td>120,00</td><td>103,13</td><td>&nbsp;</td><td>103,13</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>112,64</td><td>121,00</td><td>0,00</td><td>121,00</td><td>100,08</td><td>&nbsp;</td><td>100,08</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,78</td><td>97,00</td><td>99,00</td><td>0,00</td><td>99,00</td><td>126,89</td><td>&nbsp;</td><td>126,89</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,22</td><td>108,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>144,46</td><td>&nbsp;</td><td>144,46</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,11</td><td>126,00</td><td>133,00</td><td>0,00</td><td>133,00</td><td>119,64</td><td>&nbsp;</td><td>119,64</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,96</td><td>106,00</td><td>116,00</td><td>0,00</td><td>116,00</td><td>96,23</td><td>&nbsp;</td><td>96,23</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,58</td><td>105,00</td><td>130,00</td><td>0,00</td><td>130,00</td><td>119,52</td><td>&nbsp;</td><td>119,52</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>106,00</td><td>98,00</td><td>0,00</td><td>98,00</td><td>126,70</td><td>&nbsp;</td><td>126,70</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,92</td><td>121,00</td><td>107,00</td><td>0,00</td><td>107,00</td><td>125,28</td><td>&nbsp;</td><td>125,28</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,44</td><td>99,00</td><td>66,00</td><td>0,00</td><td>66,00</td><td>106,20</td><td>&nbsp;</td><td>106,20</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,47</td><td>64,92</td><td>63,00</td><td>0,00</td><td>63,00</td><td>102,19</td><td>&nbsp;</td><td>102,19</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,32</td><td>123,40</td><td>133,00</td><td>0,00</td><td>133,00</td><td>82,19</td><td>&nbsp;</td><td>82,19</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,03</td><td>114,45</td><td>133,00</td><td>0,00</td><td>133,00</td><td>82,16</td><td>&nbsp;</td><td>82,16</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,48</td><td>121,79</td><td>93,00</td><td>0,00</td><td>93,00</td><td>118,05</td><td>&nbsp;</td><td>118,05</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,72</td><td>249,35</td><td>234,00</td><td>101,00</td><td>133,00</td><td>188,16</td><td>&nbsp;</td><td>188,16</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,54</td><td>131,48</td><td>143,00</td><td>11,00</td><td>132,00</td><td>130,99</td><td>&nbsp;</td><td>130,99</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,76</td><td>59,96</td><td>110,00</td><td>0,00</td><td>110,00</td><td>99,45</td><td>&nbsp;</td><td>99,45</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,77</td><td>39,66</td><td>39,00</td><td>0,00</td><td>39,00</td><td>95,12</td><td>&nbsp;</td><td>95,12</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,90</td><td>95,44</td><td>87,00</td><td>0,00</td><td>87,00</td><td>114,54</td><td>&nbsp;</td><td>114,54</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,88</td><td>95,72</td><td>97,00</td><td>0,00</td><td>97,00</td><td>103,36</td><td>&nbsp;</td><td>103,36</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,80</td><td>88,82</td><td>94,00</td><td>0,00</td><td>94,00</td><td>79,59</td><td>&nbsp;</td><td>79,59</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,86</td><td>87,90</td><td>84,00</td><td>0,00</td><td>84,00</td><td>75,40</td><td>&nbsp;</td><td>75,40</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>90,72</td><td>92,00</td><td>0,00</td><td>92,00</td><td>74,11</td><td>&nbsp;</td><td>74,11</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>100,14</td><td>112,00</td><td>0,00</td><td>112,00</td><td>69,90</td><td>&nbsp;</td><td>69,90</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>58,36</td><td>61,00</td><td>0,00</td><td>61,00</td><td>61,61</td><td>&nbsp;</td><td>61,61</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>93,83</td><td>111,00</td><td>0,00</td><td>111,00</td><td>119,59</td><td>&nbsp;</td><td>119,59</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,80</td><td>234,90</td><td>142,00</td><td>8,00</td><td>134,00</td><td>261,30</td><td>&nbsp;</td><td>261,30</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>195,51</td><td>203,00</td><td>70,00</td><td>133,00</td><td>201,69</td><td>&nbsp;</td><td>201,69</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>145,00</td><td>145,00</td><td>14,00</td><td>131,00</td><td>127,64</td><td>&nbsp;</td><td>127,64</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,10</td><td>267,73</td><td>242,00</td><td>110,00</td><td>133,00</td><td>243,93</td><td>&nbsp;</td><td>243,93</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,03</td><td>392,74</td><td>397,00</td><td>263,00</td><td>133,00</td><td>331,25</td><td>&nbsp;</td><td>331,25</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,78</td><td>246,80</td><td>262,00</td><td>129,00</td><td>133,00</td><td>265,88</td><td>&nbsp;</td><td>265,88</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>159,45</td><td>167,00</td><td>34,00</td><td>133,00</td><td>206,39</td><td>&nbsp;</td><td>206,39</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>156,00</td><td>156,00</td><td>24,00</td><td>132,00</td><td>167,26</td><td>&nbsp;</td><td>167,26</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>142,16</td><td>146,00</td><td>15,00</td><td>131,00</td><td>134,60</td><td>&nbsp;</td><td>134,60</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,55</td><td>141,80</td><td>145,00</td><td>14,00</td><td>130,00</td><td>114,51</td><td>&nbsp;</td><td>114,51</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,44</td><td>124,96</td><td>132,00</td><td>0,00</td><td>132,00</td><td>111,23</td><td>&nbsp;</td><td>111,23</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,27</td><td>122,12</td><td>133,00</td><td>0,00</td><td>133,00</td><td>95,49</td><td>&nbsp;</td><td>95,49</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>65,99</td><td>108,00</td><td>0,00</td><td>111,00</td><td>100,72</td><td>&nbsp;</td><td>100,72</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,49</td><td>125,42</td><td>134,00</td><td>0,00</td><td>134,00</td><td>98,44</td><td>&nbsp;</td><td>98,44</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>113,47</td><td>128,00</td><td>0,00</td><td>128,00</td><td>85,43</td><td>&nbsp;</td><td>85,43</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,08</td><td>122,46</td><td>135,00</td><td>0,00</td><td>135,00</td><td>73,43</td><td>&nbsp;</td><td>73,43</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,85</td><td>120,61</td><td>135,00</td><td>0,00</td><td>135,00</td><td>71,63</td><td>&nbsp;</td><td>71,63</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,51</td><td>114,27</td><td>134,00</td><td>0,00</td><td>134,00</td><td>71,27</td><td>&nbsp;</td><td>71,27</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,82</td><td>120,99</td><td>103,00</td><td>0,00</td><td>103,00</td><td>77,95</td><td>&nbsp;</td><td>77,95</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,65</td><td>95,13</td><td>105,00</td><td>0,00</td><td>105,00</td><td>80,64</td><td>&nbsp;</td><td>80,64</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,71</td><td>80,48</td><td>77,00</td><td>0,00</td><td>77,00</td><td>111,17</td><td>&nbsp;</td><td>111,17</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,55</td><td>79,71</td><td>89,00</td><td>0,00</td><td>89,00</td><td>103,99</td><td>&nbsp;</td><td>103,99</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,63</td><td>69,64</td><td>65,00</td><td>0,00</td><td>65,00</td><td>92,81</td><td>&nbsp;</td><td>92,81</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>96,55</td><td>76,00</td><td>0,00</td><td>76,00</td><td>140,72</td><td>&nbsp;</td><td>140,72</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,81</td><td>105,89</td><td>116,00</td><td>0,00</td><td>116,00</td><td>131,73</td><td>&nbsp;</td><td>131,73</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,67</td><td>96,87</td><td>105,00</td><td>0,00</td><td>105,00</td><td>119,94</td><td>&nbsp;</td><td>119,94</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,92</td><td>72,51</td><td>58,00</td><td>0,00</td><td>58,00</td><td>112,01</td><td>&nbsp;</td><td>112,01</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,70</td><td>67,23</td><td>80,00</td><td>0,00</td><td>80,00</td><td>78,94</td><td>&nbsp;</td><td>78,94</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,56</td><td>74,87</td><td>83,00</td><td>0,00</td><td>83,00</td><td>63,83</td><td>&nbsp;</td><td>63,83</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,50</td><td>71,52</td><td>75,00</td><td>0,00</td><td>75,00</td><td>87,00</td><td>&nbsp;</td><td>87,00</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,55</td><td>66,90</td><td>64,00</td><td>0,00</td><td>64,00</td><td>89,20</td><td>&nbsp;</td><td>89,20</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,54</td><td>78,42</td><td>79,00</td><td>0,00</td><td>79,00</td><td>111,67</td><td>&nbsp;</td><td>111,67</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,67</td><td>61,55</td><td>54,00</td><td>0,00</td><td>54,00</td><td>88,58</td><td>&nbsp;</td><td>88,58</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,66</td><td>74,42</td><td>75,00</td><td>0,00</td><td>75,00</td><td>93,79</td><td>&nbsp;</td><td>93,79</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,52</td><td>94,87</td><td>103,00</td><td>0,00</td><td>103,00</td><td>169,08</td><td>&nbsp;</td><td>169,08</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,04</td><td>154,90</td><td>124,00</td><td>0,00</td><td>124,00</td><td>193,09</td><td>&nbsp;</td><td>193,09</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,43</td><td>223,54</td><td>133,00</td><td>0,00</td><td>133,00</td><td>207,87</td><td>&nbsp;</td><td>207,87</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,46</td><td>131,92</td><td>130,00</td><td>0,00</td><td>130,00</td><td>176,53</td><td>&nbsp;</td><td>176,53</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,04</td><td>106,13</td><td>133,00</td><td>0,00</td><td>133,00</td><td>135,33</td><td>&nbsp;</td><td>135,33</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,28</td><td>83,25</td><td>133,00</td><td>0,00</td><td>133,00</td><td>109,24</td><td>&nbsp;</td><td>109,24</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>72,81</td><td>88,00</td><td>0,00</td><td>88,00</td><td>109,90</td><td>&nbsp;</td><td>109,90</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,96</td><td>89,06</td><td>95,00</td><td>0,00</td><td>95,00</td><td>97,42</td><td>&nbsp;</td><td>97,42</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,68</td><td>89,67</td><td>106,00</td><td>0,00</td><td>106,00</td><td>94,08</td><td>&nbsp;</td><td>94,08</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,95</td><td>87,67</td><td>72,00</td><td>0,00</td><td>72,00</td><td>92,24</td><td>&nbsp;</td><td>92,24</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,01</td><td>90,96</td><td>87,00</td><td>0,00</td><td>87,00</td><td>81,07</td><td>&nbsp;</td><td>81,07</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,90</td><td>128,14</td><td>135,00</td><td>0,00</td><td>135,00</td><td>80,74</td><td>&nbsp;</td><td>80,74</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,19</td><td>131,75</td><td>113,00</td><td>0,00</td><td>113,00</td><td>81,06</td><td>&nbsp;</td><td>81,06</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>125,76</td><td>135,00</td><td>0,00</td><td>135,00</td><td>78,54</td><td>&nbsp;</td><td>78,54</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,18</td><td>117,58</td><td>109,00</td><td>0,00</td><td>109,00</td><td>98,55</td><td>&nbsp;</td><td>98,55</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,92</td><td>108,07</td><td>125,00</td><td>0,00</td><td>125,00</td><td>152,32</td><td>&nbsp;</td><td>152,32</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>152,26</td><td>101,00</td><td>0,00</td><td>101,00</td><td>185,95</td><td>&nbsp;</td><td>185,95</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,34</td><td>109,23</td><td>133,00</td><td>0,00</td><td>133,00</td><td>141,67</td><td>&nbsp;</td><td>141,67</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,81</td><td>96,12</td><td>130,00</td><td>0,00</td><td>130,00</td><td>92,08</td><td>&nbsp;</td><td>92,08</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,89</td><td>97,64</td><td>93,00</td><td>0,00</td><td>93,00</td><td>98,54</td><td>&nbsp;</td><td>98,54</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>85,42</td><td>41,00</td><td>0,00</td><td>41,00</td><td>133,72</td><td>&nbsp;</td><td>133,72</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,97</td><td>146,12</td><td>120,00</td><td>0,00</td><td>120,00</td><td>177,72</td><td>&nbsp;</td><td>177,72</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>183,50</td><td>140,00</td><td>9,00</td><td>131,00</td><td>160,21</td><td>&nbsp;</td><td>160,21</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,62</td><td>160,08</td><td>162,00</td><td>31,00</td><td>130,00</td><td>120,16</td><td>&nbsp;</td><td>120,16</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,55</td><td>140,52</td><td>145,00</td><td>15,00</td><td>130,00</td><td>109,95</td><td>&nbsp;</td><td>109,95</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,67</td><td>142,68</td><td>135,00</td><td>4,00</td><td>131,00</td><td>153,37</td><td>&nbsp;</td><td>153,37</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,72</td><td>204,20</td><td>201,00</td><td>70,00</td><td>130,00</td><td>241,50</td><td>&nbsp;</td><td>241,50</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,64</td><td>168,88</td><td>174,00</td><td>43,00</td><td>131,00</td><td>203,46</td><td>&nbsp;</td><td>203,46</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>138,52</td><td>143,00</td><td>12,00</td><td>130,00</td><td>165,85</td><td>&nbsp;</td><td>165,85</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,47</td><td>129,60</td><td>136,00</td><td>5,00</td><td>131,00</td><td>139,01</td><td>&nbsp;</td><td>139,01</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,21</td><td>110,37</td><td>127,00</td><td>0,00</td><td>127,00</td><td>118,27</td><td>&nbsp;</td><td>118,27</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>106,05</td><td>133,00</td><td>0,00</td><td>133,00</td><td>111,10</td><td>&nbsp;</td><td>111,10</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>95,71</td><td>134,00</td><td>0,00</td><td>134,00</td><td>87,61</td><td>&nbsp;</td><td>87,61</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>101,15</td><td>82,00</td><td>0,00</td><td>82,00</td><td>86,94</td><td>&nbsp;</td><td>86,94</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,22</td><td>89,51</td><td>108,00</td><td>0,00</td><td>108,00</td><td>92,54</td><td>&nbsp;</td><td>92,54</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,15</td><td>80,38</td><td>85,00</td><td>0,00</td><td>85,00</td><td>100,04</td><td>&nbsp;</td><td>100,04</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,74</td><td>80,61</td><td>106,00</td><td>0,00</td><td>106,00</td><td>88,04</td><td>&nbsp;</td><td>88,04</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,53</td><td>65,81</td><td>78,00</td><td>0,00</td><td>78,00</td><td>77,56</td><td>&nbsp;</td><td>77,56</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,72</td><td>87,03</td><td>76,00</td><td>0,00</td><td>76,00</td><td>67,60</td><td>&nbsp;</td><td>67,60</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,80</td><td>68,64</td><td>64,00</td><td>0,00</td><td>64,00</td><td>65,15</td><td>&nbsp;</td><td>65,15</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,83</td><td>63,74</td><td>62,00</td><td>0,00</td><td>62,00</td><td>63,78</td><td>&nbsp;</td><td>63,78</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>49,09</td><td>21,00</td><td>0,00</td><td>21,00</td><td>66,27</td><td>&nbsp;</td><td>66,27</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,94</td><td>60,29</td><td>82,00</td><td>0,00</td><td>82,00</td><td>63,55</td><td>&nbsp;</td><td>63,55</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,22</td><td>68,41</td><td>50,00</td><td>0,00</td><td>50,00</td><td>57,27</td><td>&nbsp;</td><td>57,27</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,68</td><td>62,50</td><td>96,00</td><td>0,00</td><td>96,00</td><td>57,56</td><td>&nbsp;</td><td>57,56</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,32</td><td>67,10</td><td>27,00</td><td>0,00</td><td>27,00</td><td>61,38</td><td>&nbsp;</td><td>61,38</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,22</td><td>61,40</td><td>68,00</td><td>0,00</td><td>68,00</td><td>61,96</td><td>&nbsp;</td><td>61,96</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>59,15</td><td>75,00</td><td>0,00</td><td>75,00</td><td>58,05</td><td>&nbsp;</td><td>58,05</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,96</td><td>50,68</td><td>52,00</td><td>0,00</td><td>52,00</td><td>53,79</td><td>&nbsp;</td><td>53,79</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,87</td><td>65,70</td><td>71,00</td><td>0,00</td><td>71,00</td><td>51,50</td><td>&nbsp;</td><td>51,50</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,78</td><td>53,78</td><td>59,00</td><td>0,00</td><td>59,00</td><td>47,53</td><td>&nbsp;</td><td>47,53</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,76</td><td>53,84</td><td>55,00</td><td>0,00</td><td>50,00</td><td>50,93</td><td>&nbsp;</td><td>50,93</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>81,25</td><td>59,00</td><td>0,00</td><td>59,00</td><td>67,09</td><td>&nbsp;</td><td>67,09</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,41</td><td>110,15</td><td>91,00</td><td>0,00</td><td>91,00</td><td>94,39</td><td>&nbsp;</td><td>94,39</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,06</td><td>109,89</td><td>133,00</td><td>0,00</td><td>133,00</td><td>71,17</td><td>&nbsp;</td><td>71,17</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,82</td><td>80,19</td><td>95,00</td><td>0,00</td><td>95,00</td><td>54,01</td><td>&nbsp;</td><td>54,01</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,79</td><td>85,26</td><td>87,00</td><td>0,00</td><td>87,00</td><td>47,99</td><td>&nbsp;</td><td>47,99</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,85</td><td>96,48</td><td>93,00</td><td>0,00</td><td>93,00</td><td>42,87</td><td>&nbsp;</td><td>42,87</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,97</td><td>97,12</td><td>90,00</td><td>0,00</td><td>90,00</td><td>44,98</td><td>&nbsp;</td><td>44,98</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,15</td><td>96,88</td><td>85,00</td><td>0,00</td><td>85,00</td><td>46,76</td><td>&nbsp;</td><td>46,76</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>83,92</td><td>76,00</td><td>0,00</td><td>76,00</td><td>49,30</td><td>&nbsp;</td><td>49,30</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,31</td><td>55,64</td><td>53,00</td><td>0,00</td><td>53,00</td><td>46,40</td><td>&nbsp;</td><td>46,40</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>33,46</td><td>46,00</td><td>0,00</td><td>46,00</td><td>41,95</td><td>&nbsp;</td><td>41,95</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,91</td><td>68,45</td><td>82,00</td><td>0,00</td><td>82,00</td><td>41,83</td><td>&nbsp;</td><td>41,83</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>90,43</td><td>65,00</td><td>0,00</td><td>65,00</td><td>39,61</td><td>&nbsp;</td><td>39,61</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,16</td><td>91,76</td><td>101,00</td><td>0,00</td><td>101,00</td><td>41,18</td><td>&nbsp;</td><td>41,18</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,02</td><td>94,76</td><td>104,00</td><td>0,00</td><td>104,00</td><td>41,89</td><td>&nbsp;</td><td>41,89</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,06</td><td>91,64</td><td>89,00</td><td>0,00</td><td>89,00</td><td>43,26</td><td>&nbsp;</td><td>43,26</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,90</td><td>47,84</td><td>58,00</td><td>0,00</td><td>58,00</td><td>41,29</td><td>&nbsp;</td><td>41,29</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>36,13</td><td>22,00</td><td>0,00</td><td>22,00</td><td>37,29</td><td>&nbsp;</td><td>37,29</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,90</td><td>76,87</td><td>91,00</td><td>0,00</td><td>91,00</td><td>38,64</td><td>&nbsp;</td><td>38,64</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,82</td><td>87,36</td><td>92,00</td><td>0,00</td><td>92,00</td><td>41,89</td><td>&nbsp;</td><td>41,89</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,60</td><td>85,23</td><td>98,00</td><td>0,00</td><td>95,00</td><td>81,38</td><td>&nbsp;</td><td>81,38</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,31</td><td>115,08</td><td>71,00</td><td>0,00</td><td>71,00</td><td>74,38</td><td>&nbsp;</td><td>74,38</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,17</td><td>104,76</td><td>114,00</td><td>0,00</td><td>114,00</td><td>61,89</td><td>&nbsp;</td><td>61,89</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>94,46</td><td>107,00</td><td>0,00</td><td>107,00</td><td>61,01</td><td>&nbsp;</td><td>61,01</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,44</td><td>87,37</td><td>57,00</td><td>0,00</td><td>57,00</td><td>64,76</td><td>&nbsp;</td><td>64,76</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>99,94</td><td>94,00</td><td>0,00</td><td>94,00</td><td>66,26</td><td>&nbsp;</td><td>66,26</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,22</td><td>96,53</td><td>117,00</td><td>0,00</td><td>117,00</td><td>59,57</td><td>&nbsp;</td><td>59,57</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,85</td><td>94,37</td><td>118,00</td><td>0,00</td><td>118,00</td><td>51,25</td><td>&nbsp;</td><td>51,25</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>171,59</td><td>109,00</td><td>0,00</td><td>109,00</td><td>248,03</td><td>&nbsp;</td><td>248,03</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,87</td><td>240,44</td><td>173,00</td><td>40,00</td><td>133,00</td><td>335,73</td><td>&nbsp;</td><td>335,73</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>204,34</td><td>218,00</td><td>88,00</td><td>130,00</td><td>370,25</td><td>&nbsp;</td><td>370,25</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,14</td><td>105,37</td><td>138,00</td><td>7,00</td><td>131,00</td><td>311,88</td><td>&nbsp;</td><td>311,88</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>99,30</td><td>133,00</td><td>0,00</td><td>133,00</td><td>252,63</td><td>&nbsp;</td><td>252,63</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>110,89</td><td>134,00</td><td>0,00</td><td>134,00</td><td>182,40</td><td>&nbsp;</td><td>182,40</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>124,15</td><td>105,00</td><td>0,00</td><td>105,00</td><td>123,47</td><td>&nbsp;</td><td>123,47</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,83</td><td>111,83</td><td>94,00</td><td>0,00</td><td>94,00</td><td>101,92</td><td>&nbsp;</td><td>101,92</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>103,64</td><td>103,00</td><td>0,00</td><td>103,00</td><td>79,25</td><td>&nbsp;</td><td>79,25</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>86,50</td><td>101,00</td><td>0,00</td><td>101,00</td><td>75,16</td><td>&nbsp;</td><td>75,16</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,86</td><td>56,78</td><td>41,00</td><td>0,00</td><td>41,00</td><td>68,45</td><td>&nbsp;</td><td>68,45</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,51</td><td>109,95</td><td>133,00</td><td>0,00</td><td>133,00</td><td>65,42</td><td>&nbsp;</td><td>65,42</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,20</td><td>114,53</td><td>135,00</td><td>0,00</td><td>135,00</td><td>67,91</td><td>&nbsp;</td><td>67,91</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,13</td><td>105,38</td><td>110,00</td><td>0,00</td><td>110,00</td><td>88,11</td><td>&nbsp;</td><td>88,11</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>109,79</td><td>88,00</td><td>0,00</td><td>88,00</td><td>83,08</td><td>&nbsp;</td><td>83,08</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,99</td><td>93,97</td><td>125,00</td><td>0,00</td><td>125,00</td><td>67,84</td><td>&nbsp;</td><td>67,84</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,93</td><td>79,20</td><td>83,00</td><td>0,00</td><td>83,00</td><td>53,96</td><td>&nbsp;</td><td>53,96</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>21,14</td><td>18,00</td><td>0,00</td><td>18,00</td><td>49,35</td><td>&nbsp;</td><td>49,35</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,25</td><td>83,83</td><td>66,00</td><td>0,00</td><td>66,00</td><td>49,42</td><td>&nbsp;</td><td>49,42</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>112,49</td><td>94,00</td><td>0,00</td><td>94,00</td><td>51,98</td><td>&nbsp;</td><td>51,98</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>112,64</td><td>110,00</td><td>0,00</td><td>110,00</td><td>49,22</td><td>&nbsp;</td><td>49,22</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,17</td><td>107,59</td><td>134,00</td><td>0,00</td><td>134,00</td><td>48,73</td><td>&nbsp;</td><td>48,73</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>114,69</td><td>83,00</td><td>0,00</td><td>83,00</td><td>50,93</td><td>&nbsp;</td><td>50,93</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,08</td><td>87,37</td><td>125,00</td><td>0,00</td><td>125,00</td><td>60,25</td><td>&nbsp;</td><td>60,25</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,15</td><td>73,62</td><td>69,00</td><td>0,00</td><td>69,00</td><td>68,86</td><td>&nbsp;</td><td>68,86</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,23</td><td>120,28</td><td>115,00</td><td>0,00</td><td>115,00</td><td>74,22</td><td>&nbsp;</td><td>74,22</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>117,51</td><td>101,00</td><td>0,00</td><td>101,00</td><td>68,47</td><td>&nbsp;</td><td>68,47</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,77</td><td>115,15</td><td>96,00</td><td>0,00</td><td>96,00</td><td>59,60</td><td>&nbsp;</td><td>59,60</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,93</td><td>111,36</td><td>101,00</td><td>0,00</td><td>101,00</td><td>44,97</td><td>&nbsp;</td><td>44,97</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>102,78</td><td>127,00</td><td>0,00</td><td>127,00</td><td>36,15</td><td>&nbsp;</td><td>36,15</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>93,83</td><td>111,00</td><td>0,00</td><td>111,00</td><td>29,95</td><td>&nbsp;</td><td>29,95</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>109,20</td><td>96,00</td><td>0,00</td><td>96,00</td><td>44,36</td><td>&nbsp;</td><td>44,36</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>109,91</td><td>135,00</td><td>0,00</td><td>135,00</td><td>75,08</td><td>&nbsp;</td><td>75,08</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,95</td><td>123,78</td><td>135,00</td><td>0,00</td><td>135,00</td><td>119,11</td><td>&nbsp;</td><td>119,11</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,79</td><td>120,71</td><td>130,00</td><td>0,00</td><td>130,00</td><td>98,67</td><td>&nbsp;</td><td>98,67</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,01</td><td>126,25</td><td>113,00</td><td>0,00</td><td>113,00</td><td>83,04</td><td>&nbsp;</td><td>83,04</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,82</td><td>120,49</td><td>132,00</td><td>0,00</td><td>132,00</td><td>103,09</td><td>&nbsp;</td><td>103,09</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,09</td><td>129,79</td><td>113,00</td><td>0,00</td><td>113,00</td><td>195,16</td><td>&nbsp;</td><td>195,16</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,06</td><td>141,57</td><td>78,00</td><td>0,00</td><td>78,00</td><td>249,90</td><td>&nbsp;</td><td>249,90</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,36</td><td>152,19</td><td>133,00</td><td>0,00</td><td>133,00</td><td>217,40</td><td>&nbsp;</td><td>217,40</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,29</td><td>128,52</td><td>133,00</td><td>0,00</td><td>133,00</td><td>174,13</td><td>&nbsp;</td><td>174,13</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,83</td><td>86,57</td><td>116,00</td><td>0,00</td><td>116,00</td><td>131,16</td><td>&nbsp;</td><td>131,16</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,29</td><td>87,35</td><td>123,00</td><td>0,00</td><td>123,00</td><td>111,10</td><td>&nbsp;</td><td>111,10</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,91</td><td>93,23</td><td>118,00</td><td>0,00</td><td>118,00</td><td>99,15</td><td>&nbsp;</td><td>99,15</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,10</td><td>38,23</td><td>26,00</td><td>0,00</td><td>26,00</td><td>90,91</td><td>&nbsp;</td><td>90,91</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>42,15</td><td>23,00</td><td>0,00</td><td>23,00</td><td>94,98</td><td>&nbsp;</td><td>94,98</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,35</td><td>92,36</td><td>95,00</td><td>0,00</td><td>95,00</td><td>97,75</td><td>&nbsp;</td><td>97,75</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,25</td><td>105,40</td><td>112,00</td><td>0,00</td><td>112,00</td><td>93,58</td><td>&nbsp;</td><td>93,58</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,28</td><td>112,98</td><td>111,00</td><td>0,00</td><td>111,00</td><td>98,59</td><td>&nbsp;</td><td>98,59</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,54</td><td>121,17</td><td>104,00</td><td>0,00</td><td>104,00</td><td>93,33</td><td>&nbsp;</td><td>93,33</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,10</td><td>106,95</td><td>136,00</td><td>0,00</td><td>136,00</td><td>79,64</td><td>&nbsp;</td><td>79,64</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,40</td><td>89,81</td><td>70,00</td><td>0,00</td><td>70,00</td><td>73,84</td><td>&nbsp;</td><td>73,84</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>32,60</td><td>26,00</td><td>0,00</td><td>26,00</td><td>73,97</td><td>&nbsp;</td><td>73,97</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,24</td><td>58,83</td><td>76,00</td><td>0,00</td><td>76,00</td><td>78,82</td><td>&nbsp;</td><td>78,82</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,52</td><td>83,49</td><td>65,00</td><td>0,00</td><td>65,00</td><td>125,63</td><td>&nbsp;</td><td>125,63</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,51</td><td>62,34</td><td>63,00</td><td>0,00</td><td>63,00</td><td>145,44</td><td>&nbsp;</td><td>145,44</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>93,87</td><td>80,00</td><td>0,00</td><td>80,00</td><td>135,10</td><td>&nbsp;</td><td>135,10</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,97</td><td>98,22</td><td>82,00</td><td>0,00</td><td>82,00</td><td>107,56</td><td>&nbsp;</td><td>107,56</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>78,72</td><td>89,00</td><td>0,00</td><td>89,00</td><td>84,81</td><td>&nbsp;</td><td>84,81</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,78</td><td>34,02</td><td>36,00</td><td>0,00</td><td>36,00</td><td>71,82</td><td>&nbsp;</td><td>71,82</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>88,10</td><td>98,00</td><td>0,00</td><td>98,00</td><td>64,51</td><td>&nbsp;</td><td>64,51</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>92,42</td><td>101,00</td><td>0,00</td><td>101,00</td><td>62,50</td><td>&nbsp;</td><td>62,50</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,20</td><td>80,19</td><td>100,00</td><td>0,00</td><td>100,00</td><td>63,83</td><td>&nbsp;</td><td>63,83</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>63,72</td><td>69,00</td><td>0,00</td><td>69,00</td><td>65,45</td><td>&nbsp;</td><td>65,45</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>64,00</td><td>64,00</td><td>0,00</td><td>64,00</td><td>65,56</td><td>&nbsp;</td><td>65,56</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,81</td><td>62,65</td><td>82,00</td><td>0,00</td><td>82,00</td><td>64,71</td><td>&nbsp;</td><td>64,71</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,08</td><td>60,71</td><td>44,00</td><td>0,00</td><td>44,00</td><td>60,66</td><td>&nbsp;</td><td>60,66</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>66,69</td><td>35,00</td><td>0,00</td><td>35,00</td><td>55,88</td><td>&nbsp;</td><td>55,88</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,70</td><td>65,21</td><td>120,00</td><td>0,00</td><td>120,00</td><td>51,72</td><td>&nbsp;</td><td>51,72</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,81</td><td>65,38</td><td>59,00</td><td>0,00</td><td>59,00</td><td>50,02</td><td>&nbsp;</td><td>50,02</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,23</td><td>63,61</td><td>37,00</td><td>0,00</td><td>37,00</td><td>47,53</td><td>&nbsp;</td><td>47,53</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,86</td><td>57,29</td><td>81,00</td><td>0,00</td><td>81,00</td><td>44,94</td><td>&nbsp;</td><td>44,94</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>58,22</td><td>18,00</td><td>0,00</td><td>18,00</td><td>41,78</td><td>&nbsp;</td><td>41,78</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,71</td><td>38,19</td><td>23,00</td><td>0,00</td><td>23,00</td><td>40,56</td><td>&nbsp;</td><td>40,56</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,24</td><td>53,97</td><td>85,00</td><td>0,00</td><td>85,00</td><td>37,11</td><td>&nbsp;</td><td>37,11</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,54</td><td>62,81</td><td>43,00</td><td>0,00</td><td>43,00</td><td>33,81</td><td>&nbsp;</td><td>33,81</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,85</td><td>61,43</td><td>41,00</td><td>0,00</td><td>41,00</td><td>30,09</td><td>&nbsp;</td><td>30,09</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,03</td><td>60,52</td><td>49,00</td><td>0,00</td><td>49,00</td><td>32,22</td><td>&nbsp;</td><td>32,22</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,20</td><td>56,88</td><td>46,00</td><td>0,00</td><td>46,00</td><td>32,58</td><td>&nbsp;</td><td>32,58</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,13</td><td>60,52</td><td>65,00</td><td>0,00</td><td>65,00</td><td>31,43</td><td>&nbsp;</td><td>31,43</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>24,92</td><td>56,00</td><td>0,00</td><td>56,00</td><td>30,98</td><td>&nbsp;</td><td>30,98</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,05</td><td>86,96</td><td>61,00</td><td>0,00</td><td>61,00</td><td>31,04</td><td>&nbsp;</td><td>31,04</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,67</td><td>109,66</td><td>70,00</td><td>5,00</td><td>65,00</td><td>41,86</td><td>&nbsp;</td><td>41,86</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,70</td><td>112,92</td><td>111,00</td><td>46,00</td><td>65,00</td><td>47,01</td><td>&nbsp;</td><td>47,01</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,71</td><td>115,64</td><td>115,00</td><td>50,00</td><td>65,00</td><td>48,26</td><td>&nbsp;</td><td>48,26</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,69</td><td>112,72</td><td>114,00</td><td>48,00</td><td>66,00</td><td>37,16</td><td>&nbsp;</td><td>37,16</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,21</td><td>104,29</td><td>135,00</td><td>5,00</td><td>130,00</td><td>26,03</td><td>&nbsp;</td><td>26,03</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,00</td><td>37,57</td><td>51,00</td><td>0,00</td><td>51,00</td><td>23,44</td><td>&nbsp;</td><td>23,44</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,35</td><td>91,43</td><td>134,00</td><td>0,00</td><td>134,00</td><td>24,09</td><td>&nbsp;</td><td>24,09</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,89</td><td>106,11</td><td>136,00</td><td>0,00</td><td>136,00</td><td>30,18</td><td>&nbsp;</td><td>30,18</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,94</td><td>27,90</td><td>25,00</td><td>0,00</td><td>25,00</td><td>38,86</td><td>&nbsp;</td><td>38,86</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>146,80</td><td>135,00</td><td>0,00</td><td>135,00</td><td>156,12</td><td>&nbsp;</td><td>156,12</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>153,83</td><td>136,00</td><td>0,00</td><td>136,00</td><td>119,48</td><td>&nbsp;</td><td>119,48</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,35</td><td>133,36</td><td>136,00</td><td>0,00</td><td>136,00</td><td>75,07</td><td>&nbsp;</td><td>75,07</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,24</td><td>56,74</td><td>64,00</td><td>0,00</td><td>64,00</td><td>69,83</td><td>&nbsp;</td><td>69,83</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>122,69</td><td>91,00</td><td>0,00</td><td>91,00</td><td>88,12</td><td>&nbsp;</td><td>88,12</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,86</td><td>149,78</td><td>77,00</td><td>11,00</td><td>66,00</td><td>337,19</td><td>&nbsp;</td><td>337,19</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,96</td><td>201,08</td><td>195,00</td><td>130,00</td><td>65,00</td><td>396,46</td><td>&nbsp;</td><td>396,46</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,99</td><td>253,82</td><td>252,00</td><td>186,00</td><td>65,00</td><td>549,03</td><td>&nbsp;</td><td>549,03</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,87</td><td>200,70</td><td>208,00</td><td>143,00</td><td>65,00</td><td>516,38</td><td>&nbsp;</td><td>516,38</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,80</td><td>129,74</td><td>134,00</td><td>69,00</td><td>65,00</td><td>389,52</td><td>&nbsp;</td><td>389,52</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,32</td><td>50,48</td><td>81,00</td><td>19,00</td><td>63,00</td><td>285,90</td><td>&nbsp;</td><td>285,90</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,82</td><td>133,73</td><td>102,00</td><td>37,00</td><td>65,00</td><td>272,30</td><td>&nbsp;</td><td>272,30</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,87</td><td>158,04</td><td>155,00</td><td>90,00</td><td>65,00</td><td>234,99</td><td>&nbsp;</td><td>234,99</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,91</td><td>191,43</td><td>189,00</td><td>123,00</td><td>65,00</td><td>253,43</td><td>&nbsp;</td><td>253,43</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,98</td><td>221,26</td><td>217,00</td><td>152,00</td><td>65,00</td><td>269,77</td><td>&nbsp;</td><td>269,77</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,84</td><td>196,49</td><td>205,00</td><td>134,00</td><td>71,00</td><td>223,72</td><td>&nbsp;</td><td>223,72</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>154,80</td><td>166,00</td><td>48,00</td><td>118,00</td><td>165,13</td><td>&nbsp;</td><td>165,13</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>87,32</td><td>149,00</td><td>9,00</td><td>140,00</td><td>152,62</td><td>&nbsp;</td><td>152,62</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>113,10</td><td>93,00</td><td>0,00</td><td>93,00</td><td>148,42</td><td>&nbsp;</td><td>148,42</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,98</td><td>122,08</td><td>124,00</td><td>0,00</td><td>124,00</td><td>113,42</td><td>&nbsp;</td><td>113,42</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,46</td><td>162,71</td><td>132,00</td><td>0,00</td><td>132,00</td><td>250,21</td><td>&nbsp;</td><td>250,21</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,70</td><td>175,35</td><td>160,00</td><td>30,00</td><td>130,00</td><td>180,82</td><td>&nbsp;</td><td>180,82</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,67</td><td>165,08</td><td>167,00</td><td>37,00</td><td>130,00</td><td>148,81</td><td>&nbsp;</td><td>148,81</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,59</td><td>147,88</td><td>153,00</td><td>23,00</td><td>130,00</td><td>118,60</td><td>&nbsp;</td><td>118,60</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,39</td><td>108,20</td><td>121,00</td><td>2,00</td><td>118,00</td><td>106,78</td><td>&nbsp;</td><td>106,78</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,46</td><td>136,48</td><td>132,00</td><td>0,00</td><td>132,00</td><td>116,88</td><td>&nbsp;</td><td>116,88</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,44</td><td>128,72</td><td>130,00</td><td>0,00</td><td>130,00</td><td>111,86</td><td>&nbsp;</td><td>111,86</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,44</td><td>130,00</td><td>130,00</td><td>0,00</td><td>130,00</td><td>125,37</td><td>&nbsp;</td><td>125,37</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,27</td><td>114,12</td><td>125,00</td><td>0,00</td><td>130,00</td><td>101,47</td><td>&nbsp;</td><td>101,47</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,96</td><td>113,17</td><td>133,00</td><td>0,00</td><td>133,00</td><td>94,65</td><td>&nbsp;</td><td>94,65</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,71</td><td>88,76</td><td>105,00</td><td>0,00</td><td>105,00</td><td>74,09</td><td>&nbsp;</td><td>74,09</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,47</td><td>69,87</td><td>21,00</td><td>0,00</td><td>21,00</td><td>69,32</td><td>&nbsp;</td><td>69,32</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,54</td><td>71,91</td><td>132,00</td><td>0,00</td><td>132,00</td><td>71,56</td><td>&nbsp;</td><td>71,56</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,18</td><td>62,23</td><td>86,00</td><td>0,00</td><td>86,00</td><td>76,68</td><td>&nbsp;</td><td>76,68</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>69,56</td><td>26,00</td><td>0,00</td><td>26,00</td><td>98,15</td><td>&nbsp;</td><td>98,15</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,90</td><td>65,84</td><td>62,00</td><td>0,00</td><td>62,00</td><td>85,58</td><td>&nbsp;</td><td>85,58</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,74</td><td>67,58</td><td>78,00</td><td>0,00</td><td>78,00</td><td>67,95</td><td>&nbsp;</td><td>67,95</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,88</td><td>82,14</td><td>73,00</td><td>0,00</td><td>73,00</td><td>56,47</td><td>&nbsp;</td><td>56,47</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>86,63</td><td>107,00</td><td>0,00</td><td>107,00</td><td>56,58</td><td>&nbsp;</td><td>56,58</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>92,23</td><td>116,00</td><td>0,00</td><td>116,00</td><td>56,98</td><td>&nbsp;</td><td>56,98</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,95</td><td>82,83</td><td>100,00</td><td>0,00</td><td>100,00</td><td>51,81</td><td>&nbsp;</td><td>51,81</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,90</td><td>118,58</td><td>56,00</td><td>0,00</td><td>56,00</td><td>42,49</td><td>&nbsp;</td><td>42,49</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,82</td><td>113,86</td><td>119,00</td><td>0,00</td><td>119,00</td><td>39,65</td><td>&nbsp;</td><td>39,65</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,52</td><td>113,19</td><td>133,00</td><td>0,00</td><td>133,00</td><td>41,73</td><td>&nbsp;</td><td>41,73</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,34</td><td>94,12</td><td>106,00</td><td>0,00</td><td>106,00</td><td>43,16</td><td>&nbsp;</td><td>43,16</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,60</td><td>116,17</td><td>99,00</td><td>0,00</td><td>99,00</td><td>43,93</td><td>&nbsp;</td><td>43,93</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,31</td><td>114,85</td><td>134,00</td><td>0,00</td><td>134,00</td><td>45,40</td><td>&nbsp;</td><td>45,40</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>115,13</td><td>94,00</td><td>0,00</td><td>94,00</td><td>41,79</td><td>&nbsp;</td><td>41,79</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>102,66</td><td>102,00</td><td>0,00</td><td>102,00</td><td>39,18</td><td>&nbsp;</td><td>39,18</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,33</td><td>91,53</td><td>112,00</td><td>0,00</td><td>112,00</td><td>39,20</td><td>&nbsp;</td><td>39,20</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>115,53</td><td>71,00</td><td>0,00</td><td>71,00</td><td>52,53</td><td>&nbsp;</td><td>52,53</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,76</td><td>116,86</td><td>133,00</td><td>0,00</td><td>133,00</td><td>58,05</td><td>&nbsp;</td><td>58,05</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,52</td><td>117,15</td><td>133,00</td><td>0,00</td><td>133,00</td><td>58,94</td><td>&nbsp;</td><td>58,94</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,28</td><td>117,15</td><td>133,00</td><td>0,00</td><td>133,00</td><td>49,51</td><td>&nbsp;</td><td>49,51</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>115,19</td><td>135,00</td><td>0,00</td><td>135,00</td><td>46,75</td><td>&nbsp;</td><td>46,75</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,82</td><td>114,47</td><td>124,00</td><td>0,00</td><td>124,00</td><td>51,88</td><td>&nbsp;</td><td>51,88</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>119,60</td><td>83,00</td><td>0,00</td><td>83,00</td><td>59,12</td><td>&nbsp;</td><td>59,12</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,08</td><td>137,04</td><td>92,00</td><td>0,00</td><td>92,00</td><td>61,92</td><td>&nbsp;</td><td>61,92</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>87,58</td><td>128,00</td><td>0,00</td><td>133,00</td><td>53,92</td><td>&nbsp;</td><td>53,92</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>120,46</td><td>133,00</td><td>0,00</td><td>133,00</td><td>44,38</td><td>&nbsp;</td><td>44,38</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,91</td><td>125,09</td><td>83,00</td><td>0,00</td><td>83,00</td><td>38,32</td><td>&nbsp;</td><td>38,32</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>119,56</td><td>126,00</td><td>0,00</td><td>126,00</td><td>35,46</td><td>&nbsp;</td><td>35,46</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>98,35</td><td>134,00</td><td>0,00</td><td>134,00</td><td>31,34</td><td>&nbsp;</td><td>31,34</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,87</td><td>110,23</td><td>136,00</td><td>0,00</td><td>136,00</td><td>28,55</td><td>&nbsp;</td><td>28,55</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,90</td><td>111,74</td><td>110,00</td><td>0,00</td><td>110,00</td><td>27,00</td><td>&nbsp;</td><td>27,00</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,84</td><td>109,52</td><td>113,00</td><td>0,00</td><td>113,00</td><td>31,90</td><td>&nbsp;</td><td>31,90</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,67</td><td>112,92</td><td>59,00</td><td>0,00</td><td>59,00</td><td>46,58</td><td>&nbsp;</td><td>46,58</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,51</td><td>112,44</td><td>123,00</td><td>0,00</td><td>123,00</td><td>61,40</td><td>&nbsp;</td><td>61,40</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,03</td><td>88,31</td><td>120,00</td><td>0,00</td><td>120,00</td><td>67,16</td><td>&nbsp;</td><td>67,16</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,95</td><td>75,72</td><td>81,00</td><td>0,00</td><td>81,00</td><td>59,13</td><td>&nbsp;</td><td>59,13</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>95,28</td><td>55,00</td><td>0,00</td><td>55,00</td><td>47,21</td><td>&nbsp;</td><td>47,21</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>114,02</td><td>116,00</td><td>0,00</td><td>116,00</td><td>38,54</td><td>&nbsp;</td><td>38,54</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>116,00</td><td>116,00</td><td>0,00</td><td>116,00</td><td>35,85</td><td>&nbsp;</td><td>35,85</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>92,20</td><td>79,00</td><td>0,00</td><td>79,00</td><td>36,15</td><td>&nbsp;</td><td>36,15</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,94</td><td>115,64</td><td>102,00</td><td>0,00</td><td>102,00</td><td>35,24</td><td>&nbsp;</td><td>35,24</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>111,38</td><td>127,00</td><td>0,00</td><td>127,00</td><td>36,47</td><td>&nbsp;</td><td>36,47</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>111,98</td><td>110,00</td><td>0,00</td><td>110,00</td><td>33,79</td><td>&nbsp;</td><td>33,79</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>59,10</td><td>104,00</td><td>0,00</td><td>104,00</td><td>34,11</td><td>&nbsp;</td><td>34,11</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,47</td><td>66,73</td><td>39,00</td><td>0,00</td><td>39,00</td><td>33,46</td><td>&nbsp;</td><td>33,46</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,31</td><td>111,44</td><td>122,00</td><td>0,00</td><td>122,00</td><td>84,14</td><td>&nbsp;</td><td>84,14</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>48,90</td><td>39,00</td><td>0,00</td><td>39,00</td><td>79,96</td><td>&nbsp;</td><td>79,96</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>102,56</td><td>92,00</td><td>0,00</td><td>92,00</td><td>63,00</td><td>&nbsp;</td><td>63,00</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,31</td><td>112,53</td><td>133,00</td><td>0,00</td><td>133,00</td><td>49,47</td><td>&nbsp;</td><td>49,47</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,42</td><td>118,26</td><td>111,00</td><td>0,00</td><td>111,00</td><td>39,43</td><td>&nbsp;</td><td>39,43</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>106,02</td><td>108,00</td><td>0,00</td><td>108,00</td><td>103,76</td><td>&nbsp;</td><td>103,76</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>91,24</td><td>82,00</td><td>0,00</td><td>82,00</td><td>120,90</td><td>&nbsp;</td><td>120,90</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>83,32</td><td>82,00</td><td>0,00</td><td>82,00</td><td>101,62</td><td>&nbsp;</td><td>101,62</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,59</td><td>51,64</td><td>49,00</td><td>0,00</td><td>49,00</td><td>97,26</td><td>&nbsp;</td><td>97,26</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>71,36</td><td>74,00</td><td>0,00</td><td>74,00</td><td>102,31</td><td>&nbsp;</td><td>102,31</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,82</td><td>116,83</td><td>99,00</td><td>0,00</td><td>99,00</td><td>127,32</td><td>&nbsp;</td><td>127,32</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>109,23</td><td>133,00</td><td>0,00</td><td>133,00</td><td>112,88</td><td>&nbsp;</td><td>112,88</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,58</td><td>87,92</td><td>80,00</td><td>0,00</td><td>80,00</td><td>90,39</td><td>&nbsp;</td><td>90,39</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,59</td><td>86,66</td><td>86,00</td><td>0,00</td><td>86,00</td><td>69,08</td><td>&nbsp;</td><td>69,08</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>71,98</td><td>70,00</td><td>0,00</td><td>70,00</td><td>55,88</td><td>&nbsp;</td><td>55,88</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>68,76</td><td>78,00</td><td>0,00</td><td>78,00</td><td>49,46</td><td>&nbsp;</td><td>49,46</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,37</td><td>70,74</td><td>78,00</td><td>0,00</td><td>78,00</td><td>47,58</td><td>&nbsp;</td><td>47,58</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>67,87</td><td>89,00</td><td>0,00</td><td>89,00</td><td>47,41</td><td>&nbsp;</td><td>47,41</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,41</td><td>68,77</td><td>45,00</td><td>0,00</td><td>45,00</td><td>41,96</td><td>&nbsp;</td><td>41,96</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,14</td><td>66,17</td><td>84,00</td><td>0,00</td><td>84,00</td><td>30,62</td><td>&nbsp;</td><td>30,62</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>62,51</td><td>46,00</td><td>0,00</td><td>46,00</td><td>18,27</td><td>&nbsp;</td><td>18,27</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,45</td><td>62,96</td><td>59,00</td><td>0,00</td><td>59,00</td><td>18,02</td><td>&nbsp;</td><td>18,02</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,74</td><td>58,15</td><td>39,00</td><td>0,00</td><td>39,00</td><td>21,96</td><td>&nbsp;</td><td>21,96</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>58,68</td><td>60,00</td><td>0,00</td><td>63,00</td><td>24,94</td><td>&nbsp;</td><td>24,94</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,51</td><td>70,13</td><td>84,00</td><td>0,00</td><td>93,00</td><td>34,57</td><td>&nbsp;</td><td>34,57</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>105,64</td><td>103,00</td><td>0,00</td><td>109,00</td><td>40,18</td><td>&nbsp;</td><td>40,18</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,17</td><td>102,91</td><td>128,00</td><td>0,00</td><td>135,00</td><td>41,87</td><td>&nbsp;</td><td>41,87</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,32</td><td>104,90</td><td>95,00</td><td>0,00</td><td>100,00</td><td>31,59</td><td>&nbsp;</td><td>31,59</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>99,24</td><td>90,00</td><td>0,00</td><td>95,00</td><td>23,76</td><td>&nbsp;</td><td>23,76</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>98,07</td><td>73,00</td><td>0,00</td><td>78,00</td><td>17,03</td><td>&nbsp;</td><td>17,03</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>69,37</td><td>105,00</td><td>0,00</td><td>105,00</td><td>15,56</td><td>&nbsp;</td><td>15,56</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>51,96</td><td>48,00</td><td>0,00</td><td>48,00</td><td>17,48</td><td>&nbsp;</td><td>17,48</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>58,15</td><td>39,00</td><td>0,00</td><td>39,00</td><td>27,14</td><td>&nbsp;</td><td>27,14</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,89</td><td>55,72</td><td>40,00</td><td>0,00</td><td>40,00</td><td>33,77</td><td>&nbsp;</td><td>33,77</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,45</td><td>52,07</td><td>81,00</td><td>0,00</td><td>81,00</td><td>36,72</td><td>&nbsp;</td><td>36,72</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>49,59</td><td>76,00</td><td>0,00</td><td>79,00</td><td>34,77</td><td>&nbsp;</td><td>34,77</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,61</td><td>46,97</td><td>10,00</td><td>0,00</td><td>10,00</td><td>29,43</td><td>&nbsp;</td><td>29,43</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>49,53</td><td>70,00</td><td>0,00</td><td>72,00</td><td>25,35</td><td>&nbsp;</td><td>25,35</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,20</td><td>68,40</td><td>75,00</td><td>0,00</td><td>77,00</td><td>20,92</td><td>&nbsp;</td><td>20,92</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,96</td><td>93,15</td><td>109,00</td><td>0,00</td><td>109,00</td><td>21,26</td><td>&nbsp;</td><td>21,26</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,91</td><td>85,02</td><td>88,00</td><td>0,00</td><td>88,00</td><td>33,96</td><td>&nbsp;</td><td>33,96</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>113,84</td><td>62,00</td><td>0,00</td><td>62,00</td><td>45,04</td><td>&nbsp;</td><td>45,04</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,33</td><td>108,57</td><td>133,00</td><td>0,00</td><td>133,00</td><td>61,35</td><td>&nbsp;</td><td>61,35</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,14</td><td>122,46</td><td>135,00</td><td>0,00</td><td>135,00</td><td>66,64</td><td>&nbsp;</td><td>66,64</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,16</td><td>136,32</td><td>135,00</td><td>0,00</td><td>135,00</td><td>74,75</td><td>&nbsp;</td><td>74,75</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>149,88</td><td>105,00</td><td>0,00</td><td>105,00</td><td>111,90</td><td>&nbsp;</td><td>111,90</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>179,70</td><td>133,00</td><td>1,00</td><td>132,00</td><td>156,68</td><td>&nbsp;</td><td>156,68</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>133,00</td><td>133,00</td><td>3,00</td><td>130,00</td><td>126,40</td><td>&nbsp;</td><td>126,40</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,42</td><td>122,40</td><td>132,00</td><td>1,00</td><td>130,00</td><td>110,20</td><td>&nbsp;</td><td>110,20</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,96</td><td>98,57</td><td>128,00</td><td>0,00</td><td>128,00</td><td>75,74</td><td>&nbsp;</td><td>75,74</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,87</td><td>127,24</td><td>133,00</td><td>0,00</td><td>133,00</td><td>58,38</td><td>&nbsp;</td><td>58,38</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,93</td><td>120,84</td><td>117,00</td><td>0,00</td><td>117,00</td><td>49,57</td><td>&nbsp;</td><td>49,57</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,06</td><td>118,32</td><td>110,00</td><td>0,00</td><td>110,00</td><td>44,73</td><td>&nbsp;</td><td>44,73</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>115,64</td><td>133,00</td><td>0,00</td><td>133,00</td><td>41,38</td><td>&nbsp;</td><td>41,38</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,45</td><td>110,55</td><td>133,00</td><td>0,00</td><td>133,00</td><td>35,14</td><td>&nbsp;</td><td>35,14</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,08</td><td>111,57</td><td>136,00</td><td>0,00</td><td>136,00</td><td>30,23</td><td>&nbsp;</td><td>30,23</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,33</td><td>116,51</td><td>100,00</td><td>0,00</td><td>100,00</td><td>27,36</td><td>&nbsp;</td><td>27,36</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,77</td><td>117,05</td><td>88,00</td><td>0,00</td><td>88,00</td><td>28,26</td><td>&nbsp;</td><td>28,26</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>101,36</td><td>104,00</td><td>0,00</td><td>104,00</td><td>28,90</td><td>&nbsp;</td><td>28,90</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,28</td><td>87,29</td><td>117,00</td><td>0,00</td><td>117,00</td><td>41,76</td><td>&nbsp;</td><td>41,76</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>133,11</td><td>110,00</td><td>0,00</td><td>110,00</td><td>48,94</td><td>&nbsp;</td><td>48,94</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,82</td><td>130,54</td><td>118,00</td><td>0,00</td><td>118,00</td><td>51,02</td><td>&nbsp;</td><td>51,02</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>119,80</td><td>133,00</td><td>0,00</td><td>133,00</td><td>40,17</td><td>&nbsp;</td><td>40,17</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,35</td><td>107,17</td><td>125,00</td><td>0,00</td><td>125,00</td><td>35,12</td><td>&nbsp;</td><td>35,12</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,38</td><td>35,98</td><td>34,00</td><td>0,00</td><td>34,00</td><td>32,30</td><td>&nbsp;</td><td>32,30</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,01</td><td>79,57</td><td>104,00</td><td>0,00</td><td>104,00</td><td>30,62</td><td>&nbsp;</td><td>30,62</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>115,33</td><td>81,00</td><td>0,00</td><td>81,00</td><td>30,66</td><td>&nbsp;</td><td>30,66</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>106,70</td><td>110,00</td><td>0,00</td><td>110,00</td><td>32,69</td><td>&nbsp;</td><td>32,69</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>116,88</td><td>105,00</td><td>0,00</td><td>105,00</td><td>33,80</td><td>&nbsp;</td><td>33,80</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>117,96</td><td>114,00</td><td>0,00</td><td>114,00</td><td>41,53</td><td>&nbsp;</td><td>41,53</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,54</td><td>106,12</td><td>118,00</td><td>0,00</td><td>118,00</td><td>59,98</td><td>&nbsp;</td><td>59,98</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,00</td><td>77,02</td><td>47,00</td><td>0,00</td><td>47,00</td><td>109,48</td><td>&nbsp;</td><td>109,48</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,17</td><td>143,88</td><td>133,00</td><td>0,00</td><td>133,00</td><td>131,12</td><td>&nbsp;</td><td>131,12</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,11</td><td>129,16</td><td>133,00</td><td>0,00</td><td>133,00</td><td>85,72</td><td>&nbsp;</td><td>85,72</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,71</td><td>107,16</td><td>133,00</td><td>0,00</td><td>133,00</td><td>56,20</td><td>&nbsp;</td><td>56,20</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,97</td><td>149,88</td><td>133,00</td><td>0,00</td><td>133,00</td><td>110,96</td><td>&nbsp;</td><td>110,96</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,96</td><td>132,36</td><td>133,00</td><td>0,00</td><td>133,00</td><td>119,99</td><td>&nbsp;</td><td>119,99</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,42</td><td>97,61</td><td>133,00</td><td>0,00</td><td>133,00</td><td>91,61</td><td>&nbsp;</td><td>91,61</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,58</td><td>57,56</td><td>47,00</td><td>0,00</td><td>47,00</td><td>73,53</td><td>&nbsp;</td><td>73,53</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>92,28</td><td>87,00</td><td>0,00</td><td>87,00</td><td>59,10</td><td>&nbsp;</td><td>59,10</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>82,23</td><td>106,00</td><td>0,00</td><td>106,00</td><td>47,98</td><td>&nbsp;</td><td>47,98</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>68,19</td><td>53,00</td><td>0,00</td><td>53,00</td><td>42,05</td><td>&nbsp;</td><td>42,05</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,83</td><td>64,81</td><td>45,00</td><td>0,00</td><td>45,00</td><td>46,64</td><td>&nbsp;</td><td>46,64</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>59,78</td><td>71,00</td><td>0,00</td><td>71,00</td><td>49,62</td><td>&nbsp;</td><td>49,62</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>32,17</td><td>50,00</td><td>0,00</td><td>50,00</td><td>49,02</td><td>&nbsp;</td><td>49,02</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,01</td><td>4,91</td><td>30,00</td><td>0,00</td><td>30,00</td><td>39,54</td><td>&nbsp;</td><td>39,54</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,10</td><td>10,94</td><td>5,00</td><td>0,00</td><td>5,00</td><td>32,63</td><td>&nbsp;</td><td>32,63</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>13,20</td><td>0,00</td><td>0,00</td><td>0,00</td><td>29,20</td><td>&nbsp;</td><td>29,20</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,37</td><td>9,62</td><td>5,00</td><td>0,00</td><td>5,00</td><td>28,47</td><td>&nbsp;</td><td>28,47</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,52</td><td>9,90</td><td>0,00</td><td>0,00</td><td>0,00</td><td>27,41</td><td>&nbsp;</td><td>27,41</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>9,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>26,95</td><td>&nbsp;</td><td>26,95</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>8,58</td><td>0,00</td><td>0,00</td><td>0,00</td><td>26,40</td><td>&nbsp;</td><td>26,40</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,91</td><td>7,76</td><td>0,00</td><td>0,00</td><td>0,00</td><td>25,98</td><td>&nbsp;</td><td>25,98</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,80</td><td>7,90</td><td>15,00</td><td>0,00</td><td>15,00</td><td>25,17</td><td>&nbsp;</td><td>25,17</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,78</td><td>5,68</td><td>7,00</td><td>0,00</td><td>7,00</td><td>23,86</td><td>&nbsp;</td><td>23,86</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,32</td><td>92,65</td><td>58,00</td><td>0,00</td><td>58,00</td><td>245,95</td><td>&nbsp;</td><td>245,95</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,52</td><td>149,80</td><td>137,00</td><td>7,00</td><td>130,00</td><td>262,52</td><td>&nbsp;</td><td>262,52</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>75,31</td><td>132,00</td><td>0,00</td><td>132,00</td><td>158,97</td><td>&nbsp;</td><td>158,97</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,24</td><td>55,59</td><td>82,00</td><td>0,00</td><td>82,00</td><td>168,42</td><td>&nbsp;</td><td>168,42</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,30</td><td>161,02</td><td>92,00</td><td>0,00</td><td>92,00</td><td>309,32</td><td>&nbsp;</td><td>309,32</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,89</td><td>106,77</td><td>133,00</td><td>0,00</td><td>133,00</td><td>272,98</td><td>&nbsp;</td><td>272,98</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,16</td><td>85,92</td><td>134,00</td><td>0,00</td><td>134,00</td><td>229,26</td><td>&nbsp;</td><td>229,26</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,61</td><td>82,71</td><td>53,00</td><td>0,00</td><td>53,00</td><td>208,72</td><td>&nbsp;</td><td>208,72</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,99</td><td>63,76</td><td>39,00</td><td>0,00</td><td>39,00</td><td>166,33</td><td>&nbsp;</td><td>166,33</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,17</td><td>50,52</td><td>39,00</td><td>0,00</td><td>39,00</td><td>146,78</td><td>&nbsp;</td><td>146,78</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>39,76</td><td>50,00</td><td>0,00</td><td>50,00</td><td>135,95</td><td>&nbsp;</td><td>135,95</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,99</td><td>35,72</td><td>37,00</td><td>0,00</td><td>37,00</td><td>130,96</td><td>&nbsp;</td><td>130,96</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,43</td><td>30,35</td><td>67,00</td><td>0,00</td><td>67,00</td><td>101,66</td><td>&nbsp;</td><td>101,66</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,81</td><td>24,18</td><td>64,00</td><td>0,00</td><td>64,00</td><td>90,20</td><td>&nbsp;</td><td>90,20</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>25,29</td><td>0,00</td><td>0,00</td><td>0,00</td><td>90,11</td><td>&nbsp;</td><td>90,11</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,59</td><td>25,09</td><td>0,00</td><td>0,00</td><td>0,00</td><td>90,41</td><td>&nbsp;</td><td>90,41</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,54</td><td>19,70</td><td>23,00</td><td>0,00</td><td>23,00</td><td>73,75</td><td>&nbsp;</td><td>73,75</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,25</td><td>18,85</td><td>38,00</td><td>0,00</td><td>38,00</td><td>70,11</td><td>&nbsp;</td><td>70,11</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>20,81</td><td>1,00</td><td>0,00</td><td>1,00</td><td>72,04</td><td>&nbsp;</td><td>72,04</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,99</td><td>11,03</td><td>48,00</td><td>0,00</td><td>48,00</td><td>76,05</td><td>&nbsp;</td><td>76,05</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,58</td><td>22,88</td><td>47,00</td><td>0,00</td><td>47,00</td><td>148,93</td><td>&nbsp;</td><td>148,93</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,63</td><td>214,76</td><td>84,00</td><td>2,00</td><td>82,00</td><td>460,44</td><td>&nbsp;</td><td>460,44</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,37</td><td>129,37</td><td>146,00</td><td>15,00</td><td>130,00</td><td>334,43</td><td>&nbsp;</td><td>334,43</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,34</td><td>55,10</td><td>122,00</td><td>0,00</td><td>122,00</td><td>242,95</td><td>&nbsp;</td><td>242,95</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>49,15</td><td>30,00</td><td>0,00</td><td>30,00</td><td>228,31</td><td>&nbsp;</td><td>228,31</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>23,38</td><td>28,00</td><td>0,00</td><td>28,00</td><td>194,37</td><td>&nbsp;</td><td>194,37</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,60</td><td>34,64</td><td>32,00</td><td>0,00</td><td>32,00</td><td>157,76</td><td>&nbsp;</td><td>157,76</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,75</td><td>30,90</td><td>21,00</td><td>0,00</td><td>21,00</td><td>148,45</td><td>&nbsp;</td><td>148,45</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,91</td><td>28,40</td><td>18,00</td><td>0,00</td><td>18,00</td><td>133,13</td><td>&nbsp;</td><td>133,13</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,75</td><td>28,60</td><td>39,00</td><td>0,00</td><td>39,00</td><td>143,21</td><td>&nbsp;</td><td>143,21</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>39,92</td><td>34,00</td><td>0,00</td><td>34,00</td><td>142,83</td><td>&nbsp;</td><td>142,83</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,19</td><td>35,10</td><td>78,00</td><td>0,00</td><td>78,00</td><td>125,25</td><td>&nbsp;</td><td>125,25</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>30,37</td><td>0,00</td><td>0,00</td><td>0,00</td><td>117,75</td><td>&nbsp;</td><td>117,75</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,47</td><td>25,12</td><td>37,00</td><td>0,00</td><td>37,00</td><td>99,49</td><td>&nbsp;</td><td>99,49</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>23,28</td><td>18,00</td><td>0,00</td><td>18,00</td><td>94,30</td><td>&nbsp;</td><td>94,30</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>20,94</td><td>15,00</td><td>0,00</td><td>15,00</td><td>92,14</td><td>&nbsp;</td><td>92,14</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>19,72</td><td>25,00</td><td>0,00</td><td>25,00</td><td>77,56</td><td>&nbsp;</td><td>77,56</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,87</td><td>20,39</td><td>0,00</td><td>0,00</td><td>0,00</td><td>74,96</td><td>&nbsp;</td><td>74,96</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>21,45</td><td>59,00</td><td>0,00</td><td>59,00</td><td>156,26</td><td>&nbsp;</td><td>156,26</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,72</td><td>54,73</td><td>27,00</td><td>0,00</td><td>27,00</td><td>175,77</td><td>&nbsp;</td><td>175,77</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>59,76</td><td>104,00</td><td>0,00</td><td>104,00</td><td>140,30</td><td>&nbsp;</td><td>140,30</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,13</td><td>98,28</td><td>93,00</td><td>0,00</td><td>93,00</td><td>123,66</td><td>&nbsp;</td><td>123,66</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,24</td><td>91,26</td><td>84,00</td><td>0,00</td><td>84,00</td><td>101,56</td><td>&nbsp;</td><td>101,56</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,19</td><td>90,70</td><td>94,00</td><td>0,00</td><td>94,00</td><td>136,94</td><td>&nbsp;</td><td>136,94</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,84</td><td>257,55</td><td>151,00</td><td>41,00</td><td>110,00</td><td>389,75</td><td>&nbsp;</td><td>389,75</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>180,08</td><td>190,00</td><td>59,00</td><td>130,00</td><td>397,68</td><td>&nbsp;</td><td>397,68</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,84</td><td>238,92</td><td>229,00</td><td>98,00</td><td>130,00</td><td>408,54</td><td>&nbsp;</td><td>408,54</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>187,80</td><td>199,00</td><td>68,00</td><td>130,00</td><td>358,97</td><td>&nbsp;</td><td>358,97</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,74</td><td>149,12</td><td>144,00</td><td>14,00</td><td>130,00</td><td>441,80</td><td>&nbsp;</td><td>441,80</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,88</td><td>1164,17</td><td>1095,00</td><td>961,00</td><td>134,00</td><td>1059,39</td><td>&nbsp;</td><td>1059,39</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,32</td><td>804,10</td><td>838,00</td><td>706,00</td><td>132,00</td><td>844,21</td><td>&nbsp;</td><td>844,21</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,22</td><td>440,92</td><td>447,00</td><td>317,00</td><td>130,00</td><td>558,55</td><td>&nbsp;</td><td>558,55</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,32</td><td>460,08</td><td>454,00</td><td>340,00</td><td>113,00</td><td>463,65</td><td>&nbsp;</td><td>463,65</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,28</td><td>537,57</td><td>540,00</td><td>409,00</td><td>130,00</td><td>485,32</td><td>&nbsp;</td><td>485,32</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,33</td><td>529,04</td><td>526,00</td><td>394,00</td><td>132,00</td><td>539,47</td><td>&nbsp;</td><td>539,47</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>330,14</td><td>752,40</td><td>702,00</td><td>568,00</td><td>133,00</td><td>752,59</td><td>&nbsp;</td><td>752,59</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,76</td><td>1472,65</td><td>1497,00</td><td>1369,00</td><td>129,00</td><td>1235,82</td><td>&nbsp;</td><td>1235,82</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,68</td><td>773,17</td><td>778,00</td><td>649,00</td><td>129,00</td><td>1075,26</td><td>&nbsp;</td><td>1075,26</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,55</td><td>757,15</td><td>765,00</td><td>632,00</td><td>133,00</td><td>776,57</td><td>&nbsp;</td><td>776,57</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,38</td><td>658,67</td><td>669,00</td><td>536,00</td><td>133,00</td><td>591,42</td><td>&nbsp;</td><td>591,42</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>330,23</td><td>917,70</td><td>864,00</td><td>738,00</td><td>126,00</td><td>843,57</td><td>&nbsp;</td><td>843,57</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,76</td><td>1006,61</td><td>1098,00</td><td>969,00</td><td>129,00</td><td>883,70</td><td>&nbsp;</td><td>883,70</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,73</td><td>927,89</td><td>869,00</td><td>737,00</td><td>133,00</td><td>770,49</td><td>&nbsp;</td><td>770,49</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,62</td><td>803,36</td><td>810,00</td><td>677,00</td><td>133,00</td><td>716,63</td><td>&nbsp;</td><td>716,63</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>330,04</td><td>1045,76</td><td>1020,00</td><td>888,00</td><td>132,00</td><td>1003,95</td><td>&nbsp;</td><td>1003,95</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,21</td><td>842,35</td><td>893,00</td><td>762,00</td><td>131,00</td><td>976,66</td><td>&nbsp;</td><td>976,66</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,25</td><td>394,43</td><td>392,00</td><td>264,00</td><td>129,00</td><td>732,49</td><td>&nbsp;</td><td>732,49</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,95</td><td>394,76</td><td>413,00</td><td>300,00</td><td>113,00</td><td>608,22</td><td>&nbsp;</td><td>608,22</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,98</td><td>245,82</td><td>244,00</td><td>133,00</td><td>111,00</td><td>453,47</td><td>&nbsp;</td><td>453,47</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,04</td><td>345,65</td><td>342,00</td><td>211,00</td><td>130,00</td><td>396,99</td><td>&nbsp;</td><td>396,99</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,01</td><td>328,18</td><td>330,00</td><td>199,00</td><td>130,00</td><td>316,58</td><td>&nbsp;</td><td>316,58</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,00</td><td>319,39</td><td>320,00</td><td>189,00</td><td>130,00</td><td>278,28</td><td>&nbsp;</td><td>278,28</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,80</td><td>266,84</td><td>279,00</td><td>149,00</td><td>130,00</td><td>256,76</td><td>&nbsp;</td><td>256,76</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,78</td><td>208,78</td><td>210,00</td><td>79,00</td><td>130,00</td><td>234,53</td><td>&nbsp;</td><td>234,53</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,76</td><td>202,78</td><td>204,00</td><td>73,00</td><td>130,00</td><td>226,84</td><td>&nbsp;</td><td>226,84</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,77</td><td>199,61</td><td>199,00</td><td>69,00</td><td>129,00</td><td>209,44</td><td>&nbsp;</td><td>209,44</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>195,78</td><td>197,00</td><td>82,00</td><td>115,00</td><td>174,36</td><td>&nbsp;</td><td>174,36</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,13</td><td>125,37</td><td>165,00</td><td>45,00</td><td>120,00</td><td>163,17</td><td>&nbsp;</td><td>163,17</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>72,60</td><td>105,00</td><td>0,00</td><td>105,00</td><td>150,71</td><td>&nbsp;</td><td>150,71</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,19</td><td>155,24</td><td>119,00</td><td>0,00</td><td>119,00</td><td>160,26</td><td>&nbsp;</td><td>160,26</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,64</td><td>164,79</td><td>136,00</td><td>4,00</td><td>132,00</td><td>155,38</td><td>&nbsp;</td><td>155,38</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,34</td><td>117,81</td><td>137,00</td><td>7,00</td><td>130,00</td><td>128,20</td><td>&nbsp;</td><td>128,20</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,47</td><td>123,32</td><td>115,00</td><td>0,00</td><td>115,00</td><td>128,17</td><td>&nbsp;</td><td>128,17</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,97</td><td>101,01</td><td>133,00</td><td>0,00</td><td>133,00</td><td>124,49</td><td>&nbsp;</td><td>124,49</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,90</td><td>119,52</td><td>124,00</td><td>0,00</td><td>124,00</td><td>125,81</td><td>&nbsp;</td><td>125,81</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>157,78</td><td>113,00</td><td>7,00</td><td>106,00</td><td>114,95</td><td>&nbsp;</td><td>114,95</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,18</td><td>108,13</td><td>135,00</td><td>3,00</td><td>131,00</td><td>112,48</td><td>&nbsp;</td><td>112,48</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,05</td><td>82,68</td><td>91,00</td><td>0,00</td><td>91,00</td><td>106,70</td><td>&nbsp;</td><td>106,70</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,33</td><td>65,91</td><td>113,00</td><td>0,00</td><td>113,00</td><td>91,90</td><td>&nbsp;</td><td>91,90</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,99</td><td>70,55</td><td>93,00</td><td>0,00</td><td>93,00</td><td>92,83</td><td>&nbsp;</td><td>92,83</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,90</td><td>80,46</td><td>86,00</td><td>0,00</td><td>86,00</td><td>88,08</td><td>&nbsp;</td><td>88,08</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,83</td><td>124,00</td><td>63,00</td><td>0,00</td><td>63,00</td><td>93,53</td><td>&nbsp;</td><td>93,53</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,92</td><td>99,76</td><td>94,00</td><td>0,00</td><td>94,00</td><td>89,00</td><td>&nbsp;</td><td>89,00</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,17</td><td>71,67</td><td>121,00</td><td>0,00</td><td>121,00</td><td>93,14</td><td>&nbsp;</td><td>93,14</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,80</td><td>79,60</td><td>38,00</td><td>0,00</td><td>38,00</td><td>86,86</td><td>&nbsp;</td><td>86,86</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,08</td><td>58,97</td><td>41,00</td><td>0,00</td><td>41,00</td><td>76,84</td><td>&nbsp;</td><td>76,84</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>69,80</td><td>99,00</td><td>0,00</td><td>99,00</td><td>70,11</td><td>&nbsp;</td><td>70,11</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,89</td><td>79,00</td><td>62,00</td><td>0,00</td><td>62,00</td><td>69,62</td><td>&nbsp;</td><td>69,62</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,24</td><td>77,00</td><td>55,00</td><td>0,00</td><td>55,00</td><td>64,85</td><td>&nbsp;</td><td>64,85</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,36</td><td>69,68</td><td>62,00</td><td>0,00</td><td>62,00</td><td>61,59</td><td>&nbsp;</td><td>61,59</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,68</td><td>72,19</td><td>116,00</td><td>0,00</td><td>116,00</td><td>58,37</td><td>&nbsp;</td><td>58,37</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>67,42</td><td>46,00</td><td>0,00</td><td>46,00</td><td>57,29</td><td>&nbsp;</td><td>57,29</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>51,16</td><td>64,00</td><td>0,00</td><td>64,00</td><td>54,63</td><td>&nbsp;</td><td>54,63</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>62,78</td><td>74,00</td><td>0,00</td><td>74,00</td><td>55,33</td><td>&nbsp;</td><td>55,33</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,45</td><td>71,46</td><td>84,00</td><td>0,00</td><td>84,00</td><td>56,42</td><td>&nbsp;</td><td>56,42</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>71,04</td><td>75,00</td><td>0,00</td><td>75,00</td><td>54,05</td><td>&nbsp;</td><td>54,05</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,71</td><td>71,13</td><td>50,00</td><td>0,00</td><td>50,00</td><td>55,45</td><td>&nbsp;</td><td>55,45</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>62,28</td><td>57,00</td><td>0,00</td><td>57,00</td><td>50,82</td><td>&nbsp;</td><td>50,82</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,17</td><td>52,39</td><td>28,00</td><td>0,00</td><td>28,00</td><td>53,23</td><td>&nbsp;</td><td>53,23</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,92</td><td>50,01</td><td>66,00</td><td>0,00</td><td>66,00</td><td>49,83</td><td>&nbsp;</td><td>49,83</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>46,27</td><td>89,00</td><td>0,00</td><td>89,00</td><td>50,15</td><td>&nbsp;</td><td>50,15</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,71</td><td>56,94</td><td>92,00</td><td>0,00</td><td>92,00</td><td>53,63</td><td>&nbsp;</td><td>53,63</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,34</td><td>61,68</td><td>22,00</td><td>0,00</td><td>22,00</td><td>47,38</td><td>&nbsp;</td><td>47,38</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>55,42</td><td>64,00</td><td>0,00</td><td>64,00</td><td>51,24</td><td>&nbsp;</td><td>51,24</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,44</td><td>60,19</td><td>45,00</td><td>0,00</td><td>45,00</td><td>46,95</td><td>&nbsp;</td><td>46,95</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,75</td><td>58,47</td><td>38,00</td><td>0,00</td><td>38,00</td><td>51,64</td><td>&nbsp;</td><td>51,64</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>27,06</td><td>33,00</td><td>0,00</td><td>33,00</td><td>46,03</td><td>&nbsp;</td><td>46,03</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>51,34</td><td>52,00</td><td>0,00</td><td>52,00</td><td>45,02</td><td>&nbsp;</td><td>45,02</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,74</td><td>59,94</td><td>54,00</td><td>0,00</td><td>54,00</td><td>43,88</td><td>&nbsp;</td><td>43,88</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,43</td><td>55,53</td><td>76,00</td><td>0,00</td><td>76,00</td><td>55,41</td><td>&nbsp;</td><td>55,41</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,43</td><td>61,00</td><td>61,00</td><td>0,00</td><td>61,00</td><td>56,98</td><td>&nbsp;</td><td>56,98</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,52</td><td>56,94</td><td>51,00</td><td>0,00</td><td>51,00</td><td>58,41</td><td>&nbsp;</td><td>58,41</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,83</td><td>61,47</td><td>41,00</td><td>0,00</td><td>41,00</td><td>46,39</td><td>&nbsp;</td><td>46,39</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>33,64</td><td>33,00</td><td>0,00</td><td>33,00</td><td>41,53</td><td>&nbsp;</td><td>41,53</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>48,76</td><td>56,00</td><td>0,00</td><td>56,00</td><td>39,57</td><td>&nbsp;</td><td>39,57</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,41</td><td>55,87</td><td>77,00</td><td>0,00</td><td>77,00</td><td>39,91</td><td>&nbsp;</td><td>39,91</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,19</td><td>52,47</td><td>67,00</td><td>0,00</td><td>67,00</td><td>40,26</td><td>&nbsp;</td><td>40,26</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>50,28</td><td>45,00</td><td>0,00</td><td>45,00</td><td>40,57</td><td>&nbsp;</td><td>40,57</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>57,15</td><td>38,00</td><td>0,00</td><td>38,00</td><td>40,75</td><td>&nbsp;</td><td>40,75</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>52,96</td><td>49,00</td><td>0,00</td><td>49,00</td><td>40,24</td><td>&nbsp;</td><td>40,24</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,75</td><td>114,58</td><td>106,00</td><td>0,00</td><td>106,00</td><td>271,97</td><td>&nbsp;</td><td>271,97</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,42</td><td>175,03</td><td>132,00</td><td>0,00</td><td>132,00</td><td>249,00</td><td>&nbsp;</td><td>249,00</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,26</td><td>119,76</td><td>130,00</td><td>0,00</td><td>130,00</td><td>158,34</td><td>&nbsp;</td><td>158,34</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,67</td><td>94,93</td><td>133,00</td><td>0,00</td><td>133,00</td><td>121,33</td><td>&nbsp;</td><td>121,33</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>85,57</td><td>110,00</td><td>0,00</td><td>110,00</td><td>94,98</td><td>&nbsp;</td><td>94,98</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,26</td><td>92,36</td><td>95,00</td><td>0,00</td><td>95,00</td><td>81,73</td><td>&nbsp;</td><td>81,73</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,97</td><td>105,59</td><td>59,00</td><td>0,00</td><td>59,00</td><td>90,51</td><td>&nbsp;</td><td>90,51</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,71</td><td>156,34</td><td>109,00</td><td>5,00</td><td>104,00</td><td>217,76</td><td>&nbsp;</td><td>217,76</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,69</td><td>162,72</td><td>164,00</td><td>34,00</td><td>130,00</td><td>153,79</td><td>&nbsp;</td><td>153,79</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,50</td><td>132,84</td><td>145,00</td><td>15,00</td><td>130,00</td><td>94,31</td><td>&nbsp;</td><td>94,31</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,99</td><td>99,37</td><td>132,00</td><td>0,00</td><td>132,00</td><td>70,37</td><td>&nbsp;</td><td>70,37</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>110,88</td><td>133,00</td><td>0,00</td><td>133,00</td><td>59,86</td><td>&nbsp;</td><td>59,86</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,51</td><td>123,76</td><td>133,00</td><td>0,00</td><td>133,00</td><td>59,50</td><td>&nbsp;</td><td>59,50</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,61</td><td>120,60</td><td>114,00</td><td>0,00</td><td>114,00</td><td>59,43</td><td>&nbsp;</td><td>59,43</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>94,20</td><td>81,00</td><td>0,00</td><td>81,00</td><td>58,39</td><td>&nbsp;</td><td>58,39</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,88</td><td>119,52</td><td>115,00</td><td>0,00</td><td>115,00</td><td>52,80</td><td>&nbsp;</td><td>52,80</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,87</td><td>68,06</td><td>134,00</td><td>0,00</td><td>134,00</td><td>50,25</td><td>&nbsp;</td><td>50,25</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,59</td><td>87,90</td><td>41,00</td><td>0,00</td><td>41,00</td><td>44,27</td><td>&nbsp;</td><td>44,27</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,42</td><td>98,78</td><td>110,00</td><td>0,00</td><td>110,00</td><td>41,44</td><td>&nbsp;</td><td>41,44</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>94,96</td><td>91,00</td><td>0,00</td><td>91,00</td><td>38,05</td><td>&nbsp;</td><td>38,05</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>110,24</td><td>101,00</td><td>0,00</td><td>101,00</td><td>34,44</td><td>&nbsp;</td><td>34,44</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,60</td><td>105,68</td><td>107,00</td><td>0,00</td><td>107,00</td><td>33,37</td><td>&nbsp;</td><td>33,37</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>109,70</td><td>113,00</td><td>0,00</td><td>113,00</td><td>33,92</td><td>&nbsp;</td><td>33,92</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,26</td><td>113,00</td><td>67,00</td><td>0,00</td><td>67,00</td><td>30,79</td><td>&nbsp;</td><td>30,79</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,35</td><td>109,76</td><td>104,00</td><td>0,00</td><td>104,00</td><td>30,39</td><td>&nbsp;</td><td>30,39</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,00</td><td>110,61</td><td>133,00</td><td>0,00</td><td>133,00</td><td>25,08</td><td>&nbsp;</td><td>25,08</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>109,58</td><td>133,00</td><td>0,00</td><td>133,00</td><td>24,71</td><td>&nbsp;</td><td>24,71</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,92</td><td>112,30</td><td>94,00</td><td>0,00</td><td>94,00</td><td>21,68</td><td>&nbsp;</td><td>21,68</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,69</td><td>67,00</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,72</td><td>&nbsp;</td><td>32,72</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,27</td><td>101,27</td><td>129,00</td><td>0,00</td><td>129,00</td><td>39,24</td><td>&nbsp;</td><td>39,24</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,40</td><td>109,58</td><td>101,00</td><td>0,00</td><td>101,00</td><td>43,27</td><td>&nbsp;</td><td>43,27</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>109,79</td><td>88,00</td><td>0,00</td><td>88,00</td><td>31,42</td><td>&nbsp;</td><td>31,42</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,32</td><td>105,93</td><td>133,00</td><td>0,00</td><td>133,00</td><td>26,59</td><td>&nbsp;</td><td>26,59</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>113,55</td><td>136,00</td><td>0,00</td><td>136,00</td><td>85,80</td><td>&nbsp;</td><td>85,80</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,60</td><td>137,94</td><td>97,00</td><td>0,00</td><td>97,00</td><td>92,55</td><td>&nbsp;</td><td>92,55</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>96,15</td><td>112,00</td><td>0,00</td><td>112,00</td><td>69,25</td><td>&nbsp;</td><td>69,25</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,06</td><td>114,19</td><td>134,00</td><td>0,00</td><td>134,00</td><td>50,19</td><td>&nbsp;</td><td>50,19</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,04</td><td>104,68</td><td>106,00</td><td>0,00</td><td>106,00</td><td>39,47</td><td>&nbsp;</td><td>39,47</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,26</td><td>115,53</td><td>101,00</td><td>0,00</td><td>101,00</td><td>33,14</td><td>&nbsp;</td><td>33,14</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>114,15</td><td>95,00</td><td>0,00</td><td>95,00</td><td>34,49</td><td>&nbsp;</td><td>34,49</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>112,88</td><td>101,00</td><td>0,00</td><td>101,00</td><td>34,32</td><td>&nbsp;</td><td>34,32</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>113,12</td><td>95,00</td><td>0,00</td><td>95,00</td><td>32,50</td><td>&nbsp;</td><td>32,50</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,62</td><td>107,62</td><td>133,00</td><td>0,00</td><td>133,00</td><td>30,58</td><td>&nbsp;</td><td>30,58</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>106,93</td><td>134,00</td><td>0,00</td><td>134,00</td><td>25,56</td><td>&nbsp;</td><td>25,56</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>95,94</td><td>90,00</td><td>0,00</td><td>90,00</td><td>21,30</td><td>&nbsp;</td><td>21,30</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,39</td><td>110,94</td><td>105,00</td><td>0,00</td><td>105,00</td><td>21,42</td><td>&nbsp;</td><td>21,42</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,49</td><td>109,60</td><td>103,00</td><td>0,00</td><td>103,00</td><td>26,14</td><td>&nbsp;</td><td>26,14</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>111,81</td><td>92,00</td><td>0,00</td><td>92,00</td><td>32,61</td><td>&nbsp;</td><td>32,61</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>99,61</td><td>128,00</td><td>0,00</td><td>128,00</td><td>44,25</td><td>&nbsp;</td><td>44,25</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,98</td><td>54,91</td><td>80,00</td><td>0,00</td><td>80,00</td><td>65,27</td><td>&nbsp;</td><td>65,27</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,78</td><td>108,82</td><td>56,00</td><td>0,00</td><td>56,00</td><td>90,15</td><td>&nbsp;</td><td>90,15</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,77</td><td>127,34</td><td>128,00</td><td>0,00</td><td>133,00</td><td>71,21</td><td>&nbsp;</td><td>71,21</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,55</td><td>113,47</td><td>128,00</td><td>0,00</td><td>133,00</td><td>51,29</td><td>&nbsp;</td><td>51,29</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>90,70</td><td>94,00</td><td>0,00</td><td>95,00</td><td>47,50</td><td>&nbsp;</td><td>47,50</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,22</td><td>109,51</td><td>128,00</td><td>0,00</td><td>135,00</td><td>52,87</td><td>&nbsp;</td><td>52,87</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,77</td><td>87,31</td><td>51,00</td><td>0,00</td><td>51,00</td><td>56,75</td><td>&nbsp;</td><td>56,75</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,18</td><td>69,05</td><td>108,00</td><td>0,00</td><td>114,00</td><td>53,50</td><td>&nbsp;</td><td>53,50</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,67</td><td>95,56</td><td>127,00</td><td>0,00</td><td>130,00</td><td>56,90</td><td>&nbsp;</td><td>56,90</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,63</td><td>132,68</td><td>135,00</td><td>0,00</td><td>135,00</td><td>68,79</td><td>&nbsp;</td><td>68,79</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,78</td><td>143,71</td><td>135,00</td><td>0,00</td><td>135,00</td><td>142,75</td><td>&nbsp;</td><td>142,75</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,30</td><td>159,98</td><td>127,00</td><td>0,00</td><td>127,00</td><td>185,07</td><td>&nbsp;</td><td>185,07</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>156,77</td><td>133,00</td><td>0,00</td><td>133,00</td><td>214,07</td><td>&nbsp;</td><td>214,07</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,27</td><td>172,37</td><td>133,00</td><td>0,00</td><td>133,00</td><td>219,04</td><td>&nbsp;</td><td>219,04</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,65</td><td>92,97</td><td>133,00</td><td>0,00</td><td>133,00</td><td>177,83</td><td>&nbsp;</td><td>177,83</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,40</td><td>118,49</td><td>135,00</td><td>0,00</td><td>135,00</td><td>154,69</td><td>&nbsp;</td><td>154,69</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,69</td><td>136,15</td><td>117,00</td><td>0,00</td><td>117,00</td><td>152,49</td><td>&nbsp;</td><td>152,49</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,61</td><td>127,72</td><td>133,00</td><td>0,00</td><td>133,00</td><td>144,93</td><td>&nbsp;</td><td>144,93</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>131,30</td><td>128,00</td><td>0,00</td><td>128,00</td><td>145,95</td><td>&nbsp;</td><td>145,95</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,88</td><td>146,42</td><td>132,00</td><td>0,00</td><td>132,00</td><td>158,89</td><td>&nbsp;</td><td>158,89</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,93</td><td>211,57</td><td>145,00</td><td>12,00</td><td>133,00</td><td>303,59</td><td>&nbsp;</td><td>303,59</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,91</td><td>291,78</td><td>293,00</td><td>163,00</td><td>130,00</td><td>376,03</td><td>&nbsp;</td><td>376,03</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,78</td><td>201,10</td><td>209,00</td><td>79,00</td><td>130,00</td><td>261,73</td><td>&nbsp;</td><td>261,73</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,67</td><td>159,09</td><td>166,00</td><td>47,00</td><td>119,00</td><td>172,83</td><td>&nbsp;</td><td>172,83</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,61</td><td>143,16</td><td>147,00</td><td>17,00</td><td>131,00</td><td>132,50</td><td>&nbsp;</td><td>132,50</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>153,56</td><td>151,00</td><td>20,00</td><td>131,00</td><td>122,64</td><td>&nbsp;</td><td>122,64</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,61</td><td>140,44</td><td>143,00</td><td>12,00</td><td>131,00</td><td>149,27</td><td>&nbsp;</td><td>149,27</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,62</td><td>151,64</td><td>151,00</td><td>20,00</td><td>131,00</td><td>139,44</td><td>&nbsp;</td><td>139,44</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,59</td><td>134,08</td><td>136,00</td><td>5,00</td><td>131,00</td><td>107,36</td><td>&nbsp;</td><td>107,36</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,80</td><td>199,24</td><td>186,00</td><td>55,00</td><td>131,00</td><td>244,78</td><td>&nbsp;</td><td>244,78</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,71</td><td>189,43</td><td>195,00</td><td>65,00</td><td>131,00</td><td>179,67</td><td>&nbsp;</td><td>179,67</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>151,80</td><td>155,00</td><td>24,00</td><td>131,00</td><td>126,09</td><td>&nbsp;</td><td>126,09</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,70</td><td>75,32</td><td>137,00</td><td>4,00</td><td>133,00</td><td>93,66</td><td>&nbsp;</td><td>93,66</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,73</td><td>106,98</td><td>105,00</td><td>0,00</td><td>105,00</td><td>104,23</td><td>&nbsp;</td><td>104,23</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,06</td><td>154,32</td><td>133,00</td><td>0,00</td><td>133,00</td><td>184,18</td><td>&nbsp;</td><td>184,18</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,81</td><td>116,97</td><td>133,00</td><td>0,00</td><td>133,00</td><td>194,53</td><td>&nbsp;</td><td>194,53</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,12</td><td>137,87</td><td>118,00</td><td>0,00</td><td>118,00</td><td>161,93</td><td>&nbsp;</td><td>161,93</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,32</td><td>140,80</td><td>128,00</td><td>0,00</td><td>128,00</td><td>130,28</td><td>&nbsp;</td><td>130,28</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,94</td><td>103,69</td><td>128,00</td><td>0,00</td><td>128,00</td><td>93,26</td><td>&nbsp;</td><td>93,26</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,13</td><td>145,16</td><td>133,00</td><td>0,00</td><td>133,00</td><td>146,14</td><td>&nbsp;</td><td>146,14</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,76</td><td>186,24</td><td>146,00</td><td>14,00</td><td>132,00</td><td>168,45</td><td>&nbsp;</td><td>168,45</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,68</td><td>198,95</td><td>204,00</td><td>74,00</td><td>130,00</td><td>179,55</td><td>&nbsp;</td><td>179,55</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,25</td><td>109,49</td><td>137,00</td><td>5,00</td><td>132,00</td><td>133,03</td><td>&nbsp;</td><td>133,03</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,24</td><td>132,36</td><td>133,00</td><td>0,00</td><td>133,00</td><td>104,99</td><td>&nbsp;</td><td>104,99</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,28</td><td>135,56</td><td>133,00</td><td>0,00</td><td>133,00</td><td>141,53</td><td>&nbsp;</td><td>141,53</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,69</td><td>93,97</td><td>132,00</td><td>0,00</td><td>132,00</td><td>115,54</td><td>&nbsp;</td><td>115,54</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>125,08</td><td>133,00</td><td>0,00</td><td>133,00</td><td>95,78</td><td>&nbsp;</td><td>95,78</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,87</td><td>149,73</td><td>130,00</td><td>0,00</td><td>130,00</td><td>151,27</td><td>&nbsp;</td><td>151,27</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,62</td><td>180,98</td><td>133,00</td><td>1,00</td><td>132,00</td><td>189,67</td><td>&nbsp;</td><td>189,67</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>134,80</td><td>138,00</td><td>8,00</td><td>130,00</td><td>182,37</td><td>&nbsp;</td><td>182,37</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,70</td><td>149,32</td><td>141,00</td><td>11,00</td><td>130,00</td><td>141,91</td><td>&nbsp;</td><td>141,91</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,65</td><td>129,80</td><td>133,00</td><td>1,00</td><td>132,00</td><td>154,79</td><td>&nbsp;</td><td>154,79</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,77</td><td>177,58</td><td>170,00</td><td>39,00</td><td>130,00</td><td>186,62</td><td>&nbsp;</td><td>186,62</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,66</td><td>163,06</td><td>170,00</td><td>40,00</td><td>130,00</td><td>167,48</td><td>&nbsp;</td><td>167,48</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>143,16</td><td>147,00</td><td>17,00</td><td>130,00</td><td>132,40</td><td>&nbsp;</td><td>132,40</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>145,00</td><td>145,00</td><td>15,00</td><td>130,00</td><td>114,32</td><td>&nbsp;</td><td>114,32</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,45</td><td>122,40</td><td>132,00</td><td>2,00</td><td>130,00</td><td>156,99</td><td>&nbsp;</td><td>156,99</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,58</td><td>146,32</td><td>138,00</td><td>8,00</td><td>130,00</td><td>123,82</td><td>&nbsp;</td><td>123,82</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,62</td><td>144,56</td><td>142,00</td><td>12,00</td><td>130,00</td><td>98,55</td><td>&nbsp;</td><td>98,55</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,52</td><td>127,60</td><td>134,00</td><td>4,00</td><td>130,00</td><td>81,25</td><td>&nbsp;</td><td>81,25</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,49</td><td>129,08</td><td>131,00</td><td>1,00</td><td>130,00</td><td>92,39</td><td>&nbsp;</td><td>92,39</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,48</td><td>129,36</td><td>130,00</td><td>0,00</td><td>130,00</td><td>108,73</td><td>&nbsp;</td><td>108,73</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,37</td><td>81,96</td><td>89,00</td><td>5,00</td><td>84,00</td><td>97,30</td><td>&nbsp;</td><td>97,30</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,86</td><td>84,37</td><td>117,00</td><td>0,00</td><td>117,00</td><td>84,89</td><td>&nbsp;</td><td>84,89</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>128,42</td><td>83,00</td><td>0,00</td><td>83,00</td><td>74,76</td><td>&nbsp;</td><td>74,76</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>105,48</td><td>94,00</td><td>31,00</td><td>63,00</td><td>58,49</td><td>&nbsp;</td><td>58,49</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,72</td><td>89,11</td><td>91,00</td><td>26,00</td><td>65,00</td><td>93,68</td><td>&nbsp;</td><td>93,68</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>124,89</td><td>123,00</td><td>63,00</td><td>60,00</td><td>81,51</td><td>&nbsp;</td><td>81,51</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,76</td><td>130,61</td><td>130,00</td><td>65,00</td><td>65,00</td><td>64,28</td><td>&nbsp;</td><td>64,28</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,57</td><td>106,91</td><td>119,00</td><td>29,00</td><td>90,00</td><td>53,53</td><td>&nbsp;</td><td>53,53</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,09</td><td>97,29</td><td>128,00</td><td>1,00</td><td>127,00</td><td>48,10</td><td>&nbsp;</td><td>48,10</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,60</td><td>116,63</td><td>84,00</td><td>1,00</td><td>83,00</td><td>51,00</td><td>&nbsp;</td><td>51,00</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,73</td><td>120,32</td><td>112,00</td><td>47,00</td><td>65,00</td><td>50,43</td><td>&nbsp;</td><td>50,43</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,73</td><td>107,00</td><td>107,00</td><td>44,00</td><td>63,00</td><td>46,95</td><td>&nbsp;</td><td>46,95</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,72</td><td>120,36</td><td>121,00</td><td>56,00</td><td>65,00</td><td>39,97</td><td>&nbsp;</td><td>39,97</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,62</td><td>112,60</td><td>119,00</td><td>46,00</td><td>73,00</td><td>34,92</td><td>&nbsp;</td><td>34,92</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,56</td><td>108,16</td><td>112,00</td><td>14,00</td><td>98,00</td><td>34,53</td><td>&nbsp;</td><td>34,53</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,99</td><td>91,53</td><td>128,00</td><td>1,00</td><td>127,00</td><td>39,13</td><td>&nbsp;</td><td>39,13</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,67</td><td>112,20</td><td>133,00</td><td>0,00</td><td>133,00</td><td>45,86</td><td>&nbsp;</td><td>45,86</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,86</td><td>113,48</td><td>101,00</td><td>0,00</td><td>101,00</td><td>43,93</td><td>&nbsp;</td><td>43,93</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,50</td><td>109,29</td><td>133,00</td><td>0,00</td><td>133,00</td><td>39,21</td><td>&nbsp;</td><td>39,21</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,94</td><td>98,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>34,20</td><td>&nbsp;</td><td>34,20</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,79</td><td>113,04</td><td>57,00</td><td>0,00</td><td>57,00</td><td>35,37</td><td>&nbsp;</td><td>35,37</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,87</td><td>101,20</td><td>96,00</td><td>0,00</td><td>96,00</td><td>38,62</td><td>&nbsp;</td><td>38,62</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,04</td><td>63,28</td><td>118,00</td><td>0,00</td><td>118,00</td><td>50,22</td><td>&nbsp;</td><td>50,22</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,40</td><td>62,77</td><td>39,00</td><td>0,00</td><td>39,00</td><td>57,26</td><td>&nbsp;</td><td>57,26</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,38</td><td>85,68</td><td>87,00</td><td>0,00</td><td>87,00</td><td>59,68</td><td>&nbsp;</td><td>59,68</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>96,54</td><td>84,00</td><td>0,00</td><td>84,00</td><td>49,61</td><td>&nbsp;</td><td>49,61</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,99</td><td>99,40</td><td>72,00</td><td>0,00</td><td>72,00</td><td>38,81</td><td>&nbsp;</td><td>38,81</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>97,56</td><td>121,00</td><td>0,00</td><td>121,00</td><td>84,83</td><td>&nbsp;</td><td>84,83</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>49,33</td><td>83,00</td><td>0,00</td><td>83,00</td><td>104,49</td><td>&nbsp;</td><td>104,49</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,21</td><td>63,94</td><td>58,00</td><td>0,00</td><td>58,00</td><td>70,79</td><td>&nbsp;</td><td>70,79</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,66</td><td>49,71</td><td>20,00</td><td>0,00</td><td>20,00</td><td>99,96</td><td>&nbsp;</td><td>99,96</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,76</td><td>107,60</td><td>101,00</td><td>0,00</td><td>101,00</td><td>120,63</td><td>&nbsp;</td><td>120,63</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,64</td><td>127,08</td><td>135,00</td><td>0,00</td><td>135,00</td><td>88,61</td><td>&nbsp;</td><td>88,61</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,87</td><td>123,10</td><td>108,00</td><td>0,00</td><td>108,00</td><td>63,90</td><td>&nbsp;</td><td>63,90</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,78</td><td>115,14</td><td>121,00</td><td>0,00</td><td>121,00</td><td>47,06</td><td>&nbsp;</td><td>47,06</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,25</td><td>95,01</td><td>130,00</td><td>0,00</td><td>130,00</td><td>37,08</td><td>&nbsp;</td><td>37,08</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,63</td><td>68,09</td><td>43,00</td><td>0,00</td><td>43,00</td><td>36,44</td><td>&nbsp;</td><td>36,44</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,57</td><td>87,04</td><td>91,00</td><td>0,00</td><td>93,00</td><td>36,45</td><td>&nbsp;</td><td>36,45</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,49</td><td>92,72</td><td>98,00</td><td>0,00</td><td>99,00</td><td>31,63</td><td>&nbsp;</td><td>31,63</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,38</td><td>93,74</td><td>101,00</td><td>0,00</td><td>103,00</td><td>28,48</td><td>&nbsp;</td><td>28,48</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,46</td><td>95,28</td><td>90,00</td><td>0,00</td><td>92,00</td><td>29,63</td><td>&nbsp;</td><td>29,63</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,43</td><td>84,02</td><td>86,00</td><td>0,00</td><td>86,00</td><td>41,34</td><td>&nbsp;</td><td>41,34</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,84</td><td>119,05</td><td>92,00</td><td>0,00</td><td>94,00</td><td>47,05</td><td>&nbsp;</td><td>47,05</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,48</td><td>92,25</td><td>116,00</td><td>0,00</td><td>116,00</td><td>44,60</td><td>&nbsp;</td><td>44,60</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,37</td><td>100,74</td><td>108,00</td><td>0,00</td><td>113,00</td><td>40,24</td><td>&nbsp;</td><td>40,24</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,36</td><td>120,34</td><td>121,00</td><td>0,00</td><td>121,00</td><td>41,51</td><td>&nbsp;</td><td>41,51</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,12</td><td>99,15</td><td>115,00</td><td>0,00</td><td>115,00</td><td>48,67</td><td>&nbsp;</td><td>48,67</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,92</td><td>110,03</td><td>123,00</td><td>0,00</td><td>123,00</td><td>53,78</td><td>&nbsp;</td><td>53,78</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,04</td><td>118,68</td><td>111,00</td><td>0,00</td><td>111,00</td><td>49,40</td><td>&nbsp;</td><td>49,40</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>326,96</td><td>94,72</td><td>100,00</td><td>0,00</td><td>100,00</td><td>36,92</td><td>&nbsp;</td><td>36,92</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,52</td><td>159,58</td><td>58,00</td><td>0,00</td><td>58,00</td><td>277,35</td><td>&nbsp;</td><td>277,35</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>329,02</td><td>380,10</td><td>349,00</td><td>219,00</td><td>130,00</td><td>408,87</td><td>&nbsp;</td><td>408,87</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,75</td><td>232,58</td><td>249,00</td><td>119,00</td><td>130,00</td><td>316,58</td><td>&nbsp;</td><td>316,58</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,83</td><td>197,86</td><td>193,00</td><td>63,00</td><td>130,00</td><td>251,82</td><td>&nbsp;</td><td>251,82</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,63</td><td>167,49</td><td>180,00</td><td>50,00</td><td>130,00</td><td>216,50</td><td>&nbsp;</td><td>216,50</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,30</td><td>112,89</td><td>134,00</td><td>4,00</td><td>130,00</td><td>167,35</td><td>&nbsp;</td><td>167,35</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,53</td><td>68,12</td><td>118,00</td><td>0,00</td><td>118,00</td><td>132,94</td><td>&nbsp;</td><td>132,94</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>328,01</td><td>57,32</td><td>26,00</td><td>0,00</td><td>26,00</td><td>143,49</td><td>&nbsp;</td><td>143,49</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,23</td><td>55,96</td><td>107,00</td><td>0,00</td><td>107,00</td><td>85,79</td><td>&nbsp;</td><td>85,79</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,56</td><td>51,76</td><td>30,00</td><td>0,00</td><td>30,00</td><td>72,04</td><td>&nbsp;</td><td>72,04</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,19</td><td>47,58</td><td>72,00</td><td>0,00</td><td>72,00</td><td>74,02</td><td>&nbsp;</td><td>74,02</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19072</td><td>MONJOLINHO                                        </td><td>327,05</td><td>62,74</td><td>72,00</td><td>0,00</td><td>72,00</td><td>77,61</td><td>&nbsp;</td><td>77,61</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,81</td><td>61,09</td><td>93,00</td><td>0,00</td><td>93,00</td><td>77,47</td><td>34,16</td><td>77,47</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,81</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>83,91</td><td>34,16</td><td>83,91</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,81</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>89,96</td><td>34,16</td><td>89,96</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,78</td><td>66,18</td><td>114,00</td><td>0,00</td><td>114,00</td><td>95,42</td><td>34,04</td><td>95,42</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,76</td><td>81,15</td><td>113,00</td><td>0,00</td><td>113,00</td><td>100,68</td><td>33,96</td><td>100,68</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,71</td><td>80,45</td><td>160,00</td><td>0,00</td><td>159,00</td><td>104,26</td><td>33,76</td><td>104,26</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,68</td><td>78,33</td><td>126,00</td><td>0,00</td><td>126,00</td><td>114,11</td><td>33,64</td><td>114,11</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,66</td><td>80,25</td><td>112,00</td><td>0,00</td><td>111,00</td><td>121,95</td><td>33,57</td><td>121,95</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,67</td><td>95,87</td><td>80,00</td><td>0,00</td><td>80,00</td><td>130,97</td><td>33,60</td><td>130,97</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,68</td><td>95,88</td><td>80,00</td><td>0,00</td><td>80,00</td><td>140,15</td><td>33,64</td><td>140,15</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,68</td><td>114,00</td><td>114,00</td><td>0,00</td><td>113,00</td><td>163,86</td><td>33,64</td><td>163,86</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,68</td><td>113,00</td><td>113,00</td><td>0,00</td><td>113,00</td><td>186,77</td><td>33,64</td><td>186,77</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,66</td><td>138,25</td><td>170,00</td><td>0,00</td><td>170,00</td><td>205,39</td><td>33,57</td><td>205,39</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,67</td><td>127,87</td><td>112,00</td><td>0,00</td><td>112,00</td><td>224,15</td><td>33,60</td><td>224,15</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,68</td><td>129,88</td><td>114,00</td><td>0,00</td><td>113,00</td><td>242,69</td><td>33,64</td><td>242,69</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,71</td><td>127,67</td><td>80,00</td><td>0,00</td><td>80,00</td><td>250,72</td><td>33,76</td><td>250,72</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,75</td><td>143,63</td><td>80,00</td><td>0,00</td><td>80,00</td><td>253,93</td><td>33,92</td><td>253,93</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,77</td><td>145,84</td><td>114,00</td><td>0,00</td><td>113,00</td><td>261,79</td><td>34,00</td><td>261,79</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,79</td><td>143,86</td><td>112,00</td><td>0,00</td><td>111,00</td><td>270,20</td><td>34,08</td><td>270,20</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,80</td><td>128,94</td><td>113,00</td><td>0,00</td><td>113,00</td><td>279,75</td><td>34,12</td><td>279,75</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,82</td><td>145,90</td><td>114,00</td><td>0,00</td><td>114,00</td><td>281,85</td><td>34,20</td><td>281,85</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,84</td><td>144,92</td><td>113,00</td><td>0,00</td><td>113,00</td><td>284,20</td><td>34,28</td><td>284,20</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,87</td><td>127,91</td><td>80,00</td><td>0,00</td><td>80,00</td><td>288,28</td><td>34,40</td><td>288,28</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,91</td><td>143,96</td><td>80,00</td><td>0,00</td><td>80,00</td><td>291,70</td><td>34,56</td><td>291,70</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,92</td><td>129,00</td><td>113,00</td><td>0,00</td><td>113,00</td><td>295,69</td><td>34,60</td><td>295,69</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,93</td><td>131,01</td><td>115,00</td><td>0,00</td><td>115,00</td><td>304,65</td><td>34,64</td><td>304,65</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,95</td><td>146,03</td><td>114,00</td><td>0,00</td><td>114,00</td><td>310,20</td><td>34,72</td><td>310,20</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>142,08</td><td>94,00</td><td>0,00</td><td>94,00</td><td>308,92</td><td>34,83</td><td>308,92</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>129,04</td><td>113,00</td><td>0,00</td><td>113,00</td><td>301,07</td><td>34,87</td><td>301,07</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,01</td><td>113,09</td><td>81,00</td><td>0,00</td><td>81,00</td><td>282,89</td><td>34,95</td><td>282,89</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,03</td><td>112,11</td><td>80,00</td><td>0,00</td><td>80,00</td><td>256,40</td><td>35,03</td><td>256,40</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,02</td><td>97,94</td><td>114,00</td><td>0,00</td><td>113,00</td><td>229,70</td><td>34,99</td><td>229,70</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,00</td><td>80,90</td><td>113,00</td><td>0,00</td><td>113,00</td><td>201,75</td><td>34,91</td><td>201,75</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>80,92</td><td>113,00</td><td>0,00</td><td>112,00</td><td>179,59</td><td>34,83</td><td>179,59</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>79,94</td><td>112,00</td><td>0,00</td><td>112,00</td><td>162,78</td><td>34,75</td><td>162,78</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>98,03</td><td>82,00</td><td>0,00</td><td>81,00</td><td>150,77</td><td>34,79</td><td>150,77</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>141,77</td><td>34,79</td><td>141,77</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>139,14</td><td>34,79</td><td>139,14</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>135,22</td><td>34,79</td><td>135,22</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>130,65</td><td>34,79</td><td>130,65</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>130,49</td><td>34,79</td><td>130,49</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>129,60</td><td>34,79</td><td>129,60</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>98,03</td><td>82,00</td><td>0,00</td><td>81,00</td><td>129,01</td><td>34,83</td><td>129,01</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>130,04</td><td>34,83</td><td>130,04</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>131,94</td><td>34,83</td><td>131,94</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>97,04</td><td>81,00</td><td>0,00</td><td>80,00</td><td>131,68</td><td>34,87</td><td>131,68</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>129,12</td><td>34,87</td><td>129,12</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>81,00</td><td>81,00</td><td>0,00</td><td>80,00</td><td>125,52</td><td>34,87</td><td>125,52</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>63,96</td><td>80,00</td><td>0,00</td><td>80,00</td><td>120,65</td><td>34,83</td><td>120,65</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>81,00</td><td>81,00</td><td>0,00</td><td>80,00</td><td>116,25</td><td>34,83</td><td>116,25</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>110,05</td><td>34,83</td><td>110,05</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>108,71</td><td>34,83</td><td>108,71</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>64,97</td><td>81,00</td><td>0,00</td><td>80,00</td><td>106,95</td><td>34,79</td><td>106,95</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>106,06</td><td>34,79</td><td>106,06</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>64,97</td><td>81,00</td><td>0,00</td><td>80,00</td><td>103,37</td><td>34,75</td><td>103,37</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>104,31</td><td>34,75</td><td>104,31</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,93</td><td>59,95</td><td>108,00</td><td>0,00</td><td>107,00</td><td>101,69</td><td>34,64</td><td>101,69</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,93</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>100,08</td><td>34,64</td><td>100,08</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,92</td><td>64,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>96,43</td><td>34,60</td><td>96,43</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,91</td><td>64,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>95,49</td><td>34,56</td><td>95,49</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,90</td><td>64,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>95,84</td><td>34,52</td><td>95,84</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>64,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>101,05</td><td>34,48</td><td>101,05</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>107,00</td><td>34,48</td><td>107,00</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>115,19</td><td>34,48</td><td>115,19</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>124,53</td><td>34,48</td><td>124,53</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>133,81</td><td>34,48</td><td>133,81</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>80,00</td><td>80,00</td><td>0,00</td><td>81,00</td><td>141,80</td><td>34,48</td><td>141,80</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,90</td><td>95,99</td><td>80,00</td><td>0,00</td><td>80,00</td><td>152,23</td><td>34,52</td><td>152,23</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,91</td><td>96,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>168,23</td><td>34,56</td><td>168,23</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,93</td><td>108,01</td><td>76,00</td><td>0,00</td><td>75,00</td><td>190,92</td><td>34,64</td><td>190,92</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>128,05</td><td>80,00</td><td>0,00</td><td>80,00</td><td>216,00</td><td>34,75</td><td>216,00</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,00</td><td>153,14</td><td>89,00</td><td>0,00</td><td>88,00</td><td>239,94</td><td>34,91</td><td>239,94</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,05</td><td>160,29</td><td>80,00</td><td>0,00</td><td>80,00</td><td>253,67</td><td>35,11</td><td>253,67</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,10</td><td>160,42</td><td>80,00</td><td>0,00</td><td>80,00</td><td>252,31</td><td>35,31</td><td>252,31</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,13</td><td>128,32</td><td>80,00</td><td>0,00</td><td>80,00</td><td>238,11</td><td>35,43</td><td>238,11</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>144,49</td><td>80,00</td><td>0,00</td><td>80,00</td><td>214,59</td><td>35,59</td><td>214,59</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,19</td><td>122,28</td><td>90,00</td><td>0,00</td><td>89,00</td><td>187,52</td><td>35,67</td><td>187,52</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,20</td><td>96,15</td><td>80,00</td><td>0,00</td><td>80,00</td><td>166,61</td><td>35,72</td><td>166,61</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,20</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>149,91</td><td>35,72</td><td>149,91</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,20</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>137,53</td><td>35,72</td><td>137,53</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,19</td><td>65,85</td><td>82,00</td><td>0,00</td><td>81,00</td><td>127,88</td><td>35,67</td><td>127,88</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,19</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>121,21</td><td>35,67</td><td>121,21</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,18</td><td>63,86</td><td>80,00</td><td>0,00</td><td>80,00</td><td>117,62</td><td>35,63</td><td>117,62</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>65,86</td><td>82,00</td><td>0,00</td><td>81,00</td><td>118,79</td><td>35,59</td><td>118,79</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>119,74</td><td>35,59</td><td>119,74</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>122,05</td><td>35,59</td><td>122,05</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>125,50</td><td>35,59</td><td>125,50</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>81,00</td><td>81,00</td><td>0,00</td><td>80,00</td><td>128,02</td><td>35,59</td><td>128,02</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>126,48</td><td>35,59</td><td>126,48</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,17</td><td>92,00</td><td>92,00</td><td>0,00</td><td>92,00</td><td>121,41</td><td>35,59</td><td>121,41</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,16</td><td>77,87</td><td>94,00</td><td>0,00</td><td>93,00</td><td>115,47</td><td>35,55</td><td>115,47</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,15</td><td>63,87</td><td>80,00</td><td>0,00</td><td>80,00</td><td>109,12</td><td>35,51</td><td>109,12</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,14</td><td>63,88</td><td>80,00</td><td>0,00</td><td>80,00</td><td>99,67</td><td>35,47</td><td>99,67</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,13</td><td>63,88</td><td>80,00</td><td>0,00</td><td>80,00</td><td>94,49</td><td>35,43</td><td>94,49</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,11</td><td>49,78</td><td>82,00</td><td>0,00</td><td>81,00</td><td>89,56</td><td>35,35</td><td>89,56</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,10</td><td>63,90</td><td>80,00</td><td>0,00</td><td>80,00</td><td>85,93</td><td>35,31</td><td>85,93</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,08</td><td>47,81</td><td>80,00</td><td>0,00</td><td>80,00</td><td>81,21</td><td>35,23</td><td>81,21</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,07</td><td>63,92</td><td>80,00</td><td>0,00</td><td>80,00</td><td>77,62</td><td>35,19</td><td>77,62</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,05</td><td>47,85</td><td>80,00</td><td>0,00</td><td>80,00</td><td>74,71</td><td>35,11</td><td>74,71</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,04</td><td>63,93</td><td>80,00</td><td>0,00</td><td>80,00</td><td>71,92</td><td>35,07</td><td>71,92</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,03</td><td>63,94</td><td>80,00</td><td>0,00</td><td>80,00</td><td>67,05</td><td>35,03</td><td>67,05</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,01</td><td>47,89</td><td>80,00</td><td>0,00</td><td>80,00</td><td>65,58</td><td>34,95</td><td>65,58</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>47,91</td><td>80,00</td><td>0,00</td><td>80,00</td><td>63,30</td><td>34,87</td><td>63,30</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>63,96</td><td>80,00</td><td>0,00</td><td>80,00</td><td>59,16</td><td>34,83</td><td>59,16</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>47,94</td><td>80,00</td><td>0,00</td><td>80,00</td><td>59,64</td><td>34,75</td><td>59,64</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,95</td><td>63,98</td><td>80,00</td><td>0,00</td><td>80,00</td><td>60,42</td><td>34,72</td><td>60,42</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,94</td><td>63,98</td><td>80,00</td><td>0,00</td><td>80,00</td><td>56,18</td><td>34,68</td><td>56,18</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,92</td><td>47,98</td><td>80,00</td><td>0,00</td><td>80,00</td><td>54,72</td><td>34,60</td><td>54,72</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,90</td><td>48,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>54,12</td><td>34,52</td><td>54,12</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,88</td><td>48,02</td><td>80,00</td><td>0,00</td><td>80,00</td><td>50,08</td><td>34,44</td><td>50,08</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,86</td><td>48,04</td><td>80,00</td><td>0,00</td><td>80,00</td><td>48,50</td><td>34,36</td><td>48,50</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,84</td><td>48,06</td><td>80,00</td><td>0,00</td><td>80,00</td><td>50,51</td><td>34,28</td><td>50,51</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,82</td><td>48,08</td><td>80,00</td><td>0,00</td><td>80,00</td><td>49,41</td><td>34,20</td><td>49,41</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,80</td><td>48,10</td><td>80,00</td><td>0,00</td><td>80,00</td><td>48,62</td><td>34,12</td><td>48,62</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,78</td><td>48,13</td><td>80,00</td><td>0,00</td><td>80,00</td><td>48,50</td><td>34,04</td><td>48,50</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,76</td><td>48,15</td><td>80,00</td><td>0,00</td><td>80,00</td><td>46,67</td><td>33,96</td><td>46,67</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,73</td><td>32,26</td><td>80,00</td><td>0,00</td><td>80,00</td><td>45,94</td><td>33,84</td><td>45,94</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,71</td><td>49,20</td><td>81,00</td><td>0,00</td><td>80,00</td><td>46,16</td><td>33,76</td><td>46,16</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,69</td><td>48,22</td><td>80,00</td><td>0,00</td><td>80,00</td><td>44,49</td><td>33,68</td><td>44,49</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,67</td><td>49,24</td><td>81,00</td><td>0,00</td><td>80,00</td><td>46,10</td><td>33,60</td><td>46,10</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,65</td><td>49,26</td><td>81,00</td><td>0,00</td><td>81,00</td><td>47,35</td><td>33,53</td><td>47,35</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,63</td><td>49,28</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,68</td><td>33,45</td><td>45,68</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,61</td><td>50,30</td><td>82,00</td><td>0,00</td><td>81,00</td><td>45,58</td><td>33,37</td><td>45,58</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,59</td><td>49,32</td><td>81,00</td><td>0,00</td><td>81,00</td><td>47,36</td><td>33,29</td><td>47,36</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,57</td><td>49,34</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,96</td><td>33,21</td><td>45,96</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,57</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>43,93</td><td>33,21</td><td>43,93</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,56</td><td>66,18</td><td>82,00</td><td>0,00</td><td>81,00</td><td>45,41</td><td>33,17</td><td>45,41</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,54</td><td>49,37</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,05</td><td>33,09</td><td>45,05</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,52</td><td>49,39</td><td>81,00</td><td>0,00</td><td>81,00</td><td>44,11</td><td>33,01</td><td>44,11</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,51</td><td>65,20</td><td>81,00</td><td>0,00</td><td>80,00</td><td>43,82</td><td>32,97</td><td>43,82</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,51</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,78</td><td>32,97</td><td>45,78</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,50</td><td>65,21</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,19</td><td>32,94</td><td>45,19</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,50</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>44,42</td><td>32,94</td><td>44,42</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,51</td><td>97,79</td><td>82,00</td><td>0,00</td><td>81,00</td><td>43,38</td><td>32,97</td><td>43,38</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,50</td><td>65,21</td><td>81,00</td><td>0,00</td><td>81,00</td><td>43,55</td><td>32,94</td><td>43,55</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,48</td><td>49,44</td><td>81,00</td><td>0,00</td><td>81,00</td><td>42,90</td><td>32,86</td><td>42,90</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,46</td><td>51,46</td><td>83,00</td><td>0,00</td><td>82,00</td><td>42,11</td><td>32,78</td><td>42,11</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,44</td><td>49,48</td><td>81,00</td><td>0,00</td><td>81,00</td><td>44,71</td><td>32,70</td><td>44,71</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,42</td><td>49,50</td><td>81,00</td><td>0,00</td><td>80,00</td><td>48,07</td><td>32,62</td><td>48,07</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,40</td><td>49,52</td><td>81,00</td><td>0,00</td><td>81,00</td><td>48,81</td><td>32,54</td><td>48,81</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,38</td><td>50,54</td><td>82,00</td><td>0,00</td><td>81,00</td><td>48,78</td><td>32,47</td><td>48,78</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,36</td><td>49,56</td><td>81,00</td><td>0,00</td><td>81,00</td><td>49,01</td><td>32,39</td><td>49,01</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,34</td><td>49,58</td><td>81,00</td><td>0,00</td><td>81,00</td><td>45,05</td><td>32,31</td><td>45,05</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,32</td><td>50,60</td><td>82,00</td><td>0,00</td><td>81,00</td><td>39,07</td><td>32,23</td><td>39,07</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,29</td><td>33,94</td><td>81,00</td><td>0,00</td><td>81,00</td><td>35,11</td><td>32,11</td><td>35,11</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,26</td><td>33,99</td><td>81,00</td><td>0,00</td><td>81,00</td><td>34,24</td><td>32,00</td><td>34,24</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,23</td><td>34,03</td><td>81,00</td><td>0,00</td><td>81,00</td><td>34,19</td><td>31,88</td><td>34,19</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,21</td><td>49,71</td><td>81,00</td><td>0,00</td><td>81,00</td><td>36,40</td><td>31,80</td><td>36,40</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,19</td><td>49,74</td><td>81,00</td><td>0,00</td><td>81,00</td><td>37,60</td><td>31,72</td><td>37,60</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,17</td><td>49,76</td><td>81,00</td><td>0,00</td><td>81,00</td><td>37,76</td><td>31,65</td><td>37,76</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,14</td><td>35,17</td><td>82,00</td><td>0,00</td><td>81,00</td><td>36,52</td><td>31,53</td><td>36,52</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,11</td><td>34,22</td><td>81,00</td><td>0,00</td><td>81,00</td><td>34,92</td><td>31,41</td><td>34,92</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,06</td><td>78,13</td><td>156,00</td><td>0,00</td><td>156,00</td><td>34,28</td><td>31,22</td><td>34,28</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,07</td><td>96,56</td><td>81,00</td><td>0,00</td><td>81,00</td><td>36,27</td><td>31,26</td><td>36,27</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,06</td><td>67,44</td><td>83,00</td><td>0,00</td><td>82,00</td><td>39,41</td><td>31,22</td><td>39,41</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,04</td><td>49,89</td><td>81,00</td><td>0,00</td><td>81,00</td><td>42,53</td><td>31,14</td><td>42,53</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,02</td><td>49,91</td><td>81,00</td><td>0,00</td><td>81,00</td><td>44,41</td><td>31,07</td><td>44,41</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,00</td><td>50,93</td><td>82,00</td><td>0,00</td><td>81,00</td><td>45,58</td><td>30,99</td><td>45,58</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,93</td><td>86,42</td><td>195,00</td><td>0,00</td><td>195,00</td><td>45,20</td><td>30,72</td><td>45,20</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,87</td><td>100,14</td><td>193,00</td><td>0,00</td><td>193,00</td><td>44,69</td><td>30,49</td><td>44,69</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,86</td><td>104,54</td><td>120,00</td><td>0,00</td><td>120,00</td><td>43,81</td><td>30,45</td><td>43,81</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,87</td><td>96,46</td><td>81,00</td><td>0,00</td><td>81,00</td><td>43,11</td><td>30,49</td><td>43,11</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,83</td><td>62,19</td><td>124,00</td><td>0,00</td><td>124,00</td><td>41,61</td><td>30,33</td><td>41,61</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,81</td><td>50,13</td><td>81,00</td><td>0,00</td><td>81,00</td><td>41,12</td><td>30,26</td><td>41,12</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,81</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>40,38</td><td>30,26</td><td>40,38</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,83</td><td>113,87</td><td>83,00</td><td>0,00</td><td>82,00</td><td>38,83</td><td>30,33</td><td>38,83</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,85</td><td>111,89</td><td>81,00</td><td>0,00</td><td>81,00</td><td>40,12</td><td>30,41</td><td>40,12</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,77</td><td>62,55</td><td>186,00</td><td>0,00</td><td>186,00</td><td>39,67</td><td>30,10</td><td>39,67</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,78</td><td>96,41</td><td>81,00</td><td>0,00</td><td>81,00</td><td>38,78</td><td>30,14</td><td>38,78</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,77</td><td>65,59</td><td>81,00</td><td>0,00</td><td>81,00</td><td>39,93</td><td>30,10</td><td>39,93</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,75</td><td>50,19</td><td>81,00</td><td>0,00</td><td>81,00</td><td>41,71</td><td>30,03</td><td>41,71</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,74</td><td>67,60</td><td>83,00</td><td>0,00</td><td>82,00</td><td>41,35</td><td>29,99</td><td>41,35</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,73</td><td>65,61</td><td>81,00</td><td>0,00</td><td>81,00</td><td>42,55</td><td>29,95</td><td>42,55</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,73</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>42,60</td><td>29,95</td><td>42,60</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,73</td><td>81,00</td><td>81,00</td><td>0,00</td><td>81,00</td><td>40,36</td><td>29,95</td><td>40,36</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,72</td><td>65,61</td><td>81,00</td><td>0,00</td><td>81,00</td><td>38,39</td><td>29,91</td><td>38,39</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,70</td><td>50,24</td><td>81,00</td><td>0,00</td><td>81,00</td><td>35,51</td><td>29,84</td><td>35,51</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,67</td><td>34,90</td><td>81,00</td><td>0,00</td><td>81,00</td><td>35,02</td><td>29,72</td><td>35,02</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,65</td><td>52,29</td><td>83,00</td><td>0,00</td><td>82,00</td><td>36,06</td><td>29,64</td><td>36,06</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,57</td><td>64,38</td><td>187,00</td><td>0,00</td><td>187,00</td><td>37,11</td><td>29,34</td><td>37,11</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,56</td><td>66,70</td><td>82,00</td><td>0,00</td><td>82,00</td><td>38,72</td><td>29,30</td><td>38,72</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,55</td><td>66,70</td><td>82,00</td><td>0,00</td><td>82,00</td><td>40,39</td><td>29,26</td><td>40,39</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,54</td><td>66,71</td><td>82,00</td><td>0,00</td><td>82,00</td><td>39,73</td><td>29,23</td><td>39,73</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,52</td><td>51,43</td><td>82,00</td><td>0,00</td><td>82,00</td><td>39,83</td><td>29,15</td><td>39,83</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,50</td><td>51,45</td><td>82,00</td><td>0,00</td><td>82,00</td><td>38,14</td><td>29,07</td><td>38,14</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,49</td><td>66,73</td><td>82,00</td><td>0,00</td><td>82,00</td><td>36,57</td><td>29,04</td><td>36,57</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,49</td><td>82,00</td><td>82,00</td><td>0,00</td><td>82,00</td><td>34,97</td><td>29,04</td><td>34,97</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,49</td><td>82,00</td><td>82,00</td><td>0,00</td><td>82,00</td><td>35,18</td><td>29,04</td><td>35,18</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,50</td><td>97,27</td><td>82,00</td><td>0,00</td><td>82,00</td><td>35,41</td><td>29,07</td><td>35,41</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,50</td><td>82,00</td><td>82,00</td><td>0,00</td><td>82,00</td><td>34,71</td><td>29,07</td><td>34,71</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,47</td><td>36,21</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,72</td><td>28,96</td><td>33,72</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,45</td><td>51,50</td><td>82,00</td><td>0,00</td><td>82,00</td><td>34,32</td><td>28,88</td><td>34,32</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,43</td><td>51,52</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,03</td><td>28,81</td><td>33,03</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,41</td><td>51,54</td><td>82,00</td><td>0,00</td><td>82,00</td><td>31,77</td><td>28,73</td><td>31,77</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,38</td><td>36,35</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,03</td><td>28,62</td><td>33,03</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,35</td><td>36,40</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,69</td><td>28,51</td><td>33,69</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,33</td><td>51,62</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,44</td><td>28,43</td><td>32,44</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,30</td><td>36,47</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,09</td><td>28,32</td><td>32,09</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,27</td><td>36,52</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,30</td><td>28,20</td><td>33,30</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,24</td><td>36,57</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,15</td><td>28,09</td><td>32,15</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,22</td><td>51,74</td><td>82,00</td><td>0,00</td><td>82,00</td><td>31,25</td><td>28,02</td><td>31,25</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,20</td><td>51,76</td><td>82,00</td><td>0,00</td><td>82,00</td><td>31,27</td><td>27,94</td><td>31,27</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,17</td><td>36,68</td><td>82,00</td><td>0,00</td><td>82,00</td><td>31,23</td><td>27,83</td><td>31,23</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,14</td><td>36,72</td><td>82,00</td><td>0,00</td><td>82,00</td><td>30,20</td><td>27,71</td><td>30,20</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,11</td><td>36,77</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,41</td><td>27,60</td><td>29,41</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,08</td><td>36,82</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,54</td><td>27,49</td><td>29,54</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,05</td><td>36,86</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,25</td><td>27,38</td><td>28,25</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,02</td><td>36,91</td><td>82,00</td><td>0,00</td><td>82,00</td><td>27,82</td><td>27,27</td><td>27,82</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,99</td><td>36,96</td><td>82,00</td><td>0,00</td><td>82,00</td><td>27,95</td><td>27,15</td><td>27,95</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,96</td><td>38,00</td><td>83,00</td><td>0,00</td><td>82,00</td><td>28,02</td><td>27,04</td><td>28,02</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,93</td><td>37,05</td><td>82,00</td><td>0,00</td><td>82,00</td><td>27,81</td><td>26,93</td><td>27,81</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,90</td><td>37,10</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,16</td><td>26,82</td><td>29,16</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,87</td><td>35,14</td><td>80,00</td><td>0,00</td><td>80,00</td><td>29,99</td><td>26,71</td><td>29,99</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,84</td><td>37,19</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,69</td><td>26,59</td><td>28,69</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,81</td><td>39,23</td><td>84,00</td><td>0,00</td><td>83,00</td><td>28,12</td><td>26,48</td><td>28,12</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,78</td><td>37,28</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,45</td><td>26,37</td><td>28,45</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>37,33</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,62</td><td>26,26</td><td>28,62</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,72</td><td>37,37</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,39</td><td>26,15</td><td>28,39</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,69</td><td>37,42</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,87</td><td>26,04</td><td>28,87</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>37,47</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,38</td><td>25,93</td><td>29,38</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,63</td><td>38,51</td><td>83,00</td><td>0,00</td><td>82,00</td><td>29,52</td><td>25,82</td><td>29,52</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,61</td><td>52,37</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,70</td><td>25,74</td><td>29,70</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>37,59</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,80</td><td>25,63</td><td>28,80</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,55</td><td>38,64</td><td>83,00</td><td>0,00</td><td>83,00</td><td>29,49</td><td>25,52</td><td>29,49</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,52</td><td>40,68</td><td>85,00</td><td>0,00</td><td>85,00</td><td>29,36</td><td>25,41</td><td>29,36</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>38,73</td><td>83,00</td><td>0,00</td><td>83,00</td><td>28,93</td><td>25,30</td><td>28,93</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,47</td><td>53,51</td><td>83,00</td><td>0,00</td><td>83,00</td><td>28,88</td><td>25,23</td><td>28,88</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>38,81</td><td>83,00</td><td>0,00</td><td>83,00</td><td>30,08</td><td>25,12</td><td>30,08</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>38,85</td><td>83,00</td><td>0,00</td><td>83,00</td><td>31,15</td><td>25,01</td><td>31,15</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,40</td><td>49,30</td><td>64,00</td><td>0,00</td><td>59,00</td><td>31,15</td><td>24,97</td><td>31,15</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>43,30</td><td>58,00</td><td>0,00</td><td>52,00</td><td>32,27</td><td>24,94</td><td>32,27</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>43,31</td><td>58,00</td><td>0,00</td><td>52,00</td><td>31,83</td><td>24,90</td><td>31,83</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,37</td><td>45,31</td><td>60,00</td><td>0,00</td><td>53,00</td><td>31,97</td><td>24,86</td><td>31,97</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>31,69</td><td>17,00</td><td>0,00</td><td>0,00</td><td>30,82</td><td>24,90</td><td>30,82</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,37</td><td>43,31</td><td>58,00</td><td>0,00</td><td>51,00</td><td>30,33</td><td>24,86</td><td>30,33</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,36</td><td>43,32</td><td>58,00</td><td>0,00</td><td>52,00</td><td>28,71</td><td>24,83</td><td>28,71</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>44,32</td><td>59,00</td><td>0,00</td><td>52,00</td><td>27,03</td><td>24,79</td><td>27,03</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>43,33</td><td>58,00</td><td>0,00</td><td>51,00</td><td>25,63</td><td>24,75</td><td>25,63</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,31</td><td>25,01</td><td>69,00</td><td>0,00</td><td>64,00</td><td>25,60</td><td>24,65</td><td>25,60</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,30</td><td>46,35</td><td>61,00</td><td>0,00</td><td>55,00</td><td>25,65</td><td>24,61</td><td>25,65</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,32</td><td>46,31</td><td>17,00</td><td>17,00</td><td>0,00</td><td>25,58</td><td>24,68</td><td>25,58</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,31</td><td>43,34</td><td>58,00</td><td>0,00</td><td>52,00</td><td>23,10</td><td>24,65</td><td>23,10</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,30</td><td>43,35</td><td>58,00</td><td>0,00</td><td>52,00</td><td>22,16</td><td>24,61</td><td>22,16</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,28</td><td>29,71</td><td>59,00</td><td>0,00</td><td>52,00</td><td>21,42</td><td>24,54</td><td>21,42</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>43,36</td><td>58,00</td><td>0,00</td><td>52,00</td><td>19,35</td><td>24,50</td><td>19,35</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,26</td><td>43,37</td><td>58,00</td><td>0,00</td><td>52,00</td><td>18,91</td><td>24,46</td><td>18,91</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,24</td><td>29,75</td><td>59,00</td><td>0,00</td><td>52,00</td><td>20,18</td><td>24,39</td><td>20,18</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,26</td><td>46,25</td><td>17,00</td><td>0,00</td><td>0,00</td><td>21,12</td><td>24,46</td><td>21,12</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,24</td><td>29,75</td><td>59,00</td><td>0,00</td><td>52,00</td><td>19,75</td><td>24,39</td><td>19,75</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,23</td><td>44,38</td><td>59,00</td><td>0,00</td><td>52,00</td><td>18,91</td><td>24,35</td><td>18,91</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,21</td><td>31,78</td><td>61,00</td><td>0,00</td><td>53,00</td><td>16,69</td><td>24,28</td><td>16,69</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,19</td><td>28,80</td><td>58,00</td><td>0,00</td><td>52,00</td><td>17,62</td><td>24,21</td><td>17,62</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,17</td><td>30,82</td><td>60,00</td><td>0,00</td><td>52,00</td><td>16,67</td><td>24,14</td><td>16,67</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,16</td><td>43,42</td><td>58,00</td><td>0,00</td><td>52,00</td><td>17,42</td><td>24,10</td><td>17,42</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,17</td><td>31,58</td><td>17,00</td><td>0,00</td><td>0,00</td><td>18,10</td><td>24,14</td><td>18,10</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,16</td><td>43,42</td><td>58,00</td><td>0,00</td><td>52,00</td><td>19,96</td><td>24,10</td><td>19,96</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,14</td><td>28,85</td><td>58,00</td><td>0,00</td><td>52,00</td><td>18,75</td><td>24,03</td><td>18,75</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,13</td><td>44,43</td><td>59,00</td><td>0,00</td><td>52,00</td><td>19,71</td><td>23,99</td><td>19,71</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,11</td><td>28,89</td><td>58,00</td><td>0,00</td><td>52,00</td><td>18,44</td><td>23,92</td><td>18,44</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,10</td><td>45,45</td><td>60,00</td><td>0,00</td><td>53,00</td><td>17,76</td><td>23,88</td><td>17,76</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,08</td><td>28,92</td><td>58,00</td><td>0,00</td><td>52,00</td><td>16,26</td><td>23,81</td><td>16,26</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,09</td><td>31,54</td><td>17,00</td><td>0,00</td><td>0,00</td><td>17,52</td><td>23,85</td><td>17,52</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,07</td><td>33,93</td><td>63,00</td><td>0,00</td><td>83,00</td><td>15,93</td><td>23,77</td><td>15,93</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,06</td><td>43,47</td><td>58,00</td><td>0,00</td><td>54,00</td><td>16,52</td><td>23,74</td><td>16,52</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,04</td><td>28,96</td><td>58,00</td><td>0,00</td><td>52,00</td><td>17,00</td><td>23,67</td><td>17,00</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,03</td><td>43,49</td><td>58,00</td><td>0,00</td><td>52,00</td><td>18,29</td><td>23,63</td><td>18,29</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,01</td><td>30,99</td><td>60,00</td><td>0,00</td><td>53,00</td><td>17,34</td><td>23,56</td><td>17,34</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,00</td><td>45,50</td><td>60,00</td><td>0,00</td><td>53,00</td><td>18,45</td><td>23,52</td><td>18,45</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,97</td><td>34,54</td><td>78,00</td><td>0,00</td><td>76,00</td><td>19,20</td><td>23,41</td><td>19,20</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,96</td><td>43,52</td><td>58,00</td><td>0,00</td><td>52,00</td><td>20,70</td><td>23,38</td><td>20,70</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,95</td><td>43,53</td><td>58,00</td><td>0,00</td><td>52,00</td><td>22,30</td><td>23,34</td><td>22,30</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,94</td><td>43,53</td><td>58,00</td><td>0,00</td><td>52,00</td><td>23,72</td><td>23,31</td><td>23,72</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,93</td><td>43,54</td><td>58,00</td><td>0,00</td><td>52,00</td><td>24,08</td><td>23,27</td><td>24,08</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,91</td><td>33,09</td><td>62,00</td><td>0,00</td><td>55,00</td><td>23,80</td><td>23,20</td><td>23,80</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,90</td><td>44,55</td><td>59,00</td><td>0,00</td><td>53,00</td><td>22,31</td><td>23,16</td><td>22,31</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,88</td><td>33,12</td><td>62,00</td><td>0,00</td><td>55,00</td><td>19,39</td><td>23,09</td><td>19,39</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,86</td><td>35,14</td><td>64,00</td><td>0,00</td><td>58,00</td><td>18,74</td><td>23,02</td><td>18,74</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,83</td><td>38,75</td><td>82,00</td><td>0,00</td><td>81,00</td><td>22,51</td><td>22,91</td><td>22,51</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,82</td><td>47,60</td><td>62,00</td><td>0,00</td><td>55,00</td><td>25,89</td><td>22,87</td><td>25,89</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,82</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>28,17</td><td>22,87</td><td>28,17</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,81</td><td>47,60</td><td>62,00</td><td>0,00</td><td>55,00</td><td>27,97</td><td>22,84</td><td>27,97</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,80</td><td>47,61</td><td>62,00</td><td>0,00</td><td>55,00</td><td>25,51</td><td>22,80</td><td>25,51</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,78</td><td>34,23</td><td>63,00</td><td>0,00</td><td>57,00</td><td>19,71</td><td>22,73</td><td>19,71</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,76</td><td>34,25</td><td>63,00</td><td>0,00</td><td>57,00</td><td>13,59</td><td>22,66</td><td>13,59</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,75</td><td>46,63</td><td>61,00</td><td>0,00</td><td>55,00</td><td>11,60</td><td>22,62</td><td>11,60</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,73</td><td>33,28</td><td>62,00</td><td>0,00</td><td>55,00</td><td>11,13</td><td>22,55</td><td>11,13</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,72</td><td>47,65</td><td>62,00</td><td>0,00</td><td>55,00</td><td>10,79</td><td>22,52</td><td>10,79</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,70</td><td>33,31</td><td>62,00</td><td>0,00</td><td>55,00</td><td>9,88</td><td>22,45</td><td>9,88</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,68</td><td>34,33</td><td>63,00</td><td>0,00</td><td>56,00</td><td>11,60</td><td>22,37</td><td>11,60</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,66</td><td>34,35</td><td>63,00</td><td>0,00</td><td>56,00</td><td>10,43</td><td>22,30</td><td>10,43</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,65</td><td>47,68</td><td>62,00</td><td>0,00</td><td>55,00</td><td>10,07</td><td>22,27</td><td>10,07</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,63</td><td>33,38</td><td>62,00</td><td>0,00</td><td>55,00</td><td>10,82</td><td>22,20</td><td>10,82</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,61</td><td>38,40</td><td>67,00</td><td>0,00</td><td>62,00</td><td>10,81</td><td>22,13</td><td>10,81</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,58</td><td>39,14</td><td>82,00</td><td>0,00</td><td>81,00</td><td>8,68</td><td>22,02</td><td>8,68</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,56</td><td>33,45</td><td>62,00</td><td>0,00</td><td>55,00</td><td>7,78</td><td>21,95</td><td>7,78</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,54</td><td>33,47</td><td>62,00</td><td>0,00</td><td>55,00</td><td>8,97</td><td>21,88</td><td>8,97</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>34,50</td><td>63,00</td><td>0,00</td><td>56,00</td><td>8,62</td><td>21,81</td><td>8,62</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>47,76</td><td>62,00</td><td>0,00</td><td>55,00</td><td>8,15</td><td>21,77</td><td>8,15</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,49</td><td>33,53</td><td>62,00</td><td>0,00</td><td>55,00</td><td>7,89</td><td>21,70</td><td>7,89</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,47</td><td>33,55</td><td>62,00</td><td>0,00</td><td>55,00</td><td>7,58</td><td>21,63</td><td>7,58</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,45</td><td>32,57</td><td>61,00</td><td>0,00</td><td>55,00</td><td>6,83</td><td>21,56</td><td>6,83</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,43</td><td>33,59</td><td>62,00</td><td>0,00</td><td>55,00</td><td>6,33</td><td>21,49</td><td>6,33</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,41</td><td>43,61</td><td>72,00</td><td>0,00</td><td>55,00</td><td>6,17</td><td>21,42</td><td>6,17</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,39</td><td>32,63</td><td>61,00</td><td>0,00</td><td>55,00</td><td>8,33</td><td>21,35</td><td>8,33</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,37</td><td>33,65</td><td>62,00</td><td>0,00</td><td>55,00</td><td>10,65</td><td>21,28</td><td>10,65</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,36</td><td>48,83</td><td>63,00</td><td>0,00</td><td>56,00</td><td>11,77</td><td>21,24</td><td>11,77</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,35</td><td>43,84</td><td>58,00</td><td>0,00</td><td>51,00</td><td>12,10</td><td>21,21</td><td>12,10</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,34</td><td>47,84</td><td>62,00</td><td>0,00</td><td>55,00</td><td>14,06</td><td>21,17</td><td>14,06</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,32</td><td>33,70</td><td>62,00</td><td>0,00</td><td>55,00</td><td>12,77</td><td>21,10</td><td>12,77</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,31</td><td>47,86</td><td>62,00</td><td>0,00</td><td>55,00</td><td>12,34</td><td>21,06</td><td>12,34</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,29</td><td>33,73</td><td>62,00</td><td>0,00</td><td>55,00</td><td>12,26</td><td>20,99</td><td>12,26</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,28</td><td>47,87</td><td>62,00</td><td>0,00</td><td>55,00</td><td>14,20</td><td>20,96</td><td>14,20</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,27</td><td>45,88</td><td>60,00</td><td>0,00</td><td>60,00</td><td>16,24</td><td>20,92</td><td>16,24</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,26</td><td>48,88</td><td>63,00</td><td>0,00</td><td>56,00</td><td>19,49</td><td>20,89</td><td>19,49</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,25</td><td>45,89</td><td>60,00</td><td>0,00</td><td>55,00</td><td>20,71</td><td>20,85</td><td>20,71</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,23</td><td>53,79</td><td>82,00</td><td>0,00</td><td>81,00</td><td>22,50</td><td>20,78</td><td>22,50</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,22</td><td>47,91</td><td>62,00</td><td>0,00</td><td>55,00</td><td>28,34</td><td>20,75</td><td>28,34</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,21</td><td>58,91</td><td>73,00</td><td>0,00</td><td>69,00</td><td>39,27</td><td>20,71</td><td>39,27</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,22</td><td>75,09</td><td>61,00</td><td>0,00</td><td>55,00</td><td>48,75</td><td>20,75</td><td>48,75</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,25</td><td>108,30</td><td>66,00</td><td>0,00</td><td>61,00</td><td>58,14</td><td>20,85</td><td>58,14</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,26</td><td>84,11</td><td>70,00</td><td>0,00</td><td>65,00</td><td>64,34</td><td>20,89</td><td>64,34</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,27</td><td>77,12</td><td>63,00</td><td>0,00</td><td>56,00</td><td>70,65</td><td>20,92</td><td>70,65</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,27</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>72,92</td><td>20,92</td><td>72,92</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,29</td><td>90,25</td><td>62,00</td><td>0,00</td><td>55,00</td><td>76,14</td><td>20,99</td><td>76,14</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,31</td><td>89,27</td><td>61,00</td><td>0,00</td><td>55,00</td><td>80,15</td><td>21,06</td><td>80,15</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,32</td><td>76,14</td><td>62,00</td><td>0,00</td><td>55,00</td><td>86,96</td><td>21,10</td><td>86,96</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,33</td><td>75,15</td><td>61,00</td><td>0,00</td><td>55,00</td><td>91,63</td><td>21,14</td><td>91,63</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,33</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>94,75</td><td>21,14</td><td>94,75</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,33</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>100,10</td><td>21,14</td><td>100,10</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,33</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>109,54</td><td>21,14</td><td>109,54</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,33</td><td>67,00</td><td>67,00</td><td>0,00</td><td>62,00</td><td>121,41</td><td>21,14</td><td>121,41</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,36</td><td>77,47</td><td>35,00</td><td>0,00</td><td>22,00</td><td>134,94</td><td>21,24</td><td>134,94</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,36</td><td>88,00</td><td>88,00</td><td>0,00</td><td>88,00</td><td>145,48</td><td>21,24</td><td>145,48</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,37</td><td>96,17</td><td>82,00</td><td>0,00</td><td>81,00</td><td>153,37</td><td>21,28</td><td>153,37</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,37</td><td>87,00</td><td>87,00</td><td>0,00</td><td>86,00</td><td>158,30</td><td>21,28</td><td>158,30</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,37</td><td>83,00</td><td>83,00</td><td>0,00</td><td>81,00</td><td>163,72</td><td>21,28</td><td>163,72</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,38</td><td>76,17</td><td>62,00</td><td>0,00</td><td>55,00</td><td>161,03</td><td>21,31</td><td>161,03</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,39</td><td>101,18</td><td>87,00</td><td>0,00</td><td>87,00</td><td>155,66</td><td>21,35</td><td>155,66</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,42</td><td>80,56</td><td>38,00</td><td>0,00</td><td>26,00</td><td>149,29</td><td>21,45</td><td>149,29</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,41</td><td>72,81</td><td>87,00</td><td>0,00</td><td>86,00</td><td>141,33</td><td>21,42</td><td>141,33</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,40</td><td>67,81</td><td>82,00</td><td>0,00</td><td>81,00</td><td>131,48</td><td>21,38</td><td>131,48</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,40</td><td>75,00</td><td>75,00</td><td>0,00</td><td>72,00</td><td>131,14</td><td>21,38</td><td>131,14</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,41</td><td>89,19</td><td>75,00</td><td>0,00</td><td>72,00</td><td>135,10</td><td>21,42</td><td>135,10</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,42</td><td>101,19</td><td>87,00</td><td>0,00</td><td>87,00</td><td>142,17</td><td>21,45</td><td>142,17</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,43</td><td>102,20</td><td>88,00</td><td>0,00</td><td>88,00</td><td>148,01</td><td>21,49</td><td>148,01</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,49</td><td>120,30</td><td>35,00</td><td>0,00</td><td>22,00</td><td>153,97</td><td>21,70</td><td>153,97</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>98,23</td><td>84,00</td><td>0,00</td><td>83,00</td><td>164,56</td><td>21,74</td><td>164,56</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>138,00</td><td>138,00</td><td>0,00</td><td>137,00</td><td>180,01</td><td>21,74</td><td>180,01</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,56</td><td>146,51</td><td>61,00</td><td>0,00</td><td>55,00</td><td>190,07</td><td>21,95</td><td>190,07</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,59</td><td>104,83</td><td>62,00</td><td>0,00</td><td>55,00</td><td>195,42</td><td>22,05</td><td>195,42</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,62</td><td>104,87</td><td>62,00</td><td>0,00</td><td>55,00</td><td>194,92</td><td>22,16</td><td>194,92</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,64</td><td>90,61</td><td>62,00</td><td>0,00</td><td>55,00</td><td>180,19</td><td>22,23</td><td>180,19</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,65</td><td>77,31</td><td>63,00</td><td>0,00</td><td>56,00</td><td>158,23</td><td>22,27</td><td>158,23</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,65</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>137,95</td><td>22,27</td><td>137,95</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,65</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>120,44</td><td>22,27</td><td>120,44</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,65</td><td>60,00</td><td>60,00</td><td>0,00</td><td>54,00</td><td>104,07</td><td>22,27</td><td>104,07</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,64</td><td>47,69</td><td>62,00</td><td>0,00</td><td>55,00</td><td>91,29</td><td>22,23</td><td>91,29</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,63</td><td>47,69</td><td>62,00</td><td>0,00</td><td>55,00</td><td>80,14</td><td>22,20</td><td>80,14</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,62</td><td>47,70</td><td>62,00</td><td>0,00</td><td>55,00</td><td>70,75</td><td>22,16</td><td>70,75</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,61</td><td>47,70</td><td>62,00</td><td>0,00</td><td>55,00</td><td>67,57</td><td>22,13</td><td>67,57</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,60</td><td>47,71</td><td>62,00</td><td>0,00</td><td>55,00</td><td>68,79</td><td>22,09</td><td>68,79</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,59</td><td>64,71</td><td>79,00</td><td>0,00</td><td>76,00</td><td>70,18</td><td>22,05</td><td>70,18</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,58</td><td>68,72</td><td>83,00</td><td>0,00</td><td>81,00</td><td>79,29</td><td>22,02</td><td>79,29</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,56</td><td>53,45</td><td>82,00</td><td>0,00</td><td>80,00</td><td>86,12</td><td>21,95</td><td>86,12</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,57</td><td>101,27</td><td>87,00</td><td>0,00</td><td>86,00</td><td>86,02</td><td>21,98</td><td>86,02</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,58</td><td>69,28</td><td>55,00</td><td>0,00</td><td>55,00</td><td>82,42</td><td>22,02</td><td>82,42</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,58</td><td>55,00</td><td>55,00</td><td>0,00</td><td>46,00</td><td>80,82</td><td>22,02</td><td>80,82</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,57</td><td>47,72</td><td>62,00</td><td>0,00</td><td>55,00</td><td>72,36</td><td>21,98</td><td>72,36</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,57</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>67,59</td><td>21,98</td><td>67,59</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,57</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>67,01</td><td>21,98</td><td>67,01</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,57</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>65,49</td><td>21,98</td><td>65,49</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,55</td><td>44,46</td><td>73,00</td><td>0,00</td><td>70,00</td><td>63,37</td><td>21,91</td><td>63,37</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,54</td><td>47,74</td><td>62,00</td><td>0,00</td><td>55,00</td><td>60,68</td><td>21,88</td><td>60,68</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,54</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>56,33</td><td>21,88</td><td>56,33</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,53</td><td>47,75</td><td>62,00</td><td>0,00</td><td>55,00</td><td>54,49</td><td>21,84</td><td>54,49</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>47,75</td><td>62,00</td><td>0,00</td><td>55,00</td><td>57,82</td><td>21,81</td><td>57,82</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>60,73</td><td>21,81</td><td>60,73</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>64,68</td><td>21,81</td><td>64,68</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>73,58</td><td>21,81</td><td>73,58</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>81,01</td><td>21,81</td><td>81,01</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,53</td><td>81,25</td><td>67,00</td><td>0,00</td><td>62,00</td><td>86,30</td><td>21,84</td><td>86,30</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>72,75</td><td>87,00</td><td>0,00</td><td>86,00</td><td>91,32</td><td>21,81</td><td>91,32</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>67,76</td><td>82,00</td><td>0,00</td><td>81,00</td><td>96,88</td><td>21,77</td><td>96,88</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>67,00</td><td>67,00</td><td>0,00</td><td>62,00</td><td>99,49</td><td>21,77</td><td>99,49</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>70,76</td><td>85,00</td><td>1,00</td><td>84,00</td><td>100,18</td><td>21,74</td><td>100,18</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>77,24</td><td>63,00</td><td>0,00</td><td>56,00</td><td>103,03</td><td>21,77</td><td>103,03</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>65,00</td><td>65,00</td><td>0,00</td><td>62,00</td><td>106,57</td><td>21,77</td><td>106,57</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,52</td><td>77,24</td><td>63,00</td><td>0,00</td><td>56,00</td><td>109,43</td><td>21,81</td><td>109,43</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>73,76</td><td>88,00</td><td>0,00</td><td>87,00</td><td>114,00</td><td>21,77</td><td>114,00</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>73,76</td><td>88,00</td><td>0,00</td><td>88,00</td><td>120,06</td><td>21,74</td><td>120,06</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>84,00</td><td>84,00</td><td>0,00</td><td>82,00</td><td>120,03</td><td>21,74</td><td>120,03</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>76,24</td><td>62,00</td><td>0,00</td><td>55,00</td><td>116,26</td><td>21,77</td><td>116,26</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>109,98</td><td>21,77</td><td>109,98</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>63,00</td><td>63,00</td><td>0,00</td><td>56,00</td><td>99,93</td><td>21,77</td><td>99,93</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,50</td><td>47,76</td><td>62,00</td><td>0,00</td><td>55,00</td><td>88,24</td><td>21,74</td><td>88,24</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,49</td><td>47,77</td><td>62,00</td><td>0,00</td><td>55,00</td><td>81,66</td><td>21,70</td><td>81,66</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,48</td><td>47,77</td><td>62,00</td><td>0,00</td><td>55,00</td><td>78,27</td><td>21,66</td><td>78,27</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,48</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>80,76</td><td>21,66</td><td>80,76</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,47</td><td>47,78</td><td>62,00</td><td>0,00</td><td>55,00</td><td>92,30</td><td>21,63</td><td>92,30</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,47</td><td>62,00</td><td>62,00</td><td>0,00</td><td>55,00</td><td>113,35</td><td>21,63</td><td>113,35</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,48</td><td>89,22</td><td>75,00</td><td>0,00</td><td>72,00</td><td>139,96</td><td>21,66</td><td>139,96</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,51</td><td>105,70</td><td>63,00</td><td>0,00</td><td>56,00</td><td>168,33</td><td>21,77</td><td>168,33</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,55</td><td>119,01</td><td>62,00</td><td>0,00</td><td>55,00</td><td>195,00</td><td>21,91</td><td>195,00</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,59</td><td>119,09</td><td>62,00</td><td>0,00</td><td>55,00</td><td>214,21</td><td>22,05</td><td>214,21</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,63</td><td>119,18</td><td>62,00</td><td>0,00</td><td>55,00</td><td>220,02</td><td>22,20</td><td>220,02</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,67</td><td>119,26</td><td>62,00</td><td>0,00</td><td>55,00</td><td>220,74</td><td>22,34</td><td>220,74</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,69</td><td>90,66</td><td>62,00</td><td>0,00</td><td>55,00</td><td>225,39</td><td>22,41</td><td>225,39</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,71</td><td>90,68</td><td>62,00</td><td>0,00</td><td>55,00</td><td>238,93</td><td>22,48</td><td>238,93</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,75</td><td>120,42</td><td>63,00</td><td>0,00</td><td>80,00</td><td>252,84</td><td>22,62</td><td>252,84</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,80</td><td>140,90</td><td>69,00</td><td>0,00</td><td>64,00</td><td>261,01</td><td>22,80</td><td>261,01</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,82</td><td>110,79</td><td>82,00</td><td>0,00</td><td>81,00</td><td>255,44</td><td>22,87</td><td>255,44</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,84</td><td>90,81</td><td>62,00</td><td>0,00</td><td>55,00</td><td>239,08</td><td>22,95</td><td>239,08</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,85</td><td>76,42</td><td>62,00</td><td>0,00</td><td>55,00</td><td>210,30</td><td>22,98</td><td>210,30</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,86</td><td>76,42</td><td>62,00</td><td>0,00</td><td>55,00</td><td>180,46</td><td>23,02</td><td>180,46</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,87</td><td>76,43</td><td>62,00</td><td>0,00</td><td>55,00</td><td>162,73</td><td>23,05</td><td>162,73</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,89</td><td>90,87</td><td>62,00</td><td>0,00</td><td>55,00</td><td>152,60</td><td>23,13</td><td>152,60</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,92</td><td>106,34</td><td>63,00</td><td>0,00</td><td>56,00</td><td>140,97</td><td>23,23</td><td>140,97</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,92</td><td>73,00</td><td>73,00</td><td>0,00</td><td>63,00</td><td>132,87</td><td>23,23</td><td>132,87</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,92</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>128,29</td><td>23,23</td><td>128,29</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,93</td><td>82,46</td><td>68,00</td><td>0,00</td><td>57,00</td><td>125,62</td><td>23,27</td><td>125,62</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,95</td><td>90,93</td><td>62,00</td><td>0,00</td><td>55,00</td><td>129,41</td><td>23,34</td><td>129,41</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>739,98</td><td>105,43</td><td>62,00</td><td>0,00</td><td>55,00</td><td>142,31</td><td>23,45</td><td>142,31</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,01</td><td>104,48</td><td>61,00</td><td>0,00</td><td>55,00</td><td>158,43</td><td>23,56</td><td>158,43</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,04</td><td>110,52</td><td>67,00</td><td>0,00</td><td>62,00</td><td>175,20</td><td>23,67</td><td>175,20</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,07</td><td>106,57</td><td>63,00</td><td>0,00</td><td>56,00</td><td>188,61</td><td>23,77</td><td>188,61</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,10</td><td>106,62</td><td>63,00</td><td>0,00</td><td>56,00</td><td>197,23</td><td>23,88</td><td>197,23</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,14</td><td>128,23</td><td>70,00</td><td>0,00</td><td>59,00</td><td>200,47</td><td>24,03</td><td>200,47</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,20</td><td>131,50</td><td>44,00</td><td>0,00</td><td>33,00</td><td>195,73</td><td>24,24</td><td>195,73</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,23</td><td>104,82</td><td>61,00</td><td>0,00</td><td>54,00</td><td>181,75</td><td>24,35</td><td>181,75</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,25</td><td>90,24</td><td>61,00</td><td>0,00</td><td>54,00</td><td>163,44</td><td>24,43</td><td>163,44</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,26</td><td>75,63</td><td>61,00</td><td>0,00</td><td>54,00</td><td>147,34</td><td>24,46</td><td>147,34</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,26</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>135,10</td><td>24,46</td><td>135,10</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>75,63</td><td>61,00</td><td>0,00</td><td>54,00</td><td>124,65</td><td>24,50</td><td>124,65</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>117,56</td><td>24,50</td><td>117,56</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>110,94</td><td>24,50</td><td>110,94</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,28</td><td>60,64</td><td>46,00</td><td>0,00</td><td>36,00</td><td>103,85</td><td>24,54</td><td>103,85</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,30</td><td>46,29</td><td>17,00</td><td>0,00</td><td>0,00</td><td>95,81</td><td>24,61</td><td>95,81</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,31</td><td>52,65</td><td>38,00</td><td>0,00</td><td>25,00</td><td>89,29</td><td>24,65</td><td>89,29</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,30</td><td>52,35</td><td>67,00</td><td>0,00</td><td>57,00</td><td>84,55</td><td>24,61</td><td>84,55</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,29</td><td>52,35</td><td>67,00</td><td>0,00</td><td>57,00</td><td>86,27</td><td>24,57</td><td>86,27</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>38,72</td><td>68,00</td><td>0,00</td><td>58,00</td><td>92,00</td><td>24,50</td><td>92,00</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>68,00</td><td>68,00</td><td>0,00</td><td>58,00</td><td>99,15</td><td>24,50</td><td>99,15</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,30</td><td>83,93</td><td>40,00</td><td>0,00</td><td>29,00</td><td>105,47</td><td>24,61</td><td>105,47</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>75,64</td><td>17,00</td><td>0,00</td><td>0,00</td><td>112,69</td><td>24,75</td><td>112,69</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>117,23</td><td>24,75</td><td>117,23</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>77,67</td><td>63,00</td><td>0,00</td><td>53,00</td><td>113,84</td><td>24,79</td><td>113,84</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>69,00</td><td>69,00</td><td>0,00</td><td>57,00</td><td>107,08</td><td>24,79</td><td>107,08</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>52,33</td><td>67,00</td><td>0,00</td><td>57,00</td><td>103,51</td><td>24,75</td><td>103,51</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,33</td><td>54,33</td><td>69,00</td><td>0,00</td><td>58,00</td><td>98,69</td><td>24,72</td><td>98,69</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>70,34</td><td>41,00</td><td>0,00</td><td>30,00</td><td>93,48</td><td>24,79</td><td>93,48</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>61,05</td><td>17,00</td><td>0,00</td><td>0,00</td><td>96,12</td><td>24,90</td><td>96,12</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,37</td><td>58,31</td><td>73,00</td><td>0,00</td><td>65,00</td><td>103,64</td><td>24,86</td><td>103,64</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>81,69</td><td>67,00</td><td>0,00</td><td>57,00</td><td>109,55</td><td>24,90</td><td>109,55</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>67,00</td><td>67,00</td><td>0,00</td><td>57,00</td><td>117,66</td><td>24,90</td><td>117,66</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,37</td><td>52,31</td><td>67,00</td><td>0,00</td><td>57,00</td><td>128,01</td><td>24,86</td><td>128,01</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,36</td><td>52,32</td><td>67,00</td><td>0,00</td><td>57,00</td><td>132,51</td><td>24,83</td><td>132,51</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>69,37</td><td>40,00</td><td>0,00</td><td>29,00</td><td>127,21</td><td>24,90</td><td>127,21</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>75,81</td><td>17,00</td><td>0,00</td><td>0,00</td><td>118,03</td><td>25,05</td><td>118,03</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>52,29</td><td>67,00</td><td>0,00</td><td>56,00</td><td>106,38</td><td>25,01</td><td>106,38</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>46,00</td><td>46,00</td><td>0,00</td><td>36,00</td><td>93,42</td><td>25,01</td><td>93,42</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>85,35</td><td>25,01</td><td>85,35</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>81,96</td><td>25,01</td><td>81,96</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>46,00</td><td>46,00</td><td>0,00</td><td>35,00</td><td>81,41</td><td>25,01</td><td>81,41</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>79,97</td><td>25,01</td><td>79,97</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>46,42</td><td>17,00</td><td>0,00</td><td>0,00</td><td>77,48</td><td>25,08</td><td>77,48</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>72,11</td><td>25,08</td><td>72,11</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>68,96</td><td>25,08</td><td>68,96</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>40,28</td><td>55,00</td><td>0,00</td><td>47,00</td><td>66,16</td><td>25,05</td><td>66,16</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>64,29</td><td>25,05</td><td>64,29</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>43,00</td><td>43,00</td><td>0,00</td><td>31,00</td><td>64,22</td><td>25,05</td><td>64,22</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>63,46</td><td>25,05</td><td>63,46</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>46,44</td><td>17,00</td><td>0,00</td><td>0,00</td><td>63,44</td><td>25,12</td><td>63,44</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>61,76</td><td>25,12</td><td>61,76</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>58,86</td><td>25,12</td><td>58,86</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>43,00</td><td>43,00</td><td>0,00</td><td>33,00</td><td>55,15</td><td>25,12</td><td>55,15</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>47,00</td><td>47,00</td><td>0,00</td><td>37,00</td><td>53,03</td><td>25,12</td><td>53,03</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>50,71</td><td>25,12</td><td>50,71</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>50,26</td><td>25,12</td><td>50,26</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>46,46</td><td>17,00</td><td>0,00</td><td>0,00</td><td>51,39</td><td>25,19</td><td>51,39</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>43,00</td><td>43,00</td><td>0,00</td><td>33,00</td><td>52,96</td><td>25,19</td><td>52,96</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>58,17</td><td>25,19</td><td>58,17</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>65,74</td><td>25,19</td><td>65,74</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,47</td><td>59,74</td><td>45,00</td><td>0,00</td><td>35,00</td><td>71,49</td><td>25,23</td><td>71,49</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>71,49</td><td>42,00</td><td>0,00</td><td>31,00</td><td>73,29</td><td>25,30</td><td>73,29</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,50</td><td>54,75</td><td>40,00</td><td>0,00</td><td>29,00</td><td>73,40</td><td>25,34</td><td>73,40</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,52</td><td>46,52</td><td>17,00</td><td>0,00</td><td>0,00</td><td>69,62</td><td>25,41</td><td>69,62</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,54</td><td>46,54</td><td>17,00</td><td>0,00</td><td>0,00</td><td>61,82</td><td>25,49</td><td>61,82</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,55</td><td>59,78</td><td>45,00</td><td>0,00</td><td>34,00</td><td>56,01</td><td>25,52</td><td>56,01</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>40,78</td><td>26,00</td><td>0,00</td><td>11,00</td><td>52,82</td><td>25,56</td><td>52,82</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>46,00</td><td>46,00</td><td>0,00</td><td>36,00</td><td>54,95</td><td>25,56</td><td>54,95</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>47,00</td><td>47,00</td><td>0,00</td><td>37,00</td><td>51,88</td><td>25,56</td><td>51,88</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,55</td><td>47,22</td><td>62,00</td><td>0,00</td><td>55,00</td><td>49,03</td><td>25,52</td><td>49,03</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>36,78</td><td>22,00</td><td>0,00</td><td>6,00</td><td>48,29</td><td>25,56</td><td>48,29</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>44,00</td><td>44,00</td><td>0,00</td><td>33,00</td><td>48,00</td><td>25,56</td><td>48,00</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>48,45</td><td>25,56</td><td>48,45</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>48,20</td><td>25,56</td><td>48,20</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>51,00</td><td>51,00</td><td>0,00</td><td>41,00</td><td>49,38</td><td>25,56</td><td>49,38</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>48,30</td><td>25,56</td><td>48,30</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>49,50</td><td>25,56</td><td>49,50</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>46,58</td><td>17,00</td><td>0,00</td><td>0,00</td><td>47,76</td><td>25,63</td><td>47,76</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>48,14</td><td>25,63</td><td>48,14</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>46,00</td><td>46,00</td><td>0,00</td><td>35,00</td><td>51,59</td><td>25,63</td><td>51,59</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>44,00</td><td>44,00</td><td>0,00</td><td>34,00</td><td>56,62</td><td>25,63</td><td>56,62</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,59</td><td>59,80</td><td>45,00</td><td>0,00</td><td>35,00</td><td>65,90</td><td>25,67</td><td>65,90</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,60</td><td>59,80</td><td>45,00</td><td>0,00</td><td>36,00</td><td>79,20</td><td>25,71</td><td>79,20</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>71,62</td><td>42,00</td><td>0,00</td><td>30,00</td><td>93,70</td><td>25,78</td><td>93,70</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>61,47</td><td>17,00</td><td>0,00</td><td>0,00</td><td>106,20</td><td>25,89</td><td>106,20</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>74,67</td><td>45,00</td><td>0,00</td><td>35,00</td><td>115,74</td><td>25,97</td><td>115,74</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,70</td><td>89,55</td><td>45,00</td><td>0,00</td><td>35,00</td><td>114,85</td><td>26,08</td><td>114,85</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,72</td><td>74,72</td><td>45,00</td><td>0,00</td><td>35,00</td><td>107,00</td><td>26,15</td><td>107,00</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>59,87</td><td>45,00</td><td>0,00</td><td>35,00</td><td>95,95</td><td>26,19</td><td>95,95</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,74</td><td>57,88</td><td>43,00</td><td>0,00</td><td>33,00</td><td>82,51</td><td>26,22</td><td>82,51</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>56,88</td><td>42,00</td><td>0,00</td><td>30,00</td><td>68,27</td><td>26,26</td><td>68,27</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>46,78</td><td>17,00</td><td>0,00</td><td>0,00</td><td>59,20</td><td>26,34</td><td>59,20</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>53,42</td><td>26,34</td><td>53,42</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>40,00</td><td>40,00</td><td>0,00</td><td>28,00</td><td>48,08</td><td>26,34</td><td>48,08</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>45,00</td><td>45,00</td><td>0,00</td><td>34,00</td><td>44,42</td><td>26,34</td><td>44,42</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>30,11</td><td>45,00</td><td>0,00</td><td>35,00</td><td>44,78</td><td>26,30</td><td>44,78</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>46,00</td><td>46,00</td><td>0,00</td><td>35,00</td><td>44,36</td><td>26,30</td><td>44,36</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>44,23</td><td>26,30</td><td>44,23</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,78</td><td>46,79</td><td>17,00</td><td>0,00</td><td>0,00</td><td>46,58</td><td>26,37</td><td>46,58</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,78</td><td>47,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>47,05</td><td>26,37</td><td>47,05</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,78</td><td>46,00</td><td>46,00</td><td>0,00</td><td>35,00</td><td>47,54</td><td>26,37</td><td>47,54</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>42,10</td><td>57,00</td><td>0,00</td><td>47,00</td><td>45,71</td><td>26,34</td><td>45,71</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>41,71</td><td>26,34</td><td>41,71</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>31,11</td><td>46,00</td><td>0,00</td><td>35,00</td><td>37,74</td><td>26,30</td><td>37,74</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>36,60</td><td>26,30</td><td>36,60</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>31,89</td><td>17,00</td><td>0,00</td><td>0,00</td><td>34,83</td><td>26,34</td><td>34,83</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>46,00</td><td>46,00</td><td>0,00</td><td>36,00</td><td>35,89</td><td>26,34</td><td>35,89</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>30,11</td><td>45,00</td><td>0,00</td><td>35,00</td><td>34,74</td><td>26,30</td><td>34,74</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>35,70</td><td>26,30</td><td>35,70</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>30,11</td><td>45,00</td><td>0,00</td><td>35,00</td><td>35,73</td><td>26,26</td><td>35,73</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>35,65</td><td>26,26</td><td>35,65</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>33,88</td><td>26,26</td><td>33,88</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>31,89</td><td>17,00</td><td>0,00</td><td>0,00</td><td>35,13</td><td>26,30</td><td>35,13</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>31,11</td><td>46,00</td><td>0,00</td><td>36,00</td><td>34,16</td><td>26,26</td><td>34,16</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,75</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>31,99</td><td>26,26</td><td>31,99</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,74</td><td>31,12</td><td>46,00</td><td>0,00</td><td>35,00</td><td>33,24</td><td>26,22</td><td>33,24</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>30,12</td><td>45,00</td><td>0,00</td><td>35,00</td><td>33,28</td><td>26,19</td><td>33,28</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>31,15</td><td>26,19</td><td>31,15</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,72</td><td>25,13</td><td>40,00</td><td>0,00</td><td>29,00</td><td>32,37</td><td>26,15</td><td>32,37</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>31,87</td><td>17,00</td><td>0,00</td><td>0,00</td><td>33,31</td><td>26,19</td><td>33,31</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>31,32</td><td>26,19</td><td>31,32</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,72</td><td>30,13</td><td>45,00</td><td>0,00</td><td>35,00</td><td>31,17</td><td>26,15</td><td>31,17</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,71</td><td>30,14</td><td>45,00</td><td>0,00</td><td>35,00</td><td>31,31</td><td>26,11</td><td>31,31</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,70</td><td>30,14</td><td>45,00</td><td>0,00</td><td>35,00</td><td>30,55</td><td>26,08</td><td>30,55</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,69</td><td>30,15</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,57</td><td>26,04</td><td>27,57</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>25,15</td><td>40,00</td><td>0,00</td><td>29,00</td><td>27,76</td><td>26,00</td><td>27,76</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,69</td><td>31,85</td><td>17,00</td><td>0,00</td><td>0,00</td><td>27,85</td><td>26,04</td><td>27,85</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>30,15</td><td>45,00</td><td>0,00</td><td>35,00</td><td>28,21</td><td>26,00</td><td>28,21</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>30,16</td><td>45,00</td><td>0,00</td><td>35,00</td><td>29,23</td><td>25,97</td><td>29,23</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>32,16</td><td>47,00</td><td>0,00</td><td>36,00</td><td>29,45</td><td>25,93</td><td>29,45</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>28,86</td><td>25,97</td><td>28,86</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>30,16</td><td>45,00</td><td>0,00</td><td>35,00</td><td>29,04</td><td>25,93</td><td>29,04</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>29,13</td><td>25,93</td><td>29,13</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>46,68</td><td>17,00</td><td>0,00</td><td>0,00</td><td>27,77</td><td>26,00</td><td>27,77</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,13</td><td>26,00</td><td>27,13</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,56</td><td>26,00</td><td>27,56</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,53</td><td>26,00</td><td>27,53</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>28,01</td><td>26,02</td><td>28,01</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>31,16</td><td>46,00</td><td>0,00</td><td>35,00</td><td>28,93</td><td>25,97</td><td>28,93</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>44,00</td><td>44,00</td><td>0,00</td><td>30,00</td><td>29,90</td><td>25,97</td><td>29,90</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>31,84</td><td>17,00</td><td>0,00</td><td>0,00</td><td>28,22</td><td>26,00</td><td>28,22</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,44</td><td>26,00</td><td>27,44</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>15,32</td><td>45,00</td><td>0,00</td><td>35,00</td><td>27,51</td><td>25,93</td><td>27,51</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>25,40</td><td>25,93</td><td>25,40</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>30,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>25,96</td><td>25,89</td><td>25,96</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>36,10</td><td>45,00</td><td>0,00</td><td>35,00</td><td>28,02</td><td>25,91</td><td>28,02</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>36,07</td><td>42,00</td><td>0,00</td><td>30,00</td><td>27,96</td><td>25,89</td><td>27,96</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>34,80</td><td>17,00</td><td>0,00</td><td>0,00</td><td>27,68</td><td>25,94</td><td>27,68</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>37,10</td><td>46,00</td><td>0,00</td><td>35,00</td><td>27,16</td><td>25,91</td><td>27,16</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>33,13</td><td>45,00</td><td>0,00</td><td>35,00</td><td>26,23</td><td>25,88</td><td>26,23</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,64</td><td>36,10</td><td>45,00</td><td>0,00</td><td>35,00</td><td>25,44</td><td>25,86</td><td>25,44</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,63</td><td>30,18</td><td>45,00</td><td>0,00</td><td>35,00</td><td>25,24</td><td>25,82</td><td>25,24</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>31,18</td><td>46,00</td><td>0,00</td><td>35,00</td><td>24,50</td><td>25,78</td><td>24,50</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>41,00</td><td>41,00</td><td>0,00</td><td>29,00</td><td>24,57</td><td>25,78</td><td>24,57</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,63</td><td>31,82</td><td>17,00</td><td>0,00</td><td>0,00</td><td>24,71</td><td>25,82</td><td>24,71</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>30,18</td><td>45,00</td><td>0,00</td><td>35,00</td><td>24,65</td><td>25,78</td><td>24,65</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>24,10</td><td>25,78</td><td>24,10</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,61</td><td>30,19</td><td>45,00</td><td>0,00</td><td>35,00</td><td>22,84</td><td>25,74</td><td>22,84</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,59</td><td>23,39</td><td>53,00</td><td>0,00</td><td>44,00</td><td>23,74</td><td>25,67</td><td>23,74</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>38,20</td><td>53,00</td><td>0,00</td><td>44,00</td><td>22,53</td><td>25,63</td><td>22,53</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>23,91</td><td>25,63</td><td>23,91</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,59</td><td>31,80</td><td>17,00</td><td>0,00</td><td>0,00</td><td>23,79</td><td>25,67</td><td>23,79</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,59</td><td>46,00</td><td>46,00</td><td>0,00</td><td>35,00</td><td>22,15</td><td>25,67</td><td>22,15</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,57</td><td>15,41</td><td>45,00</td><td>0,00</td><td>35,00</td><td>22,51</td><td>25,60</td><td>22,51</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>30,21</td><td>45,00</td><td>0,00</td><td>35,00</td><td>22,68</td><td>25,56</td><td>22,68</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>31,21</td><td>46,00</td><td>0,00</td><td>36,00</td><td>21,75</td><td>25,56</td><td>21,75</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>30,21</td><td>45,00</td><td>0,00</td><td>35,00</td><td>21,95</td><td>25,56</td><td>21,95</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>34,09</td><td>40,00</td><td>0,00</td><td>29,00</td><td>21,21</td><td>25,55</td><td>21,21</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,57</td><td>31,79</td><td>17,00</td><td>0,00</td><td>0,00</td><td>20,43</td><td>25,58</td><td>20,43</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>32,17</td><td>44,00</td><td>0,00</td><td>33,00</td><td>20,38</td><td>25,55</td><td>20,38</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,54</td><td>30,44</td><td>60,00</td><td>0,00</td><td>53,00</td><td>19,85</td><td>25,48</td><td>19,85</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,51</td><td>31,65</td><td>73,00</td><td>0,00</td><td>69,00</td><td>19,11</td><td>25,38</td><td>19,11</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,50</td><td>32,58</td><td>68,00</td><td>0,00</td><td>63,00</td><td>22,98</td><td>25,33</td><td>22,98</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>34,20</td><td>46,00</td><td>0,00</td><td>36,00</td><td>22,89</td><td>25,30</td><td>22,89</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,48</td><td>31,15</td><td>40,00</td><td>0,00</td><td>29,00</td><td>22,38</td><td>25,27</td><td>22,38</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>31,75</td><td>17,00</td><td>0,00</td><td>0,00</td><td>22,07</td><td>25,31</td><td>22,07</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,48</td><td>33,20</td><td>45,00</td><td>0,00</td><td>35,00</td><td>21,63</td><td>25,28</td><td>21,63</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,48</td><td>32,15</td><td>41,00</td><td>0,00</td><td>30,00</td><td>21,33</td><td>25,26</td><td>21,33</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,47</td><td>31,26</td><td>46,00</td><td>0,00</td><td>35,00</td><td>20,68</td><td>25,22</td><td>20,68</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>30,27</td><td>45,00</td><td>0,00</td><td>35,00</td><td>20,13</td><td>25,19</td><td>20,13</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,45</td><td>30,27</td><td>45,00</td><td>0,00</td><td>35,00</td><td>21,25</td><td>25,16</td><td>21,25</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>25,27</td><td>40,00</td><td>0,00</td><td>29,00</td><td>19,46</td><td>25,12</td><td>19,46</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,45</td><td>31,73</td><td>17,00</td><td>0,00</td><td>0,00</td><td>18,54</td><td>25,16</td><td>18,54</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>30,27</td><td>45,00</td><td>0,00</td><td>35,00</td><td>18,54</td><td>25,12</td><td>18,54</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>30,28</td><td>45,00</td><td>0,00</td><td>35,00</td><td>19,23</td><td>25,08</td><td>19,23</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>30,28</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,77</td><td>25,05</td><td>17,77</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>30,29</td><td>45,00</td><td>0,00</td><td>35,00</td><td>15,56</td><td>25,01</td><td>15,56</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,40</td><td>30,30</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,16</td><td>24,97</td><td>16,16</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>25,30</td><td>40,00</td><td>0,00</td><td>29,00</td><td>16,34</td><td>24,94</td><td>16,34</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,40</td><td>31,70</td><td>17,00</td><td>0,00</td><td>0,00</td><td>15,95</td><td>24,97</td><td>15,95</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>30,30</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,51</td><td>24,94</td><td>16,51</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>31,31</td><td>46,00</td><td>0,00</td><td>36,00</td><td>17,87</td><td>24,90</td><td>17,87</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,37</td><td>30,31</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,72</td><td>24,86</td><td>16,72</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,36</td><td>30,32</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,72</td><td>24,83</td><td>16,72</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>30,32</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,07</td><td>24,79</td><td>17,07</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>25,33</td><td>40,00</td><td>0,00</td><td>29,00</td><td>15,71</td><td>24,75</td><td>15,71</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,35</td><td>31,67</td><td>17,00</td><td>0,00</td><td>0,00</td><td>16,49</td><td>24,79</td><td>16,49</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>30,33</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,39</td><td>24,75</td><td>17,39</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,33</td><td>30,33</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,67</td><td>24,72</td><td>17,67</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>59,67</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,60</td><td>24,75</td><td>17,60</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,36</td><td>74,35</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,41</td><td>24,83</td><td>17,41</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>89,07</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,45</td><td>24,94</td><td>17,45</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>40,00</td><td>40,00</td><td>0,00</td><td>29,00</td><td>17,56</td><td>24,94</td><td>17,56</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,40</td><td>31,70</td><td>17,00</td><td>0,00</td><td>0,00</td><td>18,09</td><td>24,97</td><td>18,09</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,40</td><td>45,00</td><td>45,00</td><td>0,00</td><td>35,00</td><td>17,08</td><td>24,97</td><td>17,08</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,42</td><td>74,41</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,82</td><td>25,05</td><td>16,82</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>77,38</td><td>45,00</td><td>0,00</td><td>35,00</td><td>15,70</td><td>25,12</td><td>15,70</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>86,28</td><td>45,00</td><td>0,00</td><td>35,00</td><td>21,17</td><td>25,31</td><td>21,17</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,52</td><td>86,32</td><td>45,00</td><td>0,00</td><td>35,00</td><td>21,40</td><td>25,41</td><td>21,40</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,53</td><td>60,68</td><td>40,00</td><td>0,00</td><td>29,00</td><td>21,22</td><td>25,46</td><td>21,22</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,55</td><td>37,68</td><td>17,00</td><td>0,00</td><td>0,00</td><td>20,98</td><td>25,52</td><td>20,98</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>68,65</td><td>45,00</td><td>0,00</td><td>35,00</td><td>20,63</td><td>25,58</td><td>20,63</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,59</td><td>89,38</td><td>45,00</td><td>0,00</td><td>35,00</td><td>20,10</td><td>25,69</td><td>20,10</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>88,58</td><td>56,00</td><td>0,00</td><td>46,00</td><td>20,79</td><td>25,77</td><td>20,79</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,64</td><td>79,64</td><td>50,00</td><td>0,00</td><td>40,00</td><td>24,59</td><td>25,85</td><td>24,59</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>87,59</td><td>52,00</td><td>0,00</td><td>41,00</td><td>23,10</td><td>25,93</td><td>23,10</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>51,00</td><td>51,00</td><td>0,00</td><td>42,00</td><td>23,56</td><td>25,93</td><td>23,56</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>46,68</td><td>17,00</td><td>0,00</td><td>0,00</td><td>22,24</td><td>26,00</td><td>22,24</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,64</td><td>65,65</td><td>125,00</td><td>0,00</td><td>117,00</td><td>24,30</td><td>25,85</td><td>24,30</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>90,50</td><td>46,00</td><td>0,00</td><td>35,00</td><td>21,86</td><td>25,97</td><td>21,86</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>96,33</td><td>126,00</td><td>0,00</td><td>118,00</td><td>18,46</td><td>25,89</td><td>18,46</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>77,64</td><td>45,00</td><td>0,00</td><td>35,00</td><td>16,03</td><td>25,97</td><td>16,03</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,66</td><td>93,22</td><td>114,00</td><td>0,00</td><td>105,00</td><td>14,79</td><td>25,93</td><td>14,79</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,67</td><td>54,84</td><td>40,00</td><td>0,00</td><td>29,00</td><td>11,60</td><td>25,97</td><td>11,60</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,68</td><td>31,84</td><td>17,00</td><td>0,00</td><td>0,00</td><td>10,41</td><td>26,00</td><td>10,41</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,62</td><td>57,98</td><td>144,00</td><td>0,00</td><td>136,00</td><td>8,94</td><td>25,79</td><td>8,94</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,58</td><td>75,90</td><td>144,00</td><td>0,00</td><td>136,00</td><td>7,31</td><td>25,62</td><td>7,31</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>69,90</td><td>135,00</td><td>0,00</td><td>126,00</td><td>12,20</td><td>25,56</td><td>12,20</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,56</td><td>47,96</td><td>45,00</td><td>0,00</td><td>35,00</td><td>11,56</td><td>25,57</td><td>11,56</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,49</td><td>37,58</td><td>138,00</td><td>0,00</td><td>130,00</td><td>10,94</td><td>25,32</td><td>10,94</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>37,81</td><td>138,00</td><td>0,00</td><td>130,00</td><td>10,66</td><td>25,07</td><td>10,66</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>37,61</td><td>17,00</td><td>0,00</td><td>0,00</td><td>10,56</td><td>25,12</td><td>10,56</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,39</td><td>70,33</td><td>138,00</td><td>0,00</td><td>130,00</td><td>10,08</td><td>24,95</td><td>10,08</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,36</td><td>90,99</td><td>138,00</td><td>0,00</td><td>130,00</td><td>9,79</td><td>24,83</td><td>9,79</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,32</td><td>104,52</td><td>172,00</td><td>0,00</td><td>166,00</td><td>9,80</td><td>24,67</td><td>9,80</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,27</td><td>99,70</td><td>170,00</td><td>0,00</td><td>164,00</td><td>9,82</td><td>24,49</td><td>9,82</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,22</td><td>93,97</td><td>170,00</td><td>0,00</td><td>164,00</td><td>9,45</td><td>24,30</td><td>9,45</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,14</td><td>57,22</td><td>171,00</td><td>0,00</td><td>165,00</td><td>9,45</td><td>24,02</td><td>9,45</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,15</td><td>37,40</td><td>17,00</td><td>0,00</td><td>0,00</td><td>9,23</td><td>24,07</td><td>9,23</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,16</td><td>62,49</td><td>45,00</td><td>0,00</td><td>35,00</td><td>8,94</td><td>24,11</td><td>8,94</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,19</td><td>82,93</td><td>45,00</td><td>0,00</td><td>35,00</td><td>9,31</td><td>24,21</td><td>9,31</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,22</td><td>88,88</td><td>48,00</td><td>0,00</td><td>38,00</td><td>10,75</td><td>24,31</td><td>10,75</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,25</td><td>97,62</td><td>45,00</td><td>0,00</td><td>35,00</td><td>12,54</td><td>24,44</td><td>12,54</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,29</td><td>97,69</td><td>45,00</td><td>0,00</td><td>35,00</td><td>15,57</td><td>24,57</td><td>15,57</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,31</td><td>63,44</td><td>40,00</td><td>0,00</td><td>29,00</td><td>19,11</td><td>24,63</td><td>19,11</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,33</td><td>49,25</td><td>17,00</td><td>0,00</td><td>0,00</td><td>23,06</td><td>24,71</td><td>23,06</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,31</td><td>75,75</td><td>108,00</td><td>0,00</td><td>98,00</td><td>27,10</td><td>24,63</td><td>27,10</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,25</td><td>99,17</td><td>187,00</td><td>0,00</td><td>185,00</td><td>32,16</td><td>24,41</td><td>32,16</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,20</td><td>106,71</td><td>171,00</td><td>0,00</td><td>165,00</td><td>37,54</td><td>24,25</td><td>37,54</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,23</td><td>80,05</td><td>45,00</td><td>0,00</td><td>35,00</td><td>44,60</td><td>24,34</td><td>44,60</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,25</td><td>85,08</td><td>50,00</td><td>0,00</td><td>41,00</td><td>52,19</td><td>24,43</td><td>52,19</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,28</td><td>83,90</td><td>40,00</td><td>0,00</td><td>29,00</td><td>59,31</td><td>24,54</td><td>59,31</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,32</td><td>75,60</td><td>17,00</td><td>0,00</td><td>0,00</td><td>64,48</td><td>24,68</td><td>64,48</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,26</td><td>102,98</td><td>185,00</td><td>0,00</td><td>180,00</td><td>67,76</td><td>24,48</td><td>67,76</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,28</td><td>124,42</td><td>101,00</td><td>0,00</td><td>91,00</td><td>68,62</td><td>24,54</td><td>68,62</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,34</td><td>127,00</td><td>42,00</td><td>0,00</td><td>31,00</td><td>68,59</td><td>24,75</td><td>68,59</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,38</td><td>112,54</td><td>45,00</td><td>0,00</td><td>35,00</td><td>68,30</td><td>24,92</td><td>68,30</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,41</td><td>109,34</td><td>77,00</td><td>0,00</td><td>67,00</td><td>68,35</td><td>25,00</td><td>68,35</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,43</td><td>75,31</td><td>40,00</td><td>0,00</td><td>29,00</td><td>68,27</td><td>25,08</td><td>68,27</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>64,12</td><td>17,00</td><td>0,00</td><td>0,00</td><td>67,37</td><td>25,20</td><td>67,37</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,44</td><td>98,71</td><td>137,00</td><td>0,00</td><td>129,00</td><td>63,99</td><td>25,11</td><td>63,99</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,48</td><td>112,77</td><td>45,00</td><td>0,00</td><td>35,00</td><td>59,45</td><td>25,27</td><td>59,45</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,50</td><td>71,55</td><td>45,00</td><td>0,00</td><td>35,00</td><td>54,77</td><td>25,34</td><td>54,77</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,46</td><td>90,13</td><td>155,00</td><td>0,00</td><td>148,00</td><td>50,80</td><td>25,18</td><td>50,80</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,45</td><td>103,05</td><td>106,00</td><td>0,00</td><td>96,00</td><td>49,20</td><td>25,17</td><td>49,20</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,48</td><td>95,21</td><td>51,00</td><td>0,00</td><td>42,00</td><td>51,05</td><td>25,28</td><td>51,05</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,51</td><td>77,26</td><td>33,00</td><td>0,00</td><td>20,00</td><td>55,34</td><td>25,39</td><td>55,34</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,50</td><td>99,29</td><td>117,00</td><td>0,00</td><td>107,00</td><td>60,87</td><td>25,35</td><td>60,87</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,55</td><td>115,88</td><td>45,00</td><td>0,00</td><td>35,00</td><td>67,30</td><td>25,52</td><td>67,30</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,60</td><td>118,00</td><td>47,00</td><td>0,00</td><td>36,00</td><td>73,05</td><td>25,70</td><td>73,05</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,65</td><td>116,12</td><td>45,00</td><td>0,00</td><td>35,00</td><td>77,80</td><td>25,88</td><td>77,80</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,70</td><td>122,18</td><td>45,00</td><td>0,00</td><td>35,00</td><td>81,73</td><td>26,07</td><td>81,73</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,73</td><td>95,54</td><td>45,00</td><td>0,00</td><td>35,00</td><td>84,98</td><td>26,19</td><td>84,98</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>79,52</td><td>17,00</td><td>0,00</td><td>0,00</td><td>87,11</td><td>26,35</td><td>87,11</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,82</td><td>107,61</td><td>45,00</td><td>0,00</td><td>35,00</td><td>89,71</td><td>26,51</td><td>89,71</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,80</td><td>114,14</td><td>138,00</td><td>0,00</td><td>130,00</td><td>93,34</td><td>26,45</td><td>93,34</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,77</td><td>116,30</td><td>161,00</td><td>0,00</td><td>154,00</td><td>103,67</td><td>26,34</td><td>103,67</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,74</td><td>114,34</td><td>159,00</td><td>0,00</td><td>152,00</td><td>114,51</td><td>26,22</td><td>114,51</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,76</td><td>130,77</td><td>101,00</td><td>0,00</td><td>90,00</td><td>127,98</td><td>26,30</td><td>127,98</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,80</td><td>99,59</td><td>40,00</td><td>0,00</td><td>29,00</td><td>148,77</td><td>26,45</td><td>148,77</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,85</td><td>91,61</td><td>17,00</td><td>0,00</td><td>0,00</td><td>174,77</td><td>26,63</td><td>174,77</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,82</td><td>120,22</td><td>165,00</td><td>0,00</td><td>159,00</td><td>208,38</td><td>26,52</td><td>208,38</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,86</td><td>157,72</td><td>98,00</td><td>0,00</td><td>93,00</td><td>251,46</td><td>26,67</td><td>251,46</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,91</td><td>212,76</td><td>138,00</td><td>0,00</td><td>133,00</td><td>289,05</td><td>26,86</td><td>289,05</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>740,97</td><td>240,89</td><td>151,00</td><td>0,00</td><td>145,00</td><td>304,91</td><td>27,08</td><td>304,91</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,08</td><td>210,28</td><td>45,00</td><td>0,00</td><td>35,00</td><td>305,91</td><td>27,49</td><td>305,91</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,14</td><td>143,45</td><td>47,00</td><td>0,00</td><td>37,00</td><td>295,09</td><td>27,73</td><td>295,09</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,21</td><td>116,68</td><td>17,00</td><td>0,00</td><td>0,00</td><td>278,89</td><td>27,98</td><td>278,89</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,21</td><td>146,00</td><td>146,00</td><td>0,00</td><td>141,00</td><td>262,10</td><td>27,98</td><td>262,10</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,22</td><td>161,12</td><td>146,00</td><td>0,00</td><td>141,00</td><td>253,13</td><td>28,02</td><td>253,13</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,29</td><td>151,01</td><td>45,00</td><td>0,00</td><td>35,00</td><td>259,01</td><td>28,28</td><td>259,01</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,36</td><td>157,34</td><td>45,00</td><td>0,00</td><td>35,00</td><td>278,49</td><td>28,56</td><td>278,49</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,42</td><td>185,20</td><td>100,00</td><td>0,00</td><td>95,00</td><td>299,69</td><td>28,77</td><td>299,69</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,51</td><td>171,16</td><td>40,00</td><td>0,00</td><td>29,00</td><td>318,85</td><td>29,10</td><td>318,85</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,59</td><td>139,36</td><td>17,00</td><td>0,00</td><td>0,00</td><td>329,26</td><td>29,40</td><td>329,26</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,65</td><td>135,98</td><td>44,00</td><td>0,00</td><td>33,00</td><td>324,22</td><td>29,63</td><td>324,22</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,70</td><td>125,02</td><td>39,00</td><td>0,00</td><td>27,00</td><td>295,94</td><td>29,84</td><td>295,94</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,76</td><td>128,26</td><td>39,00</td><td>0,00</td><td>27,00</td><td>256,77</td><td>30,07</td><td>256,77</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,73</td><td>116,81</td><td>163,00</td><td>0,00</td><td>157,00</td><td>220,38</td><td>29,95</td><td>220,38</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,76</td><td>91,19</td><td>45,00</td><td>0,00</td><td>35,00</td><td>194,68</td><td>30,07</td><td>194,68</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,79</td><td>87,24</td><td>41,00</td><td>0,00</td><td>29,00</td><td>179,62</td><td>30,18</td><td>179,62</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,83</td><td>78,72</td><td>17,00</td><td>0,00</td><td>0,00</td><td>169,56</td><td>30,33</td><td>169,56</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,84</td><td>100,44</td><td>85,00</td><td>0,00</td><td>84,00</td><td>161,94</td><td>30,37</td><td>161,94</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,82</td><td>100,12</td><td>131,00</td><td>0,00</td><td>122,00</td><td>153,71</td><td>30,30</td><td>153,71</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,87</td><td>122,24</td><td>45,00</td><td>0,00</td><td>35,00</td><td>148,38</td><td>30,49</td><td>148,38</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,91</td><td>99,89</td><td>38,00</td><td>0,00</td><td>26,00</td><td>140,66</td><td>30,64</td><td>140,66</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>741,96</td><td>117,48</td><td>40,00</td><td>0,00</td><td>28,00</td><td>136,76</td><td>30,83</td><td>136,76</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,00</td><td>115,08</td><td>53,00</td><td>0,00</td><td>45,00</td><td>138,22</td><td>30,99</td><td>138,22</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,05</td><td>94,71</td><td>17,00</td><td>0,00</td><td>0,00</td><td>143,89</td><td>31,18</td><td>143,89</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,11</td><td>110,42</td><td>17,00</td><td>0,00</td><td>0,00</td><td>148,93</td><td>31,41</td><td>148,93</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,16</td><td>110,99</td><td>33,00</td><td>0,00</td><td>20,00</td><td>159,22</td><td>31,61</td><td>159,22</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,21</td><td>122,12</td><td>44,00</td><td>0,00</td><td>33,00</td><td>169,58</td><td>31,80</td><td>169,58</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,20</td><td>139,36</td><td>155,00</td><td>0,00</td><td>148,00</td><td>182,19</td><td>31,76</td><td>182,19</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,27</td><td>146,55</td><td>37,00</td><td>0,00</td><td>25,00</td><td>206,00</td><td>32,04</td><td>206,00</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,35</td><td>142,51</td><td>17,00</td><td>0,00</td><td>0,00</td><td>237,37</td><td>32,35</td><td>237,37</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,44</td><td>158,60</td><td>17,00</td><td>0,00</td><td>0,00</td><td>255,96</td><td>32,70</td><td>255,96</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,53</td><td>195,02</td><td>53,00</td><td>0,00</td><td>45,00</td><td>259,30</td><td>33,05</td><td>259,30</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,62</td><td>181,44</td><td>39,00</td><td>0,00</td><td>27,00</td><td>254,16</td><td>33,41</td><td>254,16</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,69</td><td>153,07</td><td>42,00</td><td>0,00</td><td>31,00</td><td>233,56</td><td>33,68</td><td>233,56</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,66</td><td>136,37</td><td>184,00</td><td>0,00</td><td>179,00</td><td>203,93</td><td>33,57</td><td>203,93</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,71</td><td>118,42</td><td>39,00</td><td>0,00</td><td>27,00</td><td>184,53</td><td>33,76</td><td>184,53</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,76</td><td>118,55</td><td>39,00</td><td>0,00</td><td>27,00</td><td>166,09</td><td>33,96</td><td>166,09</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,79</td><td>86,79</td><td>39,00</td><td>0,00</td><td>27,00</td><td>152,77</td><td>34,08</td><td>152,77</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,83</td><td>102,79</td><td>39,00</td><td>0,00</td><td>27,00</td><td>143,38</td><td>34,24</td><td>143,38</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,89</td><td>134,84</td><td>39,00</td><td>0,00</td><td>27,00</td><td>135,64</td><td>34,48</td><td>135,64</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,94</td><td>124,01</td><td>44,00</td><td>0,00</td><td>34,00</td><td>128,72</td><td>34,68</td><td>128,72</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>92,07</td><td>44,00</td><td>0,00</td><td>34,00</td><td>122,31</td><td>34,79</td><td>122,31</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,96</td><td>122,97</td><td>139,00</td><td>0,00</td><td>134,00</td><td>115,65</td><td>34,75</td><td>115,65</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>87,10</td><td>39,00</td><td>0,00</td><td>28,00</td><td>108,93</td><td>34,87</td><td>108,93</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,02</td><td>65,15</td><td>17,00</td><td>0,00</td><td>0,00</td><td>103,05</td><td>34,99</td><td>103,05</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,99</td><td>90,85</td><td>139,00</td><td>0,00</td><td>134,00</td><td>98,07</td><td>34,87</td><td>98,07</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,02</td><td>90,15</td><td>42,00</td><td>0,00</td><td>31,00</td><td>94,64</td><td>34,99</td><td>94,64</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,00</td><td>106,90</td><td>139,00</td><td>0,00</td><td>134,00</td><td>92,97</td><td>34,91</td><td>92,97</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,97</td><td>97,30</td><td>139,00</td><td>0,00</td><td>134,00</td><td>92,90</td><td>34,81</td><td>92,90</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,95</td><td>100,54</td><td>139,00</td><td>0,00</td><td>134,00</td><td>95,19</td><td>34,72</td><td>95,19</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>742,98</td><td>91,08</td><td>43,00</td><td>0,00</td><td>32,00</td><td>99,82</td><td>34,83</td><td>99,82</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,01</td><td>65,13</td><td>17,00</td><td>0,00</td><td>0,00</td><td>105,50</td><td>34,95</td><td>105,50</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,00</td><td>91,91</td><td>108,00</td><td>0,00</td><td>102,00</td><td>111,44</td><td>34,91</td><td>111,44</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,03</td><td>127,15</td><td>79,00</td><td>0,00</td><td>77,00</td><td>125,33</td><td>35,03</td><td>125,33</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,06</td><td>100,26</td><td>52,00</td><td>0,00</td><td>44,00</td><td>134,59</td><td>35,15</td><td>134,59</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19016</td><td>S.DO FAC&#195;O                                        </td><td>743,13</td><td>163,62</td><td>51,00</td><td>0,00</td><td>42,00</td><td>141,08</td><td>35,43</td><td>141,08</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

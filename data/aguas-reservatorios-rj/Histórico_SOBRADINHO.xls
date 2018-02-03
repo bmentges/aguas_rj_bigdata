@@ -1,0 +1,1539 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,04</td><td>940,00</td><td>940,00</td><td>0,00</td><td>940,00</td><td>1036,00</td><td>2,19</td><td>1036,00</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,03</td><td>930,00</td><td>916,00</td><td>0,00</td><td>916,00</td><td>990,00</td><td>2,15</td><td>990,00</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>920,00</td><td>921,00</td><td>0,00</td><td>921,00</td><td>949,00</td><td>2,11</td><td>949,00</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>910,00</td><td>924,00</td><td>0,00</td><td>924,00</td><td>1034,00</td><td>2,11</td><td>1034,00</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>900,00</td><td>919,00</td><td>0,00</td><td>920,00</td><td>1116,00</td><td>2,11</td><td>1116,00</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>890,00</td><td>928,00</td><td>0,00</td><td>928,00</td><td>1096,00</td><td>2,06</td><td>1096,00</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>880,00</td><td>870,00</td><td>0,00</td><td>870,00</td><td>1027,00</td><td>2,06</td><td>1027,00</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>870,00</td><td>880,00</td><td>0,00</td><td>880,00</td><td>976,00</td><td>2,11</td><td>976,00</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>860,00</td><td>866,00</td><td>0,00</td><td>866,00</td><td>939,00</td><td>2,11</td><td>939,00</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>850,00</td><td>869,00</td><td>0,00</td><td>869,00</td><td>885,00</td><td>2,11</td><td>885,00</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>900,00</td><td>887,00</td><td>0,00</td><td>887,00</td><td>897,00</td><td>2,06</td><td>897,00</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,00</td><td>920,00</td><td>872,00</td><td>0,00</td><td>874,00</td><td>936,00</td><td>2,02</td><td>936,00</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,00</td><td>980,00</td><td>873,00</td><td>0,00</td><td>873,00</td><td>968,00</td><td>2,02</td><td>968,00</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,03</td><td>1110,00</td><td>818,00</td><td>0,00</td><td>818,00</td><td>1058,00</td><td>2,15</td><td>1058,00</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,05</td><td>1150,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>1191,00</td><td>2,24</td><td>1191,00</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,06</td><td>1190,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>1307,00</td><td>2,28</td><td>1307,00</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,07</td><td>1230,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>1427,00</td><td>2,32</td><td>1427,00</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,11</td><td>1320,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>1550,00</td><td>2,49</td><td>1550,00</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,15</td><td>1400,00</td><td>831,00</td><td>0,00</td><td>828,00</td><td>1676,00</td><td>2,66</td><td>1676,00</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,22</td><td>1600,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>1903,00</td><td>2,97</td><td>1903,00</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,30</td><td>1900,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>2133,00</td><td>3,31</td><td>2133,00</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,40</td><td>2200,00</td><td>813,00</td><td>0,00</td><td>813,00</td><td>2362,00</td><td>3,75</td><td>2362,00</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,53</td><td>2400,00</td><td>810,00</td><td>0,00</td><td>810,00</td><td>2522,00</td><td>4,33</td><td>2522,00</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,65</td><td>2600,00</td><td>812,00</td><td>0,00</td><td>812,00</td><td>2724,00</td><td>4,87</td><td>2724,00</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,77</td><td>2800,00</td><td>810,00</td><td>0,00</td><td>810,00</td><td>2958,00</td><td>5,41</td><td>2958,00</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,90</td><td>3100,00</td><td>816,00</td><td>0,00</td><td>805,00</td><td>3199,00</td><td>6,01</td><td>3199,00</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,06</td><td>3200,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>3397,00</td><td>6,76</td><td>3397,00</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,25</td><td>3300,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>3604,00</td><td>7,67</td><td>3604,00</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,40</td><td>3400,00</td><td>811,00</td><td>0,00</td><td>811,00</td><td>3819,00</td><td>8,40</td><td>3819,00</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,56</td><td>3600,00</td><td>815,00</td><td>0,00</td><td>815,00</td><td>4042,00</td><td>9,19</td><td>4042,00</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,70</td><td>3800,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>4272,00</td><td>9,90</td><td>4272,00</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,85</td><td>3900,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>4510,00</td><td>10,66</td><td>4510,00</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,03</td><td>4000,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>4735,00</td><td>11,59</td><td>4735,00</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,27</td><td>4100,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>4936,00</td><td>12,86</td><td>4936,00</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,44</td><td>4200,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>5148,00</td><td>13,78</td><td>5148,00</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,63</td><td>4300,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>5369,00</td><td>14,82</td><td>5369,00</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,79</td><td>4400,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>5565,00</td><td>15,72</td><td>5565,00</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,00</td><td>4500,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>5758,00</td><td>16,92</td><td>5758,00</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,16</td><td>4600,00</td><td>812,00</td><td>0,00</td><td>812,00</td><td>5953,00</td><td>17,86</td><td>5953,00</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,36</td><td>4700,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>6135,00</td><td>19,06</td><td>6135,00</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,54</td><td>4680,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>6239,00</td><td>20,18</td><td>6239,00</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,67</td><td>4600,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>6300,00</td><td>21,00</td><td>6300,00</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,84</td><td>4500,00</td><td>817,00</td><td>0,00</td><td>817,00</td><td>6320,00</td><td>22,10</td><td>6320,00</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,98</td><td>4400,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>6315,00</td><td>23,03</td><td>6315,00</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,09</td><td>4200,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>6228,00</td><td>23,77</td><td>6228,00</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,30</td><td>4000,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>6023,00</td><td>25,22</td><td>6023,00</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,43</td><td>3600,00</td><td>817,00</td><td>0,00</td><td>817,00</td><td>5680,00</td><td>26,13</td><td>5680,00</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,55</td><td>3300,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>5126,00</td><td>26,99</td><td>5126,00</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,66</td><td>2900,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>4561,00</td><td>27,79</td><td>4561,00</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,72</td><td>2500,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>4038,00</td><td>28,23</td><td>4038,00</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,78</td><td>2100,00</td><td>818,00</td><td>0,00</td><td>818,00</td><td>3559,00</td><td>28,67</td><td>3559,00</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,84</td><td>1900,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>3222,00</td><td>29,12</td><td>3222,00</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,88</td><td>1700,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>2877,00</td><td>29,42</td><td>2877,00</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,90</td><td>1600,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>2606,00</td><td>29,57</td><td>2606,00</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,92</td><td>1500,00</td><td>828,00</td><td>0,00</td><td>830,00</td><td>2417,00</td><td>29,72</td><td>2417,00</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,94</td><td>1400,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>2313,00</td><td>29,87</td><td>2313,00</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,96</td><td>1360,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>2244,00</td><td>30,02</td><td>2244,00</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,00</td><td>1330,00</td><td>813,00</td><td>0,00</td><td>813,00</td><td>2174,00</td><td>30,32</td><td>2174,00</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,02</td><td>1310,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>2094,00</td><td>30,48</td><td>2094,00</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,04</td><td>1300,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>1993,00</td><td>30,63</td><td>1993,00</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,06</td><td>1280,00</td><td>813,00</td><td>0,00</td><td>813,00</td><td>1867,00</td><td>30,78</td><td>1867,00</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,08</td><td>1260,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>1730,00</td><td>30,94</td><td>1730,00</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,11</td><td>1240,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>1659,00</td><td>31,17</td><td>1659,00</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,13</td><td>1220,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>1540,00</td><td>31,32</td><td>1540,00</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,15</td><td>1210,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>1467,00</td><td>31,48</td><td>1467,00</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,16</td><td>1200,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>1437,00</td><td>31,55</td><td>1437,00</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,17</td><td>1180,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>1378,00</td><td>31,63</td><td>1378,00</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,18</td><td>1160,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>1360,00</td><td>31,71</td><td>1360,00</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,21</td><td>1140,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>1340,00</td><td>31,94</td><td>1340,00</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,23</td><td>1120,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1239,00</td><td>32,10</td><td>1239,00</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,24</td><td>1100,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1198,00</td><td>32,18</td><td>1198,00</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,24</td><td>1060,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>1207,00</td><td>32,18</td><td>1207,00</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,24</td><td>1020,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>1218,00</td><td>32,18</td><td>1218,00</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,24</td><td>980,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>1289,00</td><td>32,18</td><td>1289,00</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,22</td><td>990,00</td><td>841,00</td><td>0,00</td><td>841,00</td><td>1373,00</td><td>32,02</td><td>1373,00</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,20</td><td>1000,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1451,00</td><td>31,86</td><td>1451,00</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,20</td><td>1100,00</td><td>840,00</td><td>0,00</td><td>840,00</td><td>1531,00</td><td>31,86</td><td>1531,00</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,21</td><td>1200,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>1622,00</td><td>31,94</td><td>1622,00</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,22</td><td>1230,00</td><td>833,00</td><td>0,00</td><td>832,00</td><td>1714,00</td><td>32,02</td><td>1714,00</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,23</td><td>1200,00</td><td>845,00</td><td>0,00</td><td>845,00</td><td>1795,00</td><td>32,10</td><td>1795,00</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,25</td><td>1200,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>1846,00</td><td>32,25</td><td>1846,00</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,28</td><td>1200,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>1866,00</td><td>32,49</td><td>1866,00</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,30</td><td>1190,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>1884,00</td><td>32,65</td><td>1884,00</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,32</td><td>1170,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>1898,00</td><td>32,80</td><td>1898,00</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,34</td><td>1150,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1915,00</td><td>32,96</td><td>1915,00</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,35</td><td>1140,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>1911,00</td><td>33,04</td><td>1911,00</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,36</td><td>1120,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>1870,00</td><td>33,11</td><td>1870,00</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,37</td><td>1090,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>1788,00</td><td>33,19</td><td>1788,00</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,38</td><td>1080,00</td><td>827,00</td><td>0,00</td><td>829,00</td><td>1675,00</td><td>33,27</td><td>1675,00</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,39</td><td>1060,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>1553,00</td><td>33,35</td><td>1553,00</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,40</td><td>1020,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>1437,00</td><td>33,43</td><td>1437,00</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,41</td><td>980,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>1329,00</td><td>33,51</td><td>1329,00</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,41</td><td>940,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>1233,00</td><td>33,51</td><td>1233,00</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,41</td><td>900,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>1135,00</td><td>33,51</td><td>1135,00</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,41</td><td>880,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1088,00</td><td>33,51</td><td>1088,00</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,41</td><td>850,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>1038,00</td><td>33,51</td><td>1038,00</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,40</td><td>830,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>998,00</td><td>33,43</td><td>998,00</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,39</td><td>800,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>980,00</td><td>33,35</td><td>980,00</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,38</td><td>780,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>981,00</td><td>33,27</td><td>981,00</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,37</td><td>750,00</td><td>826,00</td><td>0,00</td><td>824,00</td><td>998,00</td><td>33,19</td><td>998,00</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,36</td><td>730,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>1016,00</td><td>33,11</td><td>1016,00</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,35</td><td>700,00</td><td>815,00</td><td>0,00</td><td>815,00</td><td>1019,00</td><td>33,04</td><td>1019,00</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,34</td><td>680,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>1006,00</td><td>32,96</td><td>1006,00</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,33</td><td>660,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>982,00</td><td>32,88</td><td>982,00</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,32</td><td>640,00</td><td>821,00</td><td>0,00</td><td>824,00</td><td>953,00</td><td>32,80</td><td>953,00</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,31</td><td>620,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>920,00</td><td>32,72</td><td>920,00</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,30</td><td>600,00</td><td>816,00</td><td>0,00</td><td>816,00</td><td>883,00</td><td>32,65</td><td>883,00</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,29</td><td>580,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>849,00</td><td>32,56</td><td>849,00</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,27</td><td>560,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>820,00</td><td>32,41</td><td>820,00</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,25</td><td>540,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>791,00</td><td>32,25</td><td>791,00</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,23</td><td>520,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>759,00</td><td>32,10</td><td>759,00</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,21</td><td>500,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>727,00</td><td>31,94</td><td>727,00</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,20</td><td>490,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>696,00</td><td>31,86</td><td>696,00</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,18</td><td>480,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>668,00</td><td>31,71</td><td>668,00</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,16</td><td>470,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>645,00</td><td>31,55</td><td>645,00</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,15</td><td>460,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>636,00</td><td>31,48</td><td>636,00</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,14</td><td>450,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>632,00</td><td>31,40</td><td>632,00</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,13</td><td>440,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>621,00</td><td>31,32</td><td>621,00</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,11</td><td>430,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>612,00</td><td>31,17</td><td>612,00</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,09</td><td>420,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>605,00</td><td>31,01</td><td>605,00</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,07</td><td>410,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>596,00</td><td>30,86</td><td>596,00</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,05</td><td>400,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>588,00</td><td>30,71</td><td>588,00</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,03</td><td>400,00</td><td>840,00</td><td>0,00</td><td>840,00</td><td>583,00</td><td>30,55</td><td>583,00</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>386,01</td><td>400,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>579,00</td><td>30,40</td><td>579,00</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,99</td><td>410,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>575,00</td><td>30,25</td><td>575,00</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,98</td><td>420,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>569,00</td><td>30,17</td><td>569,00</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,97</td><td>430,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>564,00</td><td>30,10</td><td>564,00</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,95</td><td>440,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>556,00</td><td>29,95</td><td>556,00</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,93</td><td>440,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>551,00</td><td>29,79</td><td>551,00</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,91</td><td>440,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>551,00</td><td>29,64</td><td>551,00</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,89</td><td>440,00</td><td>844,00</td><td>0,00</td><td>844,00</td><td>557,00</td><td>29,49</td><td>557,00</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,87</td><td>450,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>574,00</td><td>29,34</td><td>574,00</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,85</td><td>460,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>607,00</td><td>29,19</td><td>607,00</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,83</td><td>470,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>647,00</td><td>29,04</td><td>647,00</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,81</td><td>480,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>674,00</td><td>28,89</td><td>674,00</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,79</td><td>490,00</td><td>837,00</td><td>0,00</td><td>839,00</td><td>679,00</td><td>28,75</td><td>679,00</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,77</td><td>500,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>666,00</td><td>28,60</td><td>666,00</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,76</td><td>510,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>649,00</td><td>28,52</td><td>649,00</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,75</td><td>520,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>631,00</td><td>28,45</td><td>631,00</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,74</td><td>520,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>609,00</td><td>28,38</td><td>609,00</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,73</td><td>510,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>585,00</td><td>28,30</td><td>585,00</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,72</td><td>510,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>564,00</td><td>28,23</td><td>564,00</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,71</td><td>500,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>546,00</td><td>28,15</td><td>546,00</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,70</td><td>500,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>530,00</td><td>28,08</td><td>530,00</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,69</td><td>490,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>517,00</td><td>28,01</td><td>517,00</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,67</td><td>490,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>508,00</td><td>27,86</td><td>508,00</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,65</td><td>480,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>501,00</td><td>27,72</td><td>501,00</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,63</td><td>480,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>493,00</td><td>27,57</td><td>493,00</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,61</td><td>470,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>487,00</td><td>27,42</td><td>487,00</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,59</td><td>470,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>481,00</td><td>27,28</td><td>481,00</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,57</td><td>460,00</td><td>842,00</td><td>0,00</td><td>842,00</td><td>477,00</td><td>27,13</td><td>477,00</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,55</td><td>460,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>472,00</td><td>26,99</td><td>472,00</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,53</td><td>450,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>476,00</td><td>26,85</td><td>476,00</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,51</td><td>440,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>483,00</td><td>26,70</td><td>483,00</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,49</td><td>440,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>506,00</td><td>26,56</td><td>506,00</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,47</td><td>430,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>516,00</td><td>26,42</td><td>516,00</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,45</td><td>430,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>511,00</td><td>26,28</td><td>511,00</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,43</td><td>420,00</td><td>849,00</td><td>0,00</td><td>849,00</td><td>506,00</td><td>26,13</td><td>506,00</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,42</td><td>420,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>501,00</td><td>26,06</td><td>501,00</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,41</td><td>410,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>497,00</td><td>25,99</td><td>497,00</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,40</td><td>410,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>482,00</td><td>25,92</td><td>482,00</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,39</td><td>410,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>468,00</td><td>25,85</td><td>468,00</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,36</td><td>410,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>464,00</td><td>25,64</td><td>464,00</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,34</td><td>410,00</td><td>831,00</td><td>0,00</td><td>818,00</td><td>459,00</td><td>25,50</td><td>459,00</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,30</td><td>410,00</td><td>827,00</td><td>0,00</td><td>831,00</td><td>457,00</td><td>25,22</td><td>457,00</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,26</td><td>410,00</td><td>818,00</td><td>0,00</td><td>831,00</td><td>459,00</td><td>24,94</td><td>459,00</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,24</td><td>410,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>458,00</td><td>24,80</td><td>458,00</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,22</td><td>400,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>447,00</td><td>24,66</td><td>447,00</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,20</td><td>400,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>443,00</td><td>24,52</td><td>443,00</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,18</td><td>400,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>456,00</td><td>24,39</td><td>456,00</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,16</td><td>390,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>472,00</td><td>24,25</td><td>472,00</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,14</td><td>390,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>491,00</td><td>24,11</td><td>491,00</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,12</td><td>390,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>505,00</td><td>23,98</td><td>505,00</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,10</td><td>390,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>519,00</td><td>23,84</td><td>519,00</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,08</td><td>380,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>531,00</td><td>23,71</td><td>531,00</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,06</td><td>380,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>537,00</td><td>23,57</td><td>537,00</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,04</td><td>370,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>534,00</td><td>23,44</td><td>534,00</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,02</td><td>370,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>521,00</td><td>23,30</td><td>521,00</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>385,00</td><td>360,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>507,00</td><td>23,16</td><td>507,00</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,98</td><td>360,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>495,00</td><td>23,03</td><td>495,00</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,96</td><td>360,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>485,00</td><td>22,90</td><td>485,00</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,93</td><td>350,00</td><td>840,00</td><td>0,00</td><td>840,00</td><td>473,00</td><td>22,70</td><td>473,00</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,90</td><td>350,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>457,00</td><td>22,50</td><td>457,00</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,88</td><td>350,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>444,00</td><td>22,37</td><td>444,00</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,86</td><td>350,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>437,00</td><td>22,24</td><td>437,00</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,84</td><td>350,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>433,00</td><td>22,10</td><td>433,00</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,82</td><td>350,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>430,00</td><td>21,97</td><td>430,00</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,80</td><td>350,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>427,00</td><td>21,84</td><td>427,00</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,78</td><td>350,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>425,00</td><td>21,71</td><td>425,00</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,76</td><td>350,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>423,00</td><td>21,58</td><td>423,00</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,74</td><td>350,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>431,00</td><td>21,46</td><td>431,00</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,72</td><td>350,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>439,00</td><td>21,33</td><td>439,00</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,70</td><td>350,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>438,00</td><td>21,20</td><td>438,00</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,68</td><td>360,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>436,00</td><td>21,07</td><td>436,00</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,66</td><td>360,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>431,00</td><td>20,94</td><td>431,00</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,64</td><td>360,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>425,00</td><td>20,81</td><td>425,00</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,62</td><td>360,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>425,00</td><td>20,68</td><td>425,00</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,61</td><td>370,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>429,00</td><td>20,62</td><td>429,00</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,60</td><td>370,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>430,00</td><td>20,56</td><td>430,00</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,58</td><td>370,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>429,00</td><td>20,43</td><td>429,00</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,56</td><td>380,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>424,00</td><td>20,30</td><td>424,00</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,54</td><td>380,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>421,00</td><td>20,18</td><td>421,00</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,52</td><td>380,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>416,00</td><td>20,05</td><td>416,00</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,50</td><td>390,00</td><td>836,00</td><td>0,00</td><td>835,00</td><td>414,00</td><td>19,93</td><td>414,00</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,48</td><td>400,00</td><td>836,00</td><td>0,00</td><td>831,00</td><td>410,00</td><td>19,80</td><td>410,00</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,46</td><td>400,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>408,00</td><td>19,68</td><td>408,00</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,44</td><td>410,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>403,00</td><td>19,55</td><td>403,00</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,42</td><td>410,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>403,00</td><td>19,43</td><td>403,00</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,40</td><td>410,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>400,00</td><td>19,31</td><td>400,00</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,38</td><td>400,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>399,00</td><td>19,18</td><td>399,00</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,35</td><td>390,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>396,00</td><td>19,00</td><td>396,00</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,32</td><td>390,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>396,00</td><td>18,82</td><td>396,00</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,29</td><td>380,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>395,00</td><td>18,64</td><td>395,00</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,26</td><td>380,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>397,00</td><td>18,46</td><td>397,00</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,24</td><td>380,00</td><td>843,00</td><td>0,00</td><td>843,00</td><td>396,00</td><td>18,33</td><td>396,00</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,22</td><td>380,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>393,00</td><td>18,21</td><td>393,00</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,20</td><td>380,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>411,00</td><td>18,09</td><td>411,00</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,18</td><td>380,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>410,00</td><td>17,97</td><td>410,00</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,16</td><td>380,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>411,00</td><td>17,86</td><td>411,00</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,14</td><td>380,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>411,00</td><td>17,74</td><td>411,00</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,12</td><td>380,00</td><td>841,00</td><td>0,00</td><td>841,00</td><td>411,00</td><td>17,62</td><td>411,00</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,10</td><td>380,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>411,00</td><td>17,50</td><td>411,00</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,08</td><td>380,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>411,00</td><td>17,38</td><td>411,00</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,06</td><td>390,00</td><td>820,00</td><td>0,00</td><td>820,00</td><td>409,00</td><td>17,27</td><td>409,00</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,04</td><td>390,00</td><td>817,00</td><td>0,00</td><td>817,00</td><td>415,00</td><td>17,15</td><td>415,00</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,02</td><td>380,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>420,00</td><td>17,03</td><td>420,00</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>384,00</td><td>380,00</td><td>817,00</td><td>0,00</td><td>817,00</td><td>415,00</td><td>16,92</td><td>415,00</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,97</td><td>380,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>413,00</td><td>16,74</td><td>413,00</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,94</td><td>380,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>413,00</td><td>16,57</td><td>413,00</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,93</td><td>380,00</td><td>817,00</td><td>0,00</td><td>817,00</td><td>414,00</td><td>16,51</td><td>414,00</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,91</td><td>380,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>415,00</td><td>16,40</td><td>415,00</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,89</td><td>380,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>410,00</td><td>16,29</td><td>410,00</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,87</td><td>390,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>406,00</td><td>16,17</td><td>406,00</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,85</td><td>400,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>402,00</td><td>16,06</td><td>402,00</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,82</td><td>410,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>396,00</td><td>15,89</td><td>396,00</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,79</td><td>420,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>394,00</td><td>15,72</td><td>394,00</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,76</td><td>430,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>394,00</td><td>15,55</td><td>394,00</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>430,00</td><td>845,00</td><td>0,00</td><td>845,00</td><td>384,00</td><td>15,44</td><td>384,00</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,72</td><td>430,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>370,00</td><td>15,33</td><td>370,00</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,70</td><td>430,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>364,00</td><td>15,22</td><td>364,00</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,68</td><td>430,00</td><td>842,00</td><td>0,00</td><td>842,00</td><td>362,00</td><td>15,10</td><td>362,00</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,65</td><td>440,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>359,00</td><td>14,94</td><td>359,00</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,62</td><td>440,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>360,00</td><td>14,77</td><td>360,00</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,59</td><td>440,00</td><td>840,00</td><td>0,00</td><td>840,00</td><td>360,00</td><td>14,60</td><td>360,00</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,56</td><td>430,00</td><td>803,00</td><td>0,00</td><td>803,00</td><td>360,00</td><td>14,44</td><td>360,00</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,53</td><td>420,00</td><td>832,00</td><td>0,00</td><td>826,00</td><td>362,00</td><td>14,27</td><td>362,00</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,50</td><td>420,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>363,00</td><td>14,11</td><td>363,00</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,47</td><td>410,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>365,00</td><td>13,95</td><td>365,00</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,44</td><td>400,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>364,00</td><td>13,78</td><td>364,00</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,41</td><td>400,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>363,00</td><td>13,62</td><td>363,00</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,38</td><td>400,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>360,00</td><td>13,46</td><td>360,00</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,36</td><td>400,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>359,00</td><td>13,35</td><td>359,00</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,34</td><td>390,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>356,00</td><td>13,24</td><td>356,00</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,32</td><td>390,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>353,00</td><td>13,13</td><td>353,00</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,30</td><td>390,00</td><td>819,00</td><td>0,00</td><td>819,00</td><td>349,00</td><td>13,02</td><td>349,00</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,27</td><td>380,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>346,00</td><td>12,86</td><td>346,00</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,25</td><td>380,00</td><td>841,00</td><td>0,00</td><td>841,00</td><td>339,00</td><td>12,76</td><td>339,00</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,22</td><td>380,00</td><td>839,00</td><td>0,00</td><td>839,00</td><td>334,00</td><td>12,60</td><td>334,00</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,19</td><td>380,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>334,00</td><td>12,44</td><td>334,00</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,17</td><td>390,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>329,00</td><td>12,33</td><td>329,00</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,15</td><td>400,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>322,00</td><td>12,23</td><td>322,00</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,13</td><td>400,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>318,00</td><td>12,12</td><td>318,00</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,11</td><td>400,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>311,00</td><td>12,01</td><td>311,00</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,08</td><td>400,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>309,00</td><td>11,86</td><td>309,00</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,06</td><td>400,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>309,00</td><td>11,75</td><td>309,00</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,04</td><td>400,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>306,00</td><td>11,65</td><td>306,00</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,01</td><td>410,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>303,00</td><td>11,49</td><td>303,00</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,98</td><td>420,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>298,00</td><td>11,33</td><td>298,00</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,96</td><td>430,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>296,00</td><td>11,23</td><td>296,00</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,94</td><td>430,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>291,00</td><td>11,12</td><td>291,00</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,92</td><td>410,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>292,00</td><td>11,02</td><td>292,00</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,90</td><td>400,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>292,00</td><td>10,92</td><td>292,00</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,88</td><td>400,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>295,00</td><td>10,82</td><td>295,00</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,86</td><td>400,00</td><td>823,00</td><td>0,00</td><td>823,00</td><td>303,00</td><td>10,71</td><td>303,00</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,84</td><td>410,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>319,00</td><td>10,61</td><td>319,00</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,82</td><td>420,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>335,00</td><td>10,51</td><td>335,00</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,79</td><td>430,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>350,00</td><td>10,35</td><td>350,00</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,76</td><td>440,00</td><td>831,00</td><td>0,00</td><td>831,00</td><td>363,00</td><td>10,20</td><td>363,00</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,74</td><td>450,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>371,00</td><td>10,10</td><td>371,00</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,72</td><td>460,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>376,00</td><td>10,00</td><td>376,00</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,71</td><td>480,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>380,00</td><td>9,94</td><td>380,00</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,69</td><td>490,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>380,00</td><td>9,84</td><td>380,00</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,67</td><td>500,00</td><td>821,00</td><td>0,00</td><td>821,00</td><td>379,00</td><td>9,74</td><td>379,00</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,65</td><td>490,00</td><td>836,00</td><td>0,00</td><td>836,00</td><td>380,00</td><td>9,64</td><td>380,00</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,63</td><td>480,00</td><td>815,00</td><td>0,00</td><td>815,00</td><td>383,00</td><td>9,54</td><td>383,00</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,61</td><td>470,00</td><td>817,00</td><td>0,00</td><td>820,00</td><td>389,00</td><td>9,44</td><td>389,00</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,58</td><td>490,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>393,00</td><td>9,29</td><td>393,00</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,55</td><td>500,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>408,00</td><td>9,14</td><td>408,00</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,54</td><td>510,00</td><td>832,00</td><td>0,00</td><td>832,00</td><td>429,00</td><td>9,09</td><td>429,00</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,52</td><td>520,00</td><td>789,00</td><td>0,00</td><td>789,00</td><td>448,00</td><td>8,99</td><td>448,00</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,50</td><td>530,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>474,00</td><td>8,89</td><td>474,00</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,50</td><td>530,00</td><td>835,00</td><td>0,00</td><td>835,00</td><td>474,00</td><td>8,89</td><td>474,00</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,48</td><td>540,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>499,00</td><td>8,79</td><td>499,00</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,46</td><td>550,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>508,00</td><td>8,70</td><td>508,00</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,44</td><td>540,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>511,00</td><td>8,60</td><td>511,00</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,42</td><td>530,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>503,00</td><td>8,50</td><td>503,00</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,40</td><td>520,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>491,00</td><td>8,40</td><td>491,00</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,38</td><td>510,00</td><td>834,00</td><td>0,00</td><td>834,00</td><td>486,00</td><td>8,30</td><td>486,00</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,36</td><td>500,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>466,00</td><td>8,20</td><td>466,00</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,34</td><td>510,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>447,00</td><td>8,11</td><td>447,00</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,32</td><td>520,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>428,00</td><td>8,01</td><td>428,00</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,30</td><td>530,00</td><td>838,00</td><td>0,00</td><td>838,00</td><td>407,00</td><td>7,91</td><td>407,00</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,28</td><td>540,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>389,00</td><td>7,82</td><td>389,00</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,26</td><td>530,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>377,00</td><td>7,72</td><td>377,00</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,24</td><td>520,00</td><td>834,00</td><td>0,00</td><td>826,00</td><td>369,00</td><td>7,62</td><td>369,00</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,22</td><td>510,00</td><td>833,00</td><td>0,00</td><td>833,00</td><td>359,00</td><td>7,52</td><td>359,00</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,20</td><td>500,00</td><td>837,00</td><td>0,00</td><td>839,00</td><td>352,00</td><td>7,43</td><td>352,00</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,18</td><td>500,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>342,00</td><td>7,33</td><td>342,00</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,16</td><td>490,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>332,00</td><td>7,24</td><td>332,00</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,14</td><td>490,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>325,00</td><td>7,14</td><td>325,00</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,12</td><td>490,00</td><td>830,00</td><td>0,00</td><td>830,00</td><td>322,00</td><td>7,05</td><td>322,00</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,10</td><td>490,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>319,00</td><td>6,95</td><td>319,00</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,08</td><td>490,00</td><td>829,00</td><td>0,00</td><td>829,00</td><td>316,00</td><td>6,86</td><td>316,00</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,06</td><td>490,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>310,00</td><td>6,76</td><td>310,00</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,04</td><td>490,00</td><td>824,00</td><td>0,00</td><td>824,00</td><td>298,00</td><td>6,67</td><td>298,00</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,02</td><td>500,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>329,00</td><td>6,57</td><td>329,00</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,00</td><td>500,00</td><td>822,00</td><td>0,00</td><td>822,00</td><td>359,00</td><td>6,48</td><td>359,00</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,98</td><td>500,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>390,00</td><td>6,38</td><td>390,00</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,96</td><td>500,00</td><td>825,00</td><td>0,00</td><td>825,00</td><td>396,00</td><td>6,29</td><td>396,00</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,94</td><td>500,00</td><td>828,00</td><td>0,00</td><td>826,00</td><td>404,00</td><td>6,20</td><td>404,00</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,92</td><td>500,00</td><td>828,00</td><td>0,00</td><td>828,00</td><td>410,00</td><td>6,10</td><td>410,00</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,90</td><td>510,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>428,00</td><td>6,01</td><td>428,00</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,88</td><td>520,00</td><td>837,00</td><td>0,00</td><td>837,00</td><td>436,00</td><td>5,92</td><td>436,00</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,86</td><td>530,00</td><td>827,00</td><td>0,00</td><td>827,00</td><td>457,00</td><td>5,83</td><td>457,00</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,84</td><td>550,00</td><td>826,00</td><td>0,00</td><td>828,00</td><td>467,00</td><td>5,73</td><td>467,00</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,83</td><td>580,00</td><td>826,00</td><td>0,00</td><td>826,00</td><td>518,00</td><td>5,69</td><td>518,00</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,82</td><td>630,00</td><td>769,00</td><td>0,00</td><td>769,00</td><td>570,00</td><td>5,64</td><td>570,00</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,81</td><td>660,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>623,00</td><td>5,59</td><td>623,00</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,80</td><td>700,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>689,00</td><td>5,55</td><td>689,00</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,80</td><td>730,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>776,00</td><td>5,55</td><td>776,00</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,80</td><td>800,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>878,00</td><td>5,55</td><td>878,00</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,80</td><td>900,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1006,00</td><td>5,55</td><td>1006,00</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,81</td><td>1000,00</td><td>753,00</td><td>0,00</td><td>753,00</td><td>1124,00</td><td>5,59</td><td>1124,00</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,82</td><td>1100,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>1269,00</td><td>5,64</td><td>1269,00</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,84</td><td>1200,00</td><td>758,00</td><td>0,00</td><td>758,00</td><td>1393,00</td><td>5,73</td><td>1393,00</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,87</td><td>1300,00</td><td>759,00</td><td>0,00</td><td>754,00</td><td>1481,00</td><td>5,87</td><td>1481,00</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,92</td><td>1350,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>1570,00</td><td>6,10</td><td>1570,00</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,97</td><td>1400,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1635,00</td><td>6,34</td><td>1635,00</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,01</td><td>1450,00</td><td>764,00</td><td>0,00</td><td>759,00</td><td>1681,00</td><td>6,53</td><td>1681,00</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,05</td><td>1500,00</td><td>754,00</td><td>0,00</td><td>754,00</td><td>1756,00</td><td>6,71</td><td>1756,00</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,10</td><td>1550,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1850,00</td><td>6,95</td><td>1850,00</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,15</td><td>1600,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>1901,00</td><td>7,19</td><td>1901,00</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,21</td><td>1620,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1930,00</td><td>7,48</td><td>1930,00</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,27</td><td>1580,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>1889,00</td><td>7,77</td><td>1889,00</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,32</td><td>1510,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>1805,00</td><td>8,01</td><td>1805,00</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,37</td><td>1450,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1744,00</td><td>8,25</td><td>1744,00</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,42</td><td>1400,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1689,00</td><td>8,50</td><td>1689,00</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,47</td><td>1350,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1601,00</td><td>8,74</td><td>1601,00</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,51</td><td>1260,00</td><td>769,00</td><td>0,00</td><td>769,00</td><td>1528,00</td><td>8,94</td><td>1528,00</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,55</td><td>1230,00</td><td>758,00</td><td>0,00</td><td>758,00</td><td>1481,00</td><td>9,14</td><td>1481,00</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,58</td><td>1200,00</td><td>768,00</td><td>0,00</td><td>768,00</td><td>1467,00</td><td>9,29</td><td>1467,00</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,61</td><td>1180,00</td><td>763,00</td><td>0,00</td><td>763,00</td><td>1481,00</td><td>9,44</td><td>1481,00</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,54</td><td>1160,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>1514,00</td><td>9,09</td><td>1514,00</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,67</td><td>1180,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1533,00</td><td>9,74</td><td>1533,00</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,69</td><td>1200,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>1581,00</td><td>9,84</td><td>1581,00</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,71</td><td>1250,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>1626,00</td><td>9,94</td><td>1626,00</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,72</td><td>1280,00</td><td>759,00</td><td>0,00</td><td>760,00</td><td>1694,00</td><td>10,00</td><td>1694,00</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,73</td><td>1360,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1821,00</td><td>10,05</td><td>1821,00</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,74</td><td>1480,00</td><td>771,00</td><td>0,00</td><td>771,00</td><td>1946,00</td><td>10,10</td><td>1946,00</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,78</td><td>1540,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>2072,00</td><td>10,30</td><td>2072,00</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,80</td><td>1670,00</td><td>769,00</td><td>0,00</td><td>769,00</td><td>2297,00</td><td>10,40</td><td>2297,00</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,84</td><td>1830,00</td><td>760,00</td><td>0,00</td><td>760,00</td><td>2525,00</td><td>10,61</td><td>2525,00</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,90</td><td>1960,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>2735,00</td><td>10,92</td><td>2735,00</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,96</td><td>2100,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>2940,00</td><td>11,23</td><td>2940,00</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,06</td><td>2120,00</td><td>754,00</td><td>0,00</td><td>754,00</td><td>3092,00</td><td>11,75</td><td>3092,00</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,16</td><td>2140,00</td><td>768,00</td><td>0,00</td><td>768,00</td><td>3135,00</td><td>12,28</td><td>3135,00</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,21</td><td>2120,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>3053,00</td><td>12,54</td><td>3053,00</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>2080,00</td><td>768,00</td><td>0,00</td><td>768,00</td><td>2859,00</td><td>12,92</td><td>2859,00</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,38</td><td>1400,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>2555,00</td><td>13,46</td><td>2555,00</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,42</td><td>1200,00</td><td>709,00</td><td>0,00</td><td>709,00</td><td>2193,00</td><td>13,67</td><td>2193,00</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,46</td><td>1050,00</td><td>721,00</td><td>0,00</td><td>721,00</td><td>1921,00</td><td>13,89</td><td>1921,00</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,47</td><td>980,00</td><td>725,00</td><td>0,00</td><td>725,00</td><td>1778,00</td><td>13,95</td><td>1778,00</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,48</td><td>920,00</td><td>756,00</td><td>0,00</td><td>756,00</td><td>1719,00</td><td>14,00</td><td>1719,00</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,49</td><td>890,00</td><td>763,00</td><td>0,00</td><td>763,00</td><td>1671,00</td><td>14,05</td><td>1671,00</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,50</td><td>860,00</td><td>755,00</td><td>0,00</td><td>755,00</td><td>1573,00</td><td>14,11</td><td>1573,00</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,50</td><td>830,00</td><td>760,00</td><td>0,00</td><td>760,00</td><td>1471,00</td><td>14,11</td><td>1471,00</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,50</td><td>800,00</td><td>872,00</td><td>0,00</td><td>872,00</td><td>1363,00</td><td>14,11</td><td>1363,00</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,50</td><td>790,00</td><td>860,00</td><td>0,00</td><td>860,00</td><td>1264,00</td><td>14,11</td><td>1264,00</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,46</td><td>760,00</td><td>1203,00</td><td>0,00</td><td>1203,00</td><td>1169,00</td><td>13,89</td><td>1169,00</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,42</td><td>730,00</td><td>1212,00</td><td>0,00</td><td>1214,00</td><td>1086,00</td><td>13,67</td><td>1086,00</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,39</td><td>700,00</td><td>1209,00</td><td>0,00</td><td>1209,00</td><td>1012,00</td><td>13,51</td><td>1012,00</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,36</td><td>670,00</td><td>1212,00</td><td>0,00</td><td>1212,00</td><td>946,00</td><td>13,35</td><td>946,00</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,32</td><td>640,00</td><td>1206,00</td><td>0,00</td><td>1206,00</td><td>894,00</td><td>13,13</td><td>894,00</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,26</td><td>620,00</td><td>1204,00</td><td>0,00</td><td>1204,00</td><td>861,00</td><td>12,81</td><td>861,00</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,20</td><td>600,00</td><td>1215,00</td><td>0,00</td><td>1215,00</td><td>840,00</td><td>12,49</td><td>840,00</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,14</td><td>590,00</td><td>1214,00</td><td>0,00</td><td>1214,00</td><td>795,00</td><td>12,17</td><td>795,00</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,10</td><td>580,00</td><td>1227,00</td><td>0,00</td><td>1227,00</td><td>746,00</td><td>11,96</td><td>746,00</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,07</td><td>570,00</td><td>1222,00</td><td>0,00</td><td>1222,00</td><td>727,00</td><td>11,80</td><td>727,00</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,04</td><td>560,00</td><td>1211,00</td><td>0,00</td><td>1211,00</td><td>715,00</td><td>11,65</td><td>715,00</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>570,00</td><td>1224,00</td><td>0,00</td><td>1224,00</td><td>710,00</td><td>11,44</td><td>710,00</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,94</td><td>600,00</td><td>1226,00</td><td>0,00</td><td>1226,00</td><td>722,00</td><td>11,12</td><td>722,00</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,90</td><td>620,00</td><td>1240,00</td><td>0,00</td><td>1240,00</td><td>737,00</td><td>10,92</td><td>737,00</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,84</td><td>640,00</td><td>1237,00</td><td>0,00</td><td>1237,00</td><td>817,00</td><td>10,61</td><td>817,00</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,79</td><td>680,00</td><td>1240,00</td><td>0,00</td><td>1240,00</td><td>1015,00</td><td>10,35</td><td>1015,00</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,80</td><td>720,00</td><td>796,00</td><td>0,00</td><td>796,00</td><td>1234,00</td><td>10,40</td><td>1234,00</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,81</td><td>900,00</td><td>790,00</td><td>0,00</td><td>790,00</td><td>1414,00</td><td>10,45</td><td>1414,00</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,82</td><td>1000,00</td><td>811,00</td><td>0,00</td><td>811,00</td><td>1524,00</td><td>10,51</td><td>1524,00</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,84</td><td>1150,00</td><td>805,00</td><td>0,00</td><td>805,00</td><td>1621,00</td><td>10,61</td><td>1621,00</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,86</td><td>1200,00</td><td>765,00</td><td>0,00</td><td>765,00</td><td>1595,00</td><td>10,71</td><td>1595,00</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,89</td><td>1160,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1502,00</td><td>10,87</td><td>1502,00</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,92</td><td>1120,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1425,00</td><td>11,02</td><td>1425,00</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,94</td><td>1080,00</td><td>749,00</td><td>0,00</td><td>749,00</td><td>1423,00</td><td>11,12</td><td>1423,00</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,96</td><td>1050,00</td><td>751,00</td><td>0,00</td><td>751,00</td><td>1411,00</td><td>11,23</td><td>1411,00</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,97</td><td>1000,00</td><td>731,00</td><td>0,00</td><td>731,00</td><td>1358,00</td><td>11,28</td><td>1358,00</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,98</td><td>960,00</td><td>731,00</td><td>0,00</td><td>731,00</td><td>1318,00</td><td>11,33</td><td>1318,00</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>920,00</td><td>736,00</td><td>0,00</td><td>736,00</td><td>1241,00</td><td>11,39</td><td>1241,00</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>880,00</td><td>735,00</td><td>0,00</td><td>735,00</td><td>1196,00</td><td>11,44</td><td>1196,00</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>840,00</td><td>746,00</td><td>0,00</td><td>746,00</td><td>1155,00</td><td>11,44</td><td>1155,00</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>800,00</td><td>726,00</td><td>0,00</td><td>726,00</td><td>1126,00</td><td>11,39</td><td>1126,00</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>740,00</td><td>734,00</td><td>0,00</td><td>734,00</td><td>1086,00</td><td>11,39</td><td>1086,00</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>680,00</td><td>730,00</td><td>0,00</td><td>730,00</td><td>1045,00</td><td>11,39</td><td>1045,00</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>670,00</td><td>741,00</td><td>0,00</td><td>741,00</td><td>1026,00</td><td>11,39</td><td>1026,00</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>660,00</td><td>731,00</td><td>0,00</td><td>731,00</td><td>1067,00</td><td>11,39</td><td>1067,00</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>800,00</td><td>736,00</td><td>0,00</td><td>736,00</td><td>1170,00</td><td>11,39</td><td>1170,00</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>950,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>1302,00</td><td>11,44</td><td>1302,00</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,01</td><td>1100,00</td><td>787,00</td><td>0,00</td><td>787,00</td><td>1487,00</td><td>11,49</td><td>1487,00</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,03</td><td>1200,00</td><td>772,00</td><td>0,00</td><td>772,00</td><td>1681,00</td><td>11,59</td><td>1681,00</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,04</td><td>1350,00</td><td>772,00</td><td>0,00</td><td>772,00</td><td>1894,00</td><td>11,65</td><td>1894,00</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,04</td><td>1400,00</td><td>727,00</td><td>0,00</td><td>727,00</td><td>2080,00</td><td>11,65</td><td>2080,00</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,06</td><td>1500,00</td><td>722,00</td><td>0,00</td><td>722,00</td><td>2258,00</td><td>11,75</td><td>2258,00</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,10</td><td>1580,00</td><td>722,00</td><td>0,00</td><td>722,00</td><td>2383,00</td><td>11,96</td><td>2383,00</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,16</td><td>1620,00</td><td>725,00</td><td>0,00</td><td>725,00</td><td>2479,00</td><td>12,28</td><td>2479,00</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,22</td><td>1660,00</td><td>724,00</td><td>0,00</td><td>724,00</td><td>2455,00</td><td>12,60</td><td>2455,00</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>1680,00</td><td>714,00</td><td>0,00</td><td>714,00</td><td>2349,00</td><td>12,92</td><td>2349,00</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,36</td><td>1700,00</td><td>719,00</td><td>0,00</td><td>719,00</td><td>2229,00</td><td>13,35</td><td>2229,00</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,44</td><td>1720,00</td><td>725,00</td><td>0,00</td><td>725,00</td><td>2045,00</td><td>13,78</td><td>2045,00</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,52</td><td>1700,00</td><td>719,00</td><td>0,00</td><td>719,00</td><td>1902,00</td><td>14,22</td><td>1902,00</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,55</td><td>1580,00</td><td>716,00</td><td>0,00</td><td>716,00</td><td>1653,00</td><td>14,38</td><td>1653,00</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,56</td><td>1460,00</td><td>716,00</td><td>0,00</td><td>716,00</td><td>1413,00</td><td>14,44</td><td>1413,00</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,57</td><td>1360,00</td><td>719,00</td><td>0,00</td><td>719,00</td><td>1223,00</td><td>14,49</td><td>1223,00</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,57</td><td>1200,00</td><td>726,00</td><td>0,00</td><td>726,00</td><td>1132,00</td><td>14,49</td><td>1132,00</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,59</td><td>1130,00</td><td>722,00</td><td>0,00</td><td>722,00</td><td>1068,00</td><td>14,60</td><td>1068,00</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,60</td><td>1080,00</td><td>718,00</td><td>0,00</td><td>718,00</td><td>1019,00</td><td>14,66</td><td>1019,00</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,61</td><td>1020,00</td><td>721,00</td><td>0,00</td><td>721,00</td><td>989,00</td><td>14,72</td><td>989,00</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,61</td><td>980,00</td><td>726,00</td><td>0,00</td><td>726,00</td><td>968,00</td><td>14,72</td><td>968,00</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,61</td><td>960,00</td><td>716,00</td><td>0,00</td><td>716,00</td><td>964,00</td><td>14,72</td><td>964,00</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,62</td><td>990,00</td><td>724,00</td><td>0,00</td><td>724,00</td><td>1002,00</td><td>14,77</td><td>1002,00</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,62</td><td>1010,00</td><td>721,00</td><td>0,00</td><td>721,00</td><td>1075,00</td><td>14,77</td><td>1075,00</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,63</td><td>1050,00</td><td>716,00</td><td>0,00</td><td>716,00</td><td>1158,00</td><td>14,82</td><td>1158,00</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,63</td><td>1100,00</td><td>713,00</td><td>0,00</td><td>713,00</td><td>1216,00</td><td>14,82</td><td>1216,00</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,64</td><td>1150,00</td><td>711,00</td><td>0,00</td><td>711,00</td><td>1234,00</td><td>14,88</td><td>1234,00</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,65</td><td>1200,00</td><td>715,00</td><td>0,00</td><td>715,00</td><td>1213,00</td><td>14,94</td><td>1213,00</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,65</td><td>1220,00</td><td>710,00</td><td>0,00</td><td>710,00</td><td>1161,00</td><td>14,94</td><td>1161,00</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,67</td><td>1250,00</td><td>706,00</td><td>0,00</td><td>706,00</td><td>1091,00</td><td>15,05</td><td>1091,00</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,69</td><td>1080,00</td><td>706,00</td><td>0,00</td><td>706,00</td><td>1008,00</td><td>15,16</td><td>1008,00</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,69</td><td>800,00</td><td>711,00</td><td>0,00</td><td>711,00</td><td>892,00</td><td>15,16</td><td>892,00</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,70</td><td>760,00</td><td>709,00</td><td>0,00</td><td>709,00</td><td>825,00</td><td>15,22</td><td>825,00</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,70</td><td>750,00</td><td>662,00</td><td>0,00</td><td>662,00</td><td>776,00</td><td>15,22</td><td>776,00</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,70</td><td>700,00</td><td>659,00</td><td>0,00</td><td>659,00</td><td>775,00</td><td>15,22</td><td>775,00</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,71</td><td>700,00</td><td>657,00</td><td>0,00</td><td>657,00</td><td>787,00</td><td>15,27</td><td>787,00</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,72</td><td>700,00</td><td>651,00</td><td>0,00</td><td>651,00</td><td>802,00</td><td>15,33</td><td>802,00</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,73</td><td>700,00</td><td>657,00</td><td>0,00</td><td>657,00</td><td>805,00</td><td>15,38</td><td>805,00</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>680,00</td><td>656,00</td><td>0,00</td><td>656,00</td><td>786,00</td><td>15,44</td><td>786,00</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,75</td><td>670,00</td><td>658,00</td><td>0,00</td><td>658,00</td><td>765,00</td><td>15,49</td><td>765,00</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>650,00</td><td>797,00</td><td>0,00</td><td>797,00</td><td>746,00</td><td>15,44</td><td>746,00</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>630,00</td><td>794,00</td><td>0,00</td><td>794,00</td><td>742,00</td><td>15,44</td><td>742,00</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>650,00</td><td>792,00</td><td>0,00</td><td>792,00</td><td>798,00</td><td>15,44</td><td>798,00</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>780,00</td><td>797,00</td><td>0,00</td><td>797,00</td><td>897,00</td><td>15,44</td><td>897,00</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,74</td><td>860,00</td><td>797,00</td><td>0,00</td><td>797,00</td><td>990,00</td><td>15,44</td><td>990,00</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,76</td><td>880,00</td><td>794,00</td><td>0,00</td><td>794,00</td><td>1066,00</td><td>15,55</td><td>1066,00</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,77</td><td>890,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>1114,00</td><td>15,61</td><td>1114,00</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,78</td><td>900,00</td><td>772,00</td><td>0,00</td><td>772,00</td><td>1134,00</td><td>15,67</td><td>1134,00</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,78</td><td>910,00</td><td>769,00</td><td>0,00</td><td>769,00</td><td>1131,00</td><td>15,67</td><td>1131,00</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,79</td><td>920,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>1093,00</td><td>15,72</td><td>1093,00</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,80</td><td>930,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>1063,00</td><td>15,78</td><td>1063,00</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,81</td><td>940,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>1071,00</td><td>15,83</td><td>1071,00</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,82</td><td>920,00</td><td>768,00</td><td>0,00</td><td>768,00</td><td>1108,00</td><td>15,89</td><td>1108,00</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,83</td><td>930,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>1161,00</td><td>15,94</td><td>1161,00</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,85</td><td>940,00</td><td>759,00</td><td>0,00</td><td>759,00</td><td>1202,00</td><td>16,06</td><td>1202,00</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,85</td><td>920,00</td><td>763,00</td><td>0,00</td><td>763,00</td><td>1208,00</td><td>16,06</td><td>1208,00</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,86</td><td>900,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>1173,00</td><td>16,11</td><td>1173,00</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,87</td><td>860,00</td><td>761,00</td><td>0,00</td><td>761,00</td><td>1106,00</td><td>16,17</td><td>1106,00</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,87</td><td>800,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>1026,00</td><td>16,17</td><td>1026,00</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,87</td><td>760,00</td><td>760,00</td><td>0,00</td><td>760,00</td><td>948,00</td><td>16,17</td><td>948,00</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,87</td><td>740,00</td><td>723,00</td><td>0,00</td><td>723,00</td><td>878,00</td><td>16,17</td><td>878,00</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,86</td><td>800,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>823,00</td><td>16,11</td><td>823,00</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,85</td><td>780,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>784,00</td><td>16,06</td><td>784,00</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,84</td><td>760,00</td><td>764,00</td><td>0,00</td><td>764,00</td><td>756,00</td><td>16,00</td><td>756,00</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,84</td><td>740,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>731,00</td><td>16,00</td><td>731,00</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,84</td><td>720,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>706,00</td><td>16,00</td><td>706,00</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,83</td><td>700,00</td><td>765,00</td><td>0,00</td><td>765,00</td><td>681,00</td><td>15,94</td><td>681,00</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,82</td><td>680,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>660,00</td><td>15,89</td><td>660,00</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,82</td><td>660,00</td><td>771,00</td><td>0,00</td><td>771,00</td><td>640,00</td><td>15,89</td><td>640,00</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,82</td><td>640,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>632,00</td><td>15,89</td><td>632,00</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,81</td><td>620,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>622,00</td><td>15,83</td><td>622,00</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,79</td><td>600,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>610,00</td><td>15,72</td><td>610,00</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,77</td><td>580,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>594,00</td><td>15,61</td><td>594,00</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,75</td><td>560,00</td><td>767,00</td><td>0,00</td><td>767,00</td><td>582,00</td><td>15,49</td><td>582,00</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,73</td><td>540,00</td><td>765,00</td><td>0,00</td><td>765,00</td><td>567,00</td><td>15,38</td><td>567,00</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,71</td><td>520,00</td><td>765,00</td><td>0,00</td><td>765,00</td><td>553,00</td><td>15,27</td><td>553,00</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,70</td><td>500,00</td><td>766,00</td><td>0,00</td><td>766,00</td><td>544,00</td><td>15,22</td><td>544,00</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,69</td><td>480,00</td><td>761,00</td><td>0,00</td><td>762,00</td><td>533,00</td><td>15,16</td><td>533,00</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,68</td><td>470,00</td><td>762,00</td><td>0,00</td><td>762,00</td><td>522,00</td><td>15,10</td><td>522,00</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,67</td><td>460,00</td><td>755,00</td><td>0,00</td><td>755,00</td><td>513,00</td><td>15,05</td><td>513,00</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,65</td><td>450,00</td><td>756,00</td><td>0,00</td><td>756,00</td><td>508,00</td><td>14,94</td><td>508,00</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,63</td><td>450,00</td><td>751,00</td><td>0,00</td><td>751,00</td><td>508,00</td><td>14,82</td><td>508,00</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,61</td><td>450,00</td><td>753,00</td><td>0,00</td><td>753,00</td><td>508,00</td><td>14,72</td><td>508,00</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,59</td><td>450,00</td><td>756,00</td><td>0,00</td><td>756,00</td><td>511,00</td><td>14,60</td><td>511,00</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,58</td><td>440,00</td><td>752,00</td><td>0,00</td><td>752,00</td><td>517,00</td><td>14,55</td><td>517,00</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,57</td><td>430,00</td><td>753,00</td><td>0,00</td><td>753,00</td><td>521,00</td><td>14,49</td><td>521,00</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,56</td><td>420,00</td><td>756,00</td><td>0,00</td><td>756,00</td><td>521,00</td><td>14,44</td><td>521,00</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,55</td><td>410,00</td><td>744,00</td><td>0,00</td><td>744,00</td><td>518,00</td><td>14,38</td><td>518,00</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,54</td><td>400,00</td><td>760,00</td><td>0,00</td><td>760,00</td><td>515,00</td><td>14,33</td><td>515,00</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,53</td><td>400,00</td><td>755,00</td><td>0,00</td><td>755,00</td><td>514,00</td><td>14,27</td><td>514,00</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,51</td><td>390,00</td><td>655,00</td><td>0,00</td><td>655,00</td><td>502,00</td><td>14,17</td><td>502,00</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,49</td><td>420,00</td><td>655,00</td><td>0,00</td><td>655,00</td><td>491,00</td><td>14,05</td><td>491,00</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,47</td><td>410,00</td><td>651,00</td><td>0,00</td><td>651,00</td><td>500,00</td><td>13,95</td><td>500,00</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,44</td><td>410,00</td><td>652,00</td><td>0,00</td><td>652,00</td><td>490,00</td><td>13,78</td><td>490,00</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,43</td><td>410,00</td><td>655,00</td><td>0,00</td><td>655,00</td><td>484,00</td><td>13,73</td><td>484,00</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,42</td><td>410,00</td><td>658,00</td><td>0,00</td><td>658,00</td><td>480,00</td><td>13,67</td><td>480,00</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,41</td><td>410,00</td><td>651,00</td><td>0,00</td><td>651,00</td><td>480,00</td><td>13,62</td><td>480,00</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,40</td><td>420,00</td><td>655,00</td><td>0,00</td><td>655,00</td><td>482,00</td><td>13,57</td><td>482,00</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,39</td><td>420,00</td><td>656,00</td><td>0,00</td><td>656,00</td><td>476,00</td><td>13,51</td><td>476,00</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,38</td><td>420,00</td><td>658,00</td><td>0,00</td><td>658,00</td><td>471,00</td><td>13,46</td><td>471,00</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,37</td><td>430,00</td><td>653,00</td><td>0,00</td><td>653,00</td><td>475,00</td><td>13,40</td><td>475,00</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,35</td><td>430,00</td><td>623,00</td><td>0,00</td><td>623,00</td><td>486,00</td><td>13,29</td><td>486,00</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,34</td><td>430,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>506,00</td><td>13,24</td><td>506,00</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,33</td><td>440,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>538,00</td><td>13,18</td><td>538,00</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,32</td><td>470,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>576,00</td><td>13,13</td><td>576,00</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,31</td><td>500,00</td><td>607,00</td><td>0,00</td><td>607,00</td><td>617,00</td><td>13,08</td><td>617,00</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,30</td><td>520,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>653,00</td><td>13,02</td><td>653,00</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,29</td><td>550,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>681,00</td><td>12,97</td><td>681,00</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>570,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>675,00</td><td>12,92</td><td>675,00</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>580,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>665,00</td><td>12,92</td><td>665,00</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>590,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>643,00</td><td>12,92</td><td>643,00</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>600,00</td><td>607,00</td><td>0,00</td><td>607,00</td><td>631,00</td><td>12,92</td><td>631,00</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>580,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>604,00</td><td>12,92</td><td>604,00</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>560,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>585,00</td><td>12,92</td><td>585,00</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>530,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>568,00</td><td>12,92</td><td>568,00</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,28</td><td>500,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>552,00</td><td>12,92</td><td>552,00</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,27</td><td>480,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>531,00</td><td>12,86</td><td>531,00</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,27</td><td>460,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>506,00</td><td>12,86</td><td>506,00</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,26</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>486,00</td><td>12,81</td><td>486,00</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,25</td><td>440,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>466,00</td><td>12,76</td><td>466,00</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,25</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>439,00</td><td>12,76</td><td>439,00</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,24</td><td>440,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>411,00</td><td>12,70</td><td>411,00</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,23</td><td>440,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>396,00</td><td>12,65</td><td>396,00</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,22</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>383,00</td><td>12,60</td><td>383,00</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,20</td><td>440,00</td><td>606,00</td><td>0,00</td><td>606,00</td><td>372,00</td><td>12,49</td><td>372,00</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,19</td><td>440,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>366,00</td><td>12,44</td><td>366,00</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,18</td><td>440,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>407,00</td><td>12,39</td><td>407,00</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,17</td><td>440,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>401,00</td><td>12,33</td><td>401,00</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,16</td><td>440,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>398,00</td><td>12,28</td><td>398,00</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,14</td><td>440,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>399,00</td><td>12,17</td><td>399,00</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,12</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>403,00</td><td>12,07</td><td>403,00</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,10</td><td>440,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>408,00</td><td>11,96</td><td>408,00</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,09</td><td>440,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>412,00</td><td>11,91</td><td>412,00</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,09</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>414,00</td><td>11,91</td><td>414,00</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,06</td><td>440,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>414,00</td><td>11,75</td><td>414,00</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,05</td><td>430,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>413,00</td><td>11,70</td><td>413,00</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,03</td><td>430,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>408,00</td><td>11,59</td><td>408,00</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,02</td><td>420,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>405,00</td><td>11,54</td><td>405,00</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,01</td><td>420,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>423,00</td><td>11,49</td><td>423,00</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>410,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>416,00</td><td>11,44</td><td>416,00</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>410,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>407,00</td><td>11,39</td><td>407,00</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,98</td><td>410,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>400,00</td><td>11,33</td><td>400,00</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,97</td><td>410,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>395,00</td><td>11,28</td><td>395,00</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,97</td><td>400,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>395,00</td><td>11,28</td><td>395,00</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,97</td><td>400,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>393,00</td><td>11,28</td><td>393,00</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,97</td><td>400,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>391,00</td><td>11,28</td><td>391,00</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,96</td><td>400,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>380,00</td><td>11,23</td><td>380,00</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,94</td><td>400,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>379,00</td><td>11,12</td><td>379,00</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,92</td><td>400,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>376,00</td><td>11,02</td><td>376,00</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,90</td><td>400,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>375,00</td><td>10,92</td><td>375,00</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,89</td><td>390,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>374,00</td><td>10,87</td><td>374,00</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,88</td><td>390,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>375,00</td><td>10,82</td><td>375,00</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,87</td><td>390,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>377,00</td><td>10,76</td><td>377,00</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,86</td><td>390,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>379,00</td><td>10,71</td><td>379,00</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,84</td><td>390,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>370,00</td><td>10,61</td><td>370,00</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,82</td><td>390,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>356,00</td><td>10,51</td><td>356,00</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,80</td><td>390,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>355,00</td><td>10,40</td><td>355,00</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,79</td><td>390,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>357,00</td><td>10,35</td><td>357,00</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,78</td><td>390,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>363,00</td><td>10,30</td><td>363,00</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,77</td><td>390,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>357,00</td><td>10,25</td><td>357,00</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,76</td><td>380,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>357,00</td><td>10,20</td><td>357,00</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,75</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>357,00</td><td>10,15</td><td>357,00</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,74</td><td>380,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>355,00</td><td>10,10</td><td>355,00</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,73</td><td>380,00</td><td>621,00</td><td>0,00</td><td>621,00</td><td>351,00</td><td>10,05</td><td>351,00</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,72</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>350,00</td><td>10,00</td><td>350,00</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,70</td><td>380,00</td><td>616,00</td><td>0,00</td><td>616,00</td><td>351,00</td><td>9,90</td><td>351,00</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,69</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>354,00</td><td>9,84</td><td>354,00</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,68</td><td>380,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>358,00</td><td>9,79</td><td>358,00</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,67</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>357,00</td><td>9,74</td><td>357,00</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,66</td><td>380,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>355,00</td><td>9,69</td><td>355,00</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,65</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>352,00</td><td>9,64</td><td>352,00</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,63</td><td>380,00</td><td>619,00</td><td>0,00</td><td>619,00</td><td>353,00</td><td>9,54</td><td>353,00</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,62</td><td>380,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>354,00</td><td>9,49</td><td>354,00</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,60</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>356,00</td><td>9,39</td><td>356,00</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,59</td><td>380,00</td><td>619,00</td><td>0,00</td><td>619,00</td><td>355,00</td><td>9,34</td><td>355,00</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,58</td><td>380,00</td><td>619,00</td><td>0,00</td><td>619,00</td><td>352,00</td><td>9,29</td><td>352,00</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,57</td><td>380,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>352,00</td><td>9,24</td><td>352,00</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,56</td><td>380,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>351,00</td><td>9,19</td><td>351,00</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,54</td><td>380,00</td><td>618,00</td><td>0,00</td><td>618,00</td><td>350,00</td><td>9,09</td><td>350,00</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,52</td><td>380,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>351,00</td><td>8,99</td><td>351,00</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,51</td><td>380,00</td><td>621,00</td><td>0,00</td><td>621,00</td><td>352,00</td><td>8,94</td><td>352,00</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,49</td><td>380,00</td><td>620,00</td><td>0,00</td><td>620,00</td><td>351,00</td><td>8,84</td><td>351,00</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,48</td><td>380,00</td><td>620,00</td><td>0,00</td><td>620,00</td><td>351,00</td><td>8,79</td><td>351,00</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,47</td><td>380,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>345,00</td><td>8,74</td><td>345,00</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,46</td><td>380,00</td><td>616,00</td><td>0,00</td><td>616,00</td><td>346,00</td><td>8,70</td><td>346,00</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,45</td><td>370,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>344,00</td><td>8,65</td><td>344,00</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,43</td><td>370,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>345,00</td><td>8,55</td><td>345,00</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,40</td><td>370,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>342,00</td><td>8,40</td><td>342,00</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,38</td><td>360,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>336,00</td><td>8,30</td><td>336,00</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,36</td><td>360,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>330,00</td><td>8,20</td><td>330,00</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,34</td><td>360,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>327,00</td><td>8,11</td><td>327,00</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,32</td><td>350,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>321,00</td><td>8,01</td><td>321,00</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,30</td><td>350,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>318,00</td><td>7,91</td><td>318,00</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,29</td><td>350,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>316,00</td><td>7,86</td><td>316,00</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,28</td><td>350,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>317,00</td><td>7,82</td><td>317,00</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,27</td><td>350,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>318,00</td><td>7,77</td><td>318,00</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,25</td><td>340,00</td><td>616,00</td><td>0,00</td><td>616,00</td><td>313,00</td><td>7,67</td><td>313,00</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,23</td><td>340,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>308,00</td><td>7,57</td><td>308,00</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,21</td><td>340,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>305,00</td><td>7,48</td><td>305,00</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,19</td><td>330,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>303,00</td><td>7,38</td><td>303,00</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,17</td><td>330,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>301,00</td><td>7,29</td><td>301,00</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,15</td><td>330,00</td><td>615,00</td><td>0,00</td><td>615,00</td><td>299,00</td><td>7,19</td><td>299,00</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,13</td><td>320,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>289,00</td><td>7,09</td><td>289,00</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,11</td><td>320,00</td><td>612,00</td><td>0,00</td><td>612,00</td><td>285,00</td><td>7,00</td><td>285,00</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,09</td><td>320,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>285,00</td><td>6,90</td><td>285,00</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,07</td><td>320,00</td><td>616,00</td><td>0,00</td><td>616,00</td><td>286,00</td><td>6,81</td><td>286,00</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,05</td><td>310,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>285,00</td><td>6,71</td><td>285,00</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,03</td><td>310,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>287,00</td><td>6,62</td><td>287,00</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,00</td><td>310,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>288,00</td><td>6,48</td><td>288,00</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,97</td><td>320,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>283,00</td><td>6,34</td><td>283,00</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,96</td><td>320,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>280,00</td><td>6,29</td><td>280,00</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,95</td><td>310,00</td><td>607,00</td><td>0,00</td><td>607,00</td><td>283,00</td><td>6,24</td><td>283,00</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,94</td><td>310,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>280,00</td><td>6,20</td><td>280,00</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,93</td><td>310,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>277,00</td><td>6,15</td><td>277,00</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,91</td><td>310,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>275,00</td><td>6,06</td><td>275,00</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,89</td><td>310,00</td><td>617,00</td><td>0,00</td><td>617,00</td><td>288,00</td><td>5,96</td><td>288,00</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,87</td><td>310,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>283,00</td><td>5,87</td><td>283,00</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,85</td><td>310,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>284,00</td><td>5,78</td><td>284,00</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,83</td><td>310,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>279,00</td><td>5,69</td><td>279,00</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,81</td><td>300,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>274,00</td><td>5,59</td><td>274,00</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,79</td><td>300,00</td><td>600,00</td><td>0,00</td><td>600,00</td><td>270,00</td><td>5,50</td><td>270,00</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,76</td><td>300,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>267,00</td><td>5,36</td><td>267,00</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,75</td><td>300,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>263,00</td><td>5,32</td><td>263,00</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,73</td><td>300,00</td><td>592,00</td><td>0,00</td><td>592,00</td><td>259,00</td><td>5,23</td><td>259,00</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,71</td><td>300,00</td><td>582,00</td><td>0,00</td><td>582,00</td><td>257,00</td><td>5,14</td><td>257,00</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,69</td><td>300,00</td><td>583,00</td><td>0,00</td><td>583,00</td><td>254,00</td><td>5,05</td><td>254,00</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,67</td><td>300,00</td><td>586,00</td><td>0,00</td><td>586,00</td><td>254,00</td><td>4,96</td><td>254,00</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,65</td><td>300,00</td><td>585,00</td><td>0,00</td><td>585,00</td><td>252,00</td><td>4,87</td><td>252,00</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,63</td><td>300,00</td><td>582,00</td><td>0,00</td><td>582,00</td><td>250,00</td><td>4,78</td><td>250,00</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,61</td><td>300,00</td><td>582,00</td><td>0,00</td><td>582,00</td><td>248,00</td><td>4,68</td><td>248,00</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,59</td><td>310,00</td><td>585,00</td><td>0,00</td><td>585,00</td><td>240,00</td><td>4,59</td><td>240,00</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,57</td><td>310,00</td><td>582,00</td><td>0,00</td><td>582,00</td><td>232,00</td><td>4,51</td><td>232,00</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,55</td><td>310,00</td><td>582,00</td><td>0,00</td><td>582,00</td><td>228,00</td><td>4,42</td><td>228,00</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,53</td><td>310,00</td><td>584,00</td><td>0,00</td><td>584,00</td><td>223,00</td><td>4,33</td><td>223,00</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,51</td><td>310,00</td><td>564,00</td><td>0,00</td><td>564,00</td><td>217,00</td><td>4,24</td><td>217,00</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,49</td><td>310,00</td><td>559,00</td><td>0,00</td><td>559,00</td><td>216,00</td><td>4,15</td><td>216,00</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,48</td><td>310,00</td><td>553,00</td><td>0,00</td><td>553,00</td><td>216,00</td><td>4,11</td><td>216,00</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,47</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>215,00</td><td>4,06</td><td>215,00</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,46</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>211,00</td><td>4,01</td><td>211,00</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,45</td><td>310,00</td><td>553,00</td><td>0,00</td><td>553,00</td><td>205,00</td><td>3,97</td><td>205,00</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,44</td><td>310,00</td><td>559,00</td><td>0,00</td><td>559,00</td><td>200,00</td><td>3,93</td><td>200,00</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,43</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>201,00</td><td>3,88</td><td>201,00</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,41</td><td>310,00</td><td>558,00</td><td>0,00</td><td>558,00</td><td>206,00</td><td>3,80</td><td>206,00</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,39</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>211,00</td><td>3,71</td><td>211,00</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,37</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>219,00</td><td>3,62</td><td>219,00</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,36</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>219,00</td><td>3,58</td><td>219,00</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,35</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>217,00</td><td>3,53</td><td>217,00</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,34</td><td>310,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>212,00</td><td>3,49</td><td>212,00</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,33</td><td>310,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>206,00</td><td>3,45</td><td>206,00</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,30</td><td>300,00</td><td>551,00</td><td>0,00</td><td>551,00</td><td>203,00</td><td>3,31</td><td>203,00</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,28</td><td>300,00</td><td>552,00</td><td>0,00</td><td>552,00</td><td>200,00</td><td>3,23</td><td>200,00</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,26</td><td>300,00</td><td>551,00</td><td>0,00</td><td>551,00</td><td>196,00</td><td>3,14</td><td>196,00</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,24</td><td>300,00</td><td>553,00</td><td>0,00</td><td>553,00</td><td>198,00</td><td>3,06</td><td>198,00</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,23</td><td>300,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>187,00</td><td>3,01</td><td>187,00</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,22</td><td>300,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>176,00</td><td>2,97</td><td>176,00</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,20</td><td>300,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>166,00</td><td>2,88</td><td>166,00</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,19</td><td>300,00</td><td>559,00</td><td>0,00</td><td>559,00</td><td>164,00</td><td>2,84</td><td>164,00</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,17</td><td>300,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>161,00</td><td>2,75</td><td>161,00</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,15</td><td>300,00</td><td>557,00</td><td>0,00</td><td>557,00</td><td>159,00</td><td>2,66</td><td>159,00</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,14</td><td>310,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>157,00</td><td>2,62</td><td>157,00</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,13</td><td>310,00</td><td>558,00</td><td>0,00</td><td>558,00</td><td>155,00</td><td>2,58</td><td>155,00</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,12</td><td>320,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>164,00</td><td>2,54</td><td>164,00</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,10</td><td>320,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>179,00</td><td>2,45</td><td>179,00</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,08</td><td>320,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>201,00</td><td>2,36</td><td>201,00</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,07</td><td>330,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>229,00</td><td>2,32</td><td>229,00</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,04</td><td>330,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>249,00</td><td>2,19</td><td>249,00</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>340,00</td><td>557,00</td><td>0,00</td><td>557,00</td><td>267,00</td><td>2,11</td><td>267,00</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>350,00</td><td>560,00</td><td>0,00</td><td>560,00</td><td>287,00</td><td>2,11</td><td>287,00</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>350,00</td><td>559,00</td><td>0,00</td><td>559,00</td><td>318,00</td><td>2,06</td><td>318,00</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>350,00</td><td>559,00</td><td>0,00</td><td>559,00</td><td>349,00</td><td>2,06</td><td>349,00</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,01</td><td>350,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>381,00</td><td>2,06</td><td>381,00</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>380,99</td><td>360,00</td><td>557,00</td><td>0,00</td><td>557,00</td><td>431,00</td><td>1,98</td><td>431,00</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>380,99</td><td>490,00</td><td>558,00</td><td>0,00</td><td>558,00</td><td>494,00</td><td>1,98</td><td>494,00</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>380,99</td><td>530,00</td><td>558,00</td><td>0,00</td><td>558,00</td><td>558,00</td><td>1,98</td><td>558,00</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>380,99</td><td>570,00</td><td>557,00</td><td>0,00</td><td>557,00</td><td>563,00</td><td>1,98</td><td>563,00</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,02</td><td>600,00</td><td>557,00</td><td>0,00</td><td>557,00</td><td>567,00</td><td>2,11</td><td>567,00</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,03</td><td>640,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>570,00</td><td>2,15</td><td>570,00</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,04</td><td>680,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>583,00</td><td>2,19</td><td>583,00</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,06</td><td>720,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>617,00</td><td>2,28</td><td>617,00</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,07</td><td>760,00</td><td>556,00</td><td>0,00</td><td>556,00</td><td>672,00</td><td>2,32</td><td>672,00</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,10</td><td>810,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>727,00</td><td>2,45</td><td>727,00</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,10</td><td>830,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>770,00</td><td>2,45</td><td>770,00</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,12</td><td>850,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>834,00</td><td>2,54</td><td>834,00</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,13</td><td>880,00</td><td>554,00</td><td>0,00</td><td>554,00</td><td>867,00</td><td>2,58</td><td>867,00</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,14</td><td>860,00</td><td>555,00</td><td>0,00</td><td>555,00</td><td>857,00</td><td>2,62</td><td>857,00</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,15</td><td>820,00</td><td>555,00</td><td>0,00</td><td>605,00</td><td>806,00</td><td>2,66</td><td>806,00</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,16</td><td>790,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>759,00</td><td>2,71</td><td>759,00</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,18</td><td>730,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>746,00</td><td>2,79</td><td>746,00</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,20</td><td>720,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>772,00</td><td>2,88</td><td>772,00</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,20</td><td>760,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>823,00</td><td>2,88</td><td>823,00</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,21</td><td>780,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>918,00</td><td>2,92</td><td>918,00</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,21</td><td>800,00</td><td>606,00</td><td>0,00</td><td>606,00</td><td>1024,00</td><td>2,92</td><td>1024,00</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,21</td><td>900,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>1145,00</td><td>2,92</td><td>1145,00</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,22</td><td>790,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>1259,00</td><td>2,97</td><td>1259,00</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,23</td><td>830,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1352,00</td><td>3,01</td><td>1352,00</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,24</td><td>860,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1410,00</td><td>3,06</td><td>1410,00</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,29</td><td>900,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>1426,00</td><td>3,27</td><td>1426,00</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,35</td><td>940,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1433,00</td><td>3,53</td><td>1433,00</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,37</td><td>970,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>1448,00</td><td>3,62</td><td>1448,00</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,40</td><td>990,00</td><td>599,00</td><td>0,00</td><td>599,00</td><td>1490,00</td><td>3,75</td><td>1490,00</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,43</td><td>1040,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>1530,00</td><td>3,88</td><td>1530,00</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,45</td><td>1080,00</td><td>685,00</td><td>0,00</td><td>685,00</td><td>1615,00</td><td>3,97</td><td>1615,00</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,45</td><td>1150,00</td><td>987,00</td><td>0,00</td><td>987,00</td><td>1707,00</td><td>3,97</td><td>1707,00</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,47</td><td>1250,00</td><td>610,00</td><td>0,00</td><td>610,00</td><td>1830,00</td><td>4,06</td><td>1830,00</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,51</td><td>1350,00</td><td>654,00</td><td>0,00</td><td>654,00</td><td>1928,00</td><td>4,24</td><td>1928,00</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,55</td><td>1500,00</td><td>656,00</td><td>0,00</td><td>656,00</td><td>2033,00</td><td>4,42</td><td>2033,00</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,61</td><td>1650,00</td><td>651,00</td><td>0,00</td><td>651,00</td><td>2111,00</td><td>4,68</td><td>2111,00</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,69</td><td>1700,00</td><td>646,00</td><td>0,00</td><td>646,00</td><td>2251,00</td><td>5,05</td><td>2251,00</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,73</td><td>1800,00</td><td>656,00</td><td>0,00</td><td>656,00</td><td>2450,00</td><td>5,23</td><td>2450,00</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,79</td><td>1900,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>2718,00</td><td>5,50</td><td>2718,00</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,84</td><td>2000,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>2953,00</td><td>5,73</td><td>2953,00</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>381,98</td><td>2050,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>3171,00</td><td>6,38</td><td>3171,00</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,18</td><td>2100,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>3355,00</td><td>7,33</td><td>3355,00</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,26</td><td>2150,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>3496,00</td><td>7,72</td><td>3496,00</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,36</td><td>2200,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>3585,00</td><td>8,20</td><td>3585,00</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,44</td><td>2100,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>3598,00</td><td>8,60</td><td>3598,00</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,53</td><td>2000,00</td><td>606,00</td><td>0,00</td><td>606,00</td><td>3469,00</td><td>9,04</td><td>3469,00</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,54</td><td>1850,00</td><td>598,00</td><td>0,00</td><td>598,00</td><td>3260,00</td><td>9,09</td><td>3260,00</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,68</td><td>1750,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>2929,00</td><td>9,79</td><td>2929,00</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,80</td><td>1500,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>2597,00</td><td>10,40</td><td>2597,00</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,85</td><td>1300,00</td><td>602,00</td><td>0,00</td><td>606,00</td><td>2190,00</td><td>10,66</td><td>2190,00</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,90</td><td>1100,00</td><td>606,00</td><td>0,00</td><td>606,00</td><td>1833,00</td><td>10,92</td><td>1833,00</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,93</td><td>1000,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>1587,00</td><td>11,07</td><td>1587,00</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,95</td><td>950,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>1371,00</td><td>11,18</td><td>1371,00</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,96</td><td>900,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>1238,00</td><td>11,23</td><td>1238,00</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,98</td><td>850,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>1141,00</td><td>11,33</td><td>1141,00</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>382,99</td><td>800,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1062,00</td><td>11,39</td><td>1062,00</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>750,00</td><td>599,00</td><td>0,00</td><td>599,00</td><td>1009,00</td><td>11,44</td><td>1009,00</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,00</td><td>740,00</td><td>607,00</td><td>0,00</td><td>607,00</td><td>990,00</td><td>11,44</td><td>990,00</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,01</td><td>730,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>979,00</td><td>11,49</td><td>979,00</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,02</td><td>750,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>1005,00</td><td>11,54</td><td>1005,00</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,02</td><td>780,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1064,00</td><td>11,54</td><td>1064,00</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,03</td><td>840,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>1172,00</td><td>11,59</td><td>1172,00</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,04</td><td>890,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>1256,00</td><td>11,65</td><td>1256,00</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,05</td><td>950,00</td><td>604,00</td><td>0,00</td><td>604,00</td><td>1341,00</td><td>11,70</td><td>1341,00</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,06</td><td>1050,00</td><td>603,00</td><td>0,00</td><td>603,00</td><td>1482,00</td><td>11,75</td><td>1482,00</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,07</td><td>1150,00</td><td>614,00</td><td>0,00</td><td>614,00</td><td>1632,00</td><td>11,80</td><td>1632,00</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,08</td><td>1250,00</td><td>609,00</td><td>0,00</td><td>609,00</td><td>1765,00</td><td>11,86</td><td>1765,00</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,11</td><td>1350,00</td><td>607,00</td><td>0,00</td><td>607,00</td><td>1838,00</td><td>12,01</td><td>1838,00</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,14</td><td>1250,00</td><td>605,00</td><td>0,00</td><td>605,00</td><td>1890,00</td><td>12,17</td><td>1890,00</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,18</td><td>1200,00</td><td>608,00</td><td>0,00</td><td>608,00</td><td>1921,00</td><td>12,39</td><td>1921,00</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,23</td><td>1180,00</td><td>602,00</td><td>0,00</td><td>602,00</td><td>1920,00</td><td>12,65</td><td>1920,00</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,30</td><td>1150,00</td><td>601,00</td><td>0,00</td><td>601,00</td><td>1834,00</td><td>13,02</td><td>1834,00</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,31</td><td>1000,00</td><td>606,00</td><td>0,00</td><td>606,00</td><td>1768,00</td><td>13,08</td><td>1768,00</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,40</td><td>1030,00</td><td>611,00</td><td>0,00</td><td>611,00</td><td>1716,00</td><td>13,57</td><td>1716,00</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,42</td><td>980,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>1674,00</td><td>13,67</td><td>1674,00</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,43</td><td>960,00</td><td>613,00</td><td>0,00</td><td>613,00</td><td>1636,00</td><td>13,73</td><td>1636,00</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,44</td><td>940,00</td><td>633,00</td><td>0,00</td><td>633,00</td><td>1592,00</td><td>13,78</td><td>1592,00</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,45</td><td>920,00</td><td>631,00</td><td>0,00</td><td>631,00</td><td>1537,00</td><td>13,84</td><td>1537,00</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>383,45</td><td>900,00</td><td>638,00</td><td>0,00</td><td>638,00</td><td>1471,00</td><td>13,84</td><td>1471,00</td><td> 01/02/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1402,00</td><td>&nbsp;</td><td>1402,00</td><td> 02/02/2018</td>
+		</tr><tr>
+			<td>19121</td><td>SOBRADINHO                                        </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1329,00</td><td>&nbsp;</td><td>1329,00</td><td> 03/02/2018</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,1537 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>139,33</td><td>70,00</td><td>33,00</td><td>37,00</td><td>133,31</td><td>99,68</td><td>133,31</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>126,48</td><td>109,00</td><td>33,00</td><td>76,00</td><td>114,96</td><td>99,79</td><td>114,96</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>112,36</td><td>95,00</td><td>51,00</td><td>45,00</td><td>94,24</td><td>99,89</td><td>94,24</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>87,80</td><td>140,00</td><td>39,00</td><td>101,00</td><td>98,25</td><td>99,57</td><td>98,25</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>114,84</td><td>80,00</td><td>5,00</td><td>75,00</td><td>97,14</td><td>99,79</td><td>97,14</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>187,72</td><td>153,00</td><td>51,00</td><td>102,00</td><td>136,06</td><td>100,00</td><td>136,06</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>88,83</td><td>193,00</td><td>90,00</td><td>103,00</td><td>131,06</td><td>99,36</td><td>131,06</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>108,00</td><td>108,00</td><td>5,00</td><td>103,00</td><td>101,90</td><td>99,36</td><td>101,90</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>97,00</td><td>97,00</td><td>5,00</td><td>92,00</td><td>118,44</td><td>99,36</td><td>118,44</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>76,00</td><td>76,00</td><td>5,00</td><td>71,00</td><td>108,96</td><td>99,36</td><td>108,96</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>90,64</td><td>108,00</td><td>5,00</td><td>103,00</td><td>92,83</td><td>99,25</td><td>92,83</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>71,28</td><td>106,00</td><td>5,00</td><td>101,00</td><td>68,65</td><td>99,04</td><td>68,65</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>72,39</td><td>107,00</td><td>5,00</td><td>103,00</td><td>66,20</td><td>98,83</td><td>66,20</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>55,26</td><td>107,00</td><td>5,00</td><td>103,00</td><td>52,33</td><td>98,51</td><td>52,33</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>53,51</td><td>88,00</td><td>3,00</td><td>86,00</td><td>50,55</td><td>98,30</td><td>50,55</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>68,75</td><td>86,00</td><td>0,00</td><td>86,00</td><td>55,28</td><td>98,19</td><td>55,28</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>74,74</td><td>23,00</td><td>0,00</td><td>23,00</td><td>51,81</td><td>98,51</td><td>51,81</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>69,00</td><td>69,00</td><td>0,00</td><td>69,00</td><td>41,84</td><td>98,51</td><td>41,84</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>27,51</td><td>62,00</td><td>0,00</td><td>62,00</td><td>41,15</td><td>98,30</td><td>41,15</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>61,00</td><td>61,00</td><td>0,00</td><td>61,00</td><td>39,83</td><td>98,30</td><td>39,83</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>51,75</td><td>69,00</td><td>0,00</td><td>69,00</td><td>39,85</td><td>98,19</td><td>39,85</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>29,51</td><td>64,00</td><td>0,00</td><td>64,00</td><td>32,80</td><td>97,98</td><td>32,80</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>31,62</td><td>66,00</td><td>0,00</td><td>66,00</td><td>28,29</td><td>97,77</td><td>28,29</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>35,38</td><td>1,00</td><td>0,00</td><td>1,00</td><td>29,55</td><td>97,98</td><td>29,55</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>33,62</td><td>68,00</td><td>0,00</td><td>68,00</td><td>30,84</td><td>97,77</td><td>30,84</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>103,38</td><td>69,00</td><td>0,00</td><td>69,00</td><td>64,32</td><td>97,98</td><td>64,32</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>45,75</td><td>63,00</td><td>0,00</td><td>63,00</td><td>32,85</td><td>97,87</td><td>32,85</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,78</td><td>24,62</td><td>59,00</td><td>0,00</td><td>59,00</td><td>28,82</td><td>97,66</td><td>28,82</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>42,87</td><td>60,00</td><td>0,00</td><td>60,00</td><td>29,73</td><td>97,55</td><td>29,73</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>33,87</td><td>51,00</td><td>0,00</td><td>51,00</td><td>35,55</td><td>97,45</td><td>35,55</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>347,60</td><td>141,00</td><td>74,00</td><td>67,00</td><td>533,09</td><td>98,72</td><td>533,09</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>118,53</td><td>222,00</td><td>120,00</td><td>102,00</td><td>374,38</td><td>98,08</td><td>374,38</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>95,00</td><td>95,00</td><td>5,00</td><td>90,00</td><td>196,03</td><td>98,08</td><td>196,03</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>103,00</td><td>103,00</td><td>5,00</td><td>99,00</td><td>132,22</td><td>98,08</td><td>132,22</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>94,00</td><td>94,00</td><td>4,00</td><td>91,00</td><td>116,69</td><td>98,08</td><td>116,69</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>87,49</td><td>53,00</td><td>0,00</td><td>53,00</td><td>117,31</td><td>98,30</td><td>117,31</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>63,75</td><td>81,00</td><td>0,00</td><td>81,00</td><td>90,32</td><td>98,19</td><td>90,32</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>51,74</td><td>0,00</td><td>0,00</td><td>0,00</td><td>92,42</td><td>98,51</td><td>92,42</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>82,49</td><td>48,00</td><td>0,00</td><td>48,00</td><td>87,82</td><td>98,72</td><td>87,82</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>74,25</td><td>57,00</td><td>0,00</td><td>57,00</td><td>77,28</td><td>98,83</td><td>77,28</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>38,51</td><td>73,00</td><td>0,00</td><td>73,00</td><td>55,26</td><td>98,61</td><td>55,26</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>61,51</td><td>96,00</td><td>0,00</td><td>96,00</td><td>62,76</td><td>98,40</td><td>62,76</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>35,51</td><td>70,00</td><td>0,00</td><td>70,00</td><td>43,93</td><td>98,19</td><td>43,93</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>65,00</td><td>65,00</td><td>0,00</td><td>65,00</td><td>59,08</td><td>98,19</td><td>59,08</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>124,47</td><td>21,00</td><td>0,00</td><td>21,00</td><td>114,06</td><td>98,83</td><td>114,06</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>117,97</td><td>66,00</td><td>0,00</td><td>66,00</td><td>120,42</td><td>99,15</td><td>120,42</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>72,00</td><td>72,00</td><td>0,00</td><td>72,00</td><td>82,84</td><td>99,15</td><td>82,84</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>107,36</td><td>90,00</td><td>0,00</td><td>90,00</td><td>116,58</td><td>99,25</td><td>116,58</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>95,36</td><td>78,00</td><td>0,00</td><td>78,00</td><td>109,32</td><td>99,36</td><td>109,32</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>91,25</td><td>74,00</td><td>0,00</td><td>74,00</td><td>84,37</td><td>99,47</td><td>84,37</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>97,72</td><td>63,00</td><td>0,00</td><td>63,00</td><td>82,14</td><td>99,68</td><td>82,14</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>63,48</td><td>46,00</td><td>0,00</td><td>46,00</td><td>60,70</td><td>99,79</td><td>60,70</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>89,00</td><td>89,00</td><td>0,00</td><td>89,00</td><td>71,66</td><td>99,79</td><td>71,66</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>63,16</td><td>98,00</td><td>0,00</td><td>98,00</td><td>60,27</td><td>99,57</td><td>60,27</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>57,64</td><td>75,00</td><td>0,00</td><td>75,00</td><td>60,52</td><td>99,47</td><td>60,52</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>66,00</td><td>66,00</td><td>0,00</td><td>66,00</td><td>60,04</td><td>99,47</td><td>60,04</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>68,75</td><td>86,00</td><td>0,00</td><td>86,00</td><td>57,95</td><td>99,36</td><td>57,95</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>74,00</td><td>39,00</td><td>0,00</td><td>39,00</td><td>77,67</td><td>99,57</td><td>77,67</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>95,00</td><td>60,00</td><td>0,00</td><td>60,00</td><td>85,73</td><td>99,79</td><td>85,73</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>71,00</td><td>88,00</td><td>0,00</td><td>88,00</td><td>66,07</td><td>99,68</td><td>66,07</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>60,00</td><td>77,00</td><td>0,00</td><td>77,00</td><td>53,81</td><td>99,57</td><td>53,81</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>95,00</td><td>78,00</td><td>0,00</td><td>78,00</td><td>73,34</td><td>99,68</td><td>73,34</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>99,00</td><td>82,00</td><td>0,00</td><td>82,00</td><td>73,99</td><td>99,79</td><td>73,99</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>86,00</td><td>86,00</td><td>0,00</td><td>86,00</td><td>72,82</td><td>99,79</td><td>72,82</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>66,00</td><td>66,00</td><td>0,00</td><td>66,00</td><td>59,41</td><td>99,79</td><td>59,41</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>72,72</td><td>38,00</td><td>0,00</td><td>38,00</td><td>59,58</td><td>100,00</td><td>59,58</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>49,80</td><td>102,00</td><td>0,00</td><td>102,00</td><td>45,23</td><td>99,68</td><td>45,23</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>62,28</td><td>97,00</td><td>0,00</td><td>97,00</td><td>48,52</td><td>99,47</td><td>48,52</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>111,00</td><td>111,00</td><td>19,00</td><td>92,00</td><td>73,50</td><td>99,47</td><td>73,50</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>92,03</td><td>144,00</td><td>49,00</td><td>95,00</td><td>118,03</td><td>99,15</td><td>118,03</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>48,64</td><td>66,00</td><td>2,00</td><td>64,00</td><td>66,78</td><td>99,04</td><td>66,78</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>43,72</td><td>9,00</td><td>0,00</td><td>9,00</td><td>55,95</td><td>99,25</td><td>55,95</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>51,97</td><td>0,00</td><td>0,00</td><td>0,00</td><td>55,34</td><td>99,57</td><td>55,34</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>79,36</td><td>62,00</td><td>0,00</td><td>62,00</td><td>69,40</td><td>99,68</td><td>69,40</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>71,00</td><td>71,00</td><td>0,00</td><td>71,00</td><td>58,16</td><td>99,68</td><td>58,16</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>49,64</td><td>67,00</td><td>0,00</td><td>67,00</td><td>43,69</td><td>99,57</td><td>43,69</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>51,64</td><td>69,00</td><td>0,00</td><td>69,00</td><td>44,02</td><td>99,47</td><td>44,02</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>55,75</td><td>73,00</td><td>0,00</td><td>73,00</td><td>43,02</td><td>99,36</td><td>43,02</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>56,28</td><td>91,00</td><td>0,00</td><td>91,00</td><td>40,23</td><td>99,15</td><td>40,23</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>41,00</td><td>41,00</td><td>0,00</td><td>41,00</td><td>34,93</td><td>99,15</td><td>34,93</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>102,72</td><td>68,00</td><td>0,00</td><td>68,00</td><td>77,72</td><td>99,36</td><td>77,72</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>125,97</td><td>74,00</td><td>0,00</td><td>74,00</td><td>169,51</td><td>99,68</td><td>169,51</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>42,64</td><td>60,00</td><td>0,00</td><td>60,00</td><td>105,64</td><td>99,57</td><td>105,64</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>56,39</td><td>91,00</td><td>18,00</td><td>74,00</td><td>67,23</td><td>99,36</td><td>67,23</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>143,00</td><td>143,00</td><td>48,00</td><td>94,00</td><td>159,46</td><td>99,36</td><td>159,46</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>96,92</td><td>149,00</td><td>48,00</td><td>101,00</td><td>200,86</td><td>99,04</td><td>200,86</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>86,00</td><td>86,00</td><td>20,00</td><td>66,00</td><td>144,46</td><td>99,04</td><td>144,46</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>98,72</td><td>64,00</td><td>5,00</td><td>59,00</td><td>114,77</td><td>99,25</td><td>114,77</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>84,00</td><td>84,00</td><td>2,00</td><td>82,00</td><td>93,54</td><td>99,25</td><td>93,54</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>72,64</td><td>90,00</td><td>0,00</td><td>90,00</td><td>75,01</td><td>99,15</td><td>75,01</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>66,39</td><td>101,00</td><td>0,00</td><td>101,00</td><td>64,86</td><td>98,93</td><td>64,86</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>70,64</td><td>88,00</td><td>0,00</td><td>88,00</td><td>64,84</td><td>98,83</td><td>64,84</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>55,51</td><td>90,00</td><td>0,00</td><td>90,00</td><td>53,56</td><td>98,61</td><td>53,56</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>79,49</td><td>45,00</td><td>0,00</td><td>42,00</td><td>59,91</td><td>98,83</td><td>59,91</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>67,51</td><td>102,00</td><td>0,00</td><td>102,00</td><td>56,81</td><td>98,61</td><td>56,81</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>56,51</td><td>91,00</td><td>0,00</td><td>91,00</td><td>48,19</td><td>98,40</td><td>48,19</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>52,26</td><td>104,00</td><td>0,00</td><td>104,00</td><td>41,57</td><td>98,08</td><td>41,57</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,78</td><td>35,13</td><td>104,00</td><td>0,00</td><td>104,00</td><td>41,81</td><td>97,66</td><td>41,81</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>63,74</td><td>98,00</td><td>0,00</td><td>98,00</td><td>41,49</td><td>97,45</td><td>41,49</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,73</td><td>50,50</td><td>102,00</td><td>0,00</td><td>102,00</td><td>46,35</td><td>97,13</td><td>46,35</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,72</td><td>55,87</td><td>73,00</td><td>0,00</td><td>73,00</td><td>47,16</td><td>97,03</td><td>47,16</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,74</td><td>90,26</td><td>56,00</td><td>0,00</td><td>56,00</td><td>68,87</td><td>97,24</td><td>68,87</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,75</td><td>68,13</td><td>51,00</td><td>0,00</td><td>51,00</td><td>58,73</td><td>97,34</td><td>58,73</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>68,25</td><td>51,00</td><td>0,00</td><td>51,00</td><td>53,04</td><td>97,45</td><td>53,04</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>102,50</td><td>51,00</td><td>0,00</td><td>51,00</td><td>88,71</td><td>97,77</td><td>88,71</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>66,13</td><td>49,00</td><td>0,00</td><td>49,00</td><td>74,06</td><td>97,87</td><td>74,06</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>68,25</td><td>51,00</td><td>0,00</td><td>51,00</td><td>68,97</td><td>97,98</td><td>68,97</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>72,49</td><td>38,00</td><td>0,00</td><td>38,00</td><td>64,46</td><td>98,19</td><td>64,46</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>46,00</td><td>46,00</td><td>0,00</td><td>46,00</td><td>41,78</td><td>98,19</td><td>41,78</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>35,75</td><td>53,00</td><td>0,00</td><td>53,00</td><td>36,16</td><td>98,08</td><td>36,16</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>67,25</td><td>50,00</td><td>0,00</td><td>50,00</td><td>54,07</td><td>98,19</td><td>54,07</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>70,25</td><td>53,00</td><td>0,00</td><td>53,00</td><td>51,53</td><td>98,30</td><td>51,53</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>87,49</td><td>53,00</td><td>0,00</td><td>53,00</td><td>68,22</td><td>98,51</td><td>68,22</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>49,25</td><td>32,00</td><td>0,00</td><td>32,00</td><td>47,83</td><td>98,61</td><td>47,83</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>66,25</td><td>49,00</td><td>0,00</td><td>49,00</td><td>56,25</td><td>98,72</td><td>56,25</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>140,57</td><td>54,00</td><td>1,00</td><td>53,00</td><td>108,31</td><td>99,25</td><td>108,31</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>115,61</td><td>81,00</td><td>28,00</td><td>54,00</td><td>113,55</td><td>99,47</td><td>113,55</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>74,75</td><td>92,00</td><td>38,00</td><td>54,00</td><td>122,95</td><td>99,36</td><td>122,95</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>77,61</td><td>43,00</td><td>5,00</td><td>39,00</td><td>98,31</td><td>99,57</td><td>98,31</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>61,36</td><td>44,00</td><td>5,00</td><td>39,00</td><td>74,43</td><td>99,68</td><td>74,43</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>64,48</td><td>47,00</td><td>5,00</td><td>42,00</td><td>61,21</td><td>99,79</td><td>61,21</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>64,72</td><td>30,00</td><td>5,00</td><td>25,00</td><td>64,73</td><td>100,00</td><td>64,73</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>55,00</td><td>55,00</td><td>5,00</td><td>50,00</td><td>54,97</td><td>100,00</td><td>54,97</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>59,00</td><td>59,00</td><td>5,00</td><td>54,00</td><td>54,82</td><td>100,00</td><td>54,82</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>598,00</td><td>58,00</td><td>58,00</td><td>5,00</td><td>53,00</td><td>53,54</td><td>100,00</td><td>53,54</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>59,64</td><td>77,00</td><td>24,00</td><td>53,00</td><td>45,82</td><td>99,89</td><td>45,82</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>49,80</td><td>102,00</td><td>48,00</td><td>54,00</td><td>47,36</td><td>99,57</td><td>47,36</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>49,03</td><td>101,00</td><td>48,00</td><td>53,00</td><td>47,24</td><td>99,25</td><td>47,24</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>49,03</td><td>101,00</td><td>48,00</td><td>53,00</td><td>45,46</td><td>98,93</td><td>45,46</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>56,64</td><td>74,00</td><td>20,00</td><td>53,00</td><td>60,21</td><td>98,83</td><td>60,21</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>110,97</td><td>59,00</td><td>5,00</td><td>54,00</td><td>95,38</td><td>99,15</td><td>95,38</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>91,72</td><td>57,00</td><td>5,00</td><td>52,00</td><td>111,41</td><td>99,36</td><td>111,41</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>65,25</td><td>48,00</td><td>5,00</td><td>44,00</td><td>75,96</td><td>99,47</td><td>75,96</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>35,75</td><td>53,00</td><td>5,00</td><td>48,00</td><td>48,55</td><td>99,36</td><td>48,55</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>58,00</td><td>58,00</td><td>5,00</td><td>53,00</td><td>59,49</td><td>99,36</td><td>59,49</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>95,97</td><td>44,00</td><td>5,00</td><td>39,00</td><td>82,21</td><td>99,68</td><td>82,21</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>102,84</td><td>68,00</td><td>17,00</td><td>51,00</td><td>108,53</td><td>99,89</td><td>108,53</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>66,16</td><td>101,00</td><td>49,00</td><td>52,00</td><td>89,92</td><td>99,68</td><td>89,92</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>49,03</td><td>101,00</td><td>48,00</td><td>52,00</td><td>65,48</td><td>99,36</td><td>65,48</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>52,28</td><td>87,00</td><td>35,00</td><td>52,00</td><td>63,79</td><td>99,15</td><td>63,79</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>86,36</td><td>69,00</td><td>16,00</td><td>53,00</td><td>95,31</td><td>99,25</td><td>95,31</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>98,97</td><td>47,00</td><td>5,00</td><td>42,00</td><td>151,26</td><td>99,57</td><td>151,26</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>67,36</td><td>50,00</td><td>5,00</td><td>45,00</td><td>111,10</td><td>99,68</td><td>111,10</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>66,48</td><td>49,00</td><td>5,00</td><td>45,00</td><td>93,37</td><td>99,79</td><td>93,37</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>57,00</td><td>57,00</td><td>5,00</td><td>52,00</td><td>78,20</td><td>99,79</td><td>78,20</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>58,00</td><td>58,00</td><td>5,00</td><td>53,00</td><td>66,82</td><td>99,79</td><td>66,82</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>59,00</td><td>59,00</td><td>5,00</td><td>54,00</td><td>64,30</td><td>99,79</td><td>64,30</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>40,52</td><td>58,00</td><td>5,00</td><td>53,00</td><td>48,03</td><td>99,68</td><td>48,03</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>40,64</td><td>58,00</td><td>5,00</td><td>53,00</td><td>51,30</td><td>99,57</td><td>51,30</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>55,00</td><td>55,00</td><td>5,00</td><td>50,00</td><td>54,56</td><td>99,57</td><td>54,56</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>62,36</td><td>45,00</td><td>5,00</td><td>40,00</td><td>59,19</td><td>99,68</td><td>59,19</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>48,00</td><td>48,00</td><td>5,00</td><td>43,00</td><td>49,52</td><td>99,68</td><td>49,52</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>42,00</td><td>42,00</td><td>5,00</td><td>37,00</td><td>44,23</td><td>99,68</td><td>44,23</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>36,64</td><td>54,00</td><td>5,00</td><td>50,00</td><td>38,30</td><td>99,57</td><td>38,30</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>29,64</td><td>47,00</td><td>5,00</td><td>43,00</td><td>37,91</td><td>99,47</td><td>37,91</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>42,00</td><td>42,00</td><td>5,00</td><td>37,00</td><td>37,02</td><td>99,47</td><td>37,02</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>38,36</td><td>21,00</td><td>5,00</td><td>16,00</td><td>39,01</td><td>99,57</td><td>39,01</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>44,00</td><td>44,00</td><td>5,00</td><td>39,00</td><td>36,60</td><td>99,57</td><td>36,60</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>28,64</td><td>46,00</td><td>5,00</td><td>41,00</td><td>32,65</td><td>99,47</td><td>32,65</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>28,75</td><td>46,00</td><td>5,00</td><td>41,00</td><td>33,77</td><td>99,36</td><td>33,77</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>44,00</td><td>44,00</td><td>5,00</td><td>39,00</td><td>36,25</td><td>99,36</td><td>36,25</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>42,00</td><td>42,00</td><td>5,00</td><td>37,00</td><td>36,09</td><td>99,36</td><td>36,09</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>25,64</td><td>43,00</td><td>5,00</td><td>38,00</td><td>33,32</td><td>99,25</td><td>33,32</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>31,00</td><td>31,00</td><td>5,00</td><td>26,00</td><td>30,90</td><td>99,25</td><td>30,90</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>26,64</td><td>44,00</td><td>2,00</td><td>43,00</td><td>29,82</td><td>99,15</td><td>29,82</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>23,64</td><td>41,00</td><td>0,00</td><td>41,00</td><td>27,22</td><td>99,04</td><td>27,22</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>28,75</td><td>46,00</td><td>0,00</td><td>46,00</td><td>30,26</td><td>98,93</td><td>30,26</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>44,64</td><td>62,00</td><td>0,00</td><td>62,00</td><td>41,15</td><td>98,83</td><td>41,15</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>67,75</td><td>85,00</td><td>0,00</td><td>85,00</td><td>58,22</td><td>98,72</td><td>58,22</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>43,26</td><td>95,00</td><td>0,00</td><td>95,00</td><td>37,64</td><td>98,40</td><td>37,64</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>31,51</td><td>66,00</td><td>0,00</td><td>66,00</td><td>30,07</td><td>98,19</td><td>30,07</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>20,26</td><td>72,00</td><td>0,00</td><td>72,00</td><td>27,49</td><td>97,87</td><td>27,49</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>29,50</td><td>81,00</td><td>0,00</td><td>81,00</td><td>24,42</td><td>97,55</td><td>24,42</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,73</td><td>18,37</td><td>87,00</td><td>0,00</td><td>87,00</td><td>26,64</td><td>97,13</td><td>26,64</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,70</td><td>29,61</td><td>81,00</td><td>0,00</td><td>81,00</td><td>27,41</td><td>96,82</td><td>27,41</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>37,86</td><td>72,00</td><td>0,00</td><td>72,00</td><td>29,05</td><td>96,61</td><td>29,05</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,67</td><td>24,87</td><td>42,00</td><td>0,00</td><td>42,00</td><td>26,59</td><td>96,50</td><td>26,59</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,67</td><td>23,00</td><td>23,00</td><td>0,00</td><td>23,00</td><td>23,97</td><td>96,50</td><td>23,97</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,65</td><td>25,97</td><td>60,00</td><td>0,00</td><td>60,00</td><td>24,48</td><td>96,29</td><td>24,48</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,62</td><td>25,84</td><td>77,00</td><td>0,00</td><td>77,00</td><td>22,77</td><td>95,98</td><td>22,77</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,58</td><td>14,94</td><td>83,00</td><td>0,00</td><td>83,00</td><td>24,30</td><td>95,56</td><td>24,30</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,55</td><td>34,07</td><td>85,00</td><td>0,00</td><td>85,00</td><td>24,45</td><td>95,24</td><td>24,45</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,52</td><td>35,19</td><td>86,00</td><td>0,00</td><td>86,00</td><td>25,40</td><td>94,93</td><td>25,40</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,51</td><td>21,10</td><td>38,00</td><td>0,00</td><td>38,00</td><td>23,76</td><td>94,83</td><td>23,76</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,51</td><td>25,00</td><td>25,00</td><td>0,00</td><td>25,00</td><td>21,27</td><td>94,83</td><td>21,27</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,48</td><td>21,31</td><td>72,00</td><td>0,00</td><td>72,00</td><td>22,82</td><td>94,52</td><td>22,82</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,45</td><td>29,31</td><td>80,00</td><td>0,00</td><td>80,00</td><td>24,79</td><td>94,20</td><td>24,79</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,45</td><td>70,00</td><td>70,00</td><td>0,00</td><td>70,00</td><td>52,65</td><td>94,20</td><td>52,65</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,42</td><td>37,42</td><td>88,00</td><td>0,00</td><td>88,00</td><td>41,23</td><td>93,89</td><td>41,23</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,39</td><td>38,54</td><td>89,00</td><td>0,00</td><td>89,00</td><td>34,89</td><td>93,58</td><td>34,89</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,36</td><td>28,65</td><td>79,00</td><td>0,00</td><td>79,00</td><td>35,72</td><td>93,27</td><td>35,72</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,35</td><td>39,22</td><td>56,00</td><td>0,00</td><td>56,00</td><td>38,22</td><td>93,17</td><td>38,22</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,33</td><td>44,44</td><td>78,00</td><td>0,00</td><td>78,00</td><td>38,72</td><td>92,96</td><td>38,72</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,30</td><td>26,88</td><td>77,00</td><td>0,00</td><td>77,00</td><td>33,81</td><td>92,66</td><td>33,81</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,27</td><td>31,88</td><td>82,00</td><td>0,00</td><td>82,00</td><td>28,98</td><td>92,35</td><td>28,98</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,34</td><td>195,01</td><td>78,00</td><td>0,00</td><td>78,00</td><td>171,20</td><td>93,07</td><td>171,20</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,40</td><td>153,81</td><td>53,00</td><td>0,00</td><td>53,00</td><td>201,38</td><td>93,69</td><td>201,38</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,50</td><td>168,63</td><td>0,00</td><td>0,00</td><td>0,00</td><td>219,18</td><td>94,72</td><td>219,18</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,61</td><td>186,57</td><td>0,00</td><td>0,00</td><td>0,00</td><td>173,23</td><td>95,87</td><td>173,23</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,69</td><td>171,46</td><td>35,00</td><td>0,00</td><td>35,00</td><td>141,31</td><td>96,71</td><td>141,31</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,72</td><td>117,27</td><td>66,00</td><td>0,00</td><td>66,00</td><td>98,30</td><td>97,03</td><td>98,30</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,71</td><td>71,87</td><td>89,00</td><td>0,00</td><td>89,00</td><td>65,93</td><td>96,92</td><td>65,93</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,70</td><td>61,87</td><td>79,00</td><td>0,00</td><td>79,00</td><td>57,92</td><td>96,82</td><td>57,92</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>46,86</td><td>81,00</td><td>0,00</td><td>81,00</td><td>43,50</td><td>96,61</td><td>43,50</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,67</td><td>52,87</td><td>70,00</td><td>0,00</td><td>70,00</td><td>43,89</td><td>96,50</td><td>43,89</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>49,13</td><td>32,00</td><td>0,00</td><td>32,00</td><td>38,99</td><td>96,61</td><td>38,99</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,64</td><td>30,71</td><td>99,00</td><td>0,00</td><td>99,00</td><td>37,95</td><td>96,19</td><td>37,95</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,61</td><td>51,96</td><td>103,00</td><td>0,00</td><td>103,00</td><td>39,97</td><td>95,87</td><td>39,97</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,60</td><td>70,99</td><td>88,00</td><td>0,00</td><td>88,00</td><td>53,99</td><td>95,77</td><td>53,99</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,58</td><td>60,97</td><td>95,00</td><td>0,00</td><td>95,00</td><td>47,16</td><td>95,56</td><td>47,16</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,56</td><td>57,09</td><td>91,00</td><td>0,00</td><td>91,00</td><td>37,80</td><td>95,35</td><td>37,80</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,54</td><td>30,09</td><td>64,00</td><td>0,00</td><td>64,00</td><td>30,00</td><td>95,14</td><td>30,00</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,55</td><td>31,90</td><td>15,00</td><td>0,00</td><td>15,00</td><td>28,49</td><td>95,24</td><td>28,49</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,53</td><td>36,09</td><td>70,00</td><td>0,00</td><td>70,00</td><td>28,89</td><td>95,04</td><td>28,89</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,49</td><td>36,41</td><td>104,00</td><td>0,00</td><td>104,00</td><td>30,63</td><td>94,62</td><td>30,63</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,45</td><td>36,41</td><td>104,00</td><td>0,00</td><td>104,00</td><td>28,25</td><td>94,20</td><td>28,25</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,41</td><td>32,64</td><td>100,00</td><td>0,00</td><td>100,00</td><td>28,45</td><td>93,79</td><td>28,45</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,37</td><td>32,75</td><td>100,00</td><td>0,00</td><td>100,00</td><td>29,98</td><td>93,38</td><td>29,98</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,35</td><td>47,44</td><td>81,00</td><td>0,00</td><td>81,00</td><td>36,31</td><td>93,17</td><td>36,31</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,35</td><td>60,00</td><td>60,00</td><td>0,00</td><td>60,00</td><td>41,02</td><td>93,17</td><td>41,02</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,32</td><td>51,77</td><td>102,00</td><td>0,00</td><td>102,00</td><td>43,79</td><td>92,86</td><td>43,79</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,29</td><td>52,77</td><td>103,00</td><td>0,00</td><td>103,00</td><td>39,03</td><td>92,55</td><td>39,03</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,25</td><td>36,22</td><td>103,00</td><td>0,00</td><td>103,00</td><td>33,76</td><td>92,14</td><td>33,76</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,21</td><td>36,45</td><td>103,00</td><td>0,00</td><td>103,00</td><td>24,48</td><td>91,73</td><td>24,48</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,16</td><td>19,90</td><td>103,00</td><td>0,00</td><td>103,00</td><td>20,30</td><td>91,22</td><td>20,30</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,12</td><td>22,68</td><td>89,00</td><td>0,00</td><td>89,00</td><td>16,81</td><td>90,81</td><td>16,81</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,07</td><td>16,36</td><td>99,00</td><td>0,00</td><td>99,00</td><td>27,95</td><td>90,30</td><td>27,95</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,05</td><td>70,01</td><td>103,00</td><td>0,00</td><td>103,00</td><td>47,41</td><td>90,10</td><td>47,41</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,05</td><td>99,00</td><td>99,00</td><td>0,00</td><td>99,00</td><td>74,51</td><td>90,10</td><td>74,51</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,03</td><td>68,01</td><td>101,00</td><td>0,00</td><td>101,00</td><td>53,62</td><td>89,90</td><td>53,62</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,00</td><td>52,58</td><td>102,00</td><td>0,00</td><td>102,00</td><td>47,22</td><td>89,59</td><td>47,22</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,99</td><td>86,56</td><td>103,00</td><td>0,00</td><td>103,00</td><td>63,07</td><td>89,49</td><td>63,07</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,04</td><td>162,29</td><td>80,00</td><td>0,00</td><td>80,00</td><td>125,45</td><td>90,00</td><td>125,45</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,11</td><td>115,63</td><td>0,00</td><td>0,00</td><td>0,00</td><td>150,35</td><td>90,71</td><td>150,35</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,14</td><td>103,65</td><td>54,00</td><td>0,00</td><td>54,00</td><td>121,31</td><td>91,02</td><td>121,31</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,16</td><td>102,22</td><td>69,00</td><td>0,00</td><td>69,00</td><td>96,96</td><td>91,22</td><td>96,96</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,18</td><td>87,22</td><td>54,00</td><td>0,00</td><td>54,00</td><td>71,75</td><td>91,43</td><td>71,75</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>84,55</td><td>68,00</td><td>0,00</td><td>68,00</td><td>63,16</td><td>91,53</td><td>63,16</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>68,00</td><td>68,00</td><td>0,00</td><td>68,00</td><td>56,57</td><td>91,53</td><td>56,57</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,22</td><td>60,88</td><td>11,00</td><td>0,00</td><td>11,00</td><td>52,18</td><td>91,83</td><td>52,18</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,25</td><td>70,00</td><td>20,00</td><td>0,00</td><td>20,00</td><td>56,11</td><td>92,14</td><td>56,11</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,25</td><td>70,00</td><td>70,00</td><td>0,00</td><td>70,00</td><td>57,19</td><td>92,14</td><td>57,19</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,24</td><td>58,33</td><td>75,00</td><td>0,00</td><td>75,00</td><td>53,95</td><td>92,04</td><td>53,95</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,23</td><td>61,33</td><td>78,00</td><td>0,00</td><td>78,00</td><td>58,29</td><td>91,94</td><td>58,29</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,21</td><td>53,78</td><td>87,00</td><td>0,00</td><td>87,00</td><td>53,52</td><td>91,73</td><td>53,52</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>49,67</td><td>83,00</td><td>0,00</td><td>83,00</td><td>44,80</td><td>91,53</td><td>44,80</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,18</td><td>46,45</td><td>63,00</td><td>0,00</td><td>63,00</td><td>42,64</td><td>91,43</td><td>42,64</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,20</td><td>42,22</td><td>9,00</td><td>0,00</td><td>9,00</td><td>43,23</td><td>91,63</td><td>43,23</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,21</td><td>54,67</td><td>38,00</td><td>0,00</td><td>38,00</td><td>46,58</td><td>91,73</td><td>46,58</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,24</td><td>79,88</td><td>30,00</td><td>0,00</td><td>30,00</td><td>79,38</td><td>92,04</td><td>79,38</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,29</td><td>83,45</td><td>0,00</td><td>0,00</td><td>0,00</td><td>86,04</td><td>92,55</td><td>86,04</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,31</td><td>80,45</td><td>47,00</td><td>0,00</td><td>47,00</td><td>77,09</td><td>92,76</td><td>77,09</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,31</td><td>66,00</td><td>66,00</td><td>0,00</td><td>66,00</td><td>59,40</td><td>92,76</td><td>59,40</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,31</td><td>51,00</td><td>51,00</td><td>0,00</td><td>51,00</td><td>47,15</td><td>92,76</td><td>47,15</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,33</td><td>42,45</td><td>9,00</td><td>0,00</td><td>9,00</td><td>40,66</td><td>92,96</td><td>40,66</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,31</td><td>39,55</td><td>73,00</td><td>0,00</td><td>73,00</td><td>36,91</td><td>92,76</td><td>36,91</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,29</td><td>42,55</td><td>76,00</td><td>0,00</td><td>76,00</td><td>36,33</td><td>92,55</td><td>36,33</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,28</td><td>47,33</td><td>64,00</td><td>0,00</td><td>64,00</td><td>37,42</td><td>92,45</td><td>37,42</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,28</td><td>51,00</td><td>51,00</td><td>0,00</td><td>51,00</td><td>38,33</td><td>92,45</td><td>38,33</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,28</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>38,20</td><td>92,45</td><td>38,20</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,28</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>37,61</td><td>92,45</td><td>37,61</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,28</td><td>47,00</td><td>47,00</td><td>0,00</td><td>47,00</td><td>34,85</td><td>92,45</td><td>34,85</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,27</td><td>33,33</td><td>50,00</td><td>0,00</td><td>50,00</td><td>32,05</td><td>92,35</td><td>32,05</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,26</td><td>36,22</td><td>53,00</td><td>0,00</td><td>53,00</td><td>29,71</td><td>92,24</td><td>29,71</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,25</td><td>36,33</td><td>53,00</td><td>0,00</td><td>53,00</td><td>29,03</td><td>92,14</td><td>29,03</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,24</td><td>36,33</td><td>53,00</td><td>0,00</td><td>53,00</td><td>27,41</td><td>92,04</td><td>27,41</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,23</td><td>33,33</td><td>50,00</td><td>0,00</td><td>50,00</td><td>25,92</td><td>91,94</td><td>25,92</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,22</td><td>29,33</td><td>46,00</td><td>0,00</td><td>46,00</td><td>23,99</td><td>91,83</td><td>23,99</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,22</td><td>25,00</td><td>25,00</td><td>0,00</td><td>25,00</td><td>23,56</td><td>91,83</td><td>23,56</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,21</td><td>36,45</td><td>53,00</td><td>0,00</td><td>53,00</td><td>21,19</td><td>91,73</td><td>21,19</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>19,67</td><td>53,00</td><td>0,00</td><td>53,00</td><td>19,37</td><td>91,53</td><td>19,37</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,17</td><td>19,78</td><td>53,00</td><td>0,00</td><td>53,00</td><td>17,12</td><td>91,32</td><td>17,12</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,15</td><td>19,78</td><td>53,00</td><td>0,00</td><td>53,00</td><td>19,17</td><td>91,12</td><td>19,17</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,14</td><td>35,45</td><td>52,00</td><td>0,00</td><td>52,00</td><td>18,96</td><td>91,02</td><td>18,96</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,12</td><td>18,90</td><td>52,00</td><td>0,00</td><td>52,00</td><td>18,18</td><td>90,81</td><td>18,18</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,12</td><td>19,00</td><td>19,00</td><td>0,00</td><td>19,00</td><td>18,03</td><td>90,81</td><td>18,03</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,09</td><td>29,35</td><td>79,00</td><td>0,00</td><td>79,00</td><td>18,11</td><td>90,51</td><td>18,11</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,04</td><td>18,48</td><td>101,00</td><td>0,00</td><td>101,00</td><td>25,85</td><td>90,00</td><td>25,85</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,01</td><td>54,58</td><td>104,00</td><td>0,00</td><td>104,00</td><td>27,76</td><td>89,70</td><td>27,76</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,97</td><td>38,26</td><td>104,00</td><td>0,00</td><td>104,00</td><td>28,22</td><td>89,29</td><td>28,22</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,92</td><td>19,06</td><td>101,00</td><td>0,00</td><td>101,00</td><td>20,16</td><td>88,79</td><td>20,16</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,87</td><td>13,29</td><td>95,00</td><td>0,00</td><td>95,00</td><td>14,03</td><td>88,29</td><td>14,03</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,86</td><td>17,56</td><td>34,00</td><td>0,00</td><td>34,00</td><td>13,58</td><td>88,18</td><td>13,58</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,86</td><td>17,56</td><td>34,00</td><td>0,00</td><td>34,00</td><td>13,58</td><td>88,18</td><td>13,58</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,82</td><td>23,84</td><td>89,00</td><td>0,00</td><td>89,00</td><td>14,15</td><td>87,78</td><td>14,15</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,77</td><td>21,75</td><td>103,00</td><td>0,00</td><td>103,00</td><td>18,39</td><td>87,28</td><td>18,39</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,78</td><td>35,20</td><td>19,00</td><td>0,00</td><td>19,00</td><td>23,64</td><td>87,38</td><td>23,64</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,80</td><td>135,52</td><td>103,00</td><td>0,00</td><td>103,00</td><td>106,52</td><td>87,58</td><td>106,52</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,77</td><td>54,27</td><td>103,00</td><td>0,00</td><td>103,00</td><td>61,17</td><td>87,28</td><td>61,17</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,73</td><td>38,07</td><td>103,00</td><td>0,00</td><td>103,00</td><td>39,76</td><td>86,88</td><td>39,76</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,74</td><td>60,20</td><td>44,00</td><td>0,00</td><td>44,00</td><td>40,93</td><td>86,98</td><td>40,93</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,72</td><td>66,59</td><td>99,00</td><td>0,00</td><td>99,00</td><td>53,78</td><td>86,78</td><td>53,78</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,87</td><td>346,98</td><td>103,00</td><td>0,00</td><td>103,00</td><td>229,44</td><td>88,29</td><td>229,44</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,99</td><td>298,53</td><td>102,00</td><td>0,00</td><td>102,00</td><td>231,53</td><td>89,49</td><td>231,53</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>434,56</td><td>104,00</td><td>0,00</td><td>104,00</td><td>340,46</td><td>91,53</td><td>340,46</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,37</td><td>403,69</td><td>103,00</td><td>0,00</td><td>103,00</td><td>291,98</td><td>93,38</td><td>291,98</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,51</td><td>309,00</td><td>73,00</td><td>0,00</td><td>73,00</td><td>212,16</td><td>94,83</td><td>212,16</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,64</td><td>230,72</td><td>10,00</td><td>0,00</td><td>10,00</td><td>156,21</td><td>96,19</td><td>156,21</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,72</td><td>231,69</td><td>95,00</td><td>0,00</td><td>95,00</td><td>159,33</td><td>97,03</td><td>159,33</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>168,63</td><td>100,00</td><td>1,00</td><td>99,00</td><td>131,86</td><td>97,45</td><td>131,86</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>177,63</td><td>109,00</td><td>5,00</td><td>104,00</td><td>151,40</td><td>97,87</td><td>151,40</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>177,63</td><td>109,00</td><td>5,00</td><td>104,00</td><td>151,40</td><td>97,87</td><td>151,40</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>157,74</td><td>106,00</td><td>5,00</td><td>101,00</td><td>158,63</td><td>98,19</td><td>158,63</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>115,25</td><td>98,00</td><td>5,00</td><td>93,00</td><td>123,94</td><td>98,30</td><td>123,94</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>104,00</td><td>104,00</td><td>5,00</td><td>99,00</td><td>89,90</td><td>98,30</td><td>89,90</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>96,98</td><td>28,00</td><td>5,00</td><td>23,00</td><td>88,76</td><td>98,72</td><td>88,76</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>80,61</td><td>46,00</td><td>5,00</td><td>46,00</td><td>86,02</td><td>98,93</td><td>86,02</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>71,64</td><td>89,00</td><td>5,00</td><td>84,00</td><td>61,55</td><td>98,83</td><td>61,55</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>221,30</td><td>100,00</td><td>5,00</td><td>95,00</td><td>165,27</td><td>99,57</td><td>165,27</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>87,64</td><td>105,00</td><td>5,00</td><td>100,00</td><td>91,64</td><td>99,47</td><td>91,64</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>89,75</td><td>107,00</td><td>5,00</td><td>103,00</td><td>85,63</td><td>99,36</td><td>85,63</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>72,28</td><td>107,00</td><td>5,00</td><td>102,00</td><td>65,35</td><td>99,15</td><td>65,35</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>70,00</td><td>70,00</td><td>5,00</td><td>65,00</td><td>61,54</td><td>99,15</td><td>61,54</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>88,64</td><td>106,00</td><td>3,00</td><td>103,00</td><td>69,66</td><td>99,04</td><td>69,66</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>83,75</td><td>101,00</td><td>0,00</td><td>101,00</td><td>64,19</td><td>98,93</td><td>64,19</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>103,00</td><td>103,00</td><td>0,00</td><td>103,00</td><td>75,14</td><td>98,93</td><td>75,14</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>76,64</td><td>94,00</td><td>0,00</td><td>94,00</td><td>55,48</td><td>98,83</td><td>55,48</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>73,75</td><td>91,00</td><td>0,00</td><td>91,00</td><td>55,11</td><td>98,72</td><td>55,11</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>53,75</td><td>71,00</td><td>0,00</td><td>71,00</td><td>40,45</td><td>98,61</td><td>40,45</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>50,00</td><td>50,00</td><td>0,00</td><td>50,00</td><td>40,40</td><td>98,61</td><td>40,40</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>58,00</td><td>58,00</td><td>0,00</td><td>58,00</td><td>42,03</td><td>98,61</td><td>42,03</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>67,25</td><td>50,00</td><td>0,00</td><td>50,00</td><td>45,32</td><td>98,72</td><td>45,32</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>87,61</td><td>53,00</td><td>0,00</td><td>53,00</td><td>59,96</td><td>98,93</td><td>59,96</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>70,25</td><td>53,00</td><td>0,00</td><td>53,00</td><td>47,58</td><td>99,04</td><td>47,58</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>37,78</td><td>99,04</td><td>37,78</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>36,39</td><td>71,00</td><td>0,00</td><td>71,00</td><td>31,81</td><td>98,83</td><td>31,81</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>43,51</td><td>78,00</td><td>0,00</td><td>78,00</td><td>33,26</td><td>98,61</td><td>33,26</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>64,75</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,21</td><td>98,51</td><td>33,21</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,84</td><td>42,51</td><td>77,00</td><td>0,00</td><td>77,00</td><td>29,51</td><td>98,30</td><td>29,51</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>15,89</td><td>102,00</td><td>0,00</td><td>102,00</td><td>23,68</td><td>97,77</td><td>23,68</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,75</td><td>36,25</td><td>105,00</td><td>0,00</td><td>105,00</td><td>22,98</td><td>97,34</td><td>22,98</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,71</td><td>35,48</td><td>104,00</td><td>0,00</td><td>104,00</td><td>24,64</td><td>96,92</td><td>24,64</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>35,73</td><td>87,00</td><td>0,00</td><td>87,00</td><td>25,28</td><td>96,61</td><td>25,28</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,64</td><td>36,71</td><td>105,00</td><td>0,00</td><td>105,00</td><td>25,68</td><td>96,19</td><td>25,68</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,60</td><td>36,94</td><td>105,00</td><td>0,00</td><td>105,00</td><td>26,65</td><td>95,77</td><td>26,65</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,56</td><td>37,06</td><td>105,00</td><td>0,00</td><td>105,00</td><td>23,84</td><td>95,35</td><td>23,84</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,52</td><td>23,18</td><td>91,00</td><td>0,00</td><td>92,00</td><td>22,61</td><td>94,93</td><td>22,61</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,49</td><td>34,31</td><td>85,00</td><td>0,00</td><td>85,00</td><td>22,91</td><td>94,62</td><td>22,91</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,45</td><td>37,41</td><td>105,00</td><td>0,00</td><td>105,00</td><td>32,40</td><td>94,20</td><td>32,40</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,43</td><td>71,32</td><td>105,00</td><td>0,00</td><td>105,00</td><td>34,17</td><td>94,00</td><td>34,17</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,39</td><td>37,64</td><td>105,00</td><td>0,00</td><td>105,00</td><td>34,40</td><td>93,58</td><td>34,40</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,35</td><td>37,87</td><td>105,00</td><td>0,00</td><td>105,00</td><td>27,59</td><td>93,17</td><td>27,59</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,31</td><td>37,99</td><td>105,00</td><td>0,00</td><td>105,00</td><td>27,18</td><td>92,76</td><td>27,18</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,27</td><td>39,22</td><td>106,00</td><td>0,00</td><td>106,00</td><td>30,95</td><td>92,35</td><td>30,95</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,24</td><td>55,88</td><td>106,00</td><td>0,00</td><td>106,00</td><td>35,27</td><td>92,04</td><td>35,27</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,20</td><td>38,45</td><td>105,00</td><td>0,00</td><td>105,00</td><td>36,29</td><td>91,63</td><td>36,29</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,18</td><td>39,78</td><td>73,00</td><td>0,00</td><td>73,00</td><td>30,32</td><td>91,43</td><td>30,32</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,13</td><td>21,01</td><td>104,00</td><td>0,00</td><td>104,00</td><td>24,85</td><td>90,91</td><td>24,85</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,08</td><td>21,25</td><td>104,00</td><td>0,00</td><td>104,00</td><td>21,76</td><td>90,41</td><td>21,76</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,03</td><td>21,59</td><td>104,00</td><td>0,00</td><td>104,00</td><td>20,42</td><td>89,90</td><td>20,42</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,99</td><td>23,14</td><td>89,00</td><td>0,00</td><td>89,00</td><td>17,78</td><td>89,49</td><td>17,78</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,94</td><td>19,94</td><td>102,00</td><td>0,00</td><td>102,00</td><td>16,38</td><td>88,99</td><td>16,38</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,89</td><td>21,17</td><td>103,00</td><td>0,00</td><td>103,00</td><td>15,60</td><td>88,49</td><td>15,60</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,84</td><td>18,40</td><td>100,00</td><td>0,00</td><td>100,00</td><td>19,29</td><td>87,98</td><td>19,29</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,80</td><td>32,84</td><td>98,00</td><td>0,00</td><td>98,00</td><td>28,97</td><td>87,58</td><td>28,97</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,78</td><td>60,48</td><td>93,00</td><td>0,00</td><td>93,00</td><td>37,37</td><td>87,38</td><td>37,37</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,77</td><td>49,80</td><td>66,00</td><td>0,00</td><td>66,00</td><td>39,57</td><td>87,28</td><td>39,57</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,76</td><td>38,68</td><td>55,00</td><td>0,00</td><td>55,00</td><td>33,30</td><td>87,18</td><td>33,30</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,73</td><td>24,39</td><td>73,00</td><td>0,00</td><td>73,00</td><td>26,19</td><td>86,88</td><td>26,19</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,68</td><td>21,10</td><td>102,00</td><td>0,00</td><td>102,00</td><td>21,61</td><td>86,39</td><td>21,61</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,63</td><td>20,33</td><td>101,00</td><td>0,00</td><td>101,00</td><td>20,73</td><td>85,89</td><td>20,73</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,60</td><td>27,62</td><td>76,00</td><td>0,00</td><td>76,00</td><td>21,16</td><td>85,59</td><td>21,16</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,55</td><td>21,68</td><td>102,00</td><td>0,00</td><td>102,00</td><td>20,40</td><td>85,10</td><td>20,40</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,50</td><td>21,91</td><td>102,00</td><td>0,00</td><td>102,00</td><td>21,46</td><td>84,61</td><td>21,46</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,46</td><td>38,11</td><td>102,00</td><td>0,00</td><td>102,00</td><td>19,29</td><td>84,21</td><td>19,29</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,44</td><td>21,06</td><td>53,00</td><td>0,00</td><td>53,00</td><td>20,02</td><td>84,02</td><td>20,02</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>24,06</td><td>56,00</td><td>0,00</td><td>56,00</td><td>19,39</td><td>83,82</td><td>19,39</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>85,14</td><td>101,00</td><td>0,00</td><td>101,00</td><td>55,88</td><td>83,72</td><td>55,88</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,43</td><td>63,83</td><td>32,00</td><td>0,00</td><td>32,00</td><td>44,48</td><td>83,92</td><td>44,48</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>54,17</td><td>86,00</td><td>0,00</td><td>86,00</td><td>34,94</td><td>83,72</td><td>34,94</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,36</td><td>17,49</td><td>97,00</td><td>0,00</td><td>97,00</td><td>27,44</td><td>83,23</td><td>27,44</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,31</td><td>19,72</td><td>99,00</td><td>0,00</td><td>99,00</td><td>21,97</td><td>82,75</td><td>21,97</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,32</td><td>76,86</td><td>61,00</td><td>0,00</td><td>61,00</td><td>69,36</td><td>82,84</td><td>69,36</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,34</td><td>84,71</td><td>53,00</td><td>0,00</td><td>53,00</td><td>70,75</td><td>83,04</td><td>70,75</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>47,86</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,60</td><td>83,14</td><td>56,60</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>61,57</td><td>14,00</td><td>0,00</td><td>14,00</td><td>56,73</td><td>83,43</td><td>56,73</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,40</td><td>78,83</td><td>47,00</td><td>0,00</td><td>47,00</td><td>60,32</td><td>83,62</td><td>60,32</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>87,97</td><td>72,00</td><td>0,00</td><td>72,00</td><td>77,42</td><td>83,72</td><td>77,42</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>73,00</td><td>73,00</td><td>0,00</td><td>73,00</td><td>63,14</td><td>83,72</td><td>63,14</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>55,00</td><td>55,00</td><td>0,00</td><td>55,00</td><td>50,29</td><td>83,72</td><td>50,29</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,39</td><td>32,17</td><td>64,00</td><td>0,00</td><td>64,00</td><td>37,97</td><td>83,53</td><td>37,97</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>36,03</td><td>52,00</td><td>0,00</td><td>52,00</td><td>31,34</td><td>83,43</td><td>31,34</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,37</td><td>35,14</td><td>51,00</td><td>0,00</td><td>51,00</td><td>28,26</td><td>83,33</td><td>28,26</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>23,29</td><td>55,00</td><td>0,00</td><td>55,00</td><td>27,62</td><td>83,14</td><td>27,62</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,34</td><td>40,14</td><td>56,00</td><td>0,00</td><td>56,00</td><td>27,64</td><td>83,04</td><td>27,64</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,33</td><td>41,03</td><td>57,00</td><td>0,00</td><td>57,00</td><td>23,73</td><td>82,94</td><td>23,73</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,30</td><td>13,55</td><td>61,00</td><td>0,00</td><td>61,00</td><td>16,50</td><td>82,65</td><td>16,50</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,27</td><td>5,55</td><td>53,00</td><td>0,00</td><td>53,00</td><td>9,30</td><td>82,36</td><td>9,30</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,24</td><td>6,66</td><td>54,00</td><td>0,00</td><td>54,00</td><td>10,78</td><td>82,06</td><td>10,78</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,22</td><td>17,40</td><td>49,00</td><td>0,00</td><td>49,00</td><td>13,27</td><td>81,87</td><td>13,27</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,20</td><td>21,52</td><td>53,00</td><td>0,00</td><td>53,00</td><td>14,83</td><td>81,68</td><td>14,83</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,17</td><td>21,78</td><td>69,00</td><td>0,00</td><td>69,00</td><td>21,38</td><td>81,39</td><td>21,38</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,14</td><td>54,89</td><td>102,00</td><td>0,00</td><td>102,00</td><td>23,90</td><td>81,10</td><td>23,90</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,10</td><td>39,27</td><td>102,00</td><td>0,00</td><td>102,00</td><td>24,53</td><td>80,71</td><td>24,53</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,05</td><td>21,88</td><td>100,00</td><td>0,00</td><td>100,00</td><td>17,01</td><td>80,23</td><td>17,01</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,00</td><td>17,99</td><td>96,00</td><td>0,00</td><td>96,00</td><td>13,13</td><td>79,75</td><td>13,13</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,95</td><td>13,22</td><td>91,00</td><td>0,00</td><td>91,00</td><td>9,20</td><td>79,27</td><td>9,20</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,91</td><td>4,96</td><td>67,00</td><td>0,00</td><td>67,00</td><td>9,04</td><td>78,89</td><td>9,04</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,89</td><td>16,98</td><td>48,00</td><td>0,00</td><td>48,00</td><td>10,46</td><td>78,70</td><td>10,46</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,87</td><td>17,10</td><td>48,00</td><td>0,00</td><td>48,00</td><td>17,06</td><td>78,51</td><td>17,06</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,86</td><td>31,49</td><td>47,00</td><td>0,00</td><td>47,00</td><td>20,30</td><td>78,41</td><td>20,30</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,85</td><td>34,49</td><td>50,00</td><td>0,00</td><td>50,00</td><td>21,66</td><td>78,32</td><td>21,66</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,84</td><td>33,61</td><td>49,00</td><td>0,00</td><td>49,00</td><td>19,95</td><td>78,22</td><td>19,95</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,83</td><td>25,61</td><td>41,00</td><td>0,00</td><td>41,00</td><td>16,52</td><td>78,13</td><td>16,52</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,81</td><td>16,10</td><td>47,00</td><td>0,00</td><td>47,00</td><td>14,38</td><td>77,94</td><td>14,38</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,78</td><td>20,82</td><td>67,00</td><td>0,00</td><td>67,00</td><td>11,70</td><td>77,66</td><td>11,70</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,73</td><td>14,15</td><td>91,00</td><td>0,00</td><td>91,00</td><td>12,55</td><td>77,18</td><td>12,55</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,69</td><td>17,66</td><td>79,00</td><td>0,00</td><td>79,00</td><td>21,46</td><td>76,80</td><td>21,46</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,66</td><td>54,05</td><td>100,00</td><td>0,00</td><td>100,00</td><td>27,36</td><td>76,52</td><td>27,36</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,62</td><td>40,89</td><td>102,00</td><td>0,00</td><td>102,00</td><td>37,70</td><td>76,15</td><td>37,70</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,59</td><td>44,28</td><td>90,00</td><td>0,00</td><td>90,00</td><td>39,12</td><td>75,87</td><td>39,12</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,55</td><td>41,12</td><td>102,00</td><td>0,00</td><td>102,00</td><td>44,60</td><td>75,49</td><td>44,60</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,53</td><td>71,56</td><td>102,00</td><td>0,00</td><td>102,00</td><td>69,99</td><td>75,30</td><td>69,99</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,52</td><td>84,84</td><td>100,00</td><td>0,00</td><td>100,00</td><td>96,26</td><td>75,21</td><td>96,26</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,51</td><td>59,84</td><td>75,00</td><td>0,00</td><td>75,00</td><td>68,50</td><td>75,12</td><td>68,50</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,50</td><td>72,84</td><td>88,00</td><td>0,00</td><td>88,00</td><td>63,27</td><td>75,02</td><td>63,27</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,48</td><td>37,68</td><td>68,00</td><td>0,00</td><td>68,00</td><td>39,76</td><td>74,84</td><td>39,76</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,43</td><td>26,42</td><td>102,00</td><td>0,00</td><td>102,00</td><td>32,72</td><td>74,37</td><td>32,72</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,38</td><td>26,54</td><td>102,00</td><td>0,00</td><td>102,00</td><td>28,02</td><td>73,91</td><td>28,02</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,33</td><td>26,77</td><td>102,00</td><td>0,00</td><td>102,00</td><td>25,63</td><td>73,45</td><td>25,63</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,28</td><td>27,00</td><td>102,00</td><td>0,00</td><td>102,00</td><td>23,77</td><td>72,98</td><td>23,77</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,23</td><td>27,12</td><td>102,00</td><td>0,00</td><td>102,00</td><td>19,73</td><td>72,52</td><td>19,73</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,17</td><td>12,53</td><td>102,00</td><td>0,00</td><td>102,00</td><td>17,14</td><td>71,97</td><td>17,14</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,11</td><td>12,65</td><td>102,00</td><td>0,00</td><td>102,00</td><td>15,68</td><td>71,42</td><td>15,68</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,05</td><td>9,11</td><td>98,00</td><td>0,00</td><td>98,00</td><td>16,66</td><td>70,88</td><td>16,66</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,00</td><td>14,04</td><td>88,00</td><td>0,00</td><td>88,00</td><td>16,89</td><td>70,42</td><td>16,89</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,96</td><td>24,09</td><td>83,00</td><td>0,00</td><td>83,00</td><td>26,06</td><td>70,06</td><td>26,06</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,92</td><td>43,09</td><td>102,00</td><td>0,00</td><td>102,00</td><td>29,10</td><td>69,70</td><td>29,10</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,86</td><td>13,92</td><td>102,00</td><td>0,00</td><td>102,00</td><td>29,89</td><td>69,16</td><td>29,89</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,80</td><td>14,27</td><td>102,00</td><td>0,00</td><td>102,00</td><td>21,93</td><td>68,62</td><td>21,93</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,75</td><td>19,08</td><td>92,00</td><td>0,00</td><td>92,00</td><td>20,14</td><td>68,17</td><td>20,14</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,75</td><td>23,00</td><td>23,00</td><td>0,00</td><td>23,00</td><td>18,53</td><td>68,17</td><td>18,53</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,71</td><td>17,78</td><td>76,00</td><td>0,00</td><td>76,00</td><td>17,69</td><td>67,81</td><td>17,69</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,65</td><td>14,96</td><td>102,00</td><td>0,00</td><td>102,00</td><td>17,92</td><td>67,27</td><td>17,92</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,60</td><td>22,66</td><td>95,00</td><td>0,00</td><td>95,00</td><td>19,32</td><td>66,83</td><td>19,32</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,54</td><td>15,43</td><td>102,00</td><td>0,00</td><td>102,00</td><td>19,79</td><td>66,30</td><td>19,79</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,48</td><td>15,66</td><td>102,00</td><td>0,00</td><td>102,00</td><td>25,23</td><td>65,76</td><td>25,23</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,45</td><td>27,06</td><td>70,00</td><td>0,00</td><td>70,00</td><td>37,21</td><td>65,50</td><td>37,21</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,48</td><td>63,94</td><td>21,00</td><td>0,00</td><td>21,00</td><td>69,95</td><td>65,76</td><td>69,95</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,47</td><td>55,65</td><td>70,00</td><td>0,00</td><td>70,00</td><td>77,94</td><td>65,68</td><td>77,94</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,43</td><td>27,71</td><td>85,00</td><td>0,00</td><td>85,00</td><td>43,54</td><td>65,32</td><td>43,54</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,39</td><td>20,82</td><td>78,00</td><td>0,00</td><td>78,00</td><td>30,29</td><td>64,97</td><td>30,29</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,37</td><td>71,41</td><td>100,00</td><td>0,00</td><td>100,00</td><td>72,61</td><td>64,80</td><td>72,61</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,36</td><td>47,76</td><td>62,00</td><td>0,00</td><td>62,00</td><td>69,34</td><td>64,71</td><td>69,34</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,35</td><td>37,65</td><td>52,00</td><td>0,00</td><td>52,00</td><td>49,74</td><td>64,62</td><td>49,74</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,36</td><td>31,35</td><td>17,00</td><td>0,00</td><td>17,00</td><td>41,29</td><td>64,71</td><td>41,29</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,33</td><td>23,18</td><td>66,00</td><td>0,00</td><td>66,00</td><td>32,88</td><td>64,45</td><td>32,88</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,30</td><td>19,29</td><td>62,00</td><td>0,00</td><td>62,00</td><td>26,84</td><td>64,18</td><td>26,84</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,28</td><td>17,64</td><td>46,00</td><td>0,00</td><td>46,00</td><td>23,98</td><td>64,01</td><td>23,98</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,26</td><td>20,64</td><td>49,00</td><td>0,00</td><td>49,00</td><td>27,93</td><td>63,83</td><td>27,93</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,26</td><td>41,00</td><td>41,00</td><td>0,00</td><td>41,00</td><td>29,16</td><td>63,83</td><td>29,16</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,27</td><td>31,12</td><td>17,00</td><td>0,00</td><td>17,00</td><td>28,45</td><td>63,92</td><td>28,45</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,29</td><td>28,47</td><td>0,00</td><td>0,00</td><td>0,00</td><td>21,81</td><td>64,10</td><td>21,81</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,30</td><td>14,12</td><td>0,00</td><td>0,00</td><td>0,00</td><td>18,38</td><td>64,18</td><td>18,38</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,31</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>16,71</td><td>64,27</td><td>16,71</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,32</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>16,57</td><td>64,36</td><td>16,57</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,33</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>15,84</td><td>64,45</td><td>15,84</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,34</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>15,68</td><td>64,53</td><td>15,68</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,35</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>15,33</td><td>64,62</td><td>15,33</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,36</td><td>14,35</td><td>0,00</td><td>0,00</td><td>0,00</td><td>15,10</td><td>64,71</td><td>15,10</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,37</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>14,58</td><td>64,80</td><td>14,58</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,38</td><td>14,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>13,76</td><td>64,88</td><td>13,76</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,52</td><td>200,69</td><td>0,00</td><td>0,00</td><td>0,00</td><td>173,22</td><td>66,12</td><td>173,22</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,59</td><td>100,93</td><td>0,00</td><td>0,00</td><td>0,00</td><td>148,41</td><td>66,74</td><td>148,41</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,63</td><td>57,75</td><td>0,00</td><td>0,00</td><td>0,00</td><td>79,86</td><td>67,09</td><td>79,86</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,71</td><td>116,09</td><td>0,00</td><td>0,00</td><td>0,00</td><td>102,41</td><td>67,81</td><td>102,41</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,83</td><td>175,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>198,27</td><td>68,89</td><td>198,27</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,93</td><td>146,64</td><td>0,00</td><td>0,00</td><td>0,00</td><td>150,14</td><td>69,79</td><td>150,14</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,02</td><td>132,64</td><td>0,00</td><td>0,00</td><td>0,00</td><td>129,87</td><td>70,60</td><td>129,87</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,10</td><td>118,52</td><td>0,00</td><td>0,00</td><td>0,00</td><td>119,80</td><td>71,33</td><td>119,80</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,16</td><td>89,24</td><td>0,00</td><td>0,00</td><td>0,00</td><td>91,72</td><td>71,88</td><td>91,72</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,22</td><td>89,47</td><td>0,00</td><td>0,00</td><td>0,00</td><td>84,16</td><td>72,43</td><td>84,16</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,28</td><td>89,81</td><td>0,00</td><td>0,00</td><td>0,00</td><td>78,13</td><td>72,98</td><td>78,13</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,34</td><td>90,05</td><td>0,00</td><td>0,00</td><td>0,00</td><td>75,94</td><td>73,54</td><td>75,94</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,38</td><td>60,19</td><td>0,00</td><td>0,00</td><td>0,00</td><td>55,43</td><td>73,91</td><td>55,43</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,42</td><td>60,30</td><td>0,00</td><td>0,00</td><td>0,00</td><td>51,93</td><td>74,28</td><td>51,93</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,46</td><td>60,42</td><td>0,00</td><td>0,00</td><td>0,00</td><td>52,67</td><td>74,65</td><td>52,67</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,50</td><td>60,65</td><td>0,00</td><td>0,00</td><td>0,00</td><td>52,72</td><td>75,02</td><td>52,72</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,53</td><td>45,49</td><td>0,00</td><td>0,00</td><td>0,00</td><td>40,76</td><td>75,30</td><td>40,76</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,57</td><td>60,88</td><td>0,00</td><td>0,00</td><td>0,00</td><td>40,90</td><td>75,68</td><td>40,90</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,59</td><td>30,44</td><td>0,00</td><td>0,00</td><td>0,00</td><td>42,25</td><td>75,87</td><td>42,25</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,63</td><td>61,00</td><td>0,00</td><td>0,00</td><td>0,00</td><td>44,82</td><td>76,24</td><td>44,82</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,72</td><td>137,73</td><td>0,00</td><td>0,00</td><td>0,00</td><td>96,49</td><td>77,09</td><td>96,49</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,92</td><td>308,56</td><td>0,00</td><td>0,00</td><td>0,00</td><td>308,00</td><td>78,99</td><td>308,00</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,02</td><td>155,44</td><td>0,00</td><td>0,00</td><td>0,00</td><td>168,97</td><td>79,94</td><td>168,97</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,13</td><td>171,99</td><td>0,00</td><td>0,00</td><td>0,00</td><td>135,35</td><td>81,00</td><td>135,35</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,24</td><td>173,15</td><td>0,00</td><td>0,00</td><td>0,00</td><td>132,59</td><td>82,06</td><td>132,59</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,34</td><td>158,22</td><td>0,00</td><td>0,00</td><td>0,00</td><td>108,89</td><td>83,04</td><td>108,89</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>111,23</td><td>0,00</td><td>0,00</td><td>0,00</td><td>88,08</td><td>83,72</td><td>88,08</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,48</td><td>111,69</td><td>0,00</td><td>0,00</td><td>0,00</td><td>86,19</td><td>84,41</td><td>86,19</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,54</td><td>96,06</td><td>0,00</td><td>0,00</td><td>0,00</td><td>75,64</td><td>85,00</td><td>75,64</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,61</td><td>112,38</td><td>0,00</td><td>0,00</td><td>0,00</td><td>85,30</td><td>85,69</td><td>85,30</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,67</td><td>96,76</td><td>0,00</td><td>0,00</td><td>0,00</td><td>82,81</td><td>86,29</td><td>82,81</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,72</td><td>80,90</td><td>0,00</td><td>0,00</td><td>0,00</td><td>70,77</td><td>86,78</td><td>70,77</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,77</td><td>81,13</td><td>0,00</td><td>0,00</td><td>0,00</td><td>68,16</td><td>87,28</td><td>68,16</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,81</td><td>64,93</td><td>0,00</td><td>0,00</td><td>0,00</td><td>55,67</td><td>87,68</td><td>55,67</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,85</td><td>65,28</td><td>0,00</td><td>0,00</td><td>0,00</td><td>54,82</td><td>88,08</td><td>54,82</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,89</td><td>65,28</td><td>0,00</td><td>0,00</td><td>0,00</td><td>53,47</td><td>88,49</td><td>53,47</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,92</td><td>49,07</td><td>0,00</td><td>0,00</td><td>0,00</td><td>43,32</td><td>88,79</td><td>43,32</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,95</td><td>49,19</td><td>0,00</td><td>0,00</td><td>0,00</td><td>43,79</td><td>89,09</td><td>43,79</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,04</td><td>147,92</td><td>0,00</td><td>0,00</td><td>0,00</td><td>101,99</td><td>90,00</td><td>101,99</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,11</td><td>115,63</td><td>0,00</td><td>0,00</td><td>0,00</td><td>102,58</td><td>90,71</td><td>102,58</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,15</td><td>78,20</td><td>12,00</td><td>12,00</td><td>0,00</td><td>77,01</td><td>91,12</td><td>77,01</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,16</td><td>55,67</td><td>39,00</td><td>39,00</td><td>0,00</td><td>70,96</td><td>91,22</td><td>70,96</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,16</td><td>39,00</td><td>39,00</td><td>39,00</td><td>0,00</td><td>56,50</td><td>91,22</td><td>56,50</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,19</td><td>88,77</td><td>39,00</td><td>39,00</td><td>0,00</td><td>85,20</td><td>91,53</td><td>85,20</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,30</td><td>200,45</td><td>17,00</td><td>17,00</td><td>0,00</td><td>259,90</td><td>92,66</td><td>259,90</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,42</td><td>206,27</td><td>5,00</td><td>5,00</td><td>0,00</td><td>225,40</td><td>93,89</td><td>225,40</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,52</td><td>173,87</td><td>5,00</td><td>5,00</td><td>0,00</td><td>241,12</td><td>94,93</td><td>241,12</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,61</td><td>157,78</td><td>5,00</td><td>5,00</td><td>0,00</td><td>201,96</td><td>95,87</td><td>201,96</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>333,87</td><td>26,00</td><td>26,00</td><td>0,00</td><td>270,37</td><td>97,77</td><td>270,37</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>659,00</td><td>659,00</td><td>659,00</td><td>0,00</td><td>697,53</td><td>97,77</td><td>697,53</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>325,62</td><td>360,00</td><td>360,00</td><td>0,00</td><td>444,93</td><td>97,55</td><td>444,93</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>329,75</td><td>261,00</td><td>261,00</td><td>0,00</td><td>298,19</td><td>97,98</td><td>298,19</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>336,75</td><td>354,00</td><td>354,00</td><td>0,00</td><td>263,89</td><td>97,87</td><td>263,89</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>322,50</td><td>374,00</td><td>374,00</td><td>0,00</td><td>287,32</td><td>97,55</td><td>287,32</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,78</td><td>345,13</td><td>328,00</td><td>328,00</td><td>0,00</td><td>320,77</td><td>97,66</td><td>320,77</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>516,38</td><td>482,00</td><td>482,00</td><td>0,00</td><td>465,91</td><td>97,87</td><td>465,91</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,71</td><td>617,60</td><td>772,00</td><td>772,00</td><td>0,00</td><td>779,05</td><td>96,92</td><td>779,05</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>505,87</td><td>248,00</td><td>248,00</td><td>0,00</td><td>591,86</td><td>98,51</td><td>591,86</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>442,26</td><td>494,00</td><td>494,00</td><td>0,00</td><td>420,73</td><td>98,19</td><td>420,73</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>391,76</td><td>495,00</td><td>495,00</td><td>0,00</td><td>327,33</td><td>97,55</td><td>327,33</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>523,87</td><td>541,00</td><td>541,00</td><td>0,00</td><td>529,64</td><td>97,45</td><td>529,64</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>462,96</td><td>600,00</td><td>600,00</td><td>0,00</td><td>511,88</td><td>96,61</td><td>511,88</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,57</td><td>395,62</td><td>583,00</td><td>583,00</td><td>0,00</td><td>434,77</td><td>95,45</td><td>434,77</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,51</td><td>535,38</td><td>637,00</td><td>637,00</td><td>0,00</td><td>413,89</td><td>94,83</td><td>413,89</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,52</td><td>725,90</td><td>709,00</td><td>709,00</td><td>0,00</td><td>624,75</td><td>94,93</td><td>624,75</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,59</td><td>533,75</td><td>415,00</td><td>415,00</td><td>0,00</td><td>556,66</td><td>95,66</td><td>556,66</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>477,39</td><td>187,00</td><td>187,00</td><td>0,00</td><td>397,22</td><td>97,45</td><td>397,22</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>406,35</td><td>217,00</td><td>217,00</td><td>0,00</td><td>344,78</td><td>98,61</td><td>344,78</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>311,15</td><td>138,00</td><td>138,00</td><td>0,00</td><td>245,87</td><td>99,68</td><td>245,87</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>286,84</td><td>252,00</td><td>252,00</td><td>0,00</td><td>228,13</td><td>99,89</td><td>228,13</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>217,16</td><td>252,00</td><td>252,00</td><td>0,00</td><td>174,54</td><td>99,68</td><td>174,54</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>199,03</td><td>251,00</td><td>251,00</td><td>0,00</td><td>159,40</td><td>99,36</td><td>159,40</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>171,64</td><td>189,00</td><td>189,00</td><td>0,00</td><td>147,46</td><td>99,25</td><td>147,46</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>161,36</td><td>144,00</td><td>144,00</td><td>0,00</td><td>134,26</td><td>99,36</td><td>134,26</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>161,25</td><td>144,00</td><td>144,00</td><td>0,00</td><td>131,78</td><td>99,47</td><td>131,78</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>144,00</td><td>144,00</td><td>144,00</td><td>0,00</td><td>119,87</td><td>99,47</td><td>119,87</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>109,39</td><td>144,00</td><td>144,00</td><td>0,00</td><td>97,46</td><td>99,25</td><td>97,46</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>89,61</td><td>55,00</td><td>55,00</td><td>0,00</td><td>94,59</td><td>99,47</td><td>94,59</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>122,56</td><td>53,00</td><td>53,00</td><td>0,00</td><td>86,32</td><td>99,89</td><td>86,32</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>98,00</td><td>98,00</td><td>98,00</td><td>0,00</td><td>95,07</td><td>99,89</td><td>95,07</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>86,64</td><td>104,00</td><td>87,00</td><td>18,00</td><td>89,56</td><td>99,79</td><td>89,56</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>71,00</td><td>71,00</td><td>48,00</td><td>23,00</td><td>71,33</td><td>99,79</td><td>71,33</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>78,00</td><td>78,00</td><td>48,00</td><td>31,00</td><td>75,50</td><td>99,79</td><td>75,50</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>73,36</td><td>56,00</td><td>48,00</td><td>8,00</td><td>71,90</td><td>99,89</td><td>71,90</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>80,00</td><td>80,00</td><td>65,00</td><td>16,00</td><td>73,68</td><td>99,89</td><td>73,68</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>49,80</td><td>102,00</td><td>63,00</td><td>38,00</td><td>65,49</td><td>99,57</td><td>65,49</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>68,00</td><td>68,00</td><td>16,00</td><td>52,00</td><td>65,59</td><td>99,57</td><td>65,59</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>74,36</td><td>57,00</td><td>5,00</td><td>52,00</td><td>61,43</td><td>99,68</td><td>61,43</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,98</td><td>66,48</td><td>49,00</td><td>5,00</td><td>44,00</td><td>51,77</td><td>99,79</td><td>51,77</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>69,36</td><td>52,00</td><td>5,00</td><td>48,00</td><td>54,66</td><td>99,89</td><td>54,66</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,99</td><td>67,00</td><td>67,00</td><td>15,00</td><td>52,00</td><td>50,59</td><td>99,89</td><td>50,59</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>38,16</td><td>73,00</td><td>21,00</td><td>52,00</td><td>55,43</td><td>99,68</td><td>55,43</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>45,64</td><td>63,00</td><td>10,00</td><td>52,00</td><td>51,07</td><td>99,57</td><td>51,07</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>75,36</td><td>58,00</td><td>5,00</td><td>53,00</td><td>55,05</td><td>99,68</td><td>55,05</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>57,00</td><td>57,00</td><td>5,00</td><td>52,00</td><td>49,63</td><td>99,68</td><td>49,63</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>39,00</td><td>39,00</td><td>5,00</td><td>34,00</td><td>43,69</td><td>99,68</td><td>43,69</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,97</td><td>54,00</td><td>54,00</td><td>5,00</td><td>49,00</td><td>40,23</td><td>99,68</td><td>40,23</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,96</td><td>41,00</td><td>58,00</td><td>5,00</td><td>53,00</td><td>40,65</td><td>99,57</td><td>40,65</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,95</td><td>40,00</td><td>57,00</td><td>5,00</td><td>53,00</td><td>37,15</td><td>99,47</td><td>37,15</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,94</td><td>33,75</td><td>51,00</td><td>5,00</td><td>46,00</td><td>35,66</td><td>99,36</td><td>35,66</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>40,64</td><td>58,00</td><td>5,00</td><td>53,00</td><td>33,65</td><td>99,25</td><td>33,65</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>33,64</td><td>51,00</td><td>5,00</td><td>46,00</td><td>33,34</td><td>99,15</td><td>33,34</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,92</td><td>39,00</td><td>39,00</td><td>5,00</td><td>34,00</td><td>31,51</td><td>99,15</td><td>31,51</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>30,64</td><td>48,00</td><td>5,00</td><td>43,00</td><td>32,43</td><td>99,04</td><td>32,43</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>40,75</td><td>58,00</td><td>5,00</td><td>53,00</td><td>33,00</td><td>98,93</td><td>33,00</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>40,64</td><td>58,00</td><td>5,00</td><td>53,00</td><td>31,17</td><td>98,83</td><td>31,17</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>20,51</td><td>55,00</td><td>2,00</td><td>53,00</td><td>32,59</td><td>98,61</td><td>32,59</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,87</td><td>49,00</td><td>49,00</td><td>0,00</td><td>49,00</td><td>28,95</td><td>98,61</td><td>28,95</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>28,75</td><td>46,00</td><td>0,00</td><td>46,00</td><td>31,52</td><td>98,51</td><td>31,52</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>42,00</td><td>42,00</td><td>0,00</td><td>42,00</td><td>28,48</td><td>98,51</td><td>28,48</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,86</td><td>48,00</td><td>48,00</td><td>0,00</td><td>48,00</td><td>29,41</td><td>98,51</td><td>29,41</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>35,75</td><td>53,00</td><td>0,00</td><td>53,00</td><td>31,69</td><td>98,40</td><td>31,69</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>26,69</td><td>98,40</td><td>26,69</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>16,51</td><td>51,00</td><td>0,00</td><td>51,00</td><td>30,61</td><td>98,19</td><td>30,61</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>51,00</td><td>51,00</td><td>0,00</td><td>51,00</td><td>26,63</td><td>98,19</td><td>26,63</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>35,75</td><td>53,00</td><td>0,00</td><td>53,00</td><td>30,90</td><td>98,08</td><td>30,90</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,83</td><td>37,25</td><td>20,00</td><td>0,00</td><td>20,00</td><td>25,90</td><td>98,19</td><td>25,90</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>12,75</td><td>30,00</td><td>0,00</td><td>44,00</td><td>26,33</td><td>98,08</td><td>26,33</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>34,75</td><td>52,00</td><td>0,00</td><td>52,00</td><td>25,41</td><td>97,98</td><td>25,41</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>34,75</td><td>52,00</td><td>0,00</td><td>52,00</td><td>33,89</td><td>97,87</td><td>33,89</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,81</td><td>69,25</td><td>52,00</td><td>0,00</td><td>52,00</td><td>33,07</td><td>97,98</td><td>33,07</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,80</td><td>28,75</td><td>46,00</td><td>0,00</td><td>46,00</td><td>34,28</td><td>97,87</td><td>34,28</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>35,87</td><td>53,00</td><td>0,00</td><td>53,00</td><td>25,38</td><td>97,77</td><td>25,38</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,79</td><td>26,00</td><td>26,00</td><td>0,00</td><td>26,00</td><td>23,94</td><td>97,77</td><td>23,94</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,78</td><td>23,75</td><td>41,00</td><td>0,00</td><td>41,00</td><td>22,87</td><td>97,66</td><td>22,87</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,77</td><td>34,87</td><td>52,00</td><td>0,00</td><td>52,00</td><td>23,36</td><td>97,55</td><td>23,36</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,76</td><td>29,87</td><td>47,00</td><td>0,00</td><td>47,00</td><td>23,49</td><td>97,45</td><td>23,49</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,75</td><td>26,75</td><td>44,00</td><td>0,00</td><td>44,00</td><td>23,69</td><td>97,34</td><td>23,69</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,74</td><td>33,87</td><td>51,00</td><td>0,00</td><td>51,00</td><td>23,78</td><td>97,24</td><td>23,78</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,73</td><td>29,87</td><td>47,00</td><td>0,00</td><td>47,00</td><td>23,39</td><td>97,13</td><td>23,39</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>251,37</td><td>45,00</td><td>0,00</td><td>45,00</td><td>189,66</td><td>98,40</td><td>189,66</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>102,74</td><td>51,00</td><td>0,00</td><td>51,00</td><td>134,93</td><td>98,72</td><td>134,93</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>71,25</td><td>54,00</td><td>0,00</td><td>54,00</td><td>82,51</td><td>98,83</td><td>82,51</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>72,36</td><td>55,00</td><td>0,00</td><td>55,00</td><td>68,03</td><td>98,93</td><td>68,03</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,90</td><td>57,00</td><td>57,00</td><td>0,00</td><td>57,00</td><td>52,46</td><td>98,93</td><td>52,46</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,89</td><td>52,64</td><td>70,00</td><td>0,00</td><td>70,00</td><td>46,54</td><td>98,83</td><td>46,54</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>61,75</td><td>79,00</td><td>0,00</td><td>79,00</td><td>54,20</td><td>98,72</td><td>54,20</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,93</td><td>149,57</td><td>63,00</td><td>0,00</td><td>63,00</td><td>143,69</td><td>99,25</td><td>143,69</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,91</td><td>35,28</td><td>70,00</td><td>0,00</td><td>70,00</td><td>77,22</td><td>99,04</td><td>77,22</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,88</td><td>28,15</td><td>80,00</td><td>0,00</td><td>80,00</td><td>49,87</td><td>98,72</td><td>49,87</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,85</td><td>15,26</td><td>67,00</td><td>0,00</td><td>67,00</td><td>39,00</td><td>98,40</td><td>39,00</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,82</td><td>34,26</td><td>86,00</td><td>0,00</td><td>86,00</td><td>33,96</td><td>98,08</td><td>33,96</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,78</td><td>35,13</td><td>104,00</td><td>0,00</td><td>104,00</td><td>34,86</td><td>97,66</td><td>34,86</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,74</td><td>33,37</td><td>102,00</td><td>0,00</td><td>102,00</td><td>34,60</td><td>97,24</td><td>34,60</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,72</td><td>39,74</td><td>74,00</td><td>0,00</td><td>74,00</td><td>33,91</td><td>97,03</td><td>33,91</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,68</td><td>33,60</td><td>102,00</td><td>0,00</td><td>102,00</td><td>30,06</td><td>96,61</td><td>30,06</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,66</td><td>27,86</td><td>62,00</td><td>0,00</td><td>62,00</td><td>29,12</td><td>96,40</td><td>29,12</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,64</td><td>36,86</td><td>71,00</td><td>0,00</td><td>71,00</td><td>25,05</td><td>96,19</td><td>25,05</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,60</td><td>21,94</td><td>90,00</td><td>0,00</td><td>90,00</td><td>23,95</td><td>95,77</td><td>23,95</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,56</td><td>17,06</td><td>85,00</td><td>0,00</td><td>85,00</td><td>21,77</td><td>95,35</td><td>21,77</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,52</td><td>34,18</td><td>102,00</td><td>0,00</td><td>102,00</td><td>19,69</td><td>94,93</td><td>19,69</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,47</td><td>13,51</td><td>98,00</td><td>0,00</td><td>98,00</td><td>19,40</td><td>94,41</td><td>19,40</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,42</td><td>18,62</td><td>103,00</td><td>0,00</td><td>103,00</td><td>19,86</td><td>93,89</td><td>19,86</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,38</td><td>35,75</td><td>103,00</td><td>0,00</td><td>103,00</td><td>17,51</td><td>93,48</td><td>17,51</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,32</td><td>2,42</td><td>103,00</td><td>0,00</td><td>103,00</td><td>17,76</td><td>92,86</td><td>17,76</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,27</td><td>20,44</td><td>104,00</td><td>0,00</td><td>104,00</td><td>13,90</td><td>92,35</td><td>13,90</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,22</td><td>20,55</td><td>104,00</td><td>0,00</td><td>104,00</td><td>14,52</td><td>91,83</td><td>14,52</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,16</td><td>4,35</td><td>104,00</td><td>0,00</td><td>104,00</td><td>12,21</td><td>91,22</td><td>12,21</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,13</td><td>11,23</td><td>61,00</td><td>0,00</td><td>61,00</td><td>20,65</td><td>90,91</td><td>20,65</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,11</td><td>68,90</td><td>102,00</td><td>0,00</td><td>102,00</td><td>23,39</td><td>90,71</td><td>23,39</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,06</td><td>20,36</td><td>103,00</td><td>0,00</td><td>103,00</td><td>25,65</td><td>90,20</td><td>25,65</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>597,01</td><td>20,59</td><td>103,00</td><td>0,00</td><td>103,00</td><td>16,63</td><td>89,70</td><td>16,63</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,96</td><td>20,82</td><td>103,00</td><td>0,00</td><td>103,00</td><td>15,24</td><td>89,19</td><td>15,24</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,95</td><td>86,68</td><td>103,00</td><td>0,00</td><td>103,00</td><td>58,03</td><td>89,09</td><td>58,03</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,92</td><td>53,81</td><td>103,00</td><td>0,00</td><td>103,00</td><td>53,02</td><td>88,79</td><td>53,02</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,90</td><td>40,25</td><td>73,00</td><td>0,00</td><td>73,00</td><td>37,46</td><td>88,59</td><td>37,46</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,86</td><td>31,61</td><td>97,00</td><td>0,00</td><td>97,00</td><td>27,37</td><td>88,18</td><td>27,37</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,81</td><td>8,52</td><td>90,00</td><td>0,00</td><td>90,00</td><td>22,00</td><td>87,68</td><td>22,00</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,76</td><td>21,75</td><td>103,00</td><td>0,00</td><td>103,00</td><td>18,71</td><td>87,18</td><td>18,71</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,71</td><td>21,98</td><td>103,00</td><td>0,00</td><td>103,00</td><td>20,43</td><td>86,68</td><td>20,43</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,66</td><td>22,21</td><td>103,00</td><td>0,00</td><td>103,00</td><td>19,91</td><td>86,19</td><td>19,91</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,61</td><td>22,33</td><td>103,00</td><td>0,00</td><td>103,00</td><td>18,72</td><td>85,69</td><td>18,72</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,56</td><td>22,68</td><td>103,00</td><td>0,00</td><td>103,00</td><td>17,62</td><td>85,20</td><td>17,62</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,51</td><td>22,79</td><td>103,00</td><td>0,00</td><td>103,00</td><td>14,28</td><td>84,70</td><td>14,28</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,46</td><td>10,14</td><td>90,00</td><td>0,00</td><td>90,00</td><td>11,99</td><td>84,21</td><td>11,99</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,40</td><td>8,28</td><td>104,00</td><td>0,00</td><td>104,00</td><td>12,60</td><td>83,62</td><td>12,60</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>23,60</td><td>103,00</td><td>0,00</td><td>103,00</td><td>15,85</td><td>83,14</td><td>15,85</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,30</td><td>23,72</td><td>103,00</td><td>0,00</td><td>103,00</td><td>19,74</td><td>82,65</td><td>19,74</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,26</td><td>34,69</td><td>98,00</td><td>0,00</td><td>98,00</td><td>27,20</td><td>82,26</td><td>27,20</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,27</td><td>66,86</td><td>51,00</td><td>0,00</td><td>51,00</td><td>40,55</td><td>82,36</td><td>40,55</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,26</td><td>65,14</td><td>81,00</td><td>0,00</td><td>81,00</td><td>55,32</td><td>82,26</td><td>55,32</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,22</td><td>39,92</td><td>103,00</td><td>0,00</td><td>103,00</td><td>38,34</td><td>81,87</td><td>38,34</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,17</td><td>24,30</td><td>103,00</td><td>0,00</td><td>103,00</td><td>27,96</td><td>81,39</td><td>27,96</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,14</td><td>26,89</td><td>74,00</td><td>0,00</td><td>74,00</td><td>27,63</td><td>81,10</td><td>27,63</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,11</td><td>56,01</td><td>103,00</td><td>0,00</td><td>103,00</td><td>31,56</td><td>80,81</td><td>31,56</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,09</td><td>53,63</td><td>85,00</td><td>0,00</td><td>85,00</td><td>33,43</td><td>80,61</td><td>33,43</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,08</td><td>41,38</td><td>57,00</td><td>0,00</td><td>57,00</td><td>30,67</td><td>80,52</td><td>30,67</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,05</td><td>35,13</td><td>82,00</td><td>0,00</td><td>82,00</td><td>33,74</td><td>80,23</td><td>33,74</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,01</td><td>41,62</td><td>104,00</td><td>0,00</td><td>104,00</td><td>41,57</td><td>79,85</td><td>41,57</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,02</td><td>118,51</td><td>103,00</td><td>0,00</td><td>103,00</td><td>92,81</td><td>79,94</td><td>92,81</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,04</td><td>130,25</td><td>99,00</td><td>0,00</td><td>99,00</td><td>111,36</td><td>80,13</td><td>111,36</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,08</td><td>166,50</td><td>104,00</td><td>0,00</td><td>104,00</td><td>127,90</td><td>80,52</td><td>127,90</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,11</td><td>144,99</td><td>98,00</td><td>0,00</td><td>98,00</td><td>127,65</td><td>80,81</td><td>127,65</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,16</td><td>110,36</td><td>32,00</td><td>0,00</td><td>32,00</td><td>98,16</td><td>81,29</td><td>98,16</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,18</td><td>107,48</td><td>76,00</td><td>0,00</td><td>76,00</td><td>88,35</td><td>81,48</td><td>88,35</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,19</td><td>118,74</td><td>103,00</td><td>0,00</td><td>103,00</td><td>89,03</td><td>81,58</td><td>89,03</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,20</td><td>119,74</td><td>104,00</td><td>0,00</td><td>104,00</td><td>83,45</td><td>81,68</td><td>83,45</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,21</td><td>118,74</td><td>103,00</td><td>0,00</td><td>103,00</td><td>85,47</td><td>81,77</td><td>85,47</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,22</td><td>118,74</td><td>103,00</td><td>0,00</td><td>103,00</td><td>94,28</td><td>81,87</td><td>94,28</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,30</td><td>199,39</td><td>73,00</td><td>0,00</td><td>73,00</td><td>196,02</td><td>82,65</td><td>196,02</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,36</td><td>139,14</td><td>44,00</td><td>0,00</td><td>44,00</td><td>224,57</td><td>83,23</td><td>224,57</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>101,71</td><td>70,00</td><td>0,00</td><td>70,00</td><td>136,03</td><td>83,43</td><td>136,03</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>80,00</td><td>80,00</td><td>0,00</td><td>80,00</td><td>92,64</td><td>83,43</td><td>92,64</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,37</td><td>58,14</td><td>74,00</td><td>0,00</td><td>74,00</td><td>73,70</td><td>83,33</td><td>73,70</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>56,29</td><td>88,00</td><td>0,00</td><td>88,00</td><td>70,99</td><td>83,14</td><td>70,99</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,36</td><td>103,86</td><td>88,00</td><td>0,00</td><td>88,00</td><td>90,72</td><td>83,23</td><td>90,72</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>88,14</td><td>104,00</td><td>0,00</td><td>104,00</td><td>79,13</td><td>83,14</td><td>79,13</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,33</td><td>56,17</td><td>88,00</td><td>0,00</td><td>88,00</td><td>58,78</td><td>82,94</td><td>58,78</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>168,40</td><td>89,00</td><td>0,00</td><td>89,00</td><td>162,01</td><td>83,43</td><td>162,01</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,36</td><td>61,29</td><td>93,00</td><td>0,00</td><td>93,00</td><td>91,57</td><td>83,23</td><td>91,57</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,34</td><td>54,29</td><td>86,00</td><td>0,00</td><td>86,00</td><td>69,35</td><td>83,04</td><td>69,35</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>42,86</td><td>27,00</td><td>0,00</td><td>27,00</td><td>51,21</td><td>83,14</td><td>51,21</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,35</td><td>73,00</td><td>73,00</td><td>0,00</td><td>73,00</td><td>62,96</td><td>83,14</td><td>62,96</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,38</td><td>138,57</td><td>91,00</td><td>0,00</td><td>91,00</td><td>117,59</td><td>83,43</td><td>117,59</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,43</td><td>104,63</td><td>25,00</td><td>0,00</td><td>25,00</td><td>112,45</td><td>83,92</td><td>112,45</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,44</td><td>87,97</td><td>72,00</td><td>0,00</td><td>72,00</td><td>90,26</td><td>84,02</td><td>90,26</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,43</td><td>76,03</td><td>92,00</td><td>0,00</td><td>92,00</td><td>72,66</td><td>83,92</td><td>72,66</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>61,03</td><td>77,00</td><td>0,00</td><td>77,00</td><td>50,16</td><td>83,82</td><td>50,16</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,43</td><td>90,97</td><td>75,00</td><td>0,00</td><td>75,00</td><td>93,26</td><td>83,92</td><td>93,26</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>89,03</td><td>105,00</td><td>0,00</td><td>105,00</td><td>99,35</td><td>83,82</td><td>99,35</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>82,14</td><td>98,00</td><td>0,00</td><td>98,00</td><td>105,90</td><td>83,72</td><td>105,90</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>57,86</td><td>42,00</td><td>0,00</td><td>42,00</td><td>71,03</td><td>83,82</td><td>71,03</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,40</td><td>53,17</td><td>85,00</td><td>0,00</td><td>85,00</td><td>58,95</td><td>83,62</td><td>58,95</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>113,97</td><td>98,00</td><td>0,00</td><td>98,00</td><td>87,93</td><td>83,72</td><td>87,93</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>86,86</td><td>71,00</td><td>0,00</td><td>71,00</td><td>62,63</td><td>83,82</td><td>62,63</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,40</td><td>67,17</td><td>99,00</td><td>0,00</td><td>99,00</td><td>54,28</td><td>83,62</td><td>54,28</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,41</td><td>121,97</td><td>106,00</td><td>0,00</td><td>106,00</td><td>95,99</td><td>83,72</td><td>95,99</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>120,86</td><td>105,00</td><td>0,00</td><td>105,00</td><td>113,94</td><td>83,82</td><td>113,94</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,45</td><td>105,92</td><td>58,00</td><td>0,00</td><td>58,00</td><td>104,57</td><td>84,11</td><td>104,57</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,44</td><td>75,03</td><td>91,00</td><td>0,00</td><td>91,00</td><td>77,71</td><td>84,02</td><td>77,71</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,46</td><td>109,94</td><td>78,00</td><td>0,00</td><td>78,00</td><td>93,13</td><td>84,21</td><td>93,13</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,47</td><td>111,97</td><td>96,00</td><td>0,00</td><td>96,00</td><td>112,41</td><td>84,31</td><td>112,41</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,47</td><td>99,00</td><td>99,00</td><td>0,00</td><td>99,00</td><td>94,24</td><td>84,31</td><td>94,24</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,46</td><td>84,03</td><td>100,00</td><td>0,00</td><td>100,00</td><td>73,27</td><td>84,21</td><td>73,27</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,44</td><td>74,06</td><td>106,00</td><td>0,00</td><td>106,00</td><td>65,13</td><td>84,02</td><td>65,13</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,47</td><td>122,92</td><td>75,00</td><td>0,00</td><td>75,00</td><td>97,60</td><td>84,31</td><td>97,60</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,45</td><td>69,06</td><td>101,00</td><td>0,00</td><td>101,00</td><td>66,34</td><td>84,11</td><td>66,34</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,42</td><td>55,08</td><td>103,00</td><td>0,00</td><td>103,00</td><td>55,41</td><td>83,82</td><td>55,41</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,39</td><td>52,31</td><td>100,00</td><td>0,00</td><td>100,00</td><td>45,52</td><td>83,53</td><td>45,52</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,37</td><td>72,17</td><td>104,00</td><td>0,00</td><td>104,00</td><td>55,78</td><td>83,33</td><td>55,78</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,36</td><td>88,14</td><td>104,00</td><td>0,00</td><td>104,00</td><td>65,14</td><td>83,23</td><td>65,14</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,37</td><td>70,86</td><td>55,00</td><td>0,00</td><td>55,00</td><td>54,79</td><td>83,33</td><td>54,79</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,37</td><td>61,00</td><td>61,00</td><td>0,00</td><td>61,00</td><td>48,27</td><td>83,33</td><td>48,27</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,34</td><td>55,43</td><td>103,00</td><td>0,00</td><td>103,00</td><td>42,51</td><td>83,04</td><td>42,51</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,31</td><td>34,43</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,17</td><td>82,75</td><td>32,17</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,32</td><td>84,86</td><td>69,00</td><td>0,00</td><td>69,00</td><td>59,78</td><td>82,84</td><td>59,78</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,29</td><td>51,43</td><td>99,00</td><td>0,00</td><td>99,00</td><td>44,70</td><td>82,55</td><td>44,70</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,25</td><td>41,81</td><td>105,00</td><td>0,00</td><td>105,00</td><td>35,81</td><td>82,16</td><td>35,81</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,21</td><td>40,92</td><td>104,00</td><td>0,00</td><td>104,00</td><td>30,15</td><td>81,77</td><td>30,15</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,18</td><td>41,78</td><td>89,00</td><td>0,00</td><td>89,00</td><td>27,56</td><td>81,48</td><td>27,56</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,14</td><td>40,15</td><td>103,00</td><td>0,00</td><td>103,00</td><td>30,23</td><td>81,10</td><td>30,23</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,10</td><td>40,27</td><td>103,00</td><td>0,00</td><td>103,00</td><td>29,21</td><td>80,71</td><td>29,21</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,06</td><td>32,50</td><td>95,00</td><td>0,00</td><td>95,00</td><td>26,95</td><td>80,33</td><td>26,95</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>596,01</td><td>25,99</td><td>104,00</td><td>0,00</td><td>104,00</td><td>22,46</td><td>79,85</td><td>22,46</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,96</td><td>21,11</td><td>99,00</td><td>0,00</td><td>99,00</td><td>19,87</td><td>79,37</td><td>19,87</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,91</td><td>26,45</td><td>104,00</td><td>0,00</td><td>104,00</td><td>20,19</td><td>78,89</td><td>20,19</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,88</td><td>41,47</td><td>88,00</td><td>0,00</td><td>88,00</td><td>23,42</td><td>78,60</td><td>23,42</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,84</td><td>42,19</td><td>104,00</td><td>0,00</td><td>104,00</td><td>27,50</td><td>78,22</td><td>27,50</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,80</td><td>42,31</td><td>104,00</td><td>0,00</td><td>104,00</td><td>25,17</td><td>77,84</td><td>25,17</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,75</td><td>27,03</td><td>104,00</td><td>0,00</td><td>104,00</td><td>22,33</td><td>77,37</td><td>22,33</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,71</td><td>32,66</td><td>94,00</td><td>0,00</td><td>94,00</td><td>19,39</td><td>76,99</td><td>19,39</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,66</td><td>21,38</td><td>98,00</td><td>0,00</td><td>98,00</td><td>20,90</td><td>76,52</td><td>20,90</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,62</td><td>35,89</td><td>97,00</td><td>0,00</td><td>97,00</td><td>22,88</td><td>76,15</td><td>22,88</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,61</td><td>44,72</td><td>60,00</td><td>0,00</td><td>60,00</td><td>30,75</td><td>76,05</td><td>30,75</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,62</td><td>49,28</td><td>34,00</td><td>0,00</td><td>34,00</td><td>33,99</td><td>76,15</td><td>33,99</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,60</td><td>39,44</td><td>70,00</td><td>0,00</td><td>70,00</td><td>34,98</td><td>75,96</td><td>34,98</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,57</td><td>37,40</td><td>83,00</td><td>0,00</td><td>83,00</td><td>27,53</td><td>75,68</td><td>27,53</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,53</td><td>21,12</td><td>82,00</td><td>0,00</td><td>82,00</td><td>21,50</td><td>75,30</td><td>21,50</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,53</td><td>79,00</td><td>79,00</td><td>0,00</td><td>79,00</td><td>55,89</td><td>75,30</td><td>55,89</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,57</td><td>86,88</td><td>26,00</td><td>0,00</td><td>26,00</td><td>62,07</td><td>75,68</td><td>62,07</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,57</td><td>29,00</td><td>29,00</td><td>0,00</td><td>29,00</td><td>36,49</td><td>75,68</td><td>36,49</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,61</td><td>75,88</td><td>15,00</td><td>0,00</td><td>15,00</td><td>63,29</td><td>76,05</td><td>63,29</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,62</td><td>76,28</td><td>61,00</td><td>0,00</td><td>61,00</td><td>71,94</td><td>76,15</td><td>71,94</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,59</td><td>29,28</td><td>75,00</td><td>0,00</td><td>75,00</td><td>46,99</td><td>75,87</td><td>46,99</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,55</td><td>21,12</td><td>82,00</td><td>0,00</td><td>82,00</td><td>35,01</td><td>75,49</td><td>35,01</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,50</td><td>14,07</td><td>90,00</td><td>0,00</td><td>90,00</td><td>25,69</td><td>75,02</td><td>25,69</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,46</td><td>16,35</td><td>77,00</td><td>0,00</td><td>77,00</td><td>20,68</td><td>74,65</td><td>20,68</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,44</td><td>14,79</td><td>45,00</td><td>0,00</td><td>45,00</td><td>21,38</td><td>74,46</td><td>21,38</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,41</td><td>27,75</td><td>73,00</td><td>0,00</td><td>73,00</td><td>21,22</td><td>74,19</td><td>21,22</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,37</td><td>22,70</td><td>83,00</td><td>0,00</td><td>83,00</td><td>17,80</td><td>73,82</td><td>17,80</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,32</td><td>13,77</td><td>89,00</td><td>0,00</td><td>89,00</td><td>16,33</td><td>73,35</td><td>16,33</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,28</td><td>25,05</td><td>85,00</td><td>0,00</td><td>85,00</td><td>17,50</td><td>72,98</td><td>17,50</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,25</td><td>31,98</td><td>77,00</td><td>0,00</td><td>77,00</td><td>25,62</td><td>72,71</td><td>25,62</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,21</td><td>42,28</td><td>102,00</td><td>0,00</td><td>102,00</td><td>27,85</td><td>72,34</td><td>27,85</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,18</td><td>32,21</td><td>77,00</td><td>0,00</td><td>77,00</td><td>25,58</td><td>72,06</td><td>25,58</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,13</td><td>14,58</td><td>89,00</td><td>0,00</td><td>89,00</td><td>22,97</td><td>71,61</td><td>22,97</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,08</td><td>29,81</td><td>104,00</td><td>0,00</td><td>104,00</td><td>24,48</td><td>71,15</td><td>24,48</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,05</td><td>42,56</td><td>87,00</td><td>0,00</td><td>87,00</td><td>29,27</td><td>70,88</td><td>29,27</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,01</td><td>38,86</td><td>98,00</td><td>0,00</td><td>98,00</td><td>31,83</td><td>70,51</td><td>31,83</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,97</td><td>41,97</td><td>101,00</td><td>0,00</td><td>101,00</td><td>28,10</td><td>70,15</td><td>28,10</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>594,93</td><td>15,09</td><td>74,00</td><td>0,00</td><td>74,00</td><td>20,01</td><td>69,79</td><td>20,01</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,05</td><td>177,08</td><td>0,00</td><td>0,00</td><td>0,00</td><td>194,29</td><td>70,88</td><td>194,29</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,08</td><td>92,44</td><td>48,00</td><td>0,00</td><td>48,00</td><td>248,51</td><td>71,15</td><td>248,51</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,12</td><td>98,37</td><td>39,00</td><td>0,00</td><td>39,00</td><td>169,85</td><td>71,52</td><td>169,85</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,15</td><td>95,56</td><td>51,00</td><td>0,00</td><td>51,00</td><td>141,51</td><td>71,79</td><td>141,51</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,18</td><td>58,68</td><td>14,00</td><td>0,00</td><td>14,00</td><td>122,70</td><td>72,06</td><td>122,70</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,21</td><td>55,79</td><td>11,00</td><td>0,00</td><td>11,00</td><td>91,78</td><td>72,34</td><td>91,78</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,25</td><td>59,72</td><td>0,00</td><td>0,00</td><td>0,00</td><td>74,22</td><td>72,71</td><td>74,22</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,31</td><td>89,93</td><td>0,00</td><td>0,00</td><td>0,00</td><td>85,82</td><td>73,26</td><td>85,82</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,32</td><td>31,05</td><td>16,00</td><td>0,00</td><td>16,00</td><td>41,78</td><td>73,35</td><td>41,78</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,33</td><td>28,05</td><td>13,00</td><td>0,00</td><td>13,00</td><td>42,05</td><td>73,45</td><td>42,05</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,35</td><td>49,09</td><td>19,00</td><td>0,00</td><td>19,00</td><td>43,41</td><td>73,63</td><td>43,41</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19071</td><td>PASSO FUNDO                                       </td><td>595,36</td><td>53,05</td><td>38,00</td><td>0,00</td><td>38,00</td><td>45,67</td><td>73,72</td><td>45,67</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

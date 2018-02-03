@@ -1,0 +1,1541 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,06</td><td>34,33</td><td>30,00</td><td>0,00</td><td>30,00</td><td>66,19</td><td>8,37</td><td>66,19</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,15</td><td>43,00</td><td>30,00</td><td>0,00</td><td>30,00</td><td>73,90</td><td>8,73</td><td>73,90</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,21</td><td>38,67</td><td>30,00</td><td>0,00</td><td>30,00</td><td>94,72</td><td>8,98</td><td>94,72</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,23</td><td>33,89</td><td>31,00</td><td>0,00</td><td>31,00</td><td>85,90</td><td>9,06</td><td>85,90</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,21</td><td>27,11</td><td>30,00</td><td>0,00</td><td>30,00</td><td>81,03</td><td>8,98</td><td>81,03</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,17</td><td>24,22</td><td>30,00</td><td>0,00</td><td>30,00</td><td>72,77</td><td>8,81</td><td>72,77</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,15</td><td>27,11</td><td>30,00</td><td>0,00</td><td>30,00</td><td>67,20</td><td>8,73</td><td>67,20</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,12</td><td>26,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>65,53</td><td>8,61</td><td>65,53</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,14</td><td>31,89</td><td>29,00</td><td>0,00</td><td>29,00</td><td>69,94</td><td>8,69</td><td>69,94</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,28</td><td>50,22</td><td>30,00</td><td>0,00</td><td>30,00</td><td>72,78</td><td>9,26</td><td>72,78</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,31</td><td>35,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>77,94</td><td>9,38</td><td>77,94</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,32</td><td>32,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>86,18</td><td>9,42</td><td>86,18</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,31</td><td>29,56</td><td>31,00</td><td>0,00</td><td>31,00</td><td>90,87</td><td>9,38</td><td>90,87</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,32</td><td>32,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>120,14</td><td>9,42</td><td>120,14</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,38</td><td>39,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>182,15</td><td>9,67</td><td>182,15</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,51</td><td>48,78</td><td>30,00</td><td>0,00</td><td>30,00</td><td>321,16</td><td>10,19</td><td>321,16</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,51</td><td>30,00</td><td>30,00</td><td>0,00</td><td>30,00</td><td>362,38</td><td>10,19</td><td>362,38</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,50</td><td>29,56</td><td>31,00</td><td>0,00</td><td>31,00</td><td>298,23</td><td>10,15</td><td>298,23</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,48</td><td>28,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>238,54</td><td>10,07</td><td>238,54</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,47</td><td>29,56</td><td>31,00</td><td>0,00</td><td>31,00</td><td>192,25</td><td>10,03</td><td>192,25</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,45</td><td>28,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>133,88</td><td>9,95</td><td>133,88</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,43</td><td>28,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>100,97</td><td>9,87</td><td>100,97</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,41</td><td>27,11</td><td>30,00</td><td>0,00</td><td>30,00</td><td>90,37</td><td>9,79</td><td>90,37</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,42</td><td>31,44</td><td>30,00</td><td>0,00</td><td>30,00</td><td>81,94</td><td>9,83</td><td>81,94</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,41</td><td>29,56</td><td>31,00</td><td>0,00</td><td>31,00</td><td>79,85</td><td>9,79</td><td>79,85</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,41</td><td>31,00</td><td>31,00</td><td>0,00</td><td>31,00</td><td>77,94</td><td>9,79</td><td>77,94</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,45</td><td>36,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>81,85</td><td>9,95</td><td>81,85</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,53</td><td>38,56</td><td>27,00</td><td>16,00</td><td>12,00</td><td>90,32</td><td>10,28</td><td>90,32</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,54</td><td>29,44</td><td>28,00</td><td>10,00</td><td>18,00</td><td>94,12</td><td>10,32</td><td>94,12</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,55</td><td>28,44</td><td>27,00</td><td>14,00</td><td>13,00</td><td>91,97</td><td>10,36</td><td>91,97</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,54</td><td>26,56</td><td>28,00</td><td>0,00</td><td>28,00</td><td>83,79</td><td>10,32</td><td>83,79</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,54</td><td>27,00</td><td>27,00</td><td>16,00</td><td>11,00</td><td>69,92</td><td>10,32</td><td>69,92</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,52</td><td>25,11</td><td>28,00</td><td>11,00</td><td>18,00</td><td>63,22</td><td>10,24</td><td>63,22</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,53</td><td>25,44</td><td>24,00</td><td>13,00</td><td>11,00</td><td>56,26</td><td>10,28</td><td>56,26</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,53</td><td>26,00</td><td>26,00</td><td>0,00</td><td>26,00</td><td>52,65</td><td>10,28</td><td>52,65</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,56</td><td>28,33</td><td>24,00</td><td>20,00</td><td>4,00</td><td>53,17</td><td>10,40</td><td>53,17</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,54</td><td>26,11</td><td>29,00</td><td>0,00</td><td>29,00</td><td>51,20</td><td>10,32</td><td>51,20</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,50</td><td>26,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>50,17</td><td>10,15</td><td>50,17</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,54</td><td>30,78</td><td>25,00</td><td>0,00</td><td>24,00</td><td>51,98</td><td>10,32</td><td>51,98</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,58</td><td>31,78</td><td>26,00</td><td>0,00</td><td>26,00</td><td>56,37</td><td>10,48</td><td>56,37</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,63</td><td>31,22</td><td>24,00</td><td>10,00</td><td>14,00</td><td>63,25</td><td>10,68</td><td>63,25</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,65</td><td>28,89</td><td>26,00</td><td>10,00</td><td>16,00</td><td>71,55</td><td>10,76</td><td>71,55</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,67</td><td>26,89</td><td>24,00</td><td>10,00</td><td>14,00</td><td>75,66</td><td>10,84</td><td>75,66</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,68</td><td>27,44</td><td>26,00</td><td>10,00</td><td>16,00</td><td>75,84</td><td>10,89</td><td>75,84</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,69</td><td>25,44</td><td>24,00</td><td>10,00</td><td>14,00</td><td>77,48</td><td>10,93</td><td>77,48</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,75</td><td>34,67</td><td>26,00</td><td>8,00</td><td>19,00</td><td>78,49</td><td>11,17</td><td>78,49</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,95</td><td>52,89</td><td>24,00</td><td>10,00</td><td>14,00</td><td>99,32</td><td>11,98</td><td>99,32</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>48,67</td><td>27,00</td><td>8,00</td><td>19,00</td><td>158,38</td><td>12,59</td><td>158,38</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>20,00</td><td>20,00</td><td>9,00</td><td>11,00</td><td>186,95</td><td>12,59</td><td>186,95</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>23,00</td><td>23,00</td><td>6,00</td><td>18,00</td><td>181,69</td><td>12,59</td><td>181,69</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>21,00</td><td>21,00</td><td>10,00</td><td>11,00</td><td>169,57</td><td>12,59</td><td>169,57</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>24,00</td><td>24,00</td><td>6,00</td><td>19,00</td><td>152,38</td><td>12,59</td><td>152,38</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,12</td><td>23,89</td><td>21,00</td><td>0,00</td><td>21,00</td><td>131,34</td><td>12,67</td><td>131,34</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,15</td><td>172,78</td><td>24,00</td><td>0,00</td><td>24,00</td><td>137,37</td><td>16,86</td><td>137,37</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,31</td><td>44,77</td><td>21,66</td><td>10,00</td><td>&nbsp;</td><td>148,17</td><td>17,51</td><td>148,17</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,43</td><td>41,33</td><td>24,00</td><td>6,00</td><td>19,00</td><td>177,32</td><td>17,99</td><td>177,32</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,43</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>164,89</td><td>17,99</td><td>164,89</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,43</td><td>25,00</td><td>25,00</td><td>11,00</td><td>19,00</td><td>140,98</td><td>17,99</td><td>140,98</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,45</td><td>25,00</td><td>22,00</td><td>8,00</td><td>14,00</td><td>135,38</td><td>18,07</td><td>135,38</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,75</td><td>67,00</td><td>24,00</td><td>8,00</td><td>17,00</td><td>160,68</td><td>19,29</td><td>160,68</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,06</td><td>68,46</td><td>21,00</td><td>18,00</td><td>3,00</td><td>194,80</td><td>20,63</td><td>194,80</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,26</td><td>61,83</td><td>24,00</td><td>8,00</td><td>16,00</td><td>193,47</td><td>21,69</td><td>193,47</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,49</td><td>65,50</td><td>22,00</td><td>9,00</td><td>12,00</td><td>209,80</td><td>22,91</td><td>209,80</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,67</td><td>59,04</td><td>25,00</td><td>6,00</td><td>19,00</td><td>167,01</td><td>23,87</td><td>167,01</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,77</td><td>40,91</td><td>22,00</td><td>9,00</td><td>12,00</td><td>128,12</td><td>24,40</td><td>128,12</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,92</td><td>53,37</td><td>25,00</td><td>6,00</td><td>19,00</td><td>122,90</td><td>25,20</td><td>122,90</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,12</td><td>59,82</td><td>22,00</td><td>10,00</td><td>12,00</td><td>144,74</td><td>26,26</td><td>144,74</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,20</td><td>39,13</td><td>24,00</td><td>6,00</td><td>19,00</td><td>149,53</td><td>26,69</td><td>149,53</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,26</td><td>32,35</td><td>21,00</td><td>10,00</td><td>11,00</td><td>126,92</td><td>27,01</td><td>126,92</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,33</td><td>37,24</td><td>24,00</td><td>6,00</td><td>19,00</td><td>121,15</td><td>27,38</td><td>121,15</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,49</td><td>44,26</td><td>14,00</td><td>9,00</td><td>5,00</td><td>117,05</td><td>28,23</td><td>117,05</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,55</td><td>34,35</td><td>23,00</td><td>6,00</td><td>18,00</td><td>116,06</td><td>28,55</td><td>116,06</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,60</td><td>29,46</td><td>20,00</td><td>13,00</td><td>7,00</td><td>114,47</td><td>28,82</td><td>114,47</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,63</td><td>29,67</td><td>24,00</td><td>6,00</td><td>20,00</td><td>105,08</td><td>28,98</td><td>105,08</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>28,78</td><td>25,00</td><td>5,00</td><td>20,00</td><td>99,74</td><td>29,08</td><td>99,74</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>29,00</td><td>29,00</td><td>0,00</td><td>29,00</td><td>94,76</td><td>29,08</td><td>94,76</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>29,00</td><td>29,00</td><td>0,00</td><td>29,00</td><td>91,26</td><td>29,08</td><td>91,26</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,68</td><td>26,67</td><td>21,00</td><td>8,00</td><td>14,00</td><td>87,37</td><td>29,24</td><td>87,37</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,71</td><td>29,67</td><td>24,00</td><td>7,00</td><td>16,00</td><td>83,86</td><td>29,40</td><td>83,86</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,74</td><td>26,67</td><td>21,00</td><td>8,00</td><td>13,00</td><td>82,96</td><td>29,56</td><td>82,96</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,76</td><td>26,78</td><td>23,00</td><td>6,00</td><td>18,00</td><td>83,59</td><td>29,67</td><td>83,59</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,77</td><td>26,89</td><td>25,00</td><td>5,00</td><td>20,00</td><td>85,41</td><td>29,72</td><td>85,41</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,85</td><td>45,13</td><td>30,00</td><td>0,00</td><td>30,00</td><td>93,54</td><td>30,15</td><td>93,54</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,01</td><td>51,26</td><td>21,00</td><td>11,00</td><td>10,00</td><td>100,56</td><td>31,00</td><td>100,56</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,06</td><td>33,46</td><td>24,00</td><td>6,00</td><td>18,00</td><td>108,50</td><td>31,26</td><td>108,50</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,12</td><td>33,35</td><td>22,00</td><td>11,00</td><td>11,00</td><td>107,87</td><td>31,58</td><td>107,87</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,16</td><td>32,56</td><td>25,00</td><td>6,00</td><td>18,00</td><td>97,96</td><td>31,80</td><td>97,96</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,24</td><td>37,13</td><td>22,00</td><td>11,00</td><td>11,00</td><td>93,44</td><td>32,22</td><td>93,44</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,30</td><td>36,35</td><td>25,00</td><td>6,00</td><td>18,00</td><td>94,30</td><td>32,54</td><td>94,30</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,36</td><td>33,35</td><td>22,00</td><td>10,00</td><td>12,00</td><td>93,63</td><td>32,86</td><td>93,63</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,40</td><td>32,56</td><td>25,00</td><td>6,00</td><td>18,00</td><td>91,56</td><td>33,07</td><td>91,56</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,45</td><td>31,46</td><td>22,00</td><td>11,00</td><td>12,00</td><td>84,00</td><td>33,34</td><td>84,00</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,48</td><td>30,67</td><td>25,00</td><td>6,00</td><td>19,00</td><td>78,10</td><td>33,50</td><td>78,10</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,52</td><td>29,56</td><td>22,00</td><td>11,00</td><td>12,00</td><td>72,52</td><td>33,71</td><td>72,52</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,55</td><td>30,67</td><td>25,00</td><td>11,00</td><td>14,00</td><td>68,07</td><td>33,87</td><td>68,07</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,56</td><td>30,89</td><td>29,00</td><td>6,00</td><td>1,00</td><td>66,75</td><td>33,92</td><td>66,75</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,58</td><td>28,78</td><td>25,00</td><td>6,50</td><td>&nbsp;</td><td>63,85</td><td>34,03</td><td>63,85</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,58</td><td>22,00</td><td>22,00</td><td>8,00</td><td>13,00</td><td>60,29</td><td>34,03</td><td>60,29</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,63</td><td>33,46</td><td>24,00</td><td>6,50</td><td>17,00</td><td>56,88</td><td>34,29</td><td>56,88</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,63</td><td>21,00</td><td>21,00</td><td>11,00</td><td>11,00</td><td>53,67</td><td>34,29</td><td>53,67</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,64</td><td>26,89</td><td>25,00</td><td>6,00</td><td>18,00</td><td>50,57</td><td>34,35</td><td>50,57</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,64</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>49,58</td><td>34,35</td><td>49,58</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,65</td><td>25,89</td><td>24,00</td><td>6,00</td><td>17,00</td><td>49,37</td><td>34,40</td><td>49,37</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,65</td><td>21,00</td><td>21,00</td><td>11,00</td><td>11,00</td><td>49,10</td><td>34,40</td><td>49,10</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,66</td><td>25,89</td><td>24,00</td><td>6,00</td><td>17,00</td><td>49,06</td><td>34,45</td><td>49,06</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,66</td><td>21,00</td><td>21,00</td><td>11,00</td><td>10,00</td><td>48,83</td><td>34,45</td><td>48,83</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,89</td><td>23,00</td><td>5,00</td><td>16,00</td><td>46,33</td><td>34,51</td><td>46,33</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>23,00</td><td>23,00</td><td>13,00</td><td>10,00</td><td>43,17</td><td>34,51</td><td>43,17</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>18,00</td><td>40,17</td><td>34,51</td><td>40,17</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>39,18</td><td>34,51</td><td>39,18</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>0,00</td><td>24,00</td><td>36,82</td><td>34,51</td><td>36,82</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>10,00</td><td>11,00</td><td>35,94</td><td>34,51</td><td>35,94</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>25,00</td><td>25,00</td><td>8,00</td><td>17,00</td><td>38,11</td><td>34,51</td><td>38,11</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>8,00</td><td>14,00</td><td>38,83</td><td>34,51</td><td>38,83</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,68</td><td>25,89</td><td>24,00</td><td>8,00</td><td>16,00</td><td>36,62</td><td>34,56</td><td>36,62</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>20,11</td><td>22,00</td><td>8,00</td><td>14,00</td><td>35,66</td><td>34,51</td><td>35,66</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>18,00</td><td>37,63</td><td>34,51</td><td>37,63</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>21,00</td><td>21,00</td><td>11,00</td><td>10,00</td><td>36,07</td><td>34,51</td><td>36,07</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>17,00</td><td>37,86</td><td>34,51</td><td>37,86</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,68</td><td>22,89</td><td>21,00</td><td>11,00</td><td>10,00</td><td>39,17</td><td>34,56</td><td>39,17</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,11</td><td>24,00</td><td>6,00</td><td>18,00</td><td>39,64</td><td>34,51</td><td>39,64</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>39,77</td><td>34,51</td><td>39,77</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>18,00</td><td>39,63</td><td>34,51</td><td>39,63</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>21,00</td><td>21,00</td><td>0,00</td><td>21,00</td><td>37,23</td><td>34,51</td><td>37,23</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,63</td><td>22,44</td><td>30,00</td><td>6,00</td><td>24,00</td><td>38,47</td><td>34,29</td><td>38,47</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,56</td><td>15,00</td><td>4,00</td><td>11,00</td><td>38,95</td><td>34,51</td><td>38,95</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>18,00</td><td>36,57</td><td>34,51</td><td>36,57</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>37,96</td><td>34,51</td><td>37,96</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>6,00</td><td>18,00</td><td>38,66</td><td>34,51</td><td>38,66</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>36,40</td><td>34,51</td><td>36,40</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>25,00</td><td>25,00</td><td>8,00</td><td>16,00</td><td>37,76</td><td>34,51</td><td>37,76</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>21,00</td><td>21,00</td><td>8,00</td><td>13,00</td><td>38,39</td><td>34,51</td><td>38,39</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>24,00</td><td>24,00</td><td>8,00</td><td>16,00</td><td>36,31</td><td>34,51</td><td>36,31</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>21,00</td><td>21,00</td><td>8,00</td><td>13,00</td><td>37,82</td><td>34,51</td><td>37,82</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,68</td><td>22,89</td><td>21,00</td><td>8,00</td><td>18,00</td><td>38,67</td><td>34,56</td><td>38,67</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>19,11</td><td>21,00</td><td>8,00</td><td>10,00</td><td>38,63</td><td>34,51</td><td>38,63</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>23,00</td><td>23,00</td><td>6,00</td><td>17,00</td><td>40,82</td><td>34,51</td><td>40,82</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>45,97</td><td>34,51</td><td>45,97</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,68</td><td>24,89</td><td>23,00</td><td>11,00</td><td>17,00</td><td>49,75</td><td>34,56</td><td>49,75</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,70</td><td>24,78</td><td>21,00</td><td>11,00</td><td>10,00</td><td>55,16</td><td>34,67</td><td>55,16</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,70</td><td>23,00</td><td>23,00</td><td>6,00</td><td>17,00</td><td>59,37</td><td>34,67</td><td>59,37</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,72</td><td>25,78</td><td>22,00</td><td>11,00</td><td>11,00</td><td>63,00</td><td>34,77</td><td>63,00</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,73</td><td>23,89</td><td>22,00</td><td>6,00</td><td>16,00</td><td>64,56</td><td>34,83</td><td>64,56</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,76</td><td>26,67</td><td>21,00</td><td>11,00</td><td>11,00</td><td>62,86</td><td>34,99</td><td>62,86</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,78</td><td>29,78</td><td>26,00</td><td>6,00</td><td>20,00</td><td>60,00</td><td>35,09</td><td>60,00</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,79</td><td>24,89</td><td>23,00</td><td>11,00</td><td>13,00</td><td>56,82</td><td>35,15</td><td>56,82</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,79</td><td>26,00</td><td>26,00</td><td>0,00</td><td>26,00</td><td>51,84</td><td>35,15</td><td>51,84</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,80</td><td>24,89</td><td>23,00</td><td>11,00</td><td>13,00</td><td>47,89</td><td>35,20</td><td>47,89</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,81</td><td>27,89</td><td>26,00</td><td>9,00</td><td>18,00</td><td>46,40</td><td>35,25</td><td>46,40</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,82</td><td>25,89</td><td>24,00</td><td>9,00</td><td>14,00</td><td>46,11</td><td>35,31</td><td>46,11</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,82</td><td>26,00</td><td>26,00</td><td>9,00</td><td>17,00</td><td>46,21</td><td>35,31</td><td>46,21</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,84</td><td>26,78</td><td>23,00</td><td>9,00</td><td>14,00</td><td>50,21</td><td>35,41</td><td>50,21</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,85</td><td>28,89</td><td>27,00</td><td>6,00</td><td>20,00</td><td>54,16</td><td>35,46</td><td>54,16</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,88</td><td>29,67</td><td>24,00</td><td>11,00</td><td>13,00</td><td>60,22</td><td>35,62</td><td>60,22</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,89</td><td>27,89</td><td>26,00</td><td>6,00</td><td>20,00</td><td>69,22</td><td>35,68</td><td>69,22</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,95</td><td>34,35</td><td>23,00</td><td>11,00</td><td>13,00</td><td>84,19</td><td>36,00</td><td>84,19</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,32</td><td>97,98</td><td>28,00</td><td>6,00</td><td>21,00</td><td>177,93</td><td>37,96</td><td>177,93</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,64</td><td>85,52</td><td>25,00</td><td>11,00</td><td>14,00</td><td>240,99</td><td>39,67</td><td>240,99</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,04</td><td>102,65</td><td>27,00</td><td>6,00</td><td>20,00</td><td>307,94</td><td>41,79</td><td>307,94</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,16</td><td>45,69</td><td>23,00</td><td>11,00</td><td>12,00</td><td>280,86</td><td>42,43</td><td>280,86</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,19</td><td>31,67</td><td>26,00</td><td>6,00</td><td>20,00</td><td>188,51</td><td>42,59</td><td>188,51</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,22</td><td>28,67</td><td>23,00</td><td>11,00</td><td>13,00</td><td>126,98</td><td>42,75</td><td>126,98</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,23</td><td>27,89</td><td>26,00</td><td>6,00</td><td>19,00</td><td>99,17</td><td>42,80</td><td>99,17</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,25</td><td>26,78</td><td>23,00</td><td>11,00</td><td>12,00</td><td>81,96</td><td>42,91</td><td>81,96</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,26</td><td>27,89</td><td>26,00</td><td>6,00</td><td>19,00</td><td>68,98</td><td>42,96</td><td>68,98</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,27</td><td>24,89</td><td>23,00</td><td>11,00</td><td>12,00</td><td>59,10</td><td>43,02</td><td>59,10</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,26</td><td>24,11</td><td>26,00</td><td>9,00</td><td>17,00</td><td>53,16</td><td>42,96</td><td>53,16</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,24</td><td>19,22</td><td>23,00</td><td>9,00</td><td>14,00</td><td>48,22</td><td>42,86</td><td>48,22</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,22</td><td>22,22</td><td>26,00</td><td>9,00</td><td>17,00</td><td>48,01</td><td>42,75</td><td>48,01</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,20</td><td>19,22</td><td>23,00</td><td>9,00</td><td>14,00</td><td>50,31</td><td>42,64</td><td>50,31</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,18</td><td>22,22</td><td>26,00</td><td>7,00</td><td>20,00</td><td>47,73</td><td>42,54</td><td>47,73</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,16</td><td>20,22</td><td>24,00</td><td>11,00</td><td>13,00</td><td>47,62</td><td>42,43</td><td>47,62</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,14</td><td>25,22</td><td>29,00</td><td>11,00</td><td>18,00</td><td>47,61</td><td>42,33</td><td>47,61</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,14</td><td>23,00</td><td>23,00</td><td>11,00</td><td>13,00</td><td>45,30</td><td>42,33</td><td>45,30</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,11</td><td>21,33</td><td>27,00</td><td>7,00</td><td>20,00</td><td>44,36</td><td>42,17</td><td>44,36</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,10</td><td>22,11</td><td>24,00</td><td>12,00</td><td>12,00</td><td>44,14</td><td>42,11</td><td>44,14</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,07</td><td>21,33</td><td>27,00</td><td>7,00</td><td>20,00</td><td>43,99</td><td>41,95</td><td>43,99</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,05</td><td>20,22</td><td>24,00</td><td>12,00</td><td>12,00</td><td>43,79</td><td>41,85</td><td>43,79</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,01</td><td>19,44</td><td>27,00</td><td>7,00</td><td>20,00</td><td>43,53</td><td>41,63</td><td>43,53</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,99</td><td>20,22</td><td>24,00</td><td>13,00</td><td>12,00</td><td>43,31</td><td>41,53</td><td>43,31</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,96</td><td>20,33</td><td>26,00</td><td>7,00</td><td>19,00</td><td>43,21</td><td>41,37</td><td>43,21</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,94</td><td>20,22</td><td>24,00</td><td>12,00</td><td>12,00</td><td>43,23</td><td>41,26</td><td>43,23</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,91</td><td>21,33</td><td>27,00</td><td>7,00</td><td>20,00</td><td>43,27</td><td>41,10</td><td>43,27</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,90</td><td>22,11</td><td>24,00</td><td>12,00</td><td>12,00</td><td>43,19</td><td>41,05</td><td>43,19</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,88</td><td>22,22</td><td>26,00</td><td>10,00</td><td>17,00</td><td>43,00</td><td>40,94</td><td>43,00</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,86</td><td>20,22</td><td>24,00</td><td>10,00</td><td>14,00</td><td>42,48</td><td>40,84</td><td>42,48</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,82</td><td>19,44</td><td>27,00</td><td>10,00</td><td>17,00</td><td>41,50</td><td>40,62</td><td>41,50</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,79</td><td>18,33</td><td>24,00</td><td>10,00</td><td>&nbsp;</td><td>40,24</td><td>40,46</td><td>40,24</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,74</td><td>17,54</td><td>27,00</td><td>7,00</td><td>19,00</td><td>38,67</td><td>40,20</td><td>38,67</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,69</td><td>14,54</td><td>24,00</td><td>11,00</td><td>14,00</td><td>37,09</td><td>39,93</td><td>37,09</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,62</td><td>13,76</td><td>27,00</td><td>6,00</td><td>21,00</td><td>35,68</td><td>39,56</td><td>35,68</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,56</td><td>12,65</td><td>24,00</td><td>11,00</td><td>14,00</td><td>35,06</td><td>39,24</td><td>35,06</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,49</td><td>13,76</td><td>27,00</td><td>7,00</td><td>20,00</td><td>35,84</td><td>38,87</td><td>35,84</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,43</td><td>13,65</td><td>25,00</td><td>13,00</td><td>12,00</td><td>37,17</td><td>38,55</td><td>37,17</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,39</td><td>20,43</td><td>28,00</td><td>7,00</td><td>20,00</td><td>38,84</td><td>38,34</td><td>38,84</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,37</td><td>21,22</td><td>25,00</td><td>13,00</td><td>12,00</td><td>40,52</td><td>38,23</td><td>40,52</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,35</td><td>23,22</td><td>27,00</td><td>7,00</td><td>20,00</td><td>41,98</td><td>38,12</td><td>41,98</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,33</td><td>21,22</td><td>25,00</td><td>13,00</td><td>12,00</td><td>42,34</td><td>38,02</td><td>42,34</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,29</td><td>20,43</td><td>28,00</td><td>7,00</td><td>20,00</td><td>42,80</td><td>37,80</td><td>42,80</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,27</td><td>21,22</td><td>25,00</td><td>13,00</td><td>12,00</td><td>42,64</td><td>37,70</td><td>42,64</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,25</td><td>24,22</td><td>28,00</td><td>8,00</td><td>20,00</td><td>40,20</td><td>37,59</td><td>40,20</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,24</td><td>23,11</td><td>25,00</td><td>13,00</td><td>12,00</td><td>39,46</td><td>37,54</td><td>39,46</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,20</td><td>21,43</td><td>29,00</td><td>8,00</td><td>21,00</td><td>37,18</td><td>37,33</td><td>37,18</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,18</td><td>22,22</td><td>26,00</td><td>13,00</td><td>13,00</td><td>35,68</td><td>37,22</td><td>35,68</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,14</td><td>21,43</td><td>29,00</td><td>8,00</td><td>21,00</td><td>33,08</td><td>37,01</td><td>33,08</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,12</td><td>22,22</td><td>26,00</td><td>13,00</td><td>13,00</td><td>32,25</td><td>36,90</td><td>32,25</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,09</td><td>22,33</td><td>28,00</td><td>8,00</td><td>21,00</td><td>32,28</td><td>36,74</td><td>32,28</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,07</td><td>22,22</td><td>26,00</td><td>11,00</td><td>15,00</td><td>32,27</td><td>36,63</td><td>32,27</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,03</td><td>21,43</td><td>29,00</td><td>0,00</td><td>&nbsp;</td><td>32,10</td><td>36,42</td><td>32,10</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,01</td><td>22,22</td><td>26,00</td><td>11,00</td><td>15,00</td><td>32,05</td><td>36,32</td><td>32,05</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,97</td><td>21,43</td><td>29,00</td><td>8,00</td><td>21,00</td><td>31,95</td><td>36,10</td><td>31,95</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,95</td><td>22,22</td><td>26,00</td><td>13,00</td><td>13,00</td><td>29,76</td><td>36,00</td><td>29,76</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,91</td><td>21,44</td><td>29,00</td><td>8,00</td><td>21,00</td><td>28,92</td><td>35,78</td><td>28,92</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,89</td><td>22,22</td><td>26,00</td><td>13,00</td><td>13,00</td><td>28,97</td><td>35,68</td><td>28,97</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,86</td><td>23,33</td><td>29,00</td><td>8,00</td><td>21,00</td><td>28,97</td><td>35,52</td><td>28,97</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,84</td><td>22,22</td><td>26,00</td><td>16,00</td><td>10,00</td><td>29,01</td><td>35,41</td><td>29,01</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,81</td><td>24,33</td><td>30,00</td><td>8,00</td><td>22,00</td><td>28,95</td><td>35,25</td><td>28,95</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,80</td><td>25,11</td><td>27,00</td><td>8,00</td><td>13,00</td><td>28,75</td><td>35,20</td><td>28,75</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,77</td><td>24,33</td><td>30,00</td><td>8,00</td><td>22,00</td><td>28,63</td><td>35,04</td><td>28,63</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,77</td><td>27,00</td><td>27,00</td><td>14,00</td><td>13,00</td><td>28,65</td><td>35,04</td><td>28,65</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,76</td><td>27,11</td><td>29,00</td><td>8,00</td><td>21,00</td><td>28,74</td><td>34,99</td><td>28,74</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,76</td><td>26,00</td><td>26,00</td><td>14,00</td><td>12,00</td><td>28,86</td><td>34,99</td><td>28,86</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,76</td><td>26,00</td><td>26,00</td><td>14,00</td><td>12,00</td><td>28,86</td><td>34,99</td><td>28,86</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,75</td><td>26,11</td><td>28,00</td><td>8,00</td><td>19,00</td><td>28,82</td><td>34,93</td><td>28,82</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,75</td><td>26,00</td><td>26,00</td><td>14,00</td><td>12,00</td><td>28,70</td><td>34,93</td><td>28,70</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,74</td><td>25,11</td><td>27,00</td><td>8,00</td><td>19,00</td><td>28,52</td><td>34,88</td><td>28,52</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,72</td><td>22,22</td><td>26,00</td><td>11,00</td><td>15,00</td><td>28,46</td><td>34,77</td><td>28,46</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,70</td><td>23,22</td><td>27,00</td><td>6,00</td><td>21,00</td><td>28,46</td><td>34,67</td><td>28,46</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,70</td><td>22,00</td><td>22,00</td><td>11,00</td><td>11,00</td><td>30,81</td><td>34,67</td><td>30,81</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,66</td><td>20,44</td><td>28,00</td><td>8,00</td><td>20,00</td><td>31,86</td><td>34,45</td><td>31,86</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,64</td><td>21,22</td><td>25,00</td><td>14,00</td><td>&nbsp;</td><td>34,22</td><td>34,35</td><td>34,22</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>23,22</td><td>27,00</td><td>8,00</td><td>19,00</td><td>39,68</td><td>34,24</td><td>39,68</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>25,00</td><td>25,00</td><td>14,00</td><td>12,00</td><td>46,20</td><td>34,24</td><td>46,20</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>27,00</td><td>27,00</td><td>8,00</td><td>19,00</td><td>50,60</td><td>34,24</td><td>50,60</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>27,00</td><td>27,00</td><td>17,00</td><td>11,00</td><td>51,73</td><td>34,24</td><td>51,73</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>28,00</td><td>28,00</td><td>8,00</td><td>20,00</td><td>52,34</td><td>34,24</td><td>52,34</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>26,00</td><td>26,00</td><td>14,00</td><td>12,00</td><td>50,77</td><td>34,24</td><td>50,77</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>27,00</td><td>27,00</td><td>8,00</td><td>19,00</td><td>47,76</td><td>34,24</td><td>47,76</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,63</td><td>26,89</td><td>25,00</td><td>0,00</td><td>11,00</td><td>44,44</td><td>34,29</td><td>44,44</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,62</td><td>26,11</td><td>28,00</td><td>8,00</td><td>20,00</td><td>43,02</td><td>34,24</td><td>43,02</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,61</td><td>24,11</td><td>26,00</td><td>14,00</td><td>12,00</td><td>40,48</td><td>34,19</td><td>40,48</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,59</td><td>23,22</td><td>27,00</td><td>8,00</td><td>19,00</td><td>36,67</td><td>34,08</td><td>36,67</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,60</td><td>26,89</td><td>25,00</td><td>14,00</td><td>12,00</td><td>33,13</td><td>34,14</td><td>33,13</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,58</td><td>24,22</td><td>28,00</td><td>8,00</td><td>20,00</td><td>32,15</td><td>34,03</td><td>32,15</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,56</td><td>22,22</td><td>26,00</td><td>14,00</td><td>12,00</td><td>29,67</td><td>33,92</td><td>29,67</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,53</td><td>22,33</td><td>28,00</td><td>8,00</td><td>20,00</td><td>28,12</td><td>33,76</td><td>28,12</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,51</td><td>22,22</td><td>26,00</td><td>14,00</td><td>12,00</td><td>30,17</td><td>33,66</td><td>30,17</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,48</td><td>23,33</td><td>29,00</td><td>8,00</td><td>20,00</td><td>30,91</td><td>33,50</td><td>30,91</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,46</td><td>22,22</td><td>26,00</td><td>14,00</td><td>12,00</td><td>28,48</td><td>33,39</td><td>28,48</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,44</td><td>24,22</td><td>28,00</td><td>8,00</td><td>20,00</td><td>29,86</td><td>33,28</td><td>29,86</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,43</td><td>24,11</td><td>26,00</td><td>14,00</td><td>12,00</td><td>30,48</td><td>33,23</td><td>30,48</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,40</td><td>23,33</td><td>29,00</td><td>8,00</td><td>20,00</td><td>30,42</td><td>33,07</td><td>30,42</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,38</td><td>22,22</td><td>26,00</td><td>17,00</td><td>9,00</td><td>30,30</td><td>32,97</td><td>30,30</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,35</td><td>22,33</td><td>28,00</td><td>8,00</td><td>19,00</td><td>32,49</td><td>32,81</td><td>32,49</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,34</td><td>23,11</td><td>25,00</td><td>14,00</td><td>12,00</td><td>30,84</td><td>32,75</td><td>30,84</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,31</td><td>23,33</td><td>29,00</td><td>8,00</td><td>21,00</td><td>30,04</td><td>32,59</td><td>30,04</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,29</td><td>22,22</td><td>26,00</td><td>14,00</td><td>12,00</td><td>29,95</td><td>32,49</td><td>29,95</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,28</td><td>23,11</td><td>25,00</td><td>4,00</td><td>21,00</td><td>29,85</td><td>32,43</td><td>29,85</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,29</td><td>22,89</td><td>21,00</td><td>0,00</td><td>&nbsp;</td><td>27,46</td><td>32,49</td><td>27,46</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,27</td><td>24,22</td><td>28,00</td><td>8,00</td><td>22,00</td><td>28,90</td><td>32,38</td><td>28,90</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,26</td><td>24,11</td><td>26,00</td><td>14,00</td><td>12,00</td><td>29,59</td><td>32,33</td><td>29,59</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,23</td><td>23,33</td><td>29,00</td><td>8,00</td><td>21,00</td><td>27,13</td><td>32,17</td><td>27,13</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,22</td><td>24,11</td><td>26,00</td><td>14,00</td><td>13,00</td><td>26,32</td><td>32,11</td><td>26,32</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,20</td><td>24,22</td><td>28,00</td><td>8,00</td><td>20,00</td><td>26,30</td><td>32,01</td><td>26,30</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,19</td><td>24,11</td><td>26,00</td><td>11,00</td><td>15,00</td><td>26,38</td><td>31,96</td><td>26,38</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,16</td><td>22,33</td><td>28,00</td><td>8,00</td><td>20,00</td><td>26,34</td><td>31,80</td><td>26,34</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,14</td><td>20,22</td><td>24,00</td><td>12,00</td><td>12,00</td><td>26,24</td><td>31,69</td><td>26,24</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,12</td><td>22,22</td><td>26,00</td><td>6,00</td><td>20,00</td><td>26,11</td><td>31,58</td><td>26,11</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,08</td><td>24,44</td><td>32,00</td><td>0,00</td><td>32,00</td><td>25,99</td><td>31,37</td><td>25,99</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,04</td><td>25,44</td><td>33,00</td><td>0,00</td><td>33,00</td><td>25,87</td><td>31,16</td><td>25,87</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,98</td><td>21,65</td><td>33,00</td><td>0,00</td><td>33,00</td><td>25,74</td><td>30,84</td><td>25,74</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,93</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>25,59</td><td>30,57</td><td>25,59</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,88</td><td>22,54</td><td>32,00</td><td>0,00</td><td>&nbsp;</td><td>27,86</td><td>30,31</td><td>27,86</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,83</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>28,61</td><td>30,04</td><td>28,61</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,78</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>28,57</td><td>29,77</td><td>28,57</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,74</td><td>20,43</td><td>28,00</td><td>0,00</td><td>28,00</td><td>28,60</td><td>29,56</td><td>28,60</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,68</td><td>20,65</td><td>32,00</td><td>0,00</td><td>32,00</td><td>30,93</td><td>29,24</td><td>30,93</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,67</td><td>21,11</td><td>23,00</td><td>11,00</td><td>12,00</td><td>32,01</td><td>29,19</td><td>32,01</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>22,22</td><td>26,00</td><td>6,00</td><td>19,00</td><td>34,61</td><td>29,08</td><td>34,61</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>23,00</td><td>23,00</td><td>11,00</td><td>12,00</td><td>37,96</td><td>29,08</td><td>37,96</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,63</td><td>22,22</td><td>26,00</td><td>6,00</td><td>20,00</td><td>41,09</td><td>28,98</td><td>41,09</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,58</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>44,09</td><td>28,71</td><td>44,09</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,52</td><td>20,65</td><td>32,00</td><td>0,00</td><td>32,00</td><td>44,54</td><td>28,39</td><td>44,54</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,46</td><td>20,65</td><td>32,00</td><td>0,00</td><td>32,00</td><td>46,53</td><td>28,07</td><td>46,53</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,40</td><td>20,65</td><td>32,00</td><td>0,00</td><td>32,00</td><td>47,09</td><td>27,75</td><td>47,09</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,35</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>49,51</td><td>27,49</td><td>49,51</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,29</td><td>20,65</td><td>32,00</td><td>0,00</td><td>32,00</td><td>52,83</td><td>27,17</td><td>52,83</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,26</td><td>26,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,73</td><td>27,01</td><td>58,73</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,24</td><td>27,22</td><td>31,00</td><td>0,00</td><td>31,00</td><td>63,24</td><td>26,90</td><td>63,24</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,22</td><td>28,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>64,87</td><td>26,80</td><td>64,87</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,20</td><td>27,22</td><td>31,00</td><td>0,00</td><td>31,00</td><td>65,71</td><td>26,69</td><td>65,71</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,20</td><td>31,00</td><td>31,00</td><td>0,00</td><td>31,00</td><td>61,71</td><td>26,69</td><td>61,71</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,22</td><td>34,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>55,53</td><td>26,80</td><td>55,53</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,25</td><td>36,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>46,35</td><td>26,96</td><td>46,35</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,26</td><td>32,89</td><td>31,00</td><td>0,00</td><td>31,00</td><td>38,35</td><td>27,01</td><td>38,35</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,21</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>33,41</td><td>26,74</td><td>33,41</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,16</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>31,83</td><td>26,48</td><td>31,83</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,11</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>31,27</td><td>26,21</td><td>31,27</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,06</td><td>22,54</td><td>32,00</td><td>0,00</td><td>32,00</td><td>33,44</td><td>25,95</td><td>33,44</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,03</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>39,07</td><td>25,79</td><td>39,07</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,00</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>41,02</td><td>25,63</td><td>41,02</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,97</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>41,39</td><td>25,47</td><td>41,39</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,93</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>41,37</td><td>25,25</td><td>41,37</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,87</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>38,76</td><td>24,94</td><td>38,76</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,81</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>32,75</td><td>24,62</td><td>32,75</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,75</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>30,65</td><td>24,30</td><td>30,65</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,69</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>30,23</td><td>23,98</td><td>30,23</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,63</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>32,60</td><td>23,66</td><td>32,60</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,57</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>36,30</td><td>23,34</td><td>36,30</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,51</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>40,17</td><td>23,02</td><td>40,17</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,46</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>42,07</td><td>22,75</td><td>42,07</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,41</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>42,73</td><td>22,49</td><td>42,73</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,38</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>42,50</td><td>22,33</td><td>42,50</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,38</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>42,50</td><td>22,33</td><td>42,50</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,35</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>49,45</td><td>22,17</td><td>49,45</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,31</td><td>24,43</td><td>32,00</td><td>0,00</td><td>32,00</td><td>59,52</td><td>21,96</td><td>59,52</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,27</td><td>24,43</td><td>32,00</td><td>0,00</td><td>32,00</td><td>72,69</td><td>21,74</td><td>72,69</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,23</td><td>24,43</td><td>32,00</td><td>0,00</td><td>32,00</td><td>89,44</td><td>21,53</td><td>89,44</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,24</td><td>33,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>105,18</td><td>21,58</td><td>105,18</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,24</td><td>40,00</td><td>40,00</td><td>0,00</td><td>40,00</td><td>127,73</td><td>21,58</td><td>127,73</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,35</td><td>51,81</td><td>31,00</td><td>0,00</td><td>31,00</td><td>157,40</td><td>22,17</td><td>157,40</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,42</td><td>44,24</td><td>31,00</td><td>0,00</td><td>31,00</td><td>143,78</td><td>22,54</td><td>143,78</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,42</td><td>31,00</td><td>31,00</td><td>0,00</td><td>31,00</td><td>116,64</td><td>22,54</td><td>116,64</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,41</td><td>29,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>105,07</td><td>22,49</td><td>105,07</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,38</td><td>24,33</td><td>30,00</td><td>0,00</td><td>30,00</td><td>90,37</td><td>22,33</td><td>90,37</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,34</td><td>22,43</td><td>30,00</td><td>0,00</td><td>30,00</td><td>74,99</td><td>22,12</td><td>74,99</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,29</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>65,59</td><td>21,85</td><td>65,59</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,24</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>57,41</td><td>21,58</td><td>57,41</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,19</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>49,91</td><td>21,32</td><td>49,91</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,15</td><td>22,43</td><td>30,00</td><td>0,00</td><td>&nbsp;</td><td>45,29</td><td>21,11</td><td>45,29</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,11</td><td>22,43</td><td>30,00</td><td>0,00</td><td>30,00</td><td>41,74</td><td>20,89</td><td>41,74</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,07</td><td>22,43</td><td>30,00</td><td>0,00</td><td>30,00</td><td>38,28</td><td>20,68</td><td>38,28</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,02</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>39,78</td><td>20,41</td><td>39,78</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,96</td><td>20,44</td><td>30,00</td><td>0,00</td><td>30,00</td><td>43,27</td><td>20,15</td><td>43,27</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,90</td><td>21,33</td><td>30,00</td><td>0,00</td><td>30,00</td><td>47,07</td><td>19,90</td><td>47,07</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,83</td><td>20,89</td><td>31,00</td><td>0,00</td><td>31,00</td><td>50,99</td><td>19,62</td><td>50,99</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,78</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>62,14</td><td>19,41</td><td>62,14</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,65</td><td>21,22</td><td>40,00</td><td>0,00</td><td>40,00</td><td>58,92</td><td>18,89</td><td>58,92</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,57</td><td>21,44</td><td>33,00</td><td>0,00</td><td>33,00</td><td>56,41</td><td>18,56</td><td>56,41</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,52</td><td>28,78</td><td>36,00</td><td>0,00</td><td>36,00</td><td>54,94</td><td>18,36</td><td>54,94</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,51</td><td>29,56</td><td>31,00</td><td>0,00</td><td>31,00</td><td>54,59</td><td>18,32</td><td>54,59</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,46</td><td>23,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>51,91</td><td>18,12</td><td>51,91</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,40</td><td>22,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>48,09</td><td>17,87</td><td>48,09</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,34</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>44,76</td><td>17,63</td><td>44,76</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>45,65</td><td>17,42</td><td>45,65</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>49,40</td><td>17,42</td><td>49,40</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>56,35</td><td>17,42</td><td>56,35</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>63,57</td><td>17,42</td><td>63,57</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>70,53</td><td>17,42</td><td>70,53</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>75,54</td><td>17,42</td><td>75,54</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>&nbsp;</td><td>77,42</td><td>17,42</td><td>77,42</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,29</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>75,49</td><td>17,42</td><td>75,49</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,28</td><td>30,56</td><td>32,00</td><td>0,00</td><td>&nbsp;</td><td>70,68</td><td>17,38</td><td>70,68</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,25</td><td>27,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>63,10</td><td>17,26</td><td>63,10</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,21</td><td>26,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,14</td><td>17,10</td><td>58,14</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,17</td><td>26,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,48</td><td>16,94</td><td>58,48</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,13</td><td>26,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>61,21</td><td>16,77</td><td>61,21</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,09</td><td>26,22</td><td>32,00</td><td>0,00</td><td>32,00</td><td>64,78</td><td>16,61</td><td>64,78</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,04</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>69,99</td><td>16,41</td><td>69,99</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,99</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>74,86</td><td>16,21</td><td>74,86</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,99</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>76,12</td><td>16,21</td><td>76,12</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,98</td><td>30,56</td><td>32,00</td><td>0,00</td><td>32,00</td><td>73,24</td><td>16,17</td><td>73,24</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,95</td><td>27,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>69,30</td><td>16,04</td><td>69,30</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,90</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>64,67</td><td>15,84</td><td>64,67</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,85</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>59,85</td><td>15,64</td><td>59,85</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,89</td><td>37,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,77</td><td>15,80</td><td>56,77</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,87</td><td>29,11</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,32</td><td>15,72</td><td>56,32</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,85</td><td>29,11</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,63</td><td>15,64</td><td>56,63</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,83</td><td>29,11</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,73</td><td>15,56</td><td>56,73</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,81</td><td>30,11</td><td>33,00</td><td>0,00</td><td>33,00</td><td>59,01</td><td>15,48</td><td>59,01</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,84</td><td>36,33</td><td>32,00</td><td>0,00</td><td>&nbsp;</td><td>61,81</td><td>15,60</td><td>61,81</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,91</td><td>42,11</td><td>32,00</td><td>0,00</td><td>32,00</td><td>67,58</td><td>15,88</td><td>67,58</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,92</td><td>33,44</td><td>32,00</td><td>0,00</td><td>32,00</td><td>74,74</td><td>15,92</td><td>74,74</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,89</td><td>27,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>81,86</td><td>15,80</td><td>81,86</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,88</td><td>30,56</td><td>32,00</td><td>0,00</td><td>32,00</td><td>87,38</td><td>15,76</td><td>87,38</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,89</td><td>33,44</td><td>32,00</td><td>0,00</td><td>32,00</td><td>91,33</td><td>15,80</td><td>91,33</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,92</td><td>36,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>93,77</td><td>15,92</td><td>93,77</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,95</td><td>38,33</td><td>34,00</td><td>0,00</td><td>34,00</td><td>135,11</td><td>16,04</td><td>135,11</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,96</td><td>33,44</td><td>32,00</td><td>0,00</td><td>32,00</td><td>148,35</td><td>16,08</td><td>148,35</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,00</td><td>37,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>201,51</td><td>16,25</td><td>201,51</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,08</td><td>44,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>197,38</td><td>16,57</td><td>197,38</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,17</td><td>45,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>153,06</td><td>16,94</td><td>153,06</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,28</td><td>47,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>131,26</td><td>17,38</td><td>131,26</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,44</td><td>56,11</td><td>33,00</td><td>0,00</td><td>33,00</td><td>122,74</td><td>18,03</td><td>122,74</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,53</td><td>46,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>110,99</td><td>18,40</td><td>110,99</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,63</td><td>47,44</td><td>33,00</td><td>0,00</td><td>33,00</td><td>104,66</td><td>18,81</td><td>104,66</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,80</td><td>57,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>99,76</td><td>19,50</td><td>99,76</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,98</td><td>58,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>96,92</td><td>20,23</td><td>96,92</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,10</td><td>54,80</td><td>33,00</td><td>0,00</td><td>33,00</td><td>155,91</td><td>20,84</td><td>155,91</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,20</td><td>51,91</td><td>33,00</td><td>0,00</td><td>33,00</td><td>190,79</td><td>21,37</td><td>190,79</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,30</td><td>50,91</td><td>32,00</td><td>0,00</td><td>32,00</td><td>160,93</td><td>21,90</td><td>160,93</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,40</td><td>50,91</td><td>32,00</td><td>0,00</td><td>32,00</td><td>139,14</td><td>22,44</td><td>139,14</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,50</td><td>52,91</td><td>34,00</td><td>0,00</td><td>&nbsp;</td><td>163,73</td><td>22,97</td><td>163,73</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,54</td><td>47,56</td><td>40,00</td><td>0,00</td><td>40,00</td><td>154,96</td><td>23,18</td><td>154,96</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,58</td><td>43,56</td><td>36,00</td><td>0,00</td><td>36,00</td><td>161,15</td><td>23,39</td><td>161,15</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,65</td><td>44,24</td><td>31,00</td><td>0,00</td><td>31,00</td><td>190,89</td><td>23,77</td><td>190,89</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,70</td><td>40,46</td><td>31,00</td><td>0,00</td><td>31,00</td><td>143,34</td><td>24,03</td><td>143,34</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,72</td><td>34,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>113,92</td><td>24,14</td><td>113,92</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,70</td><td>27,22</td><td>31,00</td><td>0,00</td><td>31,00</td><td>105,83</td><td>24,03</td><td>105,83</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,67</td><td>25,33</td><td>31,00</td><td>0,00</td><td>&nbsp;</td><td>102,21</td><td>23,87</td><td>102,21</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,72</td><td>40,46</td><td>31,00</td><td>0,00</td><td>31,00</td><td>101,42</td><td>24,14</td><td>101,42</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,72</td><td>31,00</td><td>31,00</td><td>0,00</td><td>31,00</td><td>98,18</td><td>24,14</td><td>98,18</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,75</td><td>36,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>99,90</td><td>24,30</td><td>99,90</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,74</td><td>28,11</td><td>30,00</td><td>0,00</td><td>30,00</td><td>93,09</td><td>24,24</td><td>93,09</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,72</td><td>26,22</td><td>30,00</td><td>0,00</td><td>30,00</td><td>127,94</td><td>24,14</td><td>127,94</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,74</td><td>33,78</td><td>30,00</td><td>0,00</td><td>30,00</td><td>130,76</td><td>24,24</td><td>130,76</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,71</td><td>24,33</td><td>30,00</td><td>0,00</td><td>30,00</td><td>107,52</td><td>24,08</td><td>107,52</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,68</td><td>24,33</td><td>30,00</td><td>0,00</td><td>30,00</td><td>94,54</td><td>23,92</td><td>94,54</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,64</td><td>22,44</td><td>30,00</td><td>0,00</td><td>30,00</td><td>81,28</td><td>23,71</td><td>81,28</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,59</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>71,19</td><td>23,45</td><td>71,19</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,55</td><td>22,44</td><td>30,00</td><td>0,00</td><td>30,00</td><td>63,28</td><td>23,23</td><td>63,28</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,50</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>55,41</td><td>22,97</td><td>55,41</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,46</td><td>22,43</td><td>30,00</td><td>0,00</td><td>30,00</td><td>50,32</td><td>22,75</td><td>50,32</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,40</td><td>18,65</td><td>30,00</td><td>0,00</td><td>30,00</td><td>46,07</td><td>22,44</td><td>46,07</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,35</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>42,12</td><td>22,17</td><td>42,12</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,30</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>41,01</td><td>21,90</td><td>41,01</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,25</td><td>20,54</td><td>30,00</td><td>0,00</td><td>30,00</td><td>40,87</td><td>21,64</td><td>40,87</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,19</td><td>18,65</td><td>30,00</td><td>0,00</td><td>30,00</td><td>40,75</td><td>21,32</td><td>40,75</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,13</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>40,44</td><td>21,00</td><td>40,44</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,08</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>40,45</td><td>20,73</td><td>40,45</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,02</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>39,22</td><td>20,41</td><td>39,22</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,95</td><td>19,99</td><td>31,00</td><td>0,00</td><td>31,00</td><td>38,40</td><td>20,11</td><td>38,40</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,92</td><td>27,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>37,84</td><td>19,98</td><td>37,84</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,92</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>37,52</td><td>19,98</td><td>37,52</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,98</td><td>40,67</td><td>32,00</td><td>0,00</td><td>32,00</td><td>37,36</td><td>20,23</td><td>37,36</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,03</td><td>40,56</td><td>32,00</td><td>0,00</td><td>32,00</td><td>42,29</td><td>20,47</td><td>42,29</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,10</td><td>45,24</td><td>32,00</td><td>0,00</td><td>32,00</td><td>48,08</td><td>20,84</td><td>48,08</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,21</td><td>52,81</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,51</td><td>21,43</td><td>58,51</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,21</td><td>32,00</td><td>32,00</td><td>0,00</td><td>32,00</td><td>62,58</td><td>21,43</td><td>62,58</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,25</td><td>41,57</td><td>34,00</td><td>0,00</td><td>34,00</td><td>132,60</td><td>21,64</td><td>132,60</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,35</td><td>49,91</td><td>31,00</td><td>0,00</td><td>31,00</td><td>185,02</td><td>22,17</td><td>185,02</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,45</td><td>49,91</td><td>31,00</td><td>0,00</td><td>31,00</td><td>197,00</td><td>22,70</td><td>197,00</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,60</td><td>59,37</td><td>31,00</td><td>0,00</td><td>31,00</td><td>234,33</td><td>23,50</td><td>234,33</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,88</td><td>83,95</td><td>31,00</td><td>0,00</td><td>31,00</td><td>209,64</td><td>24,99</td><td>209,64</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,96</td><td>46,13</td><td>31,00</td><td>0,00</td><td>31,00</td><td>161,56</td><td>25,41</td><td>161,56</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,94</td><td>27,22</td><td>31,00</td><td>0,00</td><td>31,00</td><td>176,85</td><td>25,31</td><td>176,85</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,91</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>142,72</td><td>25,15</td><td>142,72</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,87</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>110,86</td><td>24,94</td><td>110,86</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,82</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>93,48</td><td>24,67</td><td>93,48</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,79</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>82,11</td><td>24,51</td><td>82,11</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,75</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>78,12</td><td>24,30</td><td>78,12</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,71</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>79,95</td><td>24,08</td><td>79,95</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,67</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>74,10</td><td>23,87</td><td>74,10</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,64</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>79,48</td><td>23,71</td><td>79,48</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,63</td><td>29,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>92,68</td><td>23,66</td><td>92,68</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,62</td><td>29,11</td><td>31,00</td><td>0,00</td><td>31,00</td><td>112,77</td><td>23,61</td><td>112,77</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,62</td><td>31,00</td><td>31,00</td><td>0,00</td><td>31,00</td><td>143,14</td><td>23,61</td><td>143,14</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,59</td><td>25,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>135,07</td><td>23,45</td><td>135,07</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,54</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>109,35</td><td>23,18</td><td>109,35</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,50</td><td>23,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>89,98</td><td>22,97</td><td>89,98</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,45</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>76,25</td><td>22,70</td><td>76,25</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,40</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>68,78</td><td>22,44</td><td>68,78</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,34</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>64,79</td><td>22,12</td><td>64,79</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,30</td><td>23,43</td><td>31,00</td><td>0,00</td><td>31,00</td><td>59,94</td><td>21,90</td><td>59,94</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,24</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>57,91</td><td>21,58</td><td>57,91</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,19</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>54,29</td><td>21,32</td><td>54,29</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,13</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>55,61</td><td>21,00</td><td>55,61</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,07</td><td>19,65</td><td>31,00</td><td>0,00</td><td>31,00</td><td>53,65</td><td>20,68</td><td>53,65</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,02</td><td>21,54</td><td>31,00</td><td>0,00</td><td>31,00</td><td>52,64</td><td>20,41</td><td>52,64</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,96</td><td>21,44</td><td>31,00</td><td>0,00</td><td>31,00</td><td>52,42</td><td>20,15</td><td>52,42</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,90</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>52,26</td><td>19,90</td><td>52,26</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,85</td><td>23,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>52,39</td><td>19,70</td><td>52,39</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,79</td><td>22,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>55,41</td><td>19,46</td><td>55,41</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,74</td><td>23,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>59,73</td><td>19,25</td><td>59,73</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,71</td><td>26,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>61,59</td><td>19,13</td><td>61,59</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,65</td><td>22,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>65,06</td><td>18,89</td><td>65,06</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,60</td><td>23,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>66,15</td><td>18,68</td><td>66,15</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,54</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>66,00</td><td>18,44</td><td>66,00</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,48</td><td>22,33</td><td>31,00</td><td>0,00</td><td>31,00</td><td>65,59</td><td>18,20</td><td>65,59</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,43</td><td>23,78</td><td>31,00</td><td>0,00</td><td>31,00</td><td>62,33</td><td>17,99</td><td>62,33</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,37</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>58,20</td><td>17,75</td><td>58,20</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,30</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>57,12</td><td>17,47</td><td>57,12</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,24</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>54,54</td><td>17,22</td><td>54,54</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,18</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,38</td><td>16,98</td><td>56,38</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,11</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>54,56</td><td>16,69</td><td>54,56</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,05</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,21</td><td>16,45</td><td>56,21</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,98</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>57,02</td><td>16,17</td><td>57,02</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,91</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,93</td><td>15,88</td><td>56,93</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,86</td><td>24,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>54,28</td><td>15,68</td><td>54,28</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,80</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>56,16</td><td>15,43</td><td>56,16</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,73</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>54,45</td><td>15,15</td><td>54,45</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,66</td><td>21,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>50,99</td><td>14,87</td><td>50,99</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,60</td><td>23,33</td><td>32,00</td><td>0,00</td><td>32,00</td><td>53,02</td><td>14,62</td><td>53,02</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,54</td><td>24,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>54,46</td><td>14,38</td><td>54,46</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,48</td><td>24,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>54,92</td><td>14,13</td><td>54,92</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,42</td><td>24,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>55,31</td><td>13,89</td><td>55,31</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,35</td><td>22,89</td><td>33,00</td><td>0,00</td><td>33,00</td><td>57,81</td><td>13,61</td><td>57,81</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,28</td><td>22,89</td><td>33,00</td><td>0,00</td><td>33,00</td><td>55,97</td><td>13,32</td><td>55,97</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,21</td><td>22,89</td><td>33,00</td><td>0,00</td><td>33,00</td><td>56,02</td><td>13,04</td><td>56,02</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,15</td><td>24,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>53,90</td><td>12,79</td><td>53,90</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,08</td><td>27,89</td><td>38,00</td><td>0,00</td><td>38,00</td><td>51,93</td><td>12,51</td><td>51,93</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,03</td><td>25,78</td><td>33,00</td><td>0,00</td><td>33,00</td><td>50,09</td><td>12,31</td><td>50,09</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,02</td><td>31,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>48,08</td><td>12,27</td><td>48,08</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,05</td><td>37,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>47,19</td><td>12,39</td><td>47,19</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,03</td><td>30,11</td><td>33,00</td><td>0,00</td><td>33,00</td><td>46,86</td><td>12,31</td><td>46,86</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,99</td><td>27,22</td><td>33,00</td><td>0,00</td><td>33,00</td><td>47,80</td><td>12,14</td><td>47,80</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,92</td><td>22,89</td><td>33,00</td><td>0,00</td><td>33,00</td><td>46,76</td><td>11,86</td><td>46,76</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,84</td><td>22,44</td><td>34,00</td><td>0,00</td><td>34,00</td><td>47,57</td><td>11,54</td><td>47,57</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,77</td><td>23,89</td><td>34,00</td><td>0,00</td><td>34,00</td><td>45,87</td><td>11,25</td><td>45,87</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,69</td><td>22,44</td><td>34,00</td><td>0,00</td><td>34,00</td><td>43,73</td><td>10,93</td><td>43,73</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,65</td><td>28,22</td><td>34,00</td><td>0,00</td><td>34,00</td><td>42,01</td><td>10,76</td><td>42,01</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,64</td><td>32,56</td><td>34,00</td><td>0,00</td><td>34,00</td><td>43,16</td><td>10,72</td><td>43,16</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,64</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>45,36</td><td>10,72</td><td>45,36</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,63</td><td>32,56</td><td>34,00</td><td>0,00</td><td>34,00</td><td>49,80</td><td>10,68</td><td>49,80</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,63</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>57,08</td><td>10,68</td><td>57,08</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,65</td><td>37,89</td><td>35,00</td><td>0,00</td><td>35,00</td><td>68,11</td><td>10,76</td><td>68,11</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,67</td><td>36,89</td><td>34,00</td><td>0,00</td><td>34,00</td><td>77,66</td><td>10,84</td><td>77,66</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,72</td><td>41,22</td><td>34,00</td><td>0,00</td><td>34,00</td><td>86,46</td><td>11,05</td><td>86,46</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,79</td><td>44,11</td><td>34,00</td><td>0,00</td><td>34,00</td><td>94,27</td><td>11,33</td><td>94,27</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,88</td><td>46,00</td><td>33,00</td><td>0,00</td><td>34,00</td><td>97,05</td><td>11,70</td><td>97,05</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>607,96</td><td>44,56</td><td>33,00</td><td>0,00</td><td>33,00</td><td>92,55</td><td>12,02</td><td>92,55</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,01</td><td>43,22</td><td>36,00</td><td>0,00</td><td>&nbsp;</td><td>82,36</td><td>12,23</td><td>82,36</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,04</td><td>37,33</td><td>33,00</td><td>0,00</td><td>33,00</td><td>73,44</td><td>12,35</td><td>73,44</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>35,89</td><td>33,00</td><td>0,00</td><td>33,00</td><td>63,23</td><td>12,43</td><td>63,23</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>57,69</td><td>12,43</td><td>57,69</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>53,29</td><td>12,43</td><td>53,29</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>33,00</td><td>33,00</td><td>0,00</td><td>33,00</td><td>49,25</td><td>12,43</td><td>49,25</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>45,33</td><td>12,43</td><td>45,33</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>44,25</td><td>12,43</td><td>44,25</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>34,00</td><td>34,00</td><td>0,00</td><td>34,00</td><td>41,33</td><td>12,43</td><td>41,33</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,05</td><td>32,56</td><td>34,00</td><td>0,00</td><td>34,00</td><td>40,32</td><td>12,39</td><td>40,32</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,05</td><td>35,00</td><td>35,00</td><td>0,00</td><td>35,00</td><td>40,29</td><td>12,39</td><td>40,29</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,06</td><td>37,44</td><td>36,00</td><td>0,00</td><td>36,00</td><td>40,35</td><td>12,43</td><td>40,35</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,05</td><td>34,56</td><td>36,00</td><td>0,00</td><td>36,00</td><td>43,13</td><td>12,39</td><td>43,13</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,05</td><td>36,00</td><td>36,00</td><td>0,00</td><td>36,00</td><td>46,93</td><td>12,39</td><td>46,93</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,07</td><td>37,89</td><td>35,00</td><td>0,00</td><td>35,00</td><td>48,21</td><td>12,47</td><td>48,21</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,08</td><td>37,44</td><td>36,00</td><td>0,00</td><td>36,00</td><td>48,58</td><td>12,51</td><td>48,58</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,09</td><td>37,44</td><td>36,00</td><td>0,00</td><td>36,00</td><td>48,86</td><td>12,55</td><td>48,86</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,09</td><td>36,00</td><td>36,00</td><td>0,00</td><td>36,00</td><td>46,18</td><td>12,55</td><td>46,18</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,09</td><td>36,00</td><td>36,00</td><td>0,00</td><td>36,00</td><td>42,43</td><td>12,55</td><td>42,43</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,10</td><td>37,44</td><td>36,00</td><td>0,00</td><td>36,00</td><td>44,21</td><td>12,59</td><td>44,21</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,12</td><td>38,89</td><td>36,00</td><td>0,00</td><td>36,00</td><td>49,39</td><td>12,67</td><td>49,39</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,14</td><td>38,89</td><td>36,00</td><td>0,00</td><td>36,00</td><td>54,39</td><td>12,75</td><td>54,39</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,29</td><td>57,67</td><td>36,00</td><td>0,00</td><td>36,00</td><td>60,88</td><td>13,36</td><td>60,88</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,43</td><td>74,22</td><td>54,00</td><td>0,00</td><td>54,00</td><td>65,07</td><td>13,93</td><td>65,07</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,69</td><td>88,56</td><td>51,00</td><td>0,00</td><td>51,00</td><td>65,66</td><td>14,99</td><td>65,66</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>608,90</td><td>90,33</td><td>60,00</td><td>0,00</td><td>60,00</td><td>61,33</td><td>15,84</td><td>61,33</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,03</td><td>78,78</td><td>60,00</td><td>0,00</td><td>60,00</td><td>58,96</td><td>16,37</td><td>58,96</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,15</td><td>76,33</td><td>59,00</td><td>0,00</td><td>59,00</td><td>53,40</td><td>16,86</td><td>53,40</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,36</td><td>105,33</td><td>75,00</td><td>0,00</td><td>&nbsp;</td><td>51,82</td><td>17,71</td><td>51,82</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,61</td><td>117,11</td><td>81,00</td><td>0,00</td><td>81,00</td><td>48,19</td><td>18,72</td><td>48,19</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>609,86</td><td>116,11</td><td>80,00</td><td>0,00</td><td>80,00</td><td>48,12</td><td>19,74</td><td>48,12</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,09</td><td>116,25</td><td>79,00</td><td>0,00</td><td>79,00</td><td>44,99</td><td>20,79</td><td>44,99</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,31</td><td>119,61</td><td>78,00</td><td>0,00</td><td>78,00</td><td>44,61</td><td>21,96</td><td>44,61</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,52</td><td>117,72</td><td>78,00</td><td>0,00</td><td>78,00</td><td>43,01</td><td>23,07</td><td>43,01</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,66</td><td>122,48</td><td>96,00</td><td>0,00</td><td>96,00</td><td>40,55</td><td>23,82</td><td>40,55</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,74</td><td>121,13</td><td>106,00</td><td>0,00</td><td>106,00</td><td>38,87</td><td>24,24</td><td>38,87</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,76</td><td>108,78</td><td>105,00</td><td>0,00</td><td>105,00</td><td>40,06</td><td>24,35</td><td>40,06</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,72</td><td>81,44</td><td>89,00</td><td>0,00</td><td>89,00</td><td>38,21</td><td>24,14</td><td>38,21</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,68</td><td>59,44</td><td>67,00</td><td>0,00</td><td>67,00</td><td>37,70</td><td>23,92</td><td>37,70</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,64</td><td>53,44</td><td>61,00</td><td>0,00</td><td>61,00</td><td>38,14</td><td>23,71</td><td>38,14</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,60</td><td>54,44</td><td>62,00</td><td>0,00</td><td>62,00</td><td>37,95</td><td>23,50</td><td>37,95</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,55</td><td>52,54</td><td>62,00</td><td>0,00</td><td>62,00</td><td>35,11</td><td>23,23</td><td>35,11</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,49</td><td>50,65</td><td>62,00</td><td>0,00</td><td>62,00</td><td>35,68</td><td>22,91</td><td>35,68</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,43</td><td>51,65</td><td>63,00</td><td>0,00</td><td>63,00</td><td>37,65</td><td>22,60</td><td>37,65</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,37</td><td>45,65</td><td>57,00</td><td>0,00</td><td>57,00</td><td>36,14</td><td>22,28</td><td>36,14</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,37</td><td>58,00</td><td>58,00</td><td>0,00</td><td>58,00</td><td>36,56</td><td>22,28</td><td>36,56</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,40</td><td>102,67</td><td>97,00</td><td>0,00</td><td>97,00</td><td>38,11</td><td>22,44</td><td>38,11</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,40</td><td>141,00</td><td>141,00</td><td>0,00</td><td>141,00</td><td>38,19</td><td>22,44</td><td>38,19</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,50</td><td>150,00</td><td>131,00</td><td>0,00</td><td>131,00</td><td>35,06</td><td>22,97</td><td>35,06</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,62</td><td>143,00</td><td>120,00</td><td>0,00</td><td>&nbsp;</td><td>34,42</td><td>23,61</td><td>34,42</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,78</td><td>149,26</td><td>119,00</td><td>0,00</td><td>119,00</td><td>38,29</td><td>24,46</td><td>38,29</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,90</td><td>145,69</td><td>123,00</td><td>0,00</td><td>123,00</td><td>34,74</td><td>25,09</td><td>34,74</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,95</td><td>145,46</td><td>136,00</td><td>0,00</td><td>136,00</td><td>34,82</td><td>25,36</td><td>34,82</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,01</td><td>146,35</td><td>135,00</td><td>0,00</td><td>135,00</td><td>34,95</td><td>25,68</td><td>34,95</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>144,35</td><td>133,00</td><td>0,00</td><td>133,00</td><td>34,78</td><td>26,00</td><td>34,78</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,12</td><td>140,46</td><td>131,00</td><td>0,00</td><td>131,00</td><td>34,03</td><td>26,26</td><td>34,03</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,16</td><td>138,56</td><td>131,00</td><td>0,00</td><td>131,00</td><td>33,52</td><td>26,48</td><td>33,52</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,18</td><td>135,00</td><td>131,00</td><td>0,00</td><td>131,00</td><td>33,07</td><td>26,58</td><td>33,07</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,22</td><td>137,56</td><td>130,00</td><td>0,00</td><td>130,00</td><td>36,38</td><td>26,80</td><td>36,38</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,26</td><td>137,56</td><td>130,00</td><td>0,00</td><td>130,00</td><td>36,36</td><td>27,01</td><td>36,36</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,30</td><td>137,56</td><td>130,00</td><td>0,00</td><td>130,00</td><td>36,62</td><td>27,22</td><td>36,62</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,34</td><td>136,56</td><td>129,00</td><td>0,00</td><td>129,00</td><td>34,14</td><td>27,43</td><td>34,14</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,37</td><td>134,67</td><td>129,00</td><td>0,00</td><td>129,00</td><td>33,44</td><td>27,59</td><td>33,44</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,41</td><td>136,56</td><td>129,00</td><td>0,00</td><td>129,00</td><td>33,57</td><td>27,81</td><td>33,57</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,46</td><td>138,46</td><td>129,00</td><td>0,00</td><td>129,00</td><td>30,97</td><td>28,07</td><td>30,97</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,49</td><td>137,67</td><td>132,00</td><td>0,00</td><td>132,00</td><td>30,40</td><td>28,23</td><td>30,40</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,49</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>33,19</td><td>28,23</td><td>33,19</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,50</td><td>137,89</td><td>136,00</td><td>0,00</td><td>136,00</td><td>34,18</td><td>28,29</td><td>34,18</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,50</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>31,66</td><td>28,29</td><td>31,66</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,51</td><td>138,89</td><td>137,00</td><td>0,00</td><td>137,00</td><td>33,51</td><td>28,34</td><td>33,51</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,51</td><td>136,00</td><td>136,00</td><td>0,00</td><td>136,00</td><td>31,82</td><td>28,34</td><td>31,82</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,51</td><td>136,00</td><td>136,00</td><td>0,00</td><td>136,00</td><td>31,06</td><td>28,34</td><td>31,06</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,52</td><td>136,89</td><td>135,00</td><td>0,00</td><td>135,00</td><td>31,15</td><td>28,39</td><td>31,15</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,53</td><td>136,89</td><td>135,00</td><td>0,00</td><td>135,00</td><td>31,47</td><td>28,44</td><td>31,47</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,54</td><td>135,89</td><td>134,00</td><td>0,00</td><td>134,00</td><td>31,87</td><td>28,50</td><td>31,87</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,56</td><td>138,78</td><td>135,00</td><td>0,00</td><td>135,00</td><td>32,39</td><td>28,60</td><td>32,39</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,57</td><td>136,89</td><td>135,00</td><td>0,00</td><td>135,00</td><td>32,89</td><td>28,66</td><td>32,89</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,57</td><td>137,00</td><td>137,00</td><td>0,00</td><td>&nbsp;</td><td>30,85</td><td>28,66</td><td>30,85</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,57</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>32,98</td><td>28,66</td><td>32,98</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,57</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>31,43</td><td>28,66</td><td>31,43</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,58</td><td>138,89</td><td>137,00</td><td>0,00</td><td>137,00</td><td>33,27</td><td>28,71</td><td>33,27</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,59</td><td>137,89</td><td>136,00</td><td>0,00</td><td>136,00</td><td>31,71</td><td>28,76</td><td>31,71</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,60</td><td>137,89</td><td>136,00</td><td>0,00</td><td>136,00</td><td>33,72</td><td>28,82</td><td>33,72</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,61</td><td>137,89</td><td>136,00</td><td>0,00</td><td>136,00</td><td>35,09</td><td>28,87</td><td>35,09</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,64</td><td>141,67</td><td>136,00</td><td>0,00</td><td>136,00</td><td>41,00</td><td>29,03</td><td>41,00</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>137,89</td><td>136,00</td><td>0,00</td><td>136,00</td><td>46,02</td><td>29,08</td><td>46,02</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,67</td><td>140,78</td><td>137,00</td><td>0,00</td><td>137,00</td><td>52,68</td><td>29,19</td><td>52,68</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,68</td><td>140,89</td><td>139,00</td><td>0,00</td><td>139,00</td><td>57,47</td><td>29,24</td><td>57,47</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,69</td><td>140,89</td><td>139,00</td><td>0,00</td><td>139,00</td><td>58,68</td><td>29,30</td><td>58,68</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,70</td><td>139,89</td><td>138,00</td><td>0,00</td><td>138,00</td><td>56,27</td><td>29,35</td><td>56,27</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,71</td><td>139,89</td><td>138,00</td><td>0,00</td><td>138,00</td><td>52,67</td><td>29,40</td><td>52,67</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,71</td><td>137,00</td><td>137,00</td><td>0,00</td><td>&nbsp;</td><td>48,89</td><td>29,40</td><td>48,89</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,72</td><td>139,89</td><td>138,00</td><td>0,00</td><td>138,00</td><td>42,50</td><td>29,46</td><td>42,50</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,73</td><td>139,89</td><td>138,00</td><td>0,00</td><td>138,00</td><td>40,87</td><td>29,51</td><td>40,87</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,73</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>38,05</td><td>29,51</td><td>38,05</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,73</td><td>138,00</td><td>138,00</td><td>0,00</td><td>138,00</td><td>36,59</td><td>29,51</td><td>36,59</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,73</td><td>137,00</td><td>137,00</td><td>0,00</td><td>137,00</td><td>33,48</td><td>29,51</td><td>33,48</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,71</td><td>133,22</td><td>137,00</td><td>0,00</td><td>137,00</td><td>34,67</td><td>29,40</td><td>34,67</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,69</td><td>133,22</td><td>137,00</td><td>0,00</td><td>137,00</td><td>32,08</td><td>29,30</td><td>32,08</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,67</td><td>133,22</td><td>137,00</td><td>0,00</td><td>137,00</td><td>33,29</td><td>29,19</td><td>33,29</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,66</td><td>134,11</td><td>136,00</td><td>0,00</td><td>136,00</td><td>31,55</td><td>29,14</td><td>31,55</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>33,23</td><td>29,08</td><td>33,23</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>135,00</td><td>135,00</td><td>0,00</td><td>135,00</td><td>31,65</td><td>29,08</td><td>31,65</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,64</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>30,85</td><td>29,03</td><td>30,85</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,63</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>28,34</td><td>28,98</td><td>28,34</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,62</td><td>134,11</td><td>136,00</td><td>0,00</td><td>136,00</td><td>27,48</td><td>28,92</td><td>27,48</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,61</td><td>134,11</td><td>136,00</td><td>0,00</td><td>136,00</td><td>24,99</td><td>28,87</td><td>24,99</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,60</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>24,21</td><td>28,82</td><td>24,21</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,59</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>24,25</td><td>28,76</td><td>24,25</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,59</td><td>136,00</td><td>136,00</td><td>0,00</td><td>136,00</td><td>24,37</td><td>28,76</td><td>24,37</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,58</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>24,58</td><td>28,71</td><td>24,58</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,57</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>24,98</td><td>28,66</td><td>24,98</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,56</td><td>133,11</td><td>135,00</td><td>0,00</td><td>135,00</td><td>25,20</td><td>28,60</td><td>25,20</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,55</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,42</td><td>28,55</td><td>25,42</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,53</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,66</td><td>28,44</td><td>25,66</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,51</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>24,41</td><td>28,34</td><td>24,41</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,50</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>23,42</td><td>28,29</td><td>23,42</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,45</td><td>117,54</td><td>127,00</td><td>0,00</td><td>127,00</td><td>23,26</td><td>28,02</td><td>23,26</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,41</td><td>119,44</td><td>127,00</td><td>0,00</td><td>127,00</td><td>23,33</td><td>27,81</td><td>23,33</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,39</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>23,36</td><td>27,70</td><td>23,36</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,38</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>24,77</td><td>27,65</td><td>24,77</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,37</td><td>124,11</td><td>126,00</td><td>0,00</td><td>126,00</td><td>25,72</td><td>27,59</td><td>25,72</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,36</td><td>124,11</td><td>126,00</td><td>0,00</td><td>126,00</td><td>25,82</td><td>27,54</td><td>25,82</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,35</td><td>124,11</td><td>126,00</td><td>0,00</td><td>126,00</td><td>25,80</td><td>27,49</td><td>25,80</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,33</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,85</td><td>27,38</td><td>25,85</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,31</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,98</td><td>27,28</td><td>25,98</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,29</td><td>124,22</td><td>128,00</td><td>0,00</td><td>128,00</td><td>26,23</td><td>27,17</td><td>26,23</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,28</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>26,72</td><td>27,12</td><td>26,72</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,27</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>27,63</td><td>27,06</td><td>27,63</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,27</td><td>127,00</td><td>127,00</td><td>0,00</td><td>127,00</td><td>28,86</td><td>27,06</td><td>28,86</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,27</td><td>127,00</td><td>127,00</td><td>0,00</td><td>127,00</td><td>30,00</td><td>27,06</td><td>30,00</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,27</td><td>127,00</td><td>127,00</td><td>0,00</td><td>127,00</td><td>30,44</td><td>27,06</td><td>30,44</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,26</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>30,52</td><td>27,01</td><td>30,52</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,25</td><td>125,11</td><td>127,00</td><td>0,00</td><td>&nbsp;</td><td>30,96</td><td>26,96</td><td>30,96</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,18</td><td>113,76</td><td>127,00</td><td>0,00</td><td>127,00</td><td>27,31</td><td>26,58</td><td>27,31</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,11</td><td>113,76</td><td>127,00</td><td>0,00</td><td>127,00</td><td>26,68</td><td>26,21</td><td>26,68</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,08</td><td>121,33</td><td>127,00</td><td>0,00</td><td>127,00</td><td>26,34</td><td>26,05</td><td>26,34</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,06</td><td>123,22</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,94</td><td>25,95</td><td>25,94</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,03</td><td>122,33</td><td>128,00</td><td>0,00</td><td>128,00</td><td>27,24</td><td>25,79</td><td>27,24</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,02</td><td>125,11</td><td>127,00</td><td>0,00</td><td>127,00</td><td>25,51</td><td>25,73</td><td>25,51</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,02</td><td>126,00</td><td>126,00</td><td>0,00</td><td>126,00</td><td>24,92</td><td>25,73</td><td>24,92</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>127,46</td><td>118,00</td><td>0,00</td><td>118,00</td><td>25,07</td><td>26,00</td><td>25,07</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>126,00</td><td>126,00</td><td>0,00</td><td>126,00</td><td>25,07</td><td>26,00</td><td>25,07</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>126,00</td><td>126,00</td><td>0,00</td><td>126,00</td><td>22,63</td><td>26,00</td><td>22,63</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>126,00</td><td>126,00</td><td>0,00</td><td>126,00</td><td>24,20</td><td>26,00</td><td>24,20</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,06</td><td>124,11</td><td>126,00</td><td>0,00</td><td>126,00</td><td>24,93</td><td>25,95</td><td>24,93</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,05</td><td>124,11</td><td>126,00</td><td>0,00</td><td>126,00</td><td>22,69</td><td>25,89</td><td>22,69</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,03</td><td>122,22</td><td>126,00</td><td>0,00</td><td>126,00</td><td>21,97</td><td>25,79</td><td>21,97</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,00</td><td>120,33</td><td>126,00</td><td>0,00</td><td>126,00</td><td>22,01</td><td>25,63</td><td>22,01</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,97</td><td>120,33</td><td>126,00</td><td>0,00</td><td>126,00</td><td>21,87</td><td>25,47</td><td>21,87</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,94</td><td>119,33</td><td>125,00</td><td>0,00</td><td>125,00</td><td>21,83</td><td>25,31</td><td>21,83</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,91</td><td>119,33</td><td>125,00</td><td>0,00</td><td>125,00</td><td>24,24</td><td>25,15</td><td>24,24</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,89</td><td>121,22</td><td>125,00</td><td>0,00</td><td>125,00</td><td>25,04</td><td>25,04</td><td>25,04</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,87</td><td>121,22</td><td>125,00</td><td>0,00</td><td>125,00</td><td>29,82</td><td>24,94</td><td>29,82</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,87</td><td>123,00</td><td>123,00</td><td>0,00</td><td>123,00</td><td>34,23</td><td>24,94</td><td>34,23</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,88</td><td>124,89</td><td>123,00</td><td>0,00</td><td>123,00</td><td>40,68</td><td>24,99</td><td>40,68</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,90</td><td>125,78</td><td>122,00</td><td>0,00</td><td>122,00</td><td>48,38</td><td>25,09</td><td>48,38</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,92</td><td>125,78</td><td>122,00</td><td>0,00</td><td>122,00</td><td>55,88</td><td>25,20</td><td>55,88</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,95</td><td>126,67</td><td>121,00</td><td>0,00</td><td>121,00</td><td>58,17</td><td>25,36</td><td>58,17</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,98</td><td>126,67</td><td>121,00</td><td>0,00</td><td>121,00</td><td>57,80</td><td>25,52</td><td>57,80</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,00</td><td>124,78</td><td>121,00</td><td>0,00</td><td>121,00</td><td>54,49</td><td>25,63</td><td>54,49</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,02</td><td>124,78</td><td>121,00</td><td>0,00</td><td>121,00</td><td>50,40</td><td>25,73</td><td>50,40</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,03</td><td>122,89</td><td>121,00</td><td>0,00</td><td>121,00</td><td>45,85</td><td>25,79</td><td>45,85</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,04</td><td>122,89</td><td>121,00</td><td>0,00</td><td>121,00</td><td>43,38</td><td>25,84</td><td>43,38</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>119,67</td><td>114,00</td><td>0,00</td><td>114,00</td><td>41,43</td><td>26,00</td><td>41,43</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,04</td><td>117,33</td><td>123,00</td><td>0,00</td><td>123,00</td><td>37,69</td><td>25,84</td><td>37,69</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,00</td><td>114,44</td><td>122,00</td><td>0,00</td><td>122,00</td><td>33,38</td><td>25,63</td><td>33,38</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,97</td><td>116,33</td><td>122,00</td><td>0,00</td><td>122,00</td><td>29,96</td><td>25,47</td><td>29,96</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,96</td><td>115,11</td><td>117,00</td><td>0,00</td><td>117,00</td><td>27,16</td><td>25,41</td><td>27,16</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,95</td><td>115,11</td><td>117,00</td><td>0,00</td><td>117,00</td><td>26,07</td><td>25,36</td><td>26,07</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,93</td><td>105,22</td><td>109,00</td><td>0,00</td><td>109,00</td><td>27,59</td><td>25,25</td><td>27,59</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>610,98</td><td>99,46</td><td>90,00</td><td>0,00</td><td>90,00</td><td>30,09</td><td>25,52</td><td>30,09</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,01</td><td>96,67</td><td>91,00</td><td>0,00</td><td>91,00</td><td>32,45</td><td>25,68</td><td>32,45</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,04</td><td>95,67</td><td>90,00</td><td>0,00</td><td>90,00</td><td>34,22</td><td>25,84</td><td>34,22</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,07</td><td>95,67</td><td>90,00</td><td>0,00</td><td>90,00</td><td>36,32</td><td>26,00</td><td>36,32</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,11</td><td>97,56</td><td>90,00</td><td>0,00</td><td>90,00</td><td>38,83</td><td>26,21</td><td>38,83</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,13</td><td>93,78</td><td>90,00</td><td>0,00</td><td>90,00</td><td>41,50</td><td>26,32</td><td>41,50</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,20</td><td>103,24</td><td>90,00</td><td>0,00</td><td>90,00</td><td>44,57</td><td>26,69</td><td>44,57</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,66</td><td>134,11</td><td>136,00</td><td>0,00</td><td>91,00</td><td>31,55</td><td>29,14</td><td>31,55</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>133,11</td><td>135,00</td><td>0,00</td><td>90,00</td><td>33,23</td><td>29,08</td><td>33,23</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,65</td><td>135,00</td><td>135,00</td><td>0,00</td><td>90,00</td><td>31,65</td><td>29,08</td><td>31,65</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,58</td><td>102,24</td><td>89,00</td><td>0,00</td><td>89,00</td><td>69,37</td><td>28,71</td><td>69,37</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,85</td><td>116,07</td><td>65,00</td><td>0,00</td><td>67,00</td><td>137,78</td><td>30,15</td><td>137,78</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,91</td><td>65,35</td><td>54,00</td><td>0,00</td><td>54,00</td><td>135,31</td><td>30,47</td><td>135,31</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,94</td><td>59,67</td><td>54,00</td><td>0,00</td><td>54,00</td><td>105,37</td><td>30,63</td><td>105,37</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,96</td><td>56,78</td><td>53,00</td><td>0,00</td><td>53,00</td><td>83,69</td><td>30,73</td><td>83,69</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>611,97</td><td>55,89</td><td>54,00</td><td>0,00</td><td>54,00</td><td>65,05</td><td>30,79</td><td>65,05</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,00</td><td>59,67</td><td>54,00</td><td>0,00</td><td>54,00</td><td>54,33</td><td>30,94</td><td>54,33</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,00</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>47,45</td><td>30,94</td><td>47,45</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,00</td><td>54,00</td><td>54,00</td><td>0,00</td><td>&nbsp;</td><td>43,65</td><td>30,94</td><td>43,65</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,03</td><td>60,67</td><td>55,00</td><td>0,00</td><td>54,00</td><td>42,60</td><td>31,10</td><td>42,60</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,03</td><td>55,00</td><td>55,00</td><td>0,00</td><td>55,00</td><td>41,92</td><td>31,10</td><td>41,92</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,05</td><td>57,78</td><td>54,00</td><td>0,00</td><td>54,00</td><td>41,07</td><td>31,21</td><td>41,07</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,07</td><td>55,78</td><td>52,00</td><td>0,00</td><td>52,00</td><td>40,35</td><td>31,32</td><td>40,35</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,09</td><td>54,78</td><td>51,00</td><td>0,00</td><td>51,00</td><td>41,46</td><td>31,42</td><td>41,46</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,11</td><td>54,78</td><td>51,00</td><td>0,00</td><td>51,00</td><td>41,14</td><td>31,53</td><td>41,14</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,11</td><td>38,00</td><td>38,00</td><td>0,00</td><td>38,00</td><td>42,34</td><td>31,53</td><td>42,34</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,13</td><td>35,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>44,44</td><td>31,64</td><td>44,44</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,15</td><td>36,78</td><td>33,00</td><td>0,00</td><td>33,00</td><td>46,61</td><td>31,74</td><td>46,61</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,17</td><td>35,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>45,08</td><td>31,85</td><td>45,08</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,18</td><td>33,89</td><td>32,00</td><td>0,00</td><td>32,00</td><td>43,78</td><td>31,90</td><td>43,78</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,20</td><td>35,78</td><td>32,00</td><td>0,00</td><td>32,00</td><td>41,49</td><td>32,01</td><td>41,49</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,22</td><td>42,78</td><td>39,00</td><td>0,00</td><td>39,00</td><td>36,87</td><td>32,11</td><td>36,87</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,22</td><td>53,00</td><td>53,00</td><td>0,00</td><td>53,00</td><td>34,15</td><td>32,11</td><td>34,15</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,28</td><td>80,35</td><td>69,00</td><td>0,00</td><td>69,00</td><td>32,10</td><td>32,43</td><td>32,10</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,33</td><td>90,46</td><td>81,00</td><td>0,00</td><td>81,00</td><td>30,52</td><td>32,70</td><td>30,52</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,37</td><td>87,56</td><td>80,00</td><td>0,00</td><td>80,00</td><td>28,07</td><td>32,91</td><td>28,07</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,39</td><td>87,78</td><td>84,00</td><td>0,00</td><td>84,00</td><td>27,03</td><td>33,02</td><td>27,03</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,41</td><td>86,78</td><td>83,00</td><td>0,00</td><td>83,00</td><td>24,46</td><td>33,12</td><td>24,46</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,44</td><td>88,67</td><td>83,00</td><td>0,00</td><td>83,00</td><td>25,99</td><td>33,28</td><td>25,99</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,47</td><td>87,67</td><td>82,00</td><td>0,00</td><td>82,00</td><td>29,51</td><td>33,44</td><td>29,51</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,53</td><td>93,35</td><td>82,00</td><td>0,00</td><td>82,00</td><td>32,78</td><td>33,76</td><td>32,78</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,60</td><td>94,24</td><td>81,00</td><td>0,00</td><td>81,00</td><td>36,82</td><td>34,14</td><td>36,82</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,67</td><td>94,24</td><td>81,00</td><td>0,00</td><td>81,00</td><td>42,76</td><td>34,51</td><td>42,76</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,76</td><td>98,02</td><td>81,00</td><td>0,00</td><td>81,00</td><td>51,70</td><td>34,99</td><td>51,70</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,84</td><td>96,13</td><td>81,00</td><td>0,00</td><td>81,00</td><td>63,48</td><td>35,41</td><td>63,48</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>612,93</td><td>97,02</td><td>80,00</td><td>0,00</td><td>80,00</td><td>76,23</td><td>35,89</td><td>76,23</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,01</td><td>95,13</td><td>80,00</td><td>0,00</td><td>&nbsp;</td><td>87,98</td><td>36,32</td><td>87,98</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,10</td><td>96,02</td><td>79,00</td><td>0,00</td><td>79,00</td><td>97,32</td><td>36,79</td><td>97,32</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,17</td><td>93,24</td><td>80,00</td><td>0,00</td><td>80,00</td><td>95,98</td><td>37,17</td><td>95,98</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,24</td><td>93,24</td><td>80,00</td><td>0,00</td><td>80,00</td><td>89,79</td><td>37,54</td><td>89,79</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,34</td><td>98,91</td><td>80,00</td><td>0,00</td><td>80,00</td><td>81,97</td><td>38,07</td><td>81,97</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,42</td><td>95,13</td><td>80,00</td><td>0,00</td><td>80,00</td><td>70,91</td><td>38,50</td><td>70,91</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,48</td><td>90,35</td><td>79,00</td><td>0,00</td><td>79,00</td><td>61,09</td><td>38,82</td><td>61,09</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,53</td><td>88,46</td><td>79,00</td><td>0,00</td><td>79,00</td><td>53,20</td><td>39,08</td><td>53,20</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,58</td><td>89,46</td><td>80,00</td><td>0,00</td><td>80,00</td><td>51,16</td><td>39,35</td><td>51,16</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,61</td><td>85,67</td><td>80,00</td><td>0,00</td><td>80,00</td><td>48,42</td><td>39,51</td><td>48,42</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,65</td><td>87,56</td><td>80,00</td><td>0,00</td><td>80,00</td><td>54,90</td><td>39,72</td><td>54,90</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,70</td><td>88,46</td><td>79,00</td><td>0,00</td><td>79,00</td><td>126,85</td><td>39,99</td><td>126,85</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,80</td><td>97,91</td><td>79,00</td><td>0,00</td><td>79,00</td><td>255,74</td><td>40,52</td><td>255,74</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>613,93</td><td>91,59</td><td>67,00</td><td>0,00</td><td>67,00</td><td>314,39</td><td>41,21</td><td>314,39</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,09</td><td>71,26</td><td>41,00</td><td>0,00</td><td>41,00</td><td>215,84</td><td>42,06</td><td>215,84</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,20</td><td>53,80</td><td>33,00</td><td>0,00</td><td>33,00</td><td>163,37</td><td>42,64</td><td>163,37</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,29</td><td>47,02</td><td>30,00</td><td>0,00</td><td>30,00</td><td>143,31</td><td>43,12</td><td>143,31</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,33</td><td>37,56</td><td>30,00</td><td>0,00</td><td>30,00</td><td>130,42</td><td>43,34</td><td>130,42</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,38</td><td>40,46</td><td>31,00</td><td>0,00</td><td>31,00</td><td>125,06</td><td>43,60</td><td>125,06</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,45</td><td>43,24</td><td>30,00</td><td>0,00</td><td>30,00</td><td>124,52</td><td>43,97</td><td>124,52</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,52</td><td>43,24</td><td>30,00</td><td>0,00</td><td>30,00</td><td>181,12</td><td>44,35</td><td>181,12</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,56</td><td>37,56</td><td>30,00</td><td>0,00</td><td>30,00</td><td>232,70</td><td>44,56</td><td>232,70</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,59</td><td>36,67</td><td>31,00</td><td>0,00</td><td>31,00</td><td>173,71</td><td>44,72</td><td>173,71</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,69</td><td>49,91</td><td>31,00</td><td>0,00</td><td>31,00</td><td>126,42</td><td>45,25</td><td>126,42</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,75</td><td>42,35</td><td>31,00</td><td>0,00</td><td>31,00</td><td>109,47</td><td>45,57</td><td>109,47</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,82</td><td>44,24</td><td>31,00</td><td>0,00</td><td>31,00</td><td>100,90</td><td>45,94</td><td>100,90</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>614,92</td><td>49,91</td><td>31,00</td><td>0,00</td><td>31,00</td><td>100,73</td><td>46,47</td><td>100,73</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,01</td><td>47,61</td><td>30,00</td><td>0,00</td><td>30,00</td><td>103,68</td><td>46,97</td><td>103,68</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,05</td><td>40,93</td><td>31,00</td><td>0,00</td><td>31,00</td><td>105,92</td><td>47,25</td><td>105,92</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,10</td><td>43,42</td><td>31,00</td><td>0,00</td><td>31,00</td><td>118,90</td><td>47,60</td><td>118,90</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,17</td><td>48,38</td><td>31,00</td><td>0,00</td><td>31,00</td><td>164,57</td><td>48,09</td><td>164,57</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,22</td><td>42,42</td><td>30,00</td><td>0,00</td><td>30,00</td><td>295,06</td><td>48,43</td><td>295,06</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,28</td><td>44,90</td><td>30,00</td><td>0,00</td><td>30,00</td><td>246,23</td><td>48,85</td><td>246,23</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,40</td><td>60,86</td><td>31,00</td><td>0,00</td><td>31,00</td><td>195,26</td><td>49,69</td><td>195,26</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,50</td><td>55,77</td><td>31,00</td><td>0,00</td><td>31,00</td><td>200,80</td><td>50,39</td><td>200,80</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,61</td><td>58,32</td><td>31,00</td><td>0,00</td><td>31,00</td><td>212,19</td><td>51,16</td><td>212,19</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>615,66</td><td>42,50</td><td>30,00</td><td>0,00</td><td>30,00</td><td>93,80</td><td>51,51</td><td>93,80</td><td> 01/02/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td> 02/02/2018</td>
+		</tr><tr>
+			<td>19091</td><td>SANTA BRANCA                                      </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td> 03/02/2018</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>767,00</td><td>767,00</td><td>419,00</td><td>346,00</td><td>560,19</td><td>&nbsp;</td><td>560,19</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>754,00</td><td>754,00</td><td>406,00</td><td>346,00</td><td>612,03</td><td>&nbsp;</td><td>612,03</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>761,00</td><td>761,00</td><td>413,00</td><td>346,00</td><td>666,23</td><td>&nbsp;</td><td>666,23</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>754,00</td><td>754,00</td><td>407,00</td><td>346,00</td><td>685,87</td><td>&nbsp;</td><td>685,87</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>667,00</td><td>667,00</td><td>319,00</td><td>346,00</td><td>674,45</td><td>&nbsp;</td><td>674,45</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>571,00</td><td>571,00</td><td>224,00</td><td>346,00</td><td>667,78</td><td>&nbsp;</td><td>667,78</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>496,00</td><td>496,00</td><td>150,00</td><td>344,00</td><td>685,66</td><td>&nbsp;</td><td>685,66</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>478,00</td><td>478,00</td><td>133,00</td><td>344,00</td><td>689,51</td><td>&nbsp;</td><td>689,51</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>552,00</td><td>552,00</td><td>206,00</td><td>345,00</td><td>646,02</td><td>&nbsp;</td><td>646,02</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>721,00</td><td>721,00</td><td>374,00</td><td>346,00</td><td>585,63</td><td>&nbsp;</td><td>585,63</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>895,00</td><td>895,00</td><td>549,00</td><td>344,00</td><td>576,00</td><td>&nbsp;</td><td>576,00</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>953,00</td><td>953,00</td><td>613,00</td><td>339,00</td><td>706,29</td><td>&nbsp;</td><td>706,29</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>953,00</td><td>953,00</td><td>613,00</td><td>&nbsp;</td><td>922,99</td><td>&nbsp;</td><td>922,99</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>684,00</td><td>684,00</td><td>335,00</td><td>348,00</td><td>1323,58</td><td>&nbsp;</td><td>1323,58</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>854,00</td><td>854,00</td><td>508,00</td><td>345,00</td><td>1727,42</td><td>&nbsp;</td><td>1727,42</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1106,00</td><td>1106,00</td><td>768,00</td><td>337,00</td><td>2018,17</td><td>&nbsp;</td><td>2018,17</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1121,00</td><td>1121,00</td><td>784,00</td><td>336,00</td><td>1962,80</td><td>&nbsp;</td><td>1962,80</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1163,00</td><td>1163,00</td><td>825,00</td><td>336,00</td><td>1795,12</td><td>&nbsp;</td><td>1795,12</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1202,00</td><td>1202,00</td><td>865,00</td><td>336,00</td><td>1656,70</td><td>&nbsp;</td><td>1656,70</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1223,00</td><td>1223,00</td><td>888,00</td><td>334,00</td><td>1519,83</td><td>&nbsp;</td><td>1519,83</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1222,00</td><td>1222,00</td><td>888,00</td><td>333,00</td><td>1278,69</td><td>&nbsp;</td><td>1278,69</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1224,00</td><td>1224,00</td><td>892,00</td><td>331,00</td><td>1142,53</td><td>&nbsp;</td><td>1142,53</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1225,00</td><td>1225,00</td><td>888,00</td><td>336,00</td><td>1045,54</td><td>&nbsp;</td><td>1045,54</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1226,00</td><td>1226,00</td><td>888,00</td><td>337,00</td><td>950,18</td><td>&nbsp;</td><td>950,18</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1218,00</td><td>1218,00</td><td>880,00</td><td>338,00</td><td>856,47</td><td>&nbsp;</td><td>856,47</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1214,00</td><td>1214,00</td><td>876,00</td><td>337,00</td><td>758,02</td><td>&nbsp;</td><td>758,02</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1214,00</td><td>1214,00</td><td>876,00</td><td>337,00</td><td>675,96</td><td>&nbsp;</td><td>675,96</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1215,00</td><td>1215,00</td><td>876,00</td><td>338,00</td><td>611,56</td><td>&nbsp;</td><td>611,56</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>1138,00</td><td>1138,00</td><td>797,00</td><td>340,00</td><td>568,47</td><td>&nbsp;</td><td>568,47</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>925,00</td><td>925,00</td><td>577,00</td><td>347,00</td><td>534,44</td><td>&nbsp;</td><td>534,44</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>755,00</td><td>755,00</td><td>405,00</td><td>348,00</td><td>525,65</td><td>&nbsp;</td><td>525,65</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>624,00</td><td>624,00</td><td>276,00</td><td>347,00</td><td>524,88</td><td>&nbsp;</td><td>524,88</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>370,00</td><td>370,00</td><td>51,00</td><td>317,00</td><td>514,60</td><td>&nbsp;</td><td>514,60</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>317,00</td><td>317,00</td><td>0,00</td><td>316,00</td><td>503,87</td><td>&nbsp;</td><td>503,87</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>338,00</td><td>338,00</td><td>18,00</td><td>319,00</td><td>490,85</td><td>&nbsp;</td><td>490,85</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>479,00</td><td>479,00</td><td>133,00</td><td>345,00</td><td>479,44</td><td>&nbsp;</td><td>479,44</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>534,00</td><td>534,00</td><td>200,00</td><td>333,00</td><td>466,93</td><td>&nbsp;</td><td>466,93</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>532,00</td><td>532,00</td><td>184,00</td><td>347,00</td><td>468,12</td><td>&nbsp;</td><td>468,12</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>531,00</td><td>531,00</td><td>184,00</td><td>347,00</td><td>482,76</td><td>&nbsp;</td><td>482,76</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>532,00</td><td>532,00</td><td>184,00</td><td>347,00</td><td>494,46</td><td>&nbsp;</td><td>494,46</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>515,00</td><td>515,00</td><td>167,00</td><td>346,00</td><td>511,38</td><td>&nbsp;</td><td>511,38</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>472,00</td><td>472,00</td><td>125,00</td><td>345,00</td><td>525,07</td><td>&nbsp;</td><td>525,07</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>443,00</td><td>443,00</td><td>97,00</td><td>345,00</td><td>514,47</td><td>&nbsp;</td><td>514,47</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>443,00</td><td>443,00</td><td>97,00</td><td>345,00</td><td>491,07</td><td>&nbsp;</td><td>491,07</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>448,00</td><td>448,00</td><td>149,00</td><td>297,00</td><td>482,46</td><td>&nbsp;</td><td>482,46</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>423,00</td><td>423,00</td><td>77,00</td><td>345,00</td><td>468,39</td><td>&nbsp;</td><td>468,39</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>423,00</td><td>423,00</td><td>77,00</td><td>345,00</td><td>431,08</td><td>&nbsp;</td><td>431,08</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>432,00</td><td>432,00</td><td>87,00</td><td>345,00</td><td>413,73</td><td>&nbsp;</td><td>413,73</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>422,00</td><td>422,00</td><td>77,00</td><td>344,00</td><td>425,37</td><td>&nbsp;</td><td>425,37</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>424,00</td><td>424,00</td><td>100,00</td><td>323,00</td><td>438,32</td><td>&nbsp;</td><td>438,32</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>422,00</td><td>422,00</td><td>77,00</td><td>345,00</td><td>455,61</td><td>&nbsp;</td><td>455,61</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>422,00</td><td>422,00</td><td>77,00</td><td>345,00</td><td>459,98</td><td>&nbsp;</td><td>459,98</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>610,00</td><td>610,00</td><td>262,00</td><td>347,00</td><td>484,80</td><td>&nbsp;</td><td>484,80</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>804,00</td><td>804,00</td><td>469,00</td><td>334,00</td><td>523,30</td><td>&nbsp;</td><td>523,30</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>744,00</td><td>744,00</td><td>396,00</td><td>348,00</td><td>552,51</td><td>&nbsp;</td><td>552,51</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>634,00</td><td>634,00</td><td>285,00</td><td>348,00</td><td>554,54</td><td>&nbsp;</td><td>554,54</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>575,00</td><td>575,00</td><td>225,00</td><td>349,00</td><td>543,28</td><td>&nbsp;</td><td>543,28</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>587,00</td><td>587,00</td><td>236,00</td><td>349,00</td><td>550,60</td><td>&nbsp;</td><td>550,60</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>587,00</td><td>587,00</td><td>236,00</td><td>350,00</td><td>557,27</td><td>&nbsp;</td><td>557,27</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>494,00</td><td>494,00</td><td>161,00</td><td>332,00</td><td>526,12</td><td>&nbsp;</td><td>526,12</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>385,00</td><td>385,00</td><td>53,00</td><td>331,00</td><td>499,70</td><td>&nbsp;</td><td>499,70</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>483,08</td><td>&nbsp;</td><td>483,08</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>443,57</td><td>&nbsp;</td><td>443,57</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>433,31</td><td>&nbsp;</td><td>433,31</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>433,61</td><td>&nbsp;</td><td>433,61</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>298,00</td><td>298,00</td><td>0,00</td><td>297,00</td><td>423,80</td><td>&nbsp;</td><td>423,80</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>205,00</td><td>205,00</td><td>0,00</td><td>204,00</td><td>417,72</td><td>&nbsp;</td><td>417,72</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>0,00</td><td>158,00</td><td>405,28</td><td>&nbsp;</td><td>405,28</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>157,00</td><td>157,00</td><td>0,00</td><td>156,00</td><td>395,10</td><td>&nbsp;</td><td>395,10</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>156,00</td><td>156,00</td><td>0,00</td><td>155,00</td><td>387,10</td><td>&nbsp;</td><td>387,10</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>223,00</td><td>223,00</td><td>0,00</td><td>222,00</td><td>393,00</td><td>&nbsp;</td><td>393,00</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>307,00</td><td>424,31</td><td>&nbsp;</td><td>424,31</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>306,00</td><td>456,22</td><td>&nbsp;</td><td>456,22</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>480,87</td><td>&nbsp;</td><td>480,87</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>479,54</td><td>&nbsp;</td><td>479,54</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>293,00</td><td>293,00</td><td>0,00</td><td>292,00</td><td>460,45</td><td>&nbsp;</td><td>460,45</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>270,00</td><td>270,00</td><td>0,00</td><td>268,00</td><td>447,70</td><td>&nbsp;</td><td>447,70</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>265,00</td><td>265,00</td><td>0,00</td><td>263,00</td><td>449,87</td><td>&nbsp;</td><td>449,87</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>270,00</td><td>270,00</td><td>0,00</td><td>269,00</td><td>437,32</td><td>&nbsp;</td><td>437,32</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>247,00</td><td>247,00</td><td>0,00</td><td>246,00</td><td>410,11</td><td>&nbsp;</td><td>410,11</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>270,00</td><td>270,00</td><td>0,00</td><td>269,00</td><td>373,99</td><td>&nbsp;</td><td>373,99</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>339,75</td><td>&nbsp;</td><td>339,75</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>321,25</td><td>&nbsp;</td><td>321,25</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>306,00</td><td>304,55</td><td>&nbsp;</td><td>304,55</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>325,00</td><td>325,00</td><td>0,00</td><td>323,00</td><td>298,77</td><td>&nbsp;</td><td>298,77</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>328,06</td><td>&nbsp;</td><td>328,06</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>364,12</td><td>&nbsp;</td><td>364,12</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>391,80</td><td>&nbsp;</td><td>391,80</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>305,00</td><td>305,00</td><td>0,00</td><td>303,00</td><td>397,29</td><td>&nbsp;</td><td>397,29</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>386,67</td><td>&nbsp;</td><td>386,67</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>256,00</td><td>256,00</td><td>0,00</td><td>255,00</td><td>364,26</td><td>&nbsp;</td><td>364,26</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>306,00</td><td>306,00</td><td>0,00</td><td>305,00</td><td>340,81</td><td>&nbsp;</td><td>340,81</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>186,00</td><td>186,00</td><td>0,00</td><td>184,00</td><td>309,54</td><td>&nbsp;</td><td>309,54</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>182,00</td><td>182,00</td><td>0,00</td><td>181,00</td><td>283,19</td><td>&nbsp;</td><td>283,19</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>305,00</td><td>263,77</td><td>&nbsp;</td><td>263,77</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>252,38</td><td>&nbsp;</td><td>252,38</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>0,00</td><td>261,00</td><td>241,15</td><td>&nbsp;</td><td>241,15</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>290,00</td><td>290,00</td><td>0,00</td><td>289,00</td><td>236,41</td><td>&nbsp;</td><td>236,41</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>296,00</td><td>296,00</td><td>0,00</td><td>295,00</td><td>244,22</td><td>&nbsp;</td><td>244,22</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>209,00</td><td>209,00</td><td>0,00</td><td>207,00</td><td>240,51</td><td>&nbsp;</td><td>240,51</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>209,00</td><td>209,00</td><td>1,00</td><td>207,00</td><td>238,18</td><td>&nbsp;</td><td>238,18</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>264,00</td><td>264,00</td><td>0,00</td><td>263,00</td><td>231,21</td><td>&nbsp;</td><td>231,21</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>290,00</td><td>290,00</td><td>0,00</td><td>289,00</td><td>227,06</td><td>&nbsp;</td><td>227,06</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>290,00</td><td>290,00</td><td>0,00</td><td>&nbsp;</td><td>224,64</td><td>&nbsp;</td><td>224,64</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>287,00</td><td>287,00</td><td>0,00</td><td>286,00</td><td>217,47</td><td>&nbsp;</td><td>217,47</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>220,00</td><td>220,00</td><td>0,00</td><td>219,00</td><td>215,23</td><td>&nbsp;</td><td>215,23</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>215,00</td><td>215,00</td><td>0,00</td><td>214,00</td><td>213,59</td><td>&nbsp;</td><td>213,59</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>184,00</td><td>184,00</td><td>0,00</td><td>183,00</td><td>210,16</td><td>&nbsp;</td><td>210,16</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>186,00</td><td>186,00</td><td>0,00</td><td>185,00</td><td>208,53</td><td>&nbsp;</td><td>208,53</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>205,69</td><td>&nbsp;</td><td>205,69</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>260,00</td><td>260,00</td><td>5,00</td><td>254,00</td><td>199,48</td><td>&nbsp;</td><td>199,48</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>190,00</td><td>190,00</td><td>0,00</td><td>188,00</td><td>197,49</td><td>&nbsp;</td><td>197,49</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>288,00</td><td>288,00</td><td>0,00</td><td>286,00</td><td>190,54</td><td>&nbsp;</td><td>190,54</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>258,00</td><td>258,00</td><td>0,00</td><td>256,00</td><td>184,61</td><td>&nbsp;</td><td>184,61</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>137,00</td><td>137,00</td><td>0,00</td><td>136,00</td><td>181,23</td><td>&nbsp;</td><td>181,23</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>180,72</td><td>&nbsp;</td><td>180,72</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>182,24</td><td>&nbsp;</td><td>182,24</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>188,99</td><td>&nbsp;</td><td>188,99</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>198,66</td><td>&nbsp;</td><td>198,66</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>204,49</td><td>&nbsp;</td><td>204,49</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>0,00</td><td>261,00</td><td>210,37</td><td>&nbsp;</td><td>210,37</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>192,00</td><td>192,00</td><td>0,00</td><td>191,00</td><td>204,50</td><td>&nbsp;</td><td>204,50</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>263,00</td><td>263,00</td><td>102,00</td><td>159,00</td><td>191,05</td><td>&nbsp;</td><td>191,05</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>97,00</td><td>226,00</td><td>188,79</td><td>&nbsp;</td><td>188,79</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>305,00</td><td>305,00</td><td>0,00</td><td>304,00</td><td>184,79</td><td>&nbsp;</td><td>184,79</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>182,09</td><td>&nbsp;</td><td>182,09</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>302,00</td><td>182,14</td><td>&nbsp;</td><td>182,14</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>178,00</td><td>178,00</td><td>0,00</td><td>177,00</td><td>184,96</td><td>&nbsp;</td><td>184,96</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>146,00</td><td>146,00</td><td>0,00</td><td>145,00</td><td>200,01</td><td>&nbsp;</td><td>200,01</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>254,00</td><td>254,00</td><td>89,00</td><td>164,00</td><td>205,10</td><td>&nbsp;</td><td>205,10</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>276,00</td><td>276,00</td><td>104,00</td><td>170,00</td><td>216,30</td><td>&nbsp;</td><td>216,30</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>258,00</td><td>258,00</td><td>86,00</td><td>171,00</td><td>242,82</td><td>&nbsp;</td><td>242,82</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>258,00</td><td>258,00</td><td>86,00</td><td>171,00</td><td>269,17</td><td>&nbsp;</td><td>269,17</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>261,00</td><td>261,00</td><td>89,00</td><td>171,00</td><td>272,67</td><td>&nbsp;</td><td>272,67</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>260,00</td><td>260,00</td><td>89,00</td><td>170,00</td><td>267,18</td><td>&nbsp;</td><td>267,18</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>206,00</td><td>206,00</td><td>37,00</td><td>168,00</td><td>253,41</td><td>&nbsp;</td><td>253,41</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>90,00</td><td>170,00</td><td>256,51</td><td>&nbsp;</td><td>256,51</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,74</td><td>320,74</td><td>148,73</td><td>172,00</td><td>259,08</td><td>&nbsp;</td><td>259,08</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>148,73</td><td>&nbsp;</td><td>257,81</td><td>&nbsp;</td><td>257,81</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>148,73</td><td>172,00</td><td>269,65</td><td>&nbsp;</td><td>269,65</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>282,00</td><td>282,00</td><td>110,00</td><td>170,00</td><td>294,15</td><td>&nbsp;</td><td>294,15</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>257,00</td><td>257,00</td><td>86,00</td><td>170,00</td><td>303,55</td><td>&nbsp;</td><td>303,55</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>0,00</td><td>167,00</td><td>349,79</td><td>&nbsp;</td><td>349,79</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>260,00</td><td>260,00</td><td>89,00</td><td>169,00</td><td>430,20</td><td>&nbsp;</td><td>430,20</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>259,00</td><td>259,00</td><td>87,00</td><td>170,00</td><td>509,63</td><td>&nbsp;</td><td>509,63</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>147,00</td><td>170,00</td><td>539,33</td><td>&nbsp;</td><td>539,33</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>147,00</td><td>170,00</td><td>500,43</td><td>&nbsp;</td><td>500,43</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>447,20</td><td>&nbsp;</td><td>447,20</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>400,90</td><td>&nbsp;</td><td>400,90</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>364,71</td><td>&nbsp;</td><td>364,71</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>338,04</td><td>&nbsp;</td><td>338,04</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>365,00</td><td>365,00</td><td>190,00</td><td>173,00</td><td>332,82</td><td>&nbsp;</td><td>332,82</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>437,42</td><td>437,42</td><td>262,34</td><td>124,00</td><td>347,07</td><td>&nbsp;</td><td>347,07</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>463,00</td><td>463,00</td><td>181,00</td><td>281,00</td><td>371,61</td><td>&nbsp;</td><td>371,61</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>481,00</td><td>481,00</td><td>136,00</td><td>344,00</td><td>398,40</td><td>&nbsp;</td><td>398,40</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>481,00</td><td>481,00</td><td>136,00</td><td>343,00</td><td>426,30</td><td>&nbsp;</td><td>426,30</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>580,00</td><td>580,00</td><td>232,00</td><td>346,00</td><td>442,22</td><td>&nbsp;</td><td>442,22</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>653,00</td><td>653,00</td><td>303,00</td><td>348,00</td><td>473,62</td><td>&nbsp;</td><td>473,62</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>619,00</td><td>619,00</td><td>270,00</td><td>348,00</td><td>534,61</td><td>&nbsp;</td><td>534,61</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>619,00</td><td>619,00</td><td>270,00</td><td>348,00</td><td>612,91</td><td>&nbsp;</td><td>612,91</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>600,00</td><td>600,00</td><td>251,00</td><td>348,00</td><td>670,40</td><td>&nbsp;</td><td>670,40</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>534,00</td><td>534,00</td><td>187,00</td><td>345,00</td><td>718,64</td><td>&nbsp;</td><td>718,64</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>485,00</td><td>485,00</td><td>140,00</td><td>343,00</td><td>673,27</td><td>&nbsp;</td><td>673,27</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>480,00</td><td>480,00</td><td>140,00</td><td>339,00</td><td>598,94</td><td>&nbsp;</td><td>598,94</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>409,00</td><td>409,00</td><td>95,00</td><td>314,00</td><td>516,83</td><td>&nbsp;</td><td>516,83</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>373,00</td><td>373,00</td><td>42,00</td><td>329,00</td><td>446,36</td><td>&nbsp;</td><td>446,36</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>307,00</td><td>392,30</td><td>&nbsp;</td><td>392,30</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>350,16</td><td>&nbsp;</td><td>350,16</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,00</td><td>320,00</td><td>0,00</td><td>319,00</td><td>327,47</td><td>&nbsp;</td><td>327,47</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>307,53</td><td>&nbsp;</td><td>307,53</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>308,00</td><td>288,46</td><td>&nbsp;</td><td>288,46</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>90,00</td><td>215,00</td><td>275,88</td><td>&nbsp;</td><td>275,88</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>195,00</td><td>195,00</td><td>42,00</td><td>152,00</td><td>267,36</td><td>&nbsp;</td><td>267,36</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>155,00</td><td>155,00</td><td>0,00</td><td>154,00</td><td>260,26</td><td>&nbsp;</td><td>260,26</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>121,00</td><td>121,00</td><td>0,00</td><td>120,00</td><td>258,85</td><td>&nbsp;</td><td>258,85</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>120,00</td><td>120,00</td><td>0,00</td><td>120,00</td><td>263,52</td><td>&nbsp;</td><td>263,52</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>120,00</td><td>120,00</td><td>0,00</td><td>120,00</td><td>284,66</td><td>&nbsp;</td><td>284,66</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>173,00</td><td>173,00</td><td>18,00</td><td>154,00</td><td>309,87</td><td>&nbsp;</td><td>309,87</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>267,00</td><td>267,00</td><td>95,00</td><td>170,00</td><td>301,09</td><td>&nbsp;</td><td>301,09</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>281,49</td><td>&nbsp;</td><td>281,49</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>265,47</td><td>&nbsp;</td><td>265,47</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>252,77</td><td>&nbsp;</td><td>252,77</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>147,00</td><td>173,00</td><td>242,90</td><td>&nbsp;</td><td>242,90</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>147,00</td><td>173,00</td><td>237,40</td><td>&nbsp;</td><td>237,40</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>12,00</td><td>155,00</td><td>232,04</td><td>&nbsp;</td><td>232,04</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>142,00</td><td>173,00</td><td>225,67</td><td>&nbsp;</td><td>225,67</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>147,00</td><td>173,00</td><td>220,83</td><td>&nbsp;</td><td>220,83</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>147,00</td><td>159,00</td><td>215,78</td><td>&nbsp;</td><td>215,78</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>147,00</td><td>173,00</td><td>211,33</td><td>&nbsp;</td><td>211,33</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>147,00</td><td>173,00</td><td>207,49</td><td>&nbsp;</td><td>207,49</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>147,00</td><td>166,00</td><td>203,57</td><td>&nbsp;</td><td>203,57</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>172,00</td><td>172,00</td><td>15,00</td><td>156,00</td><td>200,90</td><td>&nbsp;</td><td>200,90</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>138,00</td><td>173,00</td><td>197,70</td><td>&nbsp;</td><td>197,70</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>147,00</td><td>174,00</td><td>196,82</td><td>&nbsp;</td><td>196,82</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>137,00</td><td>174,00</td><td>193,70</td><td>&nbsp;</td><td>193,70</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>25,00</td><td>294,00</td><td>193,29</td><td>&nbsp;</td><td>193,29</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>192,75</td><td>&nbsp;</td><td>192,75</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>301,00</td><td>301,00</td><td>0,00</td><td>300,00</td><td>193,90</td><td>&nbsp;</td><td>193,90</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>205,00</td><td>205,00</td><td>0,00</td><td>204,00</td><td>208,02</td><td>&nbsp;</td><td>208,02</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>226,00</td><td>226,00</td><td>0,00</td><td>225,00</td><td>230,04</td><td>&nbsp;</td><td>230,04</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>0,00</td><td>260,00</td><td>246,94</td><td>&nbsp;</td><td>246,94</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>0,00</td><td>261,00</td><td>246,74</td><td>&nbsp;</td><td>246,74</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>239,00</td><td>239,00</td><td>0,00</td><td>238,00</td><td>235,37</td><td>&nbsp;</td><td>235,37</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>257,00</td><td>257,00</td><td>0,00</td><td>255,00</td><td>220,12</td><td>&nbsp;</td><td>220,12</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>167,00</td><td>167,00</td><td>0,00</td><td>166,00</td><td>206,80</td><td>&nbsp;</td><td>206,80</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>156,00</td><td>156,00</td><td>0,00</td><td>155,00</td><td>198,85</td><td>&nbsp;</td><td>198,85</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>193,14</td><td>&nbsp;</td><td>193,14</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>249,00</td><td>191,07</td><td>&nbsp;</td><td>191,07</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>210,00</td><td>210,00</td><td>0,00</td><td>209,00</td><td>186,45</td><td>&nbsp;</td><td>186,45</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>230,00</td><td>230,00</td><td>0,00</td><td>230,00</td><td>182,30</td><td>&nbsp;</td><td>182,30</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>244,00</td><td>244,00</td><td>0,00</td><td>243,00</td><td>178,79</td><td>&nbsp;</td><td>178,79</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>162,00</td><td>162,00</td><td>0,00</td><td>161,00</td><td>175,18</td><td>&nbsp;</td><td>175,18</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>163,00</td><td>172,28</td><td>&nbsp;</td><td>172,28</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>229,00</td><td>229,00</td><td>0,00</td><td>228,00</td><td>170,15</td><td>&nbsp;</td><td>170,15</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>0,00</td><td>240,00</td><td>171,36</td><td>&nbsp;</td><td>171,36</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>172,64</td><td>&nbsp;</td><td>172,64</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>239,00</td><td>239,00</td><td>0,00</td><td>238,00</td><td>170,57</td><td>&nbsp;</td><td>170,57</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>252,00</td><td>252,00</td><td>0,00</td><td>251,00</td><td>167,18</td><td>&nbsp;</td><td>167,18</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>176,00</td><td>176,00</td><td>0,00</td><td>175,00</td><td>167,70</td><td>&nbsp;</td><td>167,70</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>157,00</td><td>157,00</td><td>0,00</td><td>156,00</td><td>168,51</td><td>&nbsp;</td><td>168,51</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>0,00</td><td>240,00</td><td>168,51</td><td>&nbsp;</td><td>168,51</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>0,00</td><td>244,00</td><td>164,74</td><td>&nbsp;</td><td>164,74</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>180,00</td><td>180,00</td><td>0,00</td><td>178,00</td><td>162,16</td><td>&nbsp;</td><td>162,16</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>243,00</td><td>243,00</td><td>0,00</td><td>241,00</td><td>163,11</td><td>&nbsp;</td><td>163,11</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>0,00</td><td>244,00</td><td>170,68</td><td>&nbsp;</td><td>170,68</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>0,00</td><td>158,00</td><td>176,92</td><td>&nbsp;</td><td>176,92</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>156,00</td><td>156,00</td><td>0,00</td><td>155,00</td><td>178,03</td><td>&nbsp;</td><td>178,03</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>236,00</td><td>236,00</td><td>0,00</td><td>234,00</td><td>171,45</td><td>&nbsp;</td><td>171,45</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>240,00</td><td>164,25</td><td>&nbsp;</td><td>164,25</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>248,00</td><td>160,78</td><td>&nbsp;</td><td>160,78</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,51</td><td>240,97</td><td>239,00</td><td>0,00</td><td>238,00</td><td>157,44</td><td>&nbsp;</td><td>157,44</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,03</td><td>242,00</td><td>0,00</td><td>0,00</td><td>156,49</td><td>&nbsp;</td><td>156,49</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>158,00</td><td>158,00</td><td>0,00</td><td>157,00</td><td>172,06</td><td>&nbsp;</td><td>172,06</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>171,00</td><td>171,00</td><td>0,00</td><td>170,00</td><td>213,29</td><td>&nbsp;</td><td>213,29</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>251,00</td><td>251,00</td><td>0,00</td><td>250,00</td><td>315,69</td><td>&nbsp;</td><td>315,69</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>413,82</td><td>&nbsp;</td><td>413,82</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>8,00</td><td>162,00</td><td>476,82</td><td>&nbsp;</td><td>476,82</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>6,00</td><td>232,00</td><td>513,79</td><td>&nbsp;</td><td>513,79</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>244,00</td><td>244,00</td><td>0,00</td><td>243,00</td><td>481,26</td><td>&nbsp;</td><td>481,26</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>163,00</td><td>398,57</td><td>&nbsp;</td><td>398,57</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>0,00</td><td>158,00</td><td>321,38</td><td>&nbsp;</td><td>321,38</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>0,00</td><td>238,00</td><td>270,15</td><td>&nbsp;</td><td>270,15</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>237,52</td><td>&nbsp;</td><td>237,52</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>222,30</td><td>&nbsp;</td><td>222,30</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>229,73</td><td>&nbsp;</td><td>229,73</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>241,04</td><td>&nbsp;</td><td>241,04</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>178,00</td><td>178,00</td><td>0,00</td><td>176,00</td><td>250,59</td><td>&nbsp;</td><td>250,59</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>154,00</td><td>154,00</td><td>0,00</td><td>152,00</td><td>250,06</td><td>&nbsp;</td><td>250,06</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>43,00</td><td>200,00</td><td>242,87</td><td>&nbsp;</td><td>242,87</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>412,00</td><td>412,00</td><td>0,00</td><td>411,00</td><td>253,38</td><td>&nbsp;</td><td>253,38</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>262,00</td><td>262,00</td><td>0,00</td><td>261,00</td><td>286,28</td><td>&nbsp;</td><td>286,28</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>275,00</td><td>275,00</td><td>0,00</td><td>274,00</td><td>318,19</td><td>&nbsp;</td><td>318,19</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>0,00</td><td>244,00</td><td>334,12</td><td>&nbsp;</td><td>334,12</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>165,00</td><td>165,00</td><td>0,00</td><td>164,00</td><td>320,39</td><td>&nbsp;</td><td>320,39</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>149,00</td><td>149,00</td><td>0,00</td><td>148,00</td><td>278,95</td><td>&nbsp;</td><td>278,95</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>193,00</td><td>193,00</td><td>0,00</td><td>191,00</td><td>239,81</td><td>&nbsp;</td><td>239,81</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>238,00</td><td>238,00</td><td>0,00</td><td>237,00</td><td>214,25</td><td>&nbsp;</td><td>214,25</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>196,44</td><td>&nbsp;</td><td>196,44</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>252,00</td><td>252,00</td><td>0,00</td><td>251,00</td><td>187,42</td><td>&nbsp;</td><td>187,42</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>315,00</td><td>315,00</td><td>0,00</td><td>314,00</td><td>173,93</td><td>&nbsp;</td><td>173,93</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>178,00</td><td>178,00</td><td>0,00</td><td>176,00</td><td>164,07</td><td>&nbsp;</td><td>164,07</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>158,00</td><td>158,00</td><td>0,00</td><td>157,00</td><td>159,01</td><td>&nbsp;</td><td>159,01</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>157,89</td><td>&nbsp;</td><td>157,89</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>253,00</td><td>253,00</td><td>0,00</td><td>252,00</td><td>157,59</td><td>&nbsp;</td><td>157,59</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>252,00</td><td>252,00</td><td>0,00</td><td>251,00</td><td>162,83</td><td>&nbsp;</td><td>162,83</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>0,00</td><td>239,00</td><td>170,38</td><td>&nbsp;</td><td>170,38</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>251,00</td><td>251,00</td><td>0,00</td><td>249,00</td><td>166,35</td><td>&nbsp;</td><td>166,35</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>273,00</td><td>273,00</td><td>0,00</td><td>272,00</td><td>157,21</td><td>&nbsp;</td><td>157,21</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>165,00</td><td>165,00</td><td>0,00</td><td>164,00</td><td>150,01</td><td>&nbsp;</td><td>150,01</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>237,00</td><td>237,00</td><td>0,00</td><td>236,00</td><td>145,47</td><td>&nbsp;</td><td>145,47</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>266,00</td><td>266,00</td><td>0,00</td><td>265,00</td><td>140,58</td><td>&nbsp;</td><td>140,58</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>265,00</td><td>265,00</td><td>0,00</td><td>134,00</td><td>137,39</td><td>&nbsp;</td><td>137,39</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>238,00</td><td>238,00</td><td>0,00</td><td>238,00</td><td>135,66</td><td>&nbsp;</td><td>135,66</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>0,00</td><td>240,00</td><td>133,26</td><td>&nbsp;</td><td>133,26</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>157,00</td><td>157,00</td><td>0,00</td><td>156,00</td><td>130,63</td><td>&nbsp;</td><td>130,63</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>155,00</td><td>155,00</td><td>0,00</td><td>154,00</td><td>128,09</td><td>&nbsp;</td><td>128,09</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>0,00</td><td>243,00</td><td>125,70</td><td>&nbsp;</td><td>125,70</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>239,00</td><td>239,00</td><td>0,00</td><td>239,00</td><td>134,25</td><td>&nbsp;</td><td>134,25</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>246,00</td><td>161,94</td><td>&nbsp;</td><td>161,94</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>243,00</td><td>243,00</td><td>0,00</td><td>242,00</td><td>185,92</td><td>&nbsp;</td><td>185,92</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>183,36</td><td>&nbsp;</td><td>183,36</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>156,00</td><td>156,00</td><td>0,00</td><td>155,00</td><td>186,40</td><td>&nbsp;</td><td>186,40</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>162,00</td><td>181,26</td><td>&nbsp;</td><td>181,26</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>228,00</td><td>228,00</td><td>0,00</td><td>228,00</td><td>169,83</td><td>&nbsp;</td><td>169,83</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>220,00</td><td>220,00</td><td>0,00</td><td>243,00</td><td>157,84</td><td>&nbsp;</td><td>157,84</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>148,39</td><td>&nbsp;</td><td>148,39</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>256,00</td><td>256,00</td><td>0,00</td><td>255,00</td><td>146,88</td><td>&nbsp;</td><td>146,88</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>249,00</td><td>169,32</td><td>&nbsp;</td><td>169,32</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>167,00</td><td>167,00</td><td>0,00</td><td>166,00</td><td>240,82</td><td>&nbsp;</td><td>240,82</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>159,00</td><td>328,02</td><td>&nbsp;</td><td>328,02</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>0,00</td><td>240,00</td><td>384,21</td><td>&nbsp;</td><td>384,21</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>223,00</td><td>223,00</td><td>0,00</td><td>222,00</td><td>384,02</td><td>&nbsp;</td><td>384,02</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>261,00</td><td>261,00</td><td>0,00</td><td>260,00</td><td>331,95</td><td>&nbsp;</td><td>331,95</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>328,00</td><td>282,16</td><td>&nbsp;</td><td>282,16</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>329,00</td><td>245,32</td><td>&nbsp;</td><td>245,32</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>179,00</td><td>179,00</td><td>0,00</td><td>178,00</td><td>253,28</td><td>&nbsp;</td><td>253,28</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>154,00</td><td>154,00</td><td>0,00</td><td>153,00</td><td>247,18</td><td>&nbsp;</td><td>247,18</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>244,00</td><td>244,00</td><td>0,00</td><td>243,00</td><td>253,92</td><td>&nbsp;</td><td>253,92</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>246,08</td><td>&nbsp;</td><td>246,08</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>244,00</td><td>250,87</td><td>&nbsp;</td><td>250,87</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>249,00</td><td>258,99</td><td>&nbsp;</td><td>258,99</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>251,00</td><td>251,00</td><td>0,00</td><td>249,00</td><td>271,02</td><td>&nbsp;</td><td>271,02</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>162,00</td><td>267,81</td><td>&nbsp;</td><td>267,81</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>153,00</td><td>248,16</td><td>&nbsp;</td><td>248,16</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>0,00</td><td>245,00</td><td>223,45</td><td>&nbsp;</td><td>223,45</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>243,00</td><td>243,00</td><td>0,00</td><td>242,00</td><td>204,98</td><td>&nbsp;</td><td>204,98</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>178,00</td><td>178,00</td><td>0,00</td><td>177,00</td><td>200,84</td><td>&nbsp;</td><td>200,84</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>277,00</td><td>277,00</td><td>0,00</td><td>276,00</td><td>196,23</td><td>&nbsp;</td><td>196,23</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>0,00</td><td>245,00</td><td>185,63</td><td>&nbsp;</td><td>185,63</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>157,00</td><td>157,00</td><td>0,00</td><td>156,00</td><td>175,34</td><td>&nbsp;</td><td>175,34</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>1,00</td><td>156,00</td><td>167,87</td><td>&nbsp;</td><td>167,87</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>1,00</td><td>220,00</td><td>160,75</td><td>&nbsp;</td><td>160,75</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>1,00</td><td>220,00</td><td>157,54</td><td>&nbsp;</td><td>157,54</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>247,00</td><td>247,00</td><td>1,00</td><td>&nbsp;</td><td>154,40</td><td>&nbsp;</td><td>154,40</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>1,00</td><td>221,00</td><td>150,14</td><td>&nbsp;</td><td>150,14</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>245,00</td><td>245,00</td><td>1,00</td><td>221,00</td><td>152,87</td><td>&nbsp;</td><td>152,87</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>171,00</td><td>171,00</td><td>1,00</td><td>&nbsp;</td><td>168,72</td><td>&nbsp;</td><td>168,72</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>1,00</td><td>&nbsp;</td><td>200,12</td><td>&nbsp;</td><td>200,12</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>235,00</td><td>235,00</td><td>1,00</td><td>&nbsp;</td><td>198,48</td><td>&nbsp;</td><td>198,48</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>1,00</td><td>&nbsp;</td><td>194,05</td><td>&nbsp;</td><td>194,05</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>1,00</td><td>&nbsp;</td><td>203,17</td><td>&nbsp;</td><td>203,17</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>1,00</td><td>&nbsp;</td><td>220,00</td><td>&nbsp;</td><td>220,00</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>1,00</td><td>&nbsp;</td><td>249,84</td><td>&nbsp;</td><td>249,84</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>1,00</td><td>&nbsp;</td><td>266,78</td><td>&nbsp;</td><td>266,78</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>153,00</td><td>153,00</td><td>1,00</td><td>&nbsp;</td><td>242,39</td><td>&nbsp;</td><td>242,39</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>238,00</td><td>238,00</td><td>1,00</td><td>240,00</td><td>212,05</td><td>&nbsp;</td><td>212,05</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>246,00</td><td>246,00</td><td>1,00</td><td>249,00</td><td>193,28</td><td>&nbsp;</td><td>193,28</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>244,00</td><td>244,00</td><td>1,00</td><td>&nbsp;</td><td>183,62</td><td>&nbsp;</td><td>183,62</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>1,00</td><td>241,00</td><td>177,17</td><td>&nbsp;</td><td>177,17</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>1,00</td><td>223,00</td><td>172,87</td><td>&nbsp;</td><td>172,87</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>1,00</td><td>223,00</td><td>168,15</td><td>&nbsp;</td><td>168,15</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>152,00</td><td>152,00</td><td>1,00</td><td>223,00</td><td>164,43</td><td>&nbsp;</td><td>164,43</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>1,00</td><td>223,00</td><td>162,42</td><td>&nbsp;</td><td>162,42</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>1,00</td><td>224,00</td><td>159,11</td><td>&nbsp;</td><td>159,11</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>1,00</td><td>327,00</td><td>163,84</td><td>&nbsp;</td><td>163,84</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>22,00</td><td>302,00</td><td>178,69</td><td>&nbsp;</td><td>178,69</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>1,00</td><td>317,00</td><td>193,87</td><td>&nbsp;</td><td>193,87</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>1,00</td><td>326,00</td><td>203,68</td><td>&nbsp;</td><td>203,68</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>1,00</td><td>172,00</td><td>196,92</td><td>&nbsp;</td><td>196,92</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>272,00</td><td>272,00</td><td>15,00</td><td>256,00</td><td>188,33</td><td>&nbsp;</td><td>188,33</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>0,00</td><td>326,00</td><td>183,73</td><td>&nbsp;</td><td>183,73</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,00</td><td>320,00</td><td>0,00</td><td>318,00</td><td>184,76</td><td>&nbsp;</td><td>184,76</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>0,00</td><td>320,00</td><td>182,22</td><td>&nbsp;</td><td>182,22</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>328,00</td><td>189,38</td><td>&nbsp;</td><td>189,38</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>206,73</td><td>&nbsp;</td><td>206,73</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>228,68</td><td>&nbsp;</td><td>228,68</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>326,00</td><td>326,00</td><td>0,00</td><td>325,00</td><td>246,38</td><td>&nbsp;</td><td>246,38</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>345,00</td><td>345,00</td><td>0,00</td><td>343,00</td><td>299,92</td><td>&nbsp;</td><td>299,92</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>0,00</td><td>326,00</td><td>333,63</td><td>&nbsp;</td><td>333,63</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>0,00</td><td>319,00</td><td>331,56</td><td>&nbsp;</td><td>331,56</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>0,00</td><td>322,00</td><td>304,34</td><td>&nbsp;</td><td>304,34</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>0,00</td><td>322,00</td><td>262,15</td><td>&nbsp;</td><td>262,15</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>0,00</td><td>326,00</td><td>246,88</td><td>&nbsp;</td><td>246,88</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>332,00</td><td>332,00</td><td>0,00</td><td>331,00</td><td>241,39</td><td>&nbsp;</td><td>241,39</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>0,00</td><td>322,00</td><td>243,13</td><td>&nbsp;</td><td>243,13</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>332,00</td><td>242,65</td><td>&nbsp;</td><td>242,65</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>336,00</td><td>336,00</td><td>0,00</td><td>335,00</td><td>232,08</td><td>&nbsp;</td><td>232,08</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>229,11</td><td>&nbsp;</td><td>229,11</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>237,92</td><td>&nbsp;</td><td>237,92</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>221,00</td><td>221,00</td><td>0,00</td><td>219,00</td><td>231,58</td><td>&nbsp;</td><td>231,58</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>333,00</td><td>211,89</td><td>&nbsp;</td><td>211,89</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>198,59</td><td>&nbsp;</td><td>198,59</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>190,44</td><td>&nbsp;</td><td>190,44</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>182,78</td><td>&nbsp;</td><td>182,78</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>335,00</td><td>335,00</td><td>0,00</td><td>333,00</td><td>196,81</td><td>&nbsp;</td><td>196,81</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>248,64</td><td>&nbsp;</td><td>248,64</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>259,62</td><td>&nbsp;</td><td>259,62</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>0,00</td><td>327,00</td><td>244,86</td><td>&nbsp;</td><td>244,86</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>216,94</td><td>&nbsp;</td><td>216,94</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>0,00</td><td>328,00</td><td>195,29</td><td>&nbsp;</td><td>195,29</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>0,00</td><td>328,00</td><td>186,96</td><td>&nbsp;</td><td>186,96</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>314,00</td><td>209,25</td><td>&nbsp;</td><td>209,25</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>241,06</td><td>&nbsp;</td><td>241,06</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>0,00</td><td>327,00</td><td>248,54</td><td>&nbsp;</td><td>248,54</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>268,50</td><td>&nbsp;</td><td>268,50</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>298,64</td><td>&nbsp;</td><td>298,64</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>331,00</td><td>321,01</td><td>&nbsp;</td><td>321,01</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>0,00</td><td>326,00</td><td>352,40</td><td>&nbsp;</td><td>352,40</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>329,00</td><td>384,00</td><td>&nbsp;</td><td>384,00</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>441,00</td><td>&nbsp;</td><td>441,00</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>326,00</td><td>326,00</td><td>0,00</td><td>325,00</td><td>485,56</td><td>&nbsp;</td><td>485,56</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>342,00</td><td>342,00</td><td>0,00</td><td>341,00</td><td>496,84</td><td>&nbsp;</td><td>496,84</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>363,00</td><td>363,00</td><td>30,00</td><td>332,00</td><td>447,78</td><td>&nbsp;</td><td>447,78</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>345,00</td><td>345,00</td><td>16,00</td><td>328,00</td><td>412,73</td><td>&nbsp;</td><td>412,73</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>0,00</td><td>328,00</td><td>431,24</td><td>&nbsp;</td><td>431,24</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>554,54</td><td>&nbsp;</td><td>554,54</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>355,00</td><td>355,00</td><td>146,00</td><td>208,00</td><td>681,04</td><td>&nbsp;</td><td>681,04</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>408,00</td><td>408,00</td><td>232,00</td><td>175,00</td><td>760,49</td><td>&nbsp;</td><td>760,49</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>359,00</td><td>359,00</td><td>184,00</td><td>174,00</td><td>775,80</td><td>&nbsp;</td><td>775,80</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>359,00</td><td>359,00</td><td>184,00</td><td>174,00</td><td>719,89</td><td>&nbsp;</td><td>719,89</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>365,00</td><td>365,00</td><td>169,00</td><td>196,00</td><td>671,06</td><td>&nbsp;</td><td>671,06</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>315,00</td><td>627,64</td><td>&nbsp;</td><td>627,64</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>613,51</td><td>&nbsp;</td><td>613,51</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>317,00</td><td>607,03</td><td>&nbsp;</td><td>607,03</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>305,00</td><td>305,00</td><td>0,00</td><td>304,00</td><td>618,73</td><td>&nbsp;</td><td>618,73</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>0,00</td><td>322,00</td><td>646,44</td><td>&nbsp;</td><td>646,44</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>317,00</td><td>657,06</td><td>&nbsp;</td><td>657,06</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,00</td><td>320,00</td><td>0,00</td><td>318,00</td><td>662,07</td><td>&nbsp;</td><td>662,07</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>0,00</td><td>316,00</td><td>672,25</td><td>&nbsp;</td><td>672,25</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>315,00</td><td>315,00</td><td>0,00</td><td>313,00</td><td>693,81</td><td>&nbsp;</td><td>693,81</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>711,09</td><td>&nbsp;</td><td>711,09</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>720,06</td><td>&nbsp;</td><td>720,06</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>310,00</td><td>683,05</td><td>&nbsp;</td><td>683,05</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>311,00</td><td>626,85</td><td>&nbsp;</td><td>626,85</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>311,00</td><td>586,88</td><td>&nbsp;</td><td>586,88</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>307,00</td><td>552,34</td><td>&nbsp;</td><td>552,34</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>292,00</td><td>292,00</td><td>0,00</td><td>291,00</td><td>525,51</td><td>&nbsp;</td><td>525,51</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>306,00</td><td>497,10</td><td>&nbsp;</td><td>497,10</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>350,00</td><td>350,00</td><td>0,00</td><td>349,00</td><td>454,20</td><td>&nbsp;</td><td>454,20</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>401,03</td><td>&nbsp;</td><td>401,03</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>306,00</td><td>367,54</td><td>&nbsp;</td><td>367,54</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>355,81</td><td>&nbsp;</td><td>355,81</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>353,21</td><td>&nbsp;</td><td>353,21</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>306,00</td><td>344,37</td><td>&nbsp;</td><td>344,37</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>324,24</td><td>&nbsp;</td><td>324,24</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>306,00</td><td>306,00</td><td>0,00</td><td>305,00</td><td>302,74</td><td>&nbsp;</td><td>302,74</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>289,08</td><td>&nbsp;</td><td>289,08</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>280,79</td><td>&nbsp;</td><td>280,79</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>303,00</td><td>303,00</td><td>0,00</td><td>302,00</td><td>268,33</td><td>&nbsp;</td><td>268,33</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>318,00</td><td>251,78</td><td>&nbsp;</td><td>251,78</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>25,00</td><td>281,00</td><td>234,44</td><td>&nbsp;</td><td>234,44</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>329,00</td><td>224,44</td><td>&nbsp;</td><td>224,44</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>224,74</td><td>&nbsp;</td><td>224,74</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>238,99</td><td>&nbsp;</td><td>238,99</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>35,00</td><td>281,00</td><td>268,75</td><td>&nbsp;</td><td>268,75</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>281,02</td><td>&nbsp;</td><td>281,02</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,00</td><td>320,00</td><td>0,00</td><td>319,00</td><td>272,12</td><td>&nbsp;</td><td>272,12</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>256,68</td><td>&nbsp;</td><td>256,68</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>311,00</td><td>266,41</td><td>&nbsp;</td><td>266,41</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>315,00</td><td>315,00</td><td>0,00</td><td>314,00</td><td>310,16</td><td>&nbsp;</td><td>310,16</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>316,18</td><td>&nbsp;</td><td>316,18</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>292,30</td><td>&nbsp;</td><td>292,30</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>315,00</td><td>271,76</td><td>&nbsp;</td><td>271,76</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>258,91</td><td>&nbsp;</td><td>258,91</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>314,00</td><td>277,80</td><td>&nbsp;</td><td>277,80</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>0,00</td><td>320,00</td><td>291,73</td><td>&nbsp;</td><td>291,73</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>306,00</td><td>306,00</td><td>0,00</td><td>304,00</td><td>270,31</td><td>&nbsp;</td><td>270,31</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>30,00</td><td>289,00</td><td>240,36</td><td>&nbsp;</td><td>240,36</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>227,00</td><td>&nbsp;</td><td>227,00</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>218,20</td><td>&nbsp;</td><td>218,20</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>311,00</td><td>204,69</td><td>&nbsp;</td><td>204,69</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>199,77</td><td>&nbsp;</td><td>199,77</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>206,25</td><td>&nbsp;</td><td>206,25</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>261,00</td><td>261,00</td><td>0,00</td><td>260,00</td><td>240,10</td><td>&nbsp;</td><td>240,10</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>0,00</td><td>317,00</td><td>259,59</td><td>&nbsp;</td><td>259,59</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>288,50</td><td>&nbsp;</td><td>288,50</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>310,00</td><td>319,94</td><td>&nbsp;</td><td>319,94</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>307,86</td><td>&nbsp;</td><td>307,86</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>273,18</td><td>&nbsp;</td><td>273,18</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>306,00</td><td>306,00</td><td>0,00</td><td>304,00</td><td>241,06</td><td>&nbsp;</td><td>241,06</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>219,49</td><td>&nbsp;</td><td>219,49</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>207,98</td><td>&nbsp;</td><td>207,98</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>320,00</td><td>320,00</td><td>0,00</td><td>319,00</td><td>200,48</td><td>&nbsp;</td><td>200,48</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>192,61</td><td>&nbsp;</td><td>192,61</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>189,80</td><td>&nbsp;</td><td>189,80</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>191,50</td><td>&nbsp;</td><td>191,50</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>310,00</td><td>198,80</td><td>&nbsp;</td><td>198,80</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>310,00</td><td>201,35</td><td>&nbsp;</td><td>201,35</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>317,00</td><td>317,00</td><td>0,00</td><td>316,00</td><td>195,05</td><td>&nbsp;</td><td>195,05</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>317,00</td><td>186,33</td><td>&nbsp;</td><td>186,33</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>315,00</td><td>185,02</td><td>&nbsp;</td><td>185,02</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>0,00</td><td>326,00</td><td>181,45</td><td>&nbsp;</td><td>181,45</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>341,00</td><td>341,00</td><td>0,00</td><td>339,00</td><td>189,92</td><td>&nbsp;</td><td>189,92</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>0,00</td><td>305,00</td><td>245,32</td><td>&nbsp;</td><td>245,32</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>183,00</td><td>183,00</td><td>0,00</td><td>182,00</td><td>288,55</td><td>&nbsp;</td><td>288,55</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>254,00</td><td>254,00</td><td>0,00</td><td>253,00</td><td>332,26</td><td>&nbsp;</td><td>332,26</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>330,00</td><td>&nbsp;</td><td>330,00</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>0,00</td><td>314,00</td><td>299,14</td><td>&nbsp;</td><td>299,14</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>255,68</td><td>&nbsp;</td><td>255,68</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>179,00</td><td>179,00</td><td>0,00</td><td>178,00</td><td>228,03</td><td>&nbsp;</td><td>228,03</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>150,00</td><td>150,00</td><td>0,00</td><td>149,00</td><td>217,73</td><td>&nbsp;</td><td>217,73</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>150,00</td><td>150,00</td><td>0,00</td><td>149,00</td><td>225,90</td><td>&nbsp;</td><td>225,90</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>265,00</td><td>265,00</td><td>0,00</td><td>164,00</td><td>216,29</td><td>&nbsp;</td><td>216,29</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>201,91</td><td>&nbsp;</td><td>201,91</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>192,98</td><td>&nbsp;</td><td>192,98</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>196,76</td><td>&nbsp;</td><td>196,76</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>182,00</td><td>182,00</td><td>0,00</td><td>181,00</td><td>192,83</td><td>&nbsp;</td><td>192,83</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>155,00</td><td>155,00</td><td>0,00</td><td>154,00</td><td>209,38</td><td>&nbsp;</td><td>209,38</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>162,00</td><td>162,00</td><td>0,00</td><td>161,00</td><td>271,98</td><td>&nbsp;</td><td>271,98</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>274,00</td><td>274,00</td><td>0,00</td><td>273,00</td><td>306,51</td><td>&nbsp;</td><td>306,51</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>315,83</td><td>&nbsp;</td><td>315,83</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>299,45</td><td>&nbsp;</td><td>299,45</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>273,95</td><td>&nbsp;</td><td>273,95</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>292,38</td><td>&nbsp;</td><td>292,38</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>319,11</td><td>&nbsp;</td><td>319,11</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>149,00</td><td>149,00</td><td>0,00</td><td>148,00</td><td>325,97</td><td>&nbsp;</td><td>325,97</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>149,00</td><td>149,00</td><td>0,00</td><td>148,00</td><td>300,59</td><td>&nbsp;</td><td>300,59</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>252,00</td><td>252,00</td><td>11,00</td><td>240,00</td><td>264,13</td><td>&nbsp;</td><td>264,13</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>169,00</td><td>237,38</td><td>&nbsp;</td><td>237,38</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>153,00</td><td>153,00</td><td>0,00</td><td>152,00</td><td>257,87</td><td>&nbsp;</td><td>257,87</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>0,00</td><td>167,00</td><td>247,70</td><td>&nbsp;</td><td>247,70</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>169,00</td><td>276,90</td><td>&nbsp;</td><td>276,90</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>152,00</td><td>152,00</td><td>0,00</td><td>151,00</td><td>357,83</td><td>&nbsp;</td><td>357,83</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>151,00</td><td>151,00</td><td>0,00</td><td>149,00</td><td>400,72</td><td>&nbsp;</td><td>400,72</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>145,00</td><td>145,00</td><td>0,00</td><td>143,00</td><td>415,12</td><td>&nbsp;</td><td>415,12</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>253,00</td><td>253,00</td><td>48,00</td><td>114,00</td><td>387,09</td><td>&nbsp;</td><td>387,09</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>264,00</td><td>264,00</td><td>0,00</td><td>260,00</td><td>309,62</td><td>&nbsp;</td><td>309,62</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>256,00</td><td>256,00</td><td>0,00</td><td>255,00</td><td>264,24</td><td>&nbsp;</td><td>264,24</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>253,00</td><td>253,00</td><td>0,00</td><td>253,00</td><td>237,48</td><td>&nbsp;</td><td>237,48</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>160,00</td><td>160,00</td><td>0,00</td><td>163,00</td><td>225,41</td><td>&nbsp;</td><td>225,41</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>3,00</td><td>164,00</td><td>228,29</td><td>&nbsp;</td><td>228,29</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>260,91</td><td>260,91</td><td>0,00</td><td>133,00</td><td>225,58</td><td>&nbsp;</td><td>225,58</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>240,00</td><td>240,00</td><td>0,00</td><td>&nbsp;</td><td>218,92</td><td>&nbsp;</td><td>218,92</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>270,00</td><td>270,00</td><td>0,00</td><td>269,00</td><td>222,72</td><td>&nbsp;</td><td>222,72</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>283,00</td><td>283,00</td><td>0,00</td><td>282,00</td><td>228,76</td><td>&nbsp;</td><td>228,76</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>210,00</td><td>210,00</td><td>0,00</td><td>209,00</td><td>279,02</td><td>&nbsp;</td><td>279,02</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>200,00</td><td>200,00</td><td>0,00</td><td>199,00</td><td>406,96</td><td>&nbsp;</td><td>406,96</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>285,00</td><td>285,00</td><td>0,00</td><td>284,00</td><td>610,08</td><td>&nbsp;</td><td>610,08</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>801,75</td><td>&nbsp;</td><td>801,75</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>810,42</td><td>&nbsp;</td><td>810,42</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>210,00</td><td>210,00</td><td>0,00</td><td>209,00</td><td>828,37</td><td>&nbsp;</td><td>828,37</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>165,00</td><td>165,00</td><td>0,00</td><td>164,00</td><td>799,17</td><td>&nbsp;</td><td>799,17</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>158,00</td><td>158,00</td><td>0,00</td><td>156,00</td><td>706,31</td><td>&nbsp;</td><td>706,31</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>608,84</td><td>&nbsp;</td><td>608,84</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>171,00</td><td>171,00</td><td>0,00</td><td>169,00</td><td>515,08</td><td>&nbsp;</td><td>515,08</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>168,00</td><td>435,06</td><td>&nbsp;</td><td>435,06</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>98,00</td><td>396,64</td><td>&nbsp;</td><td>396,64</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>167,00</td><td>378,19</td><td>&nbsp;</td><td>378,19</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>167,00</td><td>167,00</td><td>0,00</td><td>166,00</td><td>368,47</td><td>&nbsp;</td><td>368,47</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>200,00</td><td>200,00</td><td>0,00</td><td>199,00</td><td>363,01</td><td>&nbsp;</td><td>363,01</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>209,00</td><td>209,00</td><td>0,00</td><td>208,00</td><td>355,28</td><td>&nbsp;</td><td>355,28</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>224,00</td><td>224,00</td><td>0,00</td><td>223,00</td><td>348,49</td><td>&nbsp;</td><td>348,49</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>235,00</td><td>235,00</td><td>0,00</td><td>233,00</td><td>385,38</td><td>&nbsp;</td><td>385,38</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>250,00</td><td>582,12</td><td>&nbsp;</td><td>582,12</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>434,00</td><td>434,00</td><td>86,00</td><td>346,00</td><td>701,32</td><td>&nbsp;</td><td>701,32</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>417,00</td><td>417,00</td><td>70,00</td><td>346,00</td><td>771,68</td><td>&nbsp;</td><td>771,68</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>494,00</td><td>494,00</td><td>145,00</td><td>347,00</td><td>844,78</td><td>&nbsp;</td><td>844,78</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>723,00</td><td>723,00</td><td>406,00</td><td>316,00</td><td>881,62</td><td>&nbsp;</td><td>881,62</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>747,00</td><td>747,00</td><td>449,00</td><td>297,00</td><td>846,50</td><td>&nbsp;</td><td>846,50</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>844,00</td><td>844,00</td><td>498,00</td><td>345,00</td><td>772,70</td><td>&nbsp;</td><td>772,70</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>792,00</td><td>792,00</td><td>462,00</td><td>330,00</td><td>692,98</td><td>&nbsp;</td><td>692,98</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>707,00</td><td>707,00</td><td>362,00</td><td>343,00</td><td>614,87</td><td>&nbsp;</td><td>614,87</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>506,00</td><td>506,00</td><td>165,00</td><td>340,00</td><td>563,56</td><td>&nbsp;</td><td>563,56</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>269,00</td><td>269,00</td><td>0,00</td><td>268,00</td><td>523,85</td><td>&nbsp;</td><td>523,85</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>301,00</td><td>301,00</td><td>12,00</td><td>288,00</td><td>486,22</td><td>&nbsp;</td><td>486,22</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>397,00</td><td>397,00</td><td>55,00</td><td>341,00</td><td>466,99</td><td>&nbsp;</td><td>466,99</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>426,00</td><td>426,00</td><td>83,00</td><td>341,00</td><td>436,54</td><td>&nbsp;</td><td>436,54</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>401,00</td><td>401,00</td><td>59,00</td><td>340,00</td><td>410,88</td><td>&nbsp;</td><td>410,88</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>374,00</td><td>374,00</td><td>33,00</td><td>339,00</td><td>390,64</td><td>&nbsp;</td><td>390,64</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>339,00</td><td>339,00</td><td>10,00</td><td>328,00</td><td>392,25</td><td>&nbsp;</td><td>392,25</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>268,00</td><td>268,00</td><td>0,00</td><td>267,00</td><td>406,08</td><td>&nbsp;</td><td>406,08</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>399,05</td><td>&nbsp;</td><td>399,05</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>305,00</td><td>305,00</td><td>0,00</td><td>304,00</td><td>374,20</td><td>&nbsp;</td><td>374,20</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>256,00</td><td>256,00</td><td>0,00</td><td>255,00</td><td>353,94</td><td>&nbsp;</td><td>353,94</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>270,00</td><td>270,00</td><td>0,00</td><td>269,00</td><td>340,90</td><td>&nbsp;</td><td>340,90</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>265,00</td><td>265,00</td><td>0,00</td><td>263,00</td><td>327,96</td><td>&nbsp;</td><td>327,96</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>284,00</td><td>284,00</td><td>0,00</td><td>283,00</td><td>319,78</td><td>&nbsp;</td><td>319,78</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>263,00</td><td>263,00</td><td>0,00</td><td>262,00</td><td>311,27</td><td>&nbsp;</td><td>311,27</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>248,00</td><td>305,69</td><td>&nbsp;</td><td>305,69</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>300,00</td><td>299,14</td><td>&nbsp;</td><td>299,14</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>213,00</td><td>213,00</td><td>0,00</td><td>212,00</td><td>292,10</td><td>&nbsp;</td><td>292,10</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>275,00</td><td>275,00</td><td>0,00</td><td>274,00</td><td>286,09</td><td>&nbsp;</td><td>286,09</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>276,00</td><td>276,00</td><td>0,00</td><td>275,00</td><td>278,94</td><td>&nbsp;</td><td>278,94</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>278,91</td><td>&nbsp;</td><td>278,91</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>273,60</td><td>&nbsp;</td><td>273,60</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>234,00</td><td>234,00</td><td>0,00</td><td>233,00</td><td>266,37</td><td>&nbsp;</td><td>266,37</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>297,00</td><td>297,00</td><td>0,00</td><td>296,00</td><td>262,76</td><td>&nbsp;</td><td>262,76</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>257,51</td><td>&nbsp;</td><td>257,51</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>250,97</td><td>&nbsp;</td><td>250,97</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>252,03</td><td>&nbsp;</td><td>252,03</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>245,82</td><td>&nbsp;</td><td>245,82</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>311,00</td><td>241,54</td><td>&nbsp;</td><td>241,54</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>237,87</td><td>&nbsp;</td><td>237,87</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>284,00</td><td>284,00</td><td>0,00</td><td>283,00</td><td>236,19</td><td>&nbsp;</td><td>236,19</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>233,91</td><td>&nbsp;</td><td>233,91</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>230,11</td><td>&nbsp;</td><td>230,11</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>306,00</td><td>306,00</td><td>0,00</td><td>304,00</td><td>222,88</td><td>&nbsp;</td><td>222,88</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>290,00</td><td>290,00</td><td>0,00</td><td>289,00</td><td>216,83</td><td>&nbsp;</td><td>216,83</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>259,00</td><td>259,00</td><td>0,00</td><td>258,00</td><td>215,47</td><td>&nbsp;</td><td>215,47</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>213,67</td><td>&nbsp;</td><td>213,67</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>211,82</td><td>&nbsp;</td><td>211,82</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>242,00</td><td>242,00</td><td>0,00</td><td>241,00</td><td>207,66</td><td>&nbsp;</td><td>207,66</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>232,00</td><td>232,00</td><td>0,00</td><td>231,00</td><td>203,77</td><td>&nbsp;</td><td>203,77</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>250,00</td><td>250,00</td><td>0,00</td><td>249,00</td><td>202,27</td><td>&nbsp;</td><td>202,27</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>253,00</td><td>253,00</td><td>57,00</td><td>195,00</td><td>202,14</td><td>&nbsp;</td><td>202,14</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>241,00</td><td>241,00</td><td>0,00</td><td>240,00</td><td>199,67</td><td>&nbsp;</td><td>199,67</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>182,00</td><td>182,00</td><td>0,00</td><td>181,00</td><td>198,73</td><td>&nbsp;</td><td>198,73</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>210,00</td><td>210,00</td><td>0,00</td><td>209,00</td><td>197,34</td><td>&nbsp;</td><td>197,34</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>247,00</td><td>202,62</td><td>&nbsp;</td><td>202,62</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>248,00</td><td>248,00</td><td>0,00</td><td>246,00</td><td>202,95</td><td>&nbsp;</td><td>202,95</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>311,00</td><td>311,00</td><td>0,00</td><td>310,00</td><td>203,02</td><td>&nbsp;</td><td>203,02</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>0,00</td><td>307,00</td><td>205,57</td><td>&nbsp;</td><td>205,57</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>299,00</td><td>299,00</td><td>0,00</td><td>298,00</td><td>206,52</td><td>&nbsp;</td><td>206,52</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>186,00</td><td>186,00</td><td>0,00</td><td>185,00</td><td>209,89</td><td>&nbsp;</td><td>209,89</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>211,84</td><td>&nbsp;</td><td>211,84</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>304,00</td><td>304,00</td><td>0,00</td><td>303,00</td><td>211,70</td><td>&nbsp;</td><td>211,70</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>318,00</td><td>210,77</td><td>&nbsp;</td><td>210,77</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>309,00</td><td>207,07</td><td>&nbsp;</td><td>207,07</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>318,00</td><td>203,74</td><td>&nbsp;</td><td>203,74</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>203,07</td><td>&nbsp;</td><td>203,07</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>178,00</td><td>178,00</td><td>0,00</td><td>177,00</td><td>201,28</td><td>&nbsp;</td><td>201,28</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>288,00</td><td>288,00</td><td>0,00</td><td>287,00</td><td>200,82</td><td>&nbsp;</td><td>200,82</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>315,00</td><td>315,00</td><td>30,00</td><td>284,00</td><td>202,57</td><td>&nbsp;</td><td>202,57</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>263,00</td><td>263,00</td><td>0,00</td><td>262,00</td><td>205,41</td><td>&nbsp;</td><td>205,41</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>0,00</td><td>317,00</td><td>201,98</td><td>&nbsp;</td><td>201,98</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>301,00</td><td>301,00</td><td>0,00</td><td>300,00</td><td>205,44</td><td>&nbsp;</td><td>205,44</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>314,00</td><td>314,00</td><td>0,00</td><td>313,00</td><td>206,82</td><td>&nbsp;</td><td>206,82</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>209,00</td><td>209,00</td><td>0,00</td><td>208,00</td><td>206,49</td><td>&nbsp;</td><td>206,49</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>276,00</td><td>276,00</td><td>0,00</td><td>275,00</td><td>211,89</td><td>&nbsp;</td><td>211,89</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>321,00</td><td>321,00</td><td>0,00</td><td>320,00</td><td>233,92</td><td>&nbsp;</td><td>233,92</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>243,00</td><td>243,00</td><td>0,00</td><td>242,00</td><td>249,96</td><td>&nbsp;</td><td>249,96</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>275,00</td><td>275,00</td><td>0,00</td><td>274,00</td><td>258,41</td><td>&nbsp;</td><td>258,41</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>265,00</td><td>265,00</td><td>0,00</td><td>264,00</td><td>240,18</td><td>&nbsp;</td><td>240,18</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>247,00</td><td>247,00</td><td>0,00</td><td>246,00</td><td>223,26</td><td>&nbsp;</td><td>223,26</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>259,00</td><td>259,00</td><td>0,00</td><td>258,00</td><td>206,61</td><td>&nbsp;</td><td>206,61</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>302,00</td><td>302,00</td><td>0,00</td><td>301,00</td><td>194,43</td><td>&nbsp;</td><td>194,43</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>291,00</td><td>291,00</td><td>0,00</td><td>290,00</td><td>187,34</td><td>&nbsp;</td><td>187,34</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>318,00</td><td>318,00</td><td>0,00</td><td>317,00</td><td>183,02</td><td>&nbsp;</td><td>183,02</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>322,00</td><td>322,00</td><td>0,00</td><td>321,00</td><td>179,86</td><td>&nbsp;</td><td>179,86</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>165,35</td><td>&nbsp;</td><td>165,35</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>309,00</td><td>309,00</td><td>0,00</td><td>308,00</td><td>162,92</td><td>&nbsp;</td><td>162,92</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>278,00</td><td>278,00</td><td>0,00</td><td>277,00</td><td>159,95</td><td>&nbsp;</td><td>159,95</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>283,00</td><td>283,00</td><td>0,00</td><td>294,00</td><td>159,15</td><td>&nbsp;</td><td>159,15</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>326,00</td><td>326,00</td><td>0,00</td><td>325,00</td><td>156,48</td><td>&nbsp;</td><td>156,48</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>313,00</td><td>313,00</td><td>0,00</td><td>312,00</td><td>154,65</td><td>&nbsp;</td><td>154,65</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>312,00</td><td>312,00</td><td>0,00</td><td>311,00</td><td>147,78</td><td>&nbsp;</td><td>147,78</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>0,00</td><td>322,00</td><td>145,39</td><td>&nbsp;</td><td>145,39</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>229,00</td><td>229,00</td><td>0,00</td><td>228,00</td><td>143,24</td><td>&nbsp;</td><td>143,24</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>0,00</td><td>158,00</td><td>141,42</td><td>&nbsp;</td><td>141,42</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>142,00</td><td>142,00</td><td>0,00</td><td>141,00</td><td>140,37</td><td>&nbsp;</td><td>140,37</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>138,00</td><td>138,00</td><td>0,00</td><td>137,00</td><td>137,97</td><td>&nbsp;</td><td>137,97</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>157,00</td><td>157,00</td><td>0,00</td><td>155,00</td><td>136,66</td><td>&nbsp;</td><td>136,66</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>163,00</td><td>138,58</td><td>&nbsp;</td><td>138,58</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>163,00</td><td>134,91</td><td>&nbsp;</td><td>134,91</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>76,00</td><td>82,00</td><td>132,72</td><td>&nbsp;</td><td>132,72</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>129,99</td><td>&nbsp;</td><td>129,99</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>0,00</td><td>167,00</td><td>128,73</td><td>&nbsp;</td><td>128,73</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>129,05</td><td>&nbsp;</td><td>129,05</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>136,02</td><td>&nbsp;</td><td>136,02</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>134,85</td><td>&nbsp;</td><td>134,85</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>154,00</td><td>154,00</td><td>0,00</td><td>153,00</td><td>135,30</td><td>&nbsp;</td><td>135,30</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>136,12</td><td>&nbsp;</td><td>136,12</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>135,26</td><td>&nbsp;</td><td>135,26</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>131,80</td><td>&nbsp;</td><td>131,80</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>130,03</td><td>&nbsp;</td><td>130,03</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>221,00</td><td>221,00</td><td>54,00</td><td>166,00</td><td>130,73</td><td>&nbsp;</td><td>130,73</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>298,00</td><td>298,00</td><td>124,00</td><td>173,00</td><td>124,12</td><td>&nbsp;</td><td>124,12</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>159,00</td><td>173,00</td><td>124,18</td><td>&nbsp;</td><td>124,18</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>337,00</td><td>337,00</td><td>163,00</td><td>173,00</td><td>122,97</td><td>&nbsp;</td><td>122,97</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>337,00</td><td>337,00</td><td>163,00</td><td>173,00</td><td>125,02</td><td>&nbsp;</td><td>125,02</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>335,00</td><td>335,00</td><td>159,00</td><td>175,00</td><td>133,55</td><td>&nbsp;</td><td>133,55</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>336,00</td><td>336,00</td><td>113,00</td><td>222,00</td><td>142,98</td><td>&nbsp;</td><td>142,98</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>232,00</td><td>144,34</td><td>&nbsp;</td><td>144,34</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>20,00</td><td>310,00</td><td>141,79</td><td>&nbsp;</td><td>141,79</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>336,00</td><td>336,00</td><td>113,00</td><td>222,00</td><td>135,67</td><td>&nbsp;</td><td>135,67</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>300,00</td><td>300,00</td><td>1,00</td><td>298,00</td><td>126,86</td><td>&nbsp;</td><td>126,86</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>1,00</td><td>325,00</td><td>124,09</td><td>&nbsp;</td><td>124,09</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>344,00</td><td>344,00</td><td>0,00</td><td>343,00</td><td>143,86</td><td>&nbsp;</td><td>143,86</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>329,00</td><td>329,00</td><td>0,00</td><td>328,00</td><td>195,70</td><td>&nbsp;</td><td>195,70</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>333,00</td><td>259,18</td><td>&nbsp;</td><td>259,18</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>333,00</td><td>241,72</td><td>&nbsp;</td><td>241,72</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>199,45</td><td>&nbsp;</td><td>199,45</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>333,00</td><td>171,90</td><td>&nbsp;</td><td>171,90</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>161,22</td><td>&nbsp;</td><td>161,22</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>148,82</td><td>&nbsp;</td><td>148,82</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>0,00</td><td>333,00</td><td>128,55</td><td>&nbsp;</td><td>128,55</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>330,00</td><td>330,00</td><td>0,00</td><td>194,00</td><td>141,72</td><td>&nbsp;</td><td>141,72</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>337,00</td><td>337,00</td><td>0,00</td><td>336,00</td><td>160,53</td><td>&nbsp;</td><td>160,53</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>162,87</td><td>&nbsp;</td><td>162,87</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>150,30</td><td>&nbsp;</td><td>150,30</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>134,44</td><td>&nbsp;</td><td>134,44</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>328,00</td><td>127,55</td><td>&nbsp;</td><td>127,55</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>341,00</td><td>127,83</td><td>&nbsp;</td><td>127,83</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>126,61</td><td>&nbsp;</td><td>126,61</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>0,00</td><td>327,00</td><td>127,85</td><td>&nbsp;</td><td>127,85</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>335,00</td><td>335,00</td><td>0,00</td><td>334,00</td><td>135,68</td><td>&nbsp;</td><td>135,68</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>340,00</td><td>340,00</td><td>0,00</td><td>339,00</td><td>157,56</td><td>&nbsp;</td><td>157,56</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>0,00</td><td>327,00</td><td>224,15</td><td>&nbsp;</td><td>224,15</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>260,07</td><td>&nbsp;</td><td>260,07</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>286,00</td><td>286,00</td><td>0,00</td><td>285,00</td><td>285,73</td><td>&nbsp;</td><td>285,73</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>295,00</td><td>295,00</td><td>0,00</td><td>293,00</td><td>326,64</td><td>&nbsp;</td><td>326,64</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>295,00</td><td>295,00</td><td>0,00</td><td>&nbsp;</td><td>394,61</td><td>&nbsp;</td><td>394,61</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>194,00</td><td>194,00</td><td>0,00</td><td>193,00</td><td>453,79</td><td>&nbsp;</td><td>453,79</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>283,00</td><td>283,00</td><td>14,00</td><td>268,00</td><td>444,15</td><td>&nbsp;</td><td>444,15</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>344,00</td><td>344,00</td><td>0,00</td><td>343,00</td><td>384,59</td><td>&nbsp;</td><td>384,59</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>345,00</td><td>345,00</td><td>0,00</td><td>344,00</td><td>353,07</td><td>&nbsp;</td><td>353,07</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>286,00</td><td>286,00</td><td>0,00</td><td>285,00</td><td>358,88</td><td>&nbsp;</td><td>358,88</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>310,00</td><td>310,00</td><td>0,00</td><td>&nbsp;</td><td>366,67</td><td>&nbsp;</td><td>366,67</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>288,00</td><td>288,00</td><td>0,00</td><td>287,00</td><td>347,88</td><td>&nbsp;</td><td>347,88</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>297,00</td><td>297,00</td><td>0,00</td><td>296,00</td><td>311,94</td><td>&nbsp;</td><td>311,94</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>281,00</td><td>281,00</td><td>0,00</td><td>280,00</td><td>279,88</td><td>&nbsp;</td><td>279,88</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>193,00</td><td>193,00</td><td>0,00</td><td>192,00</td><td>283,98</td><td>&nbsp;</td><td>283,98</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>264,00</td><td>264,00</td><td>4,00</td><td>259,00</td><td>297,84</td><td>&nbsp;</td><td>297,84</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>251,00</td><td>251,00</td><td>0,00</td><td>250,00</td><td>317,30</td><td>&nbsp;</td><td>317,30</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>189,00</td><td>189,00</td><td>0,00</td><td>&nbsp;</td><td>297,34</td><td>&nbsp;</td><td>297,34</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>318,00</td><td>241,38</td><td>&nbsp;</td><td>241,38</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>338,00</td><td>338,00</td><td>0,00</td><td>337,00</td><td>203,83</td><td>&nbsp;</td><td>203,83</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>330,00</td><td>185,96</td><td>&nbsp;</td><td>185,96</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>215,00</td><td>215,00</td><td>0,00</td><td>214,00</td><td>181,54</td><td>&nbsp;</td><td>181,54</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>342,00</td><td>342,00</td><td>117,00</td><td>224,00</td><td>198,51</td><td>&nbsp;</td><td>198,51</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>396,00</td><td>396,00</td><td>220,00</td><td>175,00</td><td>220,62</td><td>&nbsp;</td><td>220,62</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>205,00</td><td>101,00</td><td>238,75</td><td>&nbsp;</td><td>238,75</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>380,00</td><td>380,00</td><td>205,00</td><td>174,00</td><td>276,96</td><td>&nbsp;</td><td>276,96</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>308,00</td><td>308,00</td><td>134,00</td><td>173,00</td><td>337,73</td><td>&nbsp;</td><td>337,73</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>253,00</td><td>253,00</td><td>81,00</td><td>171,00</td><td>374,70</td><td>&nbsp;</td><td>374,70</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>307,00</td><td>307,00</td><td>135,00</td><td>171,00</td><td>350,40</td><td>&nbsp;</td><td>350,40</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>323,00</td><td>323,00</td><td>155,00</td><td>167,00</td><td>293,50</td><td>&nbsp;</td><td>293,50</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>294,00</td><td>294,00</td><td>121,00</td><td>172,00</td><td>275,14</td><td>&nbsp;</td><td>275,14</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>76,00</td><td>86,00</td><td>311,06</td><td>&nbsp;</td><td>311,06</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>332,00</td><td>332,00</td><td>157,00</td><td>174,00</td><td>347,53</td><td>&nbsp;</td><td>347,53</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>159,00</td><td>174,00</td><td>352,84</td><td>&nbsp;</td><td>352,84</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>327,00</td><td>327,00</td><td>159,00</td><td>167,00</td><td>306,67</td><td>&nbsp;</td><td>306,67</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>334,00</td><td>334,00</td><td>159,00</td><td>174,00</td><td>255,47</td><td>&nbsp;</td><td>255,47</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>316,00</td><td>316,00</td><td>141,00</td><td>174,00</td><td>221,21</td><td>&nbsp;</td><td>221,21</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>328,00</td><td>328,00</td><td>153,00</td><td>174,00</td><td>202,33</td><td>&nbsp;</td><td>202,33</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>335,00</td><td>335,00</td><td>159,00</td><td>174,00</td><td>193,58</td><td>&nbsp;</td><td>193,58</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>346,00</td><td>346,00</td><td>91,00</td><td>254,00</td><td>196,88</td><td>&nbsp;</td><td>196,88</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>319,00</td><td>319,00</td><td>0,00</td><td>318,00</td><td>188,85</td><td>&nbsp;</td><td>188,85</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>194,00</td><td>194,00</td><td>0,00</td><td>193,00</td><td>190,76</td><td>&nbsp;</td><td>190,76</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>182,00</td><td>182,00</td><td>0,00</td><td>181,00</td><td>192,55</td><td>&nbsp;</td><td>192,55</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>332,00</td><td>332,00</td><td>10,00</td><td>321,00</td><td>187,33</td><td>&nbsp;</td><td>187,33</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>333,00</td><td>333,00</td><td>0,00</td><td>332,00</td><td>181,27</td><td>&nbsp;</td><td>181,27</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>324,00</td><td>324,00</td><td>0,00</td><td>322,00</td><td>178,12</td><td>&nbsp;</td><td>178,12</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>339,00</td><td>339,00</td><td>0,00</td><td>338,00</td><td>174,42</td><td>&nbsp;</td><td>174,42</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>211,00</td><td>211,00</td><td>0,00</td><td>210,00</td><td>167,63</td><td>&nbsp;</td><td>167,63</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>201,00</td><td>201,00</td><td>0,00</td><td>200,00</td><td>160,32</td><td>&nbsp;</td><td>160,32</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>188,00</td><td>188,00</td><td>0,00</td><td>187,00</td><td>155,06</td><td>&nbsp;</td><td>155,06</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>279,00</td><td>279,00</td><td>0,00</td><td>278,00</td><td>148,42</td><td>&nbsp;</td><td>148,42</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>344,00</td><td>344,00</td><td>0,00</td><td>343,00</td><td>145,76</td><td>&nbsp;</td><td>145,76</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>331,00</td><td>331,00</td><td>0,00</td><td>343,00</td><td>150,37</td><td>&nbsp;</td><td>150,37</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>143,51</td><td>&nbsp;</td><td>143,51</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>343,00</td><td>343,00</td><td>0,00</td><td>342,00</td><td>162,93</td><td>&nbsp;</td><td>162,93</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>210,00</td><td>210,00</td><td>0,00</td><td>210,00</td><td>214,54</td><td>&nbsp;</td><td>214,54</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>225,00</td><td>225,00</td><td>0,00</td><td>225,00</td><td>296,29</td><td>&nbsp;</td><td>296,29</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>225,00</td><td>225,00</td><td>0,00</td><td>225,00</td><td>325,39</td><td>&nbsp;</td><td>325,39</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>209,00</td><td>209,00</td><td>0,00</td><td>208,00</td><td>312,46</td><td>&nbsp;</td><td>312,46</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>200,00</td><td>200,00</td><td>0,00</td><td>198,00</td><td>344,98</td><td>&nbsp;</td><td>344,98</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>199,00</td><td>199,00</td><td>0,00</td><td>198,00</td><td>365,91</td><td>&nbsp;</td><td>365,91</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>199,00</td><td>199,00</td><td>0,00</td><td>198,00</td><td>404,11</td><td>&nbsp;</td><td>404,11</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>206,00</td><td>206,00</td><td>0,00</td><td>205,00</td><td>407,77</td><td>&nbsp;</td><td>407,77</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>217,00</td><td>217,00</td><td>0,00</td><td>216,00</td><td>440,88</td><td>&nbsp;</td><td>440,88</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>223,00</td><td>223,00</td><td>0,00</td><td>222,00</td><td>540,46</td><td>&nbsp;</td><td>540,46</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>202,00</td><td>202,00</td><td>0,00</td><td>201,00</td><td>596,54</td><td>&nbsp;</td><td>596,54</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>211,00</td><td>211,00</td><td>0,00</td><td>210,00</td><td>636,59</td><td>&nbsp;</td><td>636,59</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>189,00</td><td>189,00</td><td>0,00</td><td>188,00</td><td>702,53</td><td>&nbsp;</td><td>702,53</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>200,00</td><td>200,00</td><td>0,00</td><td>199,00</td><td>710,66</td><td>&nbsp;</td><td>710,66</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>200,00</td><td>200,00</td><td>0,00</td><td>199,00</td><td>638,76</td><td>&nbsp;</td><td>638,76</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>193,00</td><td>193,00</td><td>0,00</td><td>192,00</td><td>532,91</td><td>&nbsp;</td><td>532,91</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>184,00</td><td>184,00</td><td>1,00</td><td>182,00</td><td>445,04</td><td>&nbsp;</td><td>445,04</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>184,00</td><td>184,00</td><td>0,00</td><td>183,00</td><td>381,56</td><td>&nbsp;</td><td>381,56</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>160,00</td><td>160,00</td><td>0,00</td><td>159,00</td><td>374,49</td><td>&nbsp;</td><td>374,49</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>383,44</td><td>&nbsp;</td><td>383,44</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>396,07</td><td>&nbsp;</td><td>396,07</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>167,00</td><td>167,00</td><td>0,00</td><td>166,00</td><td>401,98</td><td>&nbsp;</td><td>401,98</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>162,00</td><td>413,18</td><td>&nbsp;</td><td>413,18</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>166,00</td><td>166,00</td><td>0,00</td><td>165,00</td><td>420,80</td><td>&nbsp;</td><td>420,80</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>164,00</td><td>164,00</td><td>0,00</td><td>163,00</td><td>424,98</td><td>&nbsp;</td><td>424,98</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>0,00</td><td>167,00</td><td>431,58</td><td>&nbsp;</td><td>431,58</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>169,00</td><td>438,17</td><td>&nbsp;</td><td>438,17</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>170,00</td><td>170,00</td><td>0,00</td><td>169,00</td><td>442,20</td><td>&nbsp;</td><td>442,20</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>179,00</td><td>179,00</td><td>0,00</td><td>178,00</td><td>447,97</td><td>&nbsp;</td><td>447,97</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>185,00</td><td>185,00</td><td>0,00</td><td>184,00</td><td>466,47</td><td>&nbsp;</td><td>466,47</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>162,00</td><td>477,07</td><td>&nbsp;</td><td>477,07</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>168,00</td><td>168,00</td><td>0,00</td><td>167,00</td><td>498,12</td><td>&nbsp;</td><td>498,12</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>161,00</td><td>161,00</td><td>0,00</td><td>160,00</td><td>523,46</td><td>&nbsp;</td><td>523,46</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>166,00</td><td>166,00</td><td>0,00</td><td>165,00</td><td>527,25</td><td>&nbsp;</td><td>527,25</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>162,00</td><td>523,25</td><td>&nbsp;</td><td>523,25</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>163,00</td><td>163,00</td><td>0,00</td><td>162,00</td><td>511,64</td><td>&nbsp;</td><td>511,64</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>159,00</td><td>159,00</td><td>0,00</td><td>158,00</td><td>497,40</td><td>&nbsp;</td><td>497,40</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>172,00</td><td>172,00</td><td>0,00</td><td>171,00</td><td>465,22</td><td>&nbsp;</td><td>465,22</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>457,94</td><td>&nbsp;</td><td>457,94</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>420,96</td><td>&nbsp;</td><td>420,96</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19049</td><td>PIRAJU                                            </td><td>531,50</td><td>169,00</td><td>169,00</td><td>0,00</td><td>168,00</td><td>336,77</td><td>&nbsp;</td><td>336,77</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

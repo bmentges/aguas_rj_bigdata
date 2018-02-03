@@ -1,0 +1,1533 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>1291,18</td><td>1284,00</td><td>509,00</td><td>776,00</td><td>1245,52</td><td>&nbsp;</td><td>1245,52</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>1272,35</td><td>1372,00</td><td>589,00</td><td>783,00</td><td>1115,59</td><td>&nbsp;</td><td>1115,59</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>1198,94</td><td>1206,00</td><td>498,00</td><td>708,00</td><td>1188,01</td><td>&nbsp;</td><td>1188,01</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>1356,54</td><td>1257,00</td><td>576,00</td><td>681,00</td><td>1413,05</td><td>&nbsp;</td><td>1413,05</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>1425,52</td><td>1518,00</td><td>755,00</td><td>763,00</td><td>1298,70</td><td>&nbsp;</td><td>1298,70</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>1365,89</td><td>1302,00</td><td>703,00</td><td>599,00</td><td>926,50</td><td>&nbsp;</td><td>926,50</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>1155,76</td><td>1170,00</td><td>451,00</td><td>719,00</td><td>747,27</td><td>&nbsp;</td><td>747,27</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>1092,58</td><td>1128,00</td><td>407,00</td><td>721,00</td><td>654,79</td><td>&nbsp;</td><td>654,79</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>1446,06</td><td>1439,00</td><td>686,00</td><td>753,00</td><td>648,76</td><td>&nbsp;</td><td>648,76</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>1383,00</td><td>1383,00</td><td>636,00</td><td>747,00</td><td>743,04</td><td>&nbsp;</td><td>743,04</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>1357,53</td><td>1272,00</td><td>545,00</td><td>726,00</td><td>1202,68</td><td>&nbsp;</td><td>1202,68</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>1460,00</td><td>1460,00</td><td>717,00</td><td>744,00</td><td>2139,15</td><td>&nbsp;</td><td>2139,15</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>2515,17</td><td>2622,00</td><td>1917,00</td><td>705,00</td><td>3256,21</td><td>&nbsp;</td><td>3256,21</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>2454,63</td><td>2525,00</td><td>1810,00</td><td>715,00</td><td>3734,30</td><td>&nbsp;</td><td>3734,30</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,80</td><td>2512,22</td><td>2740,00</td><td>2021,00</td><td>719,00</td><td>3622,97</td><td>&nbsp;</td><td>3622,97</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,73</td><td>3257,43</td><td>3305,00</td><td>2581,00</td><td>725,00</td><td>3226,20</td><td>&nbsp;</td><td>3226,20</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,74</td><td>3207,83</td><td>3201,00</td><td>2477,00</td><td>724,00</td><td>2680,61</td><td>&nbsp;</td><td>2680,61</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>2845,14</td><td>2736,00</td><td>2033,00</td><td>703,00</td><td>2189,02</td><td>&nbsp;</td><td>2189,02</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>2331,81</td><td>2095,00</td><td>1409,00</td><td>686,00</td><td>1747,31</td><td>&nbsp;</td><td>1747,31</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>1901,30</td><td>1880,00</td><td>1187,00</td><td>693,00</td><td>1272,85</td><td>&nbsp;</td><td>1272,85</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>1417,40</td><td>1488,00</td><td>798,00</td><td>689,00</td><td>1014,36</td><td>&nbsp;</td><td>1014,36</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>1416,90</td><td>1325,00</td><td>656,00</td><td>669,00</td><td>910,09</td><td>&nbsp;</td><td>910,09</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>1289,65</td><td>1254,00</td><td>599,00</td><td>655,00</td><td>808,72</td><td>&nbsp;</td><td>808,72</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>1194,59</td><td>1216,00</td><td>488,00</td><td>728,00</td><td>714,98</td><td>&nbsp;</td><td>714,98</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>1165,76</td><td>1180,00</td><td>440,00</td><td>740,00</td><td>640,80</td><td>&nbsp;</td><td>640,80</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>994,41</td><td>1037,00</td><td>299,00</td><td>738,00</td><td>617,25</td><td>&nbsp;</td><td>617,25</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>1130,76</td><td>1159,00</td><td>421,00</td><td>738,00</td><td>647,22</td><td>&nbsp;</td><td>647,22</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>726,00</td><td>740,00</td><td>9,00</td><td>731,00</td><td>701,11</td><td>&nbsp;</td><td>701,11</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>680,48</td><td>624,00</td><td>13,00</td><td>611,00</td><td>902,49</td><td>&nbsp;</td><td>902,49</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>525,76</td><td>540,00</td><td>15,00</td><td>526,00</td><td>1054,77</td><td>&nbsp;</td><td>1054,77</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>533,42</td><td>448,00</td><td>0,00</td><td>448,00</td><td>931,80</td><td>&nbsp;</td><td>931,80</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>373,58</td><td>459,00</td><td>0,00</td><td>459,00</td><td>784,86</td><td>&nbsp;</td><td>784,86</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>355,75</td><td>398,00</td><td>13,00</td><td>385,00</td><td>672,57</td><td>&nbsp;</td><td>672,57</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>223,00</td><td>209,00</td><td>0,00</td><td>209,00</td><td>597,18</td><td>&nbsp;</td><td>597,18</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>300,25</td><td>208,00</td><td>0,00</td><td>208,00</td><td>584,98</td><td>&nbsp;</td><td>584,98</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>256,12</td><td>206,00</td><td>0,00</td><td>206,00</td><td>588,95</td><td>&nbsp;</td><td>588,95</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>205,24</td><td>291,00</td><td>84,00</td><td>206,00</td><td>591,41</td><td>&nbsp;</td><td>591,41</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>192,40</td><td>249,00</td><td>58,00</td><td>191,00</td><td>669,61</td><td>&nbsp;</td><td>669,61</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>240,54</td><td>191,00</td><td>0,00</td><td>190,00</td><td>817,21</td><td>&nbsp;</td><td>817,21</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>324,06</td><td>317,00</td><td>0,00</td><td>316,00</td><td>939,32</td><td>&nbsp;</td><td>939,32</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>525,58</td><td>561,00</td><td>7,00</td><td>554,00</td><td>906,54</td><td>&nbsp;</td><td>906,54</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>680,36</td><td>652,00</td><td>0,00</td><td>652,00</td><td>791,78</td><td>&nbsp;</td><td>791,78</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>616,52</td><td>659,00</td><td>7,00</td><td>652,00</td><td>664,04</td><td>&nbsp;</td><td>664,04</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>605,75</td><td>662,00</td><td>0,00</td><td>661,00</td><td>583,56</td><td>&nbsp;</td><td>583,56</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>497,25</td><td>441,00</td><td>27,00</td><td>412,00</td><td>549,34</td><td>&nbsp;</td><td>549,34</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>605,75</td><td>648,00</td><td>0,00</td><td>647,00</td><td>523,68</td><td>&nbsp;</td><td>523,68</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>733,72</td><td>649,00</td><td>0,00</td><td>648,00</td><td>552,86</td><td>&nbsp;</td><td>552,86</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>724,94</td><td>668,00</td><td>9,00</td><td>657,00</td><td>768,95</td><td>&nbsp;</td><td>768,95</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>704,94</td><td>776,00</td><td>169,00</td><td>606,00</td><td>938,06</td><td>&nbsp;</td><td>938,06</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>713,52</td><td>770,00</td><td>142,00</td><td>627,00</td><td>929,12</td><td>&nbsp;</td><td>929,12</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>699,12</td><td>671,00</td><td>0,00</td><td>671,00</td><td>1005,66</td><td>&nbsp;</td><td>1005,66</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>771,19</td><td>686,00</td><td>0,00</td><td>685,00</td><td>1279,70</td><td>&nbsp;</td><td>1279,70</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>1019,41</td><td>998,00</td><td>256,00</td><td>742,00</td><td>1509,45</td><td>&nbsp;</td><td>1509,45</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>1420,58</td><td>1506,00</td><td>769,00</td><td>736,00</td><td>1562,22</td><td>&nbsp;</td><td>1562,22</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>1455,59</td><td>1413,00</td><td>686,00</td><td>727,00</td><td>1493,20</td><td>&nbsp;</td><td>1493,20</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>1419,35</td><td>1355,00</td><td>625,00</td><td>730,00</td><td>1207,49</td><td>&nbsp;</td><td>1207,49</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>1171,69</td><td>1335,00</td><td>622,00</td><td>712,00</td><td>1043,28</td><td>&nbsp;</td><td>1043,28</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>1116,00</td><td>1088,00</td><td>363,00</td><td>724,00</td><td>1161,08</td><td>&nbsp;</td><td>1161,08</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>1078,00</td><td>921,00</td><td>195,00</td><td>724,00</td><td>1306,98</td><td>&nbsp;</td><td>1306,98</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>1116,00</td><td>1138,00</td><td>400,00</td><td>738,00</td><td>1332,32</td><td>&nbsp;</td><td>1332,32</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>1149,00</td><td>1242,00</td><td>504,00</td><td>735,00</td><td>1219,55</td><td>&nbsp;</td><td>1219,55</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>1051,00</td><td>1164,00</td><td>441,00</td><td>721,00</td><td>1233,83</td><td>&nbsp;</td><td>1233,83</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>1274,00</td><td>1239,00</td><td>509,00</td><td>727,00</td><td>1356,96</td><td>&nbsp;</td><td>1356,96</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>1134,00</td><td>1231,00</td><td>519,00</td><td>711,00</td><td>1345,62</td><td>&nbsp;</td><td>1345,62</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>1158,00</td><td>1067,00</td><td>341,00</td><td>724,00</td><td>1271,84</td><td>&nbsp;</td><td>1271,84</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>1122,99</td><td>1151,00</td><td>503,00</td><td>648,00</td><td>1374,64</td><td>&nbsp;</td><td>1374,64</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>1226,13</td><td>1170,00</td><td>440,00</td><td>729,00</td><td>1232,46</td><td>&nbsp;</td><td>1232,46</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>1140,42</td><td>1266,00</td><td>559,00</td><td>705,00</td><td>1073,10</td><td>&nbsp;</td><td>1073,10</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>1048,66</td><td>1021,00</td><td>332,00</td><td>689,00</td><td>1040,35</td><td>&nbsp;</td><td>1040,35</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>950,40</td><td>796,00</td><td>91,00</td><td>703,00</td><td>1037,54</td><td>&nbsp;</td><td>1037,54</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>1046,34</td><td>1124,00</td><td>396,00</td><td>727,00</td><td>1038,88</td><td>&nbsp;</td><td>1038,88</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>1142,32</td><td>1226,00</td><td>523,00</td><td>702,00</td><td>1256,70</td><td>&nbsp;</td><td>1256,70</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>1404,62</td><td>1453,00</td><td>767,00</td><td>684,00</td><td>1788,23</td><td>&nbsp;</td><td>1788,23</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>1434,12</td><td>1309,00</td><td>602,00</td><td>707,00</td><td>1803,66</td><td>&nbsp;</td><td>1803,66</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>1451,84</td><td>1253,00</td><td>544,00</td><td>709,00</td><td>1547,71</td><td>&nbsp;</td><td>1547,71</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>1578,82</td><td>1686,00</td><td>966,00</td><td>720,00</td><td>1577,35</td><td>&nbsp;</td><td>1577,35</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>1561,30</td><td>1490,00</td><td>783,00</td><td>705,00</td><td>1545,25</td><td>&nbsp;</td><td>1545,25</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,34</td><td>1253,59</td><td>1275,00</td><td>594,00</td><td>681,00</td><td>1259,59</td><td>&nbsp;</td><td>1259,59</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>1019,39</td><td>1154,00</td><td>444,00</td><td>707,00</td><td>933,52</td><td>&nbsp;</td><td>933,52</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>941,12</td><td>913,00</td><td>169,00</td><td>743,00</td><td>813,90</td><td>&nbsp;</td><td>813,90</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>795,00</td><td>795,00</td><td>24,00</td><td>768,00</td><td>706,31</td><td>&nbsp;</td><td>706,31</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>667,03</td><td>744,00</td><td>0,00</td><td>744,00</td><td>644,02</td><td>&nbsp;</td><td>644,02</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>592,84</td><td>558,00</td><td>0,00</td><td>555,00</td><td>670,35</td><td>&nbsp;</td><td>670,35</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>534,06</td><td>541,00</td><td>0,00</td><td>538,00</td><td>779,26</td><td>&nbsp;</td><td>779,26</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>584,10</td><td>626,00</td><td>0,00</td><td>623,00</td><td>888,65</td><td>&nbsp;</td><td>888,65</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>638,90</td><td>597,00</td><td>0,00</td><td>595,00</td><td>912,51</td><td>&nbsp;</td><td>912,51</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>610,61</td><td>512,00</td><td>0,00</td><td>510,00</td><td>891,38</td><td>&nbsp;</td><td>891,38</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>606,33</td><td>712,00</td><td>0,00</td><td>712,00</td><td>865,37</td><td>&nbsp;</td><td>865,37</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>690,07</td><td>655,00</td><td>0,00</td><td>654,00</td><td>757,41</td><td>&nbsp;</td><td>757,41</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>739,31</td><td>690,00</td><td>0,00</td><td>687,00</td><td>645,20</td><td>&nbsp;</td><td>645,20</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,31</td><td>708,83</td><td>652,00</td><td>0,00</td><td>652,00</td><td>591,26</td><td>&nbsp;</td><td>591,26</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>640,93</td><td>740,00</td><td>14,00</td><td>724,00</td><td>558,31</td><td>&nbsp;</td><td>558,31</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>562,94</td><td>584,00</td><td>0,00</td><td>580,00</td><td>535,56</td><td>&nbsp;</td><td>535,56</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>422,13</td><td>380,00</td><td>0,00</td><td>377,00</td><td>500,32</td><td>&nbsp;</td><td>500,32</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>444,91</td><td>536,00</td><td>0,00</td><td>533,00</td><td>474,18</td><td>&nbsp;</td><td>474,18</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>478,22</td><td>506,00</td><td>0,00</td><td>503,00</td><td>465,99</td><td>&nbsp;</td><td>465,99</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>492,39</td><td>527,00</td><td>13,00</td><td>509,00</td><td>459,83</td><td>&nbsp;</td><td>459,83</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>473,89</td><td>460,00</td><td>35,00</td><td>421,00</td><td>447,17</td><td>&nbsp;</td><td>447,17</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>486,11</td><td>500,00</td><td>0,00</td><td>497,00</td><td>435,44</td><td>&nbsp;</td><td>435,44</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>473,23</td><td>487,00</td><td>0,00</td><td>483,00</td><td>421,76</td><td>&nbsp;</td><td>421,76</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>381,19</td><td>221,00</td><td>0,00</td><td>218,00</td><td>408,65</td><td>&nbsp;</td><td>408,65</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>399,92</td><td>463,00</td><td>0,00</td><td>460,00</td><td>392,93</td><td>&nbsp;</td><td>392,93</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>475,11</td><td>489,00</td><td>13,00</td><td>473,00</td><td>375,61</td><td>&nbsp;</td><td>375,61</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>401,11</td><td>429,00</td><td>13,00</td><td>412,00</td><td>360,13</td><td>&nbsp;</td><td>360,13</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>399,11</td><td>413,00</td><td>0,00</td><td>410,00</td><td>349,33</td><td>&nbsp;</td><td>349,33</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>389,51</td><td>424,00</td><td>13,00</td><td>406,00</td><td>332,62</td><td>&nbsp;</td><td>332,62</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>356,27</td><td>280,00</td><td>0,00</td><td>276,00</td><td>315,27</td><td>&nbsp;</td><td>315,27</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>285,50</td><td>159,00</td><td>0,00</td><td>154,00</td><td>311,26</td><td>&nbsp;</td><td>311,26</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>355,52</td><td>412,00</td><td>10,00</td><td>398,00</td><td>305,84</td><td>&nbsp;</td><td>305,84</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>481,42</td><td>432,00</td><td>0,00</td><td>428,00</td><td>296,10</td><td>&nbsp;</td><td>296,10</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>354,52</td><td>411,00</td><td>27,00</td><td>381,00</td><td>295,44</td><td>&nbsp;</td><td>295,44</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>305,43</td><td>142,00</td><td>0,00</td><td>137,00</td><td>303,75</td><td>&nbsp;</td><td>303,75</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>213,56</td><td>433,00</td><td>0,00</td><td>429,00</td><td>308,97</td><td>&nbsp;</td><td>308,97</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>418,27</td><td>467,00</td><td>0,00</td><td>464,00</td><td>305,39</td><td>&nbsp;</td><td>305,39</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>331,64</td><td>135,00</td><td>0,00</td><td>139,00</td><td>312,97</td><td>&nbsp;</td><td>312,97</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>335,10</td><td>427,00</td><td>0,00</td><td>425,00</td><td>320,53</td><td>&nbsp;</td><td>320,53</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>492,12</td><td>464,00</td><td>0,00</td><td>462,00</td><td>319,48</td><td>&nbsp;</td><td>319,48</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>450,12</td><td>436,00</td><td>0,00</td><td>433,00</td><td>316,60</td><td>&nbsp;</td><td>316,60</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>444,06</td><td>437,00</td><td>0,00</td><td>435,00</td><td>313,40</td><td>&nbsp;</td><td>313,40</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>464,36</td><td>436,00</td><td>0,00</td><td>432,00</td><td>309,23</td><td>&nbsp;</td><td>309,23</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>435,18</td><td>428,00</td><td>0,00</td><td>424,00</td><td>296,95</td><td>&nbsp;</td><td>296,95</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,49</td><td>389,52</td><td>246,00</td><td>0,00</td><td>249,00</td><td>293,26</td><td>&nbsp;</td><td>293,26</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>317,31</td><td>468,00</td><td>14,00</td><td>451,00</td><td>294,49</td><td>&nbsp;</td><td>294,49</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>489,65</td><td>454,00</td><td>0,00</td><td>452,00</td><td>282,68</td><td>&nbsp;</td><td>282,68</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>451,59</td><td>473,00</td><td>0,00</td><td>468,00</td><td>279,60</td><td>&nbsp;</td><td>279,60</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>333,58</td><td>369,00</td><td>14,00</td><td>316,00</td><td>284,86</td><td>&nbsp;</td><td>284,86</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>394,45</td><td>472,00</td><td>17,00</td><td>450,00</td><td>285,64</td><td>&nbsp;</td><td>285,64</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>385,10</td><td>427,00</td><td>0,00</td><td>422,00</td><td>284,09</td><td>&nbsp;</td><td>284,09</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>333,44</td><td>214,00</td><td>16,00</td><td>191,00</td><td>284,83</td><td>&nbsp;</td><td>284,83</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>255,06</td><td>437,00</td><td>13,00</td><td>422,00</td><td>279,29</td><td>&nbsp;</td><td>279,29</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>389,45</td><td>417,00</td><td>0,00</td><td>415,00</td><td>271,64</td><td>&nbsp;</td><td>271,64</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>455,44</td><td>414,00</td><td>0,00</td><td>411,00</td><td>272,39</td><td>&nbsp;</td><td>272,39</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>431,39</td><td>466,00</td><td>0,00</td><td>462,00</td><td>284,29</td><td>&nbsp;</td><td>284,29</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>383,37</td><td>390,20</td><td>0,00</td><td>388,00</td><td>296,78</td><td>&nbsp;</td><td>296,78</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>264,45</td><td>202,30</td><td>0,00</td><td>201,00</td><td>303,73</td><td>&nbsp;</td><td>303,73</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>293,11</td><td>307,00</td><td>0,00</td><td>307,00</td><td>313,29</td><td>&nbsp;</td><td>313,29</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>395,72</td><td>361,00</td><td>0,00</td><td>361,00</td><td>314,44</td><td>&nbsp;</td><td>314,44</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>380,36</td><td>387,30</td><td>0,00</td><td>387,00</td><td>311,83</td><td>&nbsp;</td><td>311,83</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>323,03</td><td>239,00</td><td>0,00</td><td>239,00</td><td>366,69</td><td>&nbsp;</td><td>366,69</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>209,82</td><td>231,00</td><td>0,00</td><td>230,00</td><td>456,04</td><td>&nbsp;</td><td>456,04</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>216,26</td><td>293,00</td><td>0,00</td><td>292,00</td><td>587,84</td><td>&nbsp;</td><td>587,84</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>254,78</td><td>213,00</td><td>0,00</td><td>212,00</td><td>666,82</td><td>&nbsp;</td><td>666,82</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>194,08</td><td>131,00</td><td>0,00</td><td>130,00</td><td>693,64</td><td>&nbsp;</td><td>693,64</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>266,06</td><td>259,00</td><td>0,00</td><td>256,00</td><td>983,19</td><td>&nbsp;</td><td>983,19</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>393,00</td><td>393,00</td><td>0,00</td><td>392,00</td><td>993,57</td><td>&nbsp;</td><td>993,57</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>383,00</td><td>397,00</td><td>0,00</td><td>395,00</td><td>804,38</td><td>&nbsp;</td><td>804,38</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>245,19</td><td>210,00</td><td>0,00</td><td>205,00</td><td>719,70</td><td>&nbsp;</td><td>719,70</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>232,35</td><td>407,00</td><td>0,00</td><td>406,00</td><td>543,53</td><td>&nbsp;</td><td>543,53</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>346,50</td><td>298,00</td><td>0,00</td><td>295,00</td><td>485,12</td><td>&nbsp;</td><td>485,12</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>250,78</td><td>209,00</td><td>0,00</td><td>209,00</td><td>488,42</td><td>&nbsp;</td><td>488,42</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>317,95</td><td>422,00</td><td>0,00</td><td>422,00</td><td>543,40</td><td>&nbsp;</td><td>543,40</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>521,16</td><td>431,00</td><td>0,00</td><td>431,00</td><td>613,21</td><td>&nbsp;</td><td>613,21</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>539,95</td><td>505,00</td><td>0,00</td><td>504,00</td><td>707,18</td><td>&nbsp;</td><td>707,18</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>583,13</td><td>541,00</td><td>0,00</td><td>540,00</td><td>906,92</td><td>&nbsp;</td><td>906,92</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>983,36</td><td>841,00</td><td>182,00</td><td>658,00</td><td>1223,56</td><td>&nbsp;</td><td>1223,56</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>1235,88</td><td>1350,00</td><td>592,00</td><td>758,00</td><td>1495,18</td><td>&nbsp;</td><td>1495,18</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>1386,82</td><td>1408,00</td><td>718,00</td><td>690,00</td><td>1703,10</td><td>&nbsp;</td><td>1703,10</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>1967,00</td><td>1967,00</td><td>1252,00</td><td>715,00</td><td>1955,11</td><td>&nbsp;</td><td>1955,11</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>2528,77</td><td>2415,00</td><td>1694,00</td><td>721,00</td><td>2444,05</td><td>&nbsp;</td><td>2444,05</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>2462,53</td><td>2441,00</td><td>1720,00</td><td>721,00</td><td>2687,96</td><td>&nbsp;</td><td>2687,96</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>2383,71</td><td>2441,00</td><td>1720,00</td><td>721,00</td><td>2622,83</td><td>&nbsp;</td><td>2622,83</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>2212,29</td><td>2155,00</td><td>1443,00</td><td>711,00</td><td>2234,24</td><td>&nbsp;</td><td>2234,24</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>1622,64</td><td>1765,00</td><td>1080,00</td><td>685,00</td><td>1660,43</td><td>&nbsp;</td><td>1660,43</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,50</td><td>794,47</td><td>580,00</td><td>27,00</td><td>553,00</td><td>1225,77</td><td>&nbsp;</td><td>1225,77</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,50</td><td>614,00</td><td>614,00</td><td>0,00</td><td>610,00</td><td>969,31</td><td>&nbsp;</td><td>969,31</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>519,89</td><td>592,00</td><td>0,00</td><td>590,00</td><td>833,25</td><td>&nbsp;</td><td>833,25</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>458,50</td><td>657,00</td><td>0,00</td><td>656,00</td><td>748,39</td><td>&nbsp;</td><td>748,39</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>616,07</td><td>567,00</td><td>0,00</td><td>566,00</td><td>699,09</td><td>&nbsp;</td><td>699,09</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>740,88</td><td>769,00</td><td>0,00</td><td>768,00</td><td>672,87</td><td>&nbsp;</td><td>672,87</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>494,05</td><td>529,00</td><td>0,00</td><td>528,00</td><td>662,23</td><td>&nbsp;</td><td>662,23</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>328,95</td><td>294,00</td><td>0,00</td><td>293,00</td><td>648,03</td><td>&nbsp;</td><td>648,03</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>486,05</td><td>521,00</td><td>0,00</td><td>520,00</td><td>622,78</td><td>&nbsp;</td><td>622,78</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>521,07</td><td>472,00</td><td>23,00</td><td>447,00</td><td>582,82</td><td>&nbsp;</td><td>582,82</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>577,12</td><td>549,00</td><td>37,00</td><td>511,00</td><td>550,39</td><td>&nbsp;</td><td>550,39</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>567,94</td><td>575,00</td><td>116,00</td><td>456,00</td><td>548,94</td><td>&nbsp;</td><td>548,94</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>557,66</td><td>444,00</td><td>34,00</td><td>406,00</td><td>543,29</td><td>&nbsp;</td><td>543,29</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>528,35</td><td>514,00</td><td>0,00</td><td>512,00</td><td>530,97</td><td>&nbsp;</td><td>530,97</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,49</td><td>448,28</td><td>369,00</td><td>0,00</td><td>366,00</td><td>508,66</td><td>&nbsp;</td><td>508,66</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>369,07</td><td>434,00</td><td>0,00</td><td>432,00</td><td>480,93</td><td>&nbsp;</td><td>480,93</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>438,41</td><td>517,00</td><td>59,00</td><td>456,00</td><td>453,16</td><td>&nbsp;</td><td>453,16</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>448,47</td><td>484,00</td><td>0,00</td><td>482,00</td><td>429,38</td><td>&nbsp;</td><td>429,38</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>411,88</td><td>426,00</td><td>9,00</td><td>415,00</td><td>429,08</td><td>&nbsp;</td><td>429,08</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>395,12</td><td>381,00</td><td>0,00</td><td>379,00</td><td>434,26</td><td>&nbsp;</td><td>434,26</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>374,53</td><td>339,00</td><td>0,00</td><td>335,00</td><td>430,28</td><td>&nbsp;</td><td>430,28</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>240,70</td><td>262,00</td><td>0,00</td><td>259,00</td><td>419,77</td><td>&nbsp;</td><td>419,77</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>322,38</td><td>435,00</td><td>0,00</td><td>431,00</td><td>401,67</td><td>&nbsp;</td><td>401,67</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>491,14</td><td>421,00</td><td>0,00</td><td>417,00</td><td>386,19</td><td>&nbsp;</td><td>386,19</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>508,81</td><td>572,00</td><td>0,00</td><td>570,00</td><td>385,57</td><td>&nbsp;</td><td>385,57</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>468,27</td><td>517,00</td><td>0,00</td><td>516,00</td><td>392,99</td><td>&nbsp;</td><td>392,99</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,87</td><td>471,87</td><td>589,00</td><td>0,00</td><td>588,00</td><td>389,94</td><td>&nbsp;</td><td>389,94</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,89</td><td>438,66</td><td>425,00</td><td>0,00</td><td>423,00</td><td>382,68</td><td>&nbsp;</td><td>382,68</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>341,33</td><td>133,00</td><td>0,00</td><td>132,00</td><td>383,19</td><td>&nbsp;</td><td>383,19</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>362,59</td><td>509,00</td><td>0,00</td><td>505,00</td><td>378,18</td><td>&nbsp;</td><td>378,18</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>513,34</td><td>402,00</td><td>0,00</td><td>398,00</td><td>378,38</td><td>&nbsp;</td><td>378,38</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>551,90</td><td>446,00</td><td>0,00</td><td>444,00</td><td>375,31</td><td>&nbsp;</td><td>375,31</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>521,29</td><td>578,00</td><td>0,00</td><td>578,00</td><td>369,89</td><td>&nbsp;</td><td>369,89</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>425,75</td><td>468,00</td><td>11,00</td><td>457,00</td><td>360,30</td><td>&nbsp;</td><td>360,30</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>436,15</td><td>499,00</td><td>0,00</td><td>499,00</td><td>357,59</td><td>&nbsp;</td><td>357,59</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>283,63</td><td>129,00</td><td>0,00</td><td>129,00</td><td>358,26</td><td>&nbsp;</td><td>358,26</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>294,43</td><td>456,00</td><td>0,00</td><td>456,00</td><td>377,64</td><td>&nbsp;</td><td>377,64</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>413,34</td><td>441,00</td><td>0,00</td><td>441,00</td><td>383,63</td><td>&nbsp;</td><td>383,63</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>407,77</td><td>394,00</td><td>0,00</td><td>394,00</td><td>357,83</td><td>&nbsp;</td><td>357,83</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>369,23</td><td>383,00</td><td>0,00</td><td>383,00</td><td>343,99</td><td>&nbsp;</td><td>343,99</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>379,00</td><td>379,00</td><td>0,00</td><td>379,00</td><td>337,66</td><td>&nbsp;</td><td>337,66</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>386,06</td><td>393,00</td><td>0,00</td><td>393,00</td><td>335,05</td><td>&nbsp;</td><td>335,05</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>372,00</td><td>372,00</td><td>0,00</td><td>371,00</td><td>338,11</td><td>&nbsp;</td><td>338,11</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>397,94</td><td>391,00</td><td>0,00</td><td>391,00</td><td>340,36</td><td>&nbsp;</td><td>340,36</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>371,56</td><td>316,00</td><td>0,00</td><td>315,00</td><td>333,26</td><td>&nbsp;</td><td>333,26</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>389,95</td><td>369,00</td><td>0,00</td><td>369,00</td><td>332,08</td><td>&nbsp;</td><td>332,08</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>410,01</td><td>382,00</td><td>0,00</td><td>362,00</td><td>329,34</td><td>&nbsp;</td><td>329,34</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>365,94</td><td>373,00</td><td>9,00</td><td>364,00</td><td>318,95</td><td>&nbsp;</td><td>318,95</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>381,06</td><td>388,00</td><td>0,00</td><td>388,00</td><td>312,08</td><td>&nbsp;</td><td>312,08</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>371,94</td><td>393,00</td><td>0,00</td><td>392,00</td><td>313,98</td><td>&nbsp;</td><td>313,98</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>437,01</td><td>409,00</td><td>0,00</td><td>407,00</td><td>316,58</td><td>&nbsp;</td><td>316,58</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>437,18</td><td>416,00</td><td>0,00</td><td>414,00</td><td>307,95</td><td>&nbsp;</td><td>307,95</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>426,00</td><td>412,00</td><td>0,00</td><td>412,00</td><td>299,76</td><td>&nbsp;</td><td>299,76</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>427,06</td><td>420,00</td><td>0,00</td><td>418,00</td><td>303,02</td><td>&nbsp;</td><td>303,02</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>429,06</td><td>422,00</td><td>0,00</td><td>421,00</td><td>303,27</td><td>&nbsp;</td><td>303,27</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>444,81</td><td>480,00</td><td>0,00</td><td>478,00</td><td>301,50</td><td>&nbsp;</td><td>301,50</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>361,90</td><td>270,00</td><td>0,00</td><td>267,00</td><td>304,54</td><td>&nbsp;</td><td>304,54</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>359,23</td><td>423,00</td><td>0,00</td><td>422,00</td><td>302,59</td><td>&nbsp;</td><td>302,59</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>441,81</td><td>477,00</td><td>0,00</td><td>475,00</td><td>297,48</td><td>&nbsp;</td><td>297,48</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>423,06</td><td>402,00</td><td>0,00</td><td>401,00</td><td>290,84</td><td>&nbsp;</td><td>290,84</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>399,12</td><td>385,00</td><td>0,00</td><td>383,00</td><td>290,16</td><td>&nbsp;</td><td>290,16</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>421,48</td><td>379,00</td><td>0,00</td><td>376,00</td><td>289,33</td><td>&nbsp;</td><td>289,33</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>421,88</td><td>436,00</td><td>0,00</td><td>388,00</td><td>285,40</td><td>&nbsp;</td><td>285,40</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>371,77</td><td>272,00</td><td>0,00</td><td>271,00</td><td>286,76</td><td>&nbsp;</td><td>286,76</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>379,88</td><td>430,00</td><td>0,00</td><td>429,00</td><td>283,99</td><td>&nbsp;</td><td>283,99</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>453,12</td><td>403,00</td><td>0,00</td><td>402,00</td><td>276,50</td><td>&nbsp;</td><td>276,50</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>425,30</td><td>454,00</td><td>0,00</td><td>453,00</td><td>282,74</td><td>&nbsp;</td><td>282,74</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>401,76</td><td>416,00</td><td>0,00</td><td>413,00</td><td>292,85</td><td>&nbsp;</td><td>292,85</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>404,00</td><td>468,00</td><td>0,00</td><td>466,00</td><td>298,01</td><td>&nbsp;</td><td>298,01</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>350,53</td><td>315,00</td><td>0,00</td><td>312,00</td><td>367,04</td><td>&nbsp;</td><td>367,04</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>295,76</td><td>310,00</td><td>0,00</td><td>309,00</td><td>416,39</td><td>&nbsp;</td><td>416,39</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>392,64</td><td>421,00</td><td>0,00</td><td>420,00</td><td>455,85</td><td>&nbsp;</td><td>455,85</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>442,06</td><td>435,00</td><td>0,00</td><td>434,00</td><td>715,85</td><td>&nbsp;</td><td>715,85</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>416,00</td><td>416,00</td><td>0,00</td><td>433,00</td><td>741,82</td><td>&nbsp;</td><td>741,82</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>358,63</td><td>415,00</td><td>0,00</td><td>413,00</td><td>527,25</td><td>&nbsp;</td><td>527,25</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>361,20</td><td>445,00</td><td>0,00</td><td>444,00</td><td>446,77</td><td>&nbsp;</td><td>446,77</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>437,78</td><td>396,00</td><td>0,00</td><td>394,00</td><td>381,53</td><td>&nbsp;</td><td>381,53</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>354,14</td><td>284,00</td><td>0,00</td><td>281,00</td><td>342,36</td><td>&nbsp;</td><td>342,36</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>358,81</td><td>394,00</td><td>0,00</td><td>393,00</td><td>322,30</td><td>&nbsp;</td><td>322,30</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>453,43</td><td>326,00</td><td>0,00</td><td>353,00</td><td>326,24</td><td>&nbsp;</td><td>326,24</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,40</td><td>472,12</td><td>422,00</td><td>0,00</td><td>421,00</td><td>352,04</td><td>&nbsp;</td><td>352,04</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>451,18</td><td>544,00</td><td>0,00</td><td>542,00</td><td>375,15</td><td>&nbsp;</td><td>375,15</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>463,46</td><td>513,00</td><td>0,00</td><td>511,00</td><td>401,39</td><td>&nbsp;</td><td>401,39</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>403,81</td><td>439,00</td><td>0,00</td><td>438,00</td><td>377,62</td><td>&nbsp;</td><td>377,62</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>336,60</td><td>266,00</td><td>0,00</td><td>264,00</td><td>325,79</td><td>&nbsp;</td><td>325,79</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>421,70</td><td>443,00</td><td>0,00</td><td>442,00</td><td>316,83</td><td>&nbsp;</td><td>316,83</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>484,42</td><td>449,00</td><td>0,00</td><td>449,00</td><td>324,77</td><td>&nbsp;</td><td>324,77</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>446,94</td><td>390,00</td><td>0,00</td><td>389,00</td><td>346,28</td><td>&nbsp;</td><td>346,28</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>443,76</td><td>458,00</td><td>0,00</td><td>457,00</td><td>396,67</td><td>&nbsp;</td><td>396,67</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>397,88</td><td>476,00</td><td>0,00</td><td>473,00</td><td>407,69</td><td>&nbsp;</td><td>407,69</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>392,69</td><td>470,00</td><td>0,00</td><td>465,00</td><td>368,76</td><td>&nbsp;</td><td>368,76</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>369,61</td><td>271,00</td><td>0,00</td><td>294,00</td><td>349,12</td><td>&nbsp;</td><td>349,12</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>300,94</td><td>469,00</td><td>0,00</td><td>467,00</td><td>330,48</td><td>&nbsp;</td><td>330,48</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>453,11</td><td>467,00</td><td>0,00</td><td>466,00</td><td>305,55</td><td>&nbsp;</td><td>305,55</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>419,23</td><td>433,00</td><td>0,00</td><td>432,00</td><td>276,41</td><td>&nbsp;</td><td>276,41</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>481,83</td><td>475,00</td><td>0,00</td><td>473,00</td><td>260,17</td><td>&nbsp;</td><td>260,17</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>442,55</td><td>401,00</td><td>0,00</td><td>399,00</td><td>254,30</td><td>&nbsp;</td><td>254,30</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>416,89</td><td>389,00</td><td>0,00</td><td>387,00</td><td>239,25</td><td>&nbsp;</td><td>239,25</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>351,84</td><td>303,00</td><td>0,00</td><td>302,00</td><td>232,99</td><td>&nbsp;</td><td>232,99</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>310,71</td><td>429,00</td><td>0,00</td><td>426,00</td><td>236,14</td><td>&nbsp;</td><td>236,14</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>421,99</td><td>525,00</td><td>0,00</td><td>523,00</td><td>256,91</td><td>&nbsp;</td><td>256,91</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>451,01</td><td>348,00</td><td>0,00</td><td>346,00</td><td>286,09</td><td>&nbsp;</td><td>286,09</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>322,94</td><td>316,00</td><td>0,00</td><td>315,00</td><td>267,48</td><td>&nbsp;</td><td>267,48</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>308,06</td><td>315,00</td><td>0,00</td><td>314,00</td><td>237,58</td><td>&nbsp;</td><td>237,58</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>347,61</td><td>313,00</td><td>0,00</td><td>312,00</td><td>229,51</td><td>&nbsp;</td><td>229,51</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>302,80</td><td>205,00</td><td>0,00</td><td>202,00</td><td>222,31</td><td>&nbsp;</td><td>222,31</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>252,03</td><td>329,00</td><td>0,00</td><td>327,00</td><td>215,07</td><td>&nbsp;</td><td>215,07</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,89</td><td>344,64</td><td>462,00</td><td>0,00</td><td>461,00</td><td>202,60</td><td>&nbsp;</td><td>202,60</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>439,83</td><td>433,00</td><td>0,00</td><td>431,00</td><td>191,09</td><td>&nbsp;</td><td>191,09</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>411,04</td><td>349,00</td><td>0,00</td><td>347,00</td><td>193,22</td><td>&nbsp;</td><td>193,22</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>481,55</td><td>440,00</td><td>0,00</td><td>438,00</td><td>193,61</td><td>&nbsp;</td><td>193,61</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>357,94</td><td>351,00</td><td>0,00</td><td>348,00</td><td>194,55</td><td>&nbsp;</td><td>194,55</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>293,90</td><td>252,00</td><td>0,00</td><td>250,00</td><td>208,08</td><td>&nbsp;</td><td>208,08</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>339,16</td><td>388,00</td><td>0,00</td><td>386,00</td><td>228,44</td><td>&nbsp;</td><td>228,44</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>424,45</td><td>466,00</td><td>0,00</td><td>464,00</td><td>262,17</td><td>&nbsp;</td><td>262,17</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>427,23</td><td>441,00</td><td>0,00</td><td>441,00</td><td>333,44</td><td>&nbsp;</td><td>333,44</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>396,21</td><td>327,00</td><td>0,00</td><td>326,00</td><td>377,93</td><td>&nbsp;</td><td>377,93</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>257,06</td><td>264,00</td><td>0,00</td><td>263,00</td><td>320,84</td><td>&nbsp;</td><td>320,84</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>286,50</td><td>335,00</td><td>0,00</td><td>334,00</td><td>258,39</td><td>&nbsp;</td><td>258,39</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>264,61</td><td>230,00</td><td>0,00</td><td>227,00</td><td>238,06</td><td>&nbsp;</td><td>238,06</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>286,28</td><td>307,00</td><td>0,00</td><td>305,00</td><td>225,10</td><td>&nbsp;</td><td>225,10</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>341,00</td><td>341,00</td><td>0,00</td><td>339,00</td><td>224,18</td><td>&nbsp;</td><td>224,18</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>322,50</td><td>260,00</td><td>0,00</td><td>257,00</td><td>235,95</td><td>&nbsp;</td><td>235,95</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>334,06</td><td>341,00</td><td>0,00</td><td>340,00</td><td>259,45</td><td>&nbsp;</td><td>259,45</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>336,06</td><td>343,00</td><td>0,00</td><td>343,00</td><td>286,46</td><td>&nbsp;</td><td>286,46</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>302,05</td><td>323,00</td><td>0,00</td><td>323,00</td><td>362,36</td><td>&nbsp;</td><td>362,36</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>309,16</td><td>183,00</td><td>0,00</td><td>182,00</td><td>487,99</td><td>&nbsp;</td><td>487,99</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>281,69</td><td>359,00</td><td>0,00</td><td>356,00</td><td>529,49</td><td>&nbsp;</td><td>529,49</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>461,10</td><td>503,00</td><td>0,00</td><td>503,00</td><td>494,65</td><td>&nbsp;</td><td>494,65</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>507,95</td><td>487,00</td><td>0,00</td><td>487,00</td><td>443,81</td><td>&nbsp;</td><td>443,81</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>447,27</td><td>496,00</td><td>0,00</td><td>496,00</td><td>398,57</td><td>&nbsp;</td><td>398,57</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>431,17</td><td>438,00</td><td>0,00</td><td>438,00</td><td>360,58</td><td>&nbsp;</td><td>360,58</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>427,56</td><td>372,00</td><td>0,00</td><td>372,00</td><td>380,33</td><td>&nbsp;</td><td>380,33</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>289,06</td><td>296,00</td><td>0,00</td><td>294,00</td><td>426,43</td><td>&nbsp;</td><td>426,43</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>377,46</td><td>502,00</td><td>0,00</td><td>502,00</td><td>492,22</td><td>&nbsp;</td><td>492,22</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>501,09</td><td>446,00</td><td>6,00</td><td>439,00</td><td>564,38</td><td>&nbsp;</td><td>564,38</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>482,33</td><td>399,00</td><td>0,00</td><td>399,00</td><td>593,21</td><td>&nbsp;</td><td>593,21</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>490,91</td><td>357,00</td><td>0,00</td><td>357,00</td><td>629,70</td><td>&nbsp;</td><td>629,70</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>409,23</td><td>473,00</td><td>0,00</td><td>472,00</td><td>634,87</td><td>&nbsp;</td><td>634,87</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>398,87</td><td>455,00</td><td>0,00</td><td>453,00</td><td>609,27</td><td>&nbsp;</td><td>609,27</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>386,25</td><td>316,00</td><td>0,00</td><td>315,00</td><td>544,19</td><td>&nbsp;</td><td>544,19</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>331,90</td><td>451,00</td><td>0,00</td><td>451,00</td><td>426,04</td><td>&nbsp;</td><td>426,04</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>395,68</td><td>451,00</td><td>0,00</td><td>449,00</td><td>360,49</td><td>&nbsp;</td><td>360,49</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>406,11</td><td>309,00</td><td>0,00</td><td>309,00</td><td>322,23</td><td>&nbsp;</td><td>322,23</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>331,12</td><td>442,00</td><td>19,00</td><td>422,00</td><td>303,07</td><td>&nbsp;</td><td>303,07</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>396,23</td><td>410,00</td><td>0,00</td><td>410,00</td><td>288,70</td><td>&nbsp;</td><td>288,70</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>374,65</td><td>250,00</td><td>0,00</td><td>249,00</td><td>367,31</td><td>&nbsp;</td><td>367,31</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>248,06</td><td>241,00</td><td>0,00</td><td>239,00</td><td>394,97</td><td>&nbsp;</td><td>394,97</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,94</td><td>273,12</td><td>398,00</td><td>0,00</td><td>397,00</td><td>333,93</td><td>&nbsp;</td><td>333,93</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>404,94</td><td>398,00</td><td>0,00</td><td>396,00</td><td>355,87</td><td>&nbsp;</td><td>355,87</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>438,60</td><td>418,00</td><td>0,00</td><td>417,00</td><td>377,86</td><td>&nbsp;</td><td>377,86</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>569,39</td><td>493,00</td><td>0,00</td><td>492,00</td><td>366,68</td><td>&nbsp;</td><td>366,68</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>607,62</td><td>481,00</td><td>0,00</td><td>480,00</td><td>464,30</td><td>&nbsp;</td><td>464,30</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>507,46</td><td>557,00</td><td>0,00</td><td>556,00</td><td>603,58</td><td>&nbsp;</td><td>603,58</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>565,77</td><td>502,00</td><td>0,00</td><td>501,00</td><td>608,31</td><td>&nbsp;</td><td>608,31</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>503,17</td><td>574,00</td><td>0,00</td><td>574,00</td><td>621,49</td><td>&nbsp;</td><td>621,49</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>512,87</td><td>569,00</td><td>0,00</td><td>569,00</td><td>728,74</td><td>&nbsp;</td><td>728,74</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>567,07</td><td>532,00</td><td>0,00</td><td>532,00</td><td>796,84</td><td>&nbsp;</td><td>796,84</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>504,54</td><td>616,00</td><td>0,00</td><td>616,00</td><td>723,10</td><td>&nbsp;</td><td>723,10</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>561,74</td><td>610,00</td><td>0,00</td><td>610,00</td><td>629,88</td><td>&nbsp;</td><td>629,88</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>573,81</td><td>484,00</td><td>0,00</td><td>484,00</td><td>620,99</td><td>&nbsp;</td><td>620,99</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>459,27</td><td>333,00</td><td>0,00</td><td>333,00</td><td>547,37</td><td>&nbsp;</td><td>547,37</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>417,67</td><td>537,00</td><td>0,00</td><td>537,00</td><td>434,59</td><td>&nbsp;</td><td>434,59</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>540,06</td><td>533,00</td><td>0,00</td><td>533,00</td><td>379,86</td><td>&nbsp;</td><td>379,86</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>549,89</td><td>536,00</td><td>0,00</td><td>536,00</td><td>341,32</td><td>&nbsp;</td><td>341,32</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>544,94</td><td>538,00</td><td>0,00</td><td>538,00</td><td>314,06</td><td>&nbsp;</td><td>314,06</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>520,00</td><td>506,00</td><td>0,00</td><td>506,00</td><td>304,66</td><td>&nbsp;</td><td>304,66</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>497,25</td><td>441,00</td><td>0,00</td><td>441,00</td><td>294,94</td><td>&nbsp;</td><td>294,94</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>399,19</td><td>314,00</td><td>76,00</td><td>238,00</td><td>283,06</td><td>&nbsp;</td><td>283,06</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>436,69</td><td>536,00</td><td>0,00</td><td>536,00</td><td>289,63</td><td>&nbsp;</td><td>289,63</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>560,24</td><td>532,00</td><td>0,00</td><td>532,00</td><td>303,28</td><td>&nbsp;</td><td>303,28</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>506,82</td><td>528,00</td><td>0,00</td><td>528,00</td><td>336,55</td><td>&nbsp;</td><td>336,55</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>496,81</td><td>532,00</td><td>0,00</td><td>532,00</td><td>484,41</td><td>&nbsp;</td><td>484,41</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>439,60</td><td>544,00</td><td>0,00</td><td>544,00</td><td>478,01</td><td>&nbsp;</td><td>478,01</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>380,28</td><td>401,00</td><td>0,00</td><td>401,00</td><td>339,97</td><td>&nbsp;</td><td>339,97</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>352,08</td><td>414,00</td><td>0,00</td><td>414,00</td><td>339,83</td><td>&nbsp;</td><td>339,83</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>469,66</td><td>456,00</td><td>0,00</td><td>456,00</td><td>393,66</td><td>&nbsp;</td><td>393,66</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>554,98</td><td>486,00</td><td>0,00</td><td>485,00</td><td>448,72</td><td>&nbsp;</td><td>448,72</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>453,55</td><td>412,00</td><td>0,00</td><td>411,00</td><td>464,49</td><td>&nbsp;</td><td>464,49</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>459,95</td><td>439,00</td><td>0,00</td><td>438,00</td><td>455,70</td><td>&nbsp;</td><td>455,70</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>570,95</td><td>550,00</td><td>0,00</td><td>550,00</td><td>464,65</td><td>&nbsp;</td><td>464,65</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>564,13</td><td>522,00</td><td>0,00</td><td>521,00</td><td>482,79</td><td>&nbsp;</td><td>482,79</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>483,82</td><td>505,00</td><td>0,00</td><td>505,00</td><td>476,36</td><td>&nbsp;</td><td>476,36</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>475,06</td><td>468,00</td><td>0,00</td><td>468,00</td><td>507,70</td><td>&nbsp;</td><td>507,70</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>498,93</td><td>534,00</td><td>0,00</td><td>533,00</td><td>586,69</td><td>&nbsp;</td><td>586,69</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>530,19</td><td>467,00</td><td>0,00</td><td>467,00</td><td>724,36</td><td>&nbsp;</td><td>724,36</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>524,00</td><td>538,00</td><td>0,00</td><td>538,00</td><td>677,39</td><td>&nbsp;</td><td>677,39</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>509,87</td><td>538,00</td><td>0,00</td><td>538,00</td><td>513,77</td><td>&nbsp;</td><td>513,77</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>479,99</td><td>508,00</td><td>0,00</td><td>508,00</td><td>486,60</td><td>&nbsp;</td><td>486,60</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>411,06</td><td>418,00</td><td>0,00</td><td>418,00</td><td>458,98</td><td>&nbsp;</td><td>458,98</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>462,22</td><td>504,00</td><td>0,00</td><td>504,00</td><td>432,79</td><td>&nbsp;</td><td>432,79</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>461,73</td><td>413,00</td><td>0,00</td><td>413,00</td><td>475,81</td><td>&nbsp;</td><td>475,81</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>380,22</td><td>422,00</td><td>0,00</td><td>422,00</td><td>559,70</td><td>&nbsp;</td><td>559,70</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>532,84</td><td>498,00</td><td>0,00</td><td>497,00</td><td>601,64</td><td>&nbsp;</td><td>601,64</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>566,95</td><td>546,00</td><td>0,00</td><td>546,00</td><td>677,38</td><td>&nbsp;</td><td>677,38</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>542,94</td><td>550,00</td><td>0,00</td><td>550,00</td><td>651,97</td><td>&nbsp;</td><td>651,97</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>466,73</td><td>354,00</td><td>0,00</td><td>354,00</td><td>524,66</td><td>&nbsp;</td><td>524,66</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>378,28</td><td>463,00</td><td>0,00</td><td>463,00</td><td>494,63</td><td>&nbsp;</td><td>494,63</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>435,60</td><td>540,00</td><td>0,00</td><td>540,00</td><td>450,89</td><td>&nbsp;</td><td>450,89</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>520,51</td><td>555,00</td><td>0,00</td><td>555,00</td><td>375,24</td><td>&nbsp;</td><td>375,24</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>520,83</td><td>514,00</td><td>0,00</td><td>514,00</td><td>360,28</td><td>&nbsp;</td><td>360,28</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>554,72</td><td>534,00</td><td>0,00</td><td>534,00</td><td>370,24</td><td>&nbsp;</td><td>370,24</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>521,40</td><td>403,00</td><td>0,00</td><td>403,00</td><td>366,65</td><td>&nbsp;</td><td>366,65</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>383,12</td><td>355,00</td><td>0,00</td><td>354,00</td><td>356,66</td><td>&nbsp;</td><td>356,66</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>435,81</td><td>499,00</td><td>0,00</td><td>489,00</td><td>347,42</td><td>&nbsp;</td><td>347,42</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>465,22</td><td>507,00</td><td>0,00</td><td>507,00</td><td>330,84</td><td>&nbsp;</td><td>330,84</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,98</td><td>438,50</td><td>487,00</td><td>0,00</td><td>487,00</td><td>369,10</td><td>&nbsp;</td><td>369,10</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,80</td><td>357,50</td><td>481,00</td><td>0,00</td><td>481,00</td><td>421,18</td><td>&nbsp;</td><td>421,18</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,85</td><td>424,14</td><td>390,00</td><td>0,00</td><td>390,00</td><td>394,91</td><td>&nbsp;</td><td>394,91</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,94</td><td>438,81</td><td>377,00</td><td>0,00</td><td>376,00</td><td>333,78</td><td>&nbsp;</td><td>333,78</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>355,10</td><td>286,00</td><td>0,00</td><td>285,00</td><td>318,12</td><td>&nbsp;</td><td>318,12</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,91</td><td>345,30</td><td>435,00</td><td>0,00</td><td>435,00</td><td>399,69</td><td>&nbsp;</td><td>399,69</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>444,40</td><td>465,00</td><td>0,00</td><td>465,00</td><td>517,94</td><td>&nbsp;</td><td>517,94</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>433,64</td><td>351,00</td><td>0,00</td><td>351,00</td><td>644,54</td><td>&nbsp;</td><td>644,54</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>430,55</td><td>389,00</td><td>0,00</td><td>389,00</td><td>780,15</td><td>&nbsp;</td><td>780,15</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>474,94</td><td>468,00</td><td>0,00</td><td>468,00</td><td>831,55</td><td>&nbsp;</td><td>831,55</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>574,95</td><td>554,00</td><td>0,00</td><td>554,00</td><td>884,36</td><td>&nbsp;</td><td>884,36</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>493,62</td><td>381,00</td><td>0,00</td><td>381,00</td><td>927,15</td><td>&nbsp;</td><td>927,15</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>551,00</td><td>551,00</td><td>0,00</td><td>550,00</td><td>894,68</td><td>&nbsp;</td><td>894,68</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>544,94</td><td>552,00</td><td>0,00</td><td>552,00</td><td>928,06</td><td>&nbsp;</td><td>928,06</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>719,42</td><td>634,00</td><td>0,00</td><td>634,00</td><td>1253,14</td><td>&nbsp;</td><td>1253,14</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>682,65</td><td>697,00</td><td>0,00</td><td>696,00</td><td>1728,63</td><td>&nbsp;</td><td>1728,63</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>771,60</td><td>990,00</td><td>291,00</td><td>698,00</td><td>2074,61</td><td>&nbsp;</td><td>2074,61</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>1222,85</td><td>1285,00</td><td>552,00</td><td>733,00</td><td>2272,50</td><td>&nbsp;</td><td>2272,50</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>1495,26</td><td>1447,00</td><td>714,00</td><td>733,00</td><td>2326,22</td><td>&nbsp;</td><td>2326,22</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>1509,62</td><td>1433,00</td><td>710,00</td><td>722,00</td><td>2407,89</td><td>&nbsp;</td><td>2407,89</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>1458,19</td><td>1409,00</td><td>692,00</td><td>717,00</td><td>2395,09</td><td>&nbsp;</td><td>2395,09</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>1325,24</td><td>1297,00</td><td>571,00</td><td>717,00</td><td>1779,66</td><td>&nbsp;</td><td>1779,66</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>1088,95</td><td>1243,00</td><td>526,00</td><td>717,00</td><td>1151,53</td><td>&nbsp;</td><td>1151,53</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,91</td><td>1052,19</td><td>1128,00</td><td>427,00</td><td>701,00</td><td>972,72</td><td>&nbsp;</td><td>972,72</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>1059,77</td><td>1046,00</td><td>301,00</td><td>744,00</td><td>927,61</td><td>&nbsp;</td><td>927,61</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,81</td><td>963,71</td><td>1046,00</td><td>301,00</td><td>745,00</td><td>912,01</td><td>&nbsp;</td><td>912,01</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,77</td><td>920,80</td><td>948,00</td><td>234,00</td><td>713,00</td><td>849,11</td><td>&nbsp;</td><td>849,11</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>808,12</td><td>733,00</td><td>36,00</td><td>697,00</td><td>835,91</td><td>&nbsp;</td><td>835,91</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,91</td><td>682,60</td><td>662,00</td><td>0,00</td><td>662,00</td><td>1324,85</td><td>&nbsp;</td><td>1324,85</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>628,06</td><td>635,00</td><td>0,00</td><td>635,00</td><td>1520,10</td><td>&nbsp;</td><td>1520,10</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>1077,32</td><td>1036,00</td><td>304,00</td><td>732,00</td><td>1375,28</td><td>&nbsp;</td><td>1375,28</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>1294,12</td><td>1155,00</td><td>524,00</td><td>632,00</td><td>1344,77</td><td>&nbsp;</td><td>1344,77</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,31</td><td>1169,13</td><td>1063,00</td><td>481,00</td><td>580,00</td><td>1173,41</td><td>&nbsp;</td><td>1173,41</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>988,41</td><td>1031,00</td><td>326,00</td><td>705,00</td><td>1080,32</td><td>&nbsp;</td><td>1080,32</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>843,39</td><td>928,00</td><td>204,00</td><td>724,00</td><td>1025,25</td><td>&nbsp;</td><td>1025,25</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>759,06</td><td>752,00</td><td>0,00</td><td>752,00</td><td>957,84</td><td>&nbsp;</td><td>957,84</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>663,55</td><td>761,00</td><td>0,00</td><td>761,00</td><td>962,62</td><td>&nbsp;</td><td>962,62</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,92</td><td>632,79</td><td>688,00</td><td>0,00</td><td>687,00</td><td>847,42</td><td>&nbsp;</td><td>847,42</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>625,21</td><td>570,00</td><td>0,00</td><td>569,00</td><td>678,61</td><td>&nbsp;</td><td>678,61</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>573,66</td><td>546,00</td><td>0,00</td><td>546,00</td><td>635,78</td><td>&nbsp;</td><td>635,78</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>564,78</td><td>523,00</td><td>0,00</td><td>523,00</td><td>605,78</td><td>&nbsp;</td><td>605,78</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>485,01</td><td>457,00</td><td>0,00</td><td>456,00</td><td>567,77</td><td>&nbsp;</td><td>567,77</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>516,07</td><td>481,00</td><td>0,00</td><td>480,00</td><td>519,30</td><td>&nbsp;</td><td>519,30</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>429,12</td><td>415,00</td><td>0,00</td><td>413,00</td><td>463,46</td><td>&nbsp;</td><td>463,46</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>521,36</td><td>493,00</td><td>0,00</td><td>491,00</td><td>410,78</td><td>&nbsp;</td><td>410,78</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,45</td><td>521,94</td><td>379,00</td><td>0,00</td><td>378,00</td><td>377,74</td><td>&nbsp;</td><td>377,74</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>358,83</td><td>402,00</td><td>0,00</td><td>400,00</td><td>375,80</td><td>&nbsp;</td><td>375,80</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>385,59</td><td>457,00</td><td>0,00</td><td>455,00</td><td>369,52</td><td>&nbsp;</td><td>369,52</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>424,35</td><td>474,00</td><td>0,00</td><td>472,00</td><td>349,45</td><td>&nbsp;</td><td>349,45</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>396,88</td><td>425,00</td><td>0,00</td><td>423,00</td><td>327,29</td><td>&nbsp;</td><td>327,29</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>347,98</td><td>418,00</td><td>0,00</td><td>418,00</td><td>320,25</td><td>&nbsp;</td><td>320,25</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>385,00</td><td>385,00</td><td>0,00</td><td>384,00</td><td>356,03</td><td>&nbsp;</td><td>356,03</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>360,00</td><td>374,00</td><td>0,00</td><td>374,00</td><td>384,02</td><td>&nbsp;</td><td>384,02</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>333,21</td><td>214,00</td><td>0,00</td><td>211,00</td><td>508,72</td><td>&nbsp;</td><td>508,72</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>294,94</td><td>302,00</td><td>0,00</td><td>300,00</td><td>635,14</td><td>&nbsp;</td><td>635,14</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>284,36</td><td>192,00</td><td>0,00</td><td>190,00</td><td>580,24</td><td>&nbsp;</td><td>580,24</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>330,53</td><td>309,00</td><td>0,00</td><td>306,00</td><td>527,98</td><td>&nbsp;</td><td>527,98</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>373,47</td><td>459,00</td><td>0,00</td><td>458,00</td><td>533,12</td><td>&nbsp;</td><td>533,12</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>477,06</td><td>470,00</td><td>0,00</td><td>469,00</td><td>578,33</td><td>&nbsp;</td><td>578,33</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>491,71</td><td>449,00</td><td>0,00</td><td>449,00</td><td>705,95</td><td>&nbsp;</td><td>705,95</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,46</td><td>489,29</td><td>396,00</td><td>0,00</td><td>396,00</td><td>881,65</td><td>&nbsp;</td><td>881,65</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>601,30</td><td>716,00</td><td>58,00</td><td>658,00</td><td>950,66</td><td>&nbsp;</td><td>950,66</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>1003,24</td><td>989,00</td><td>226,00</td><td>754,00</td><td>1021,03</td><td>&nbsp;</td><td>1021,03</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>1135,76</td><td>1100,00</td><td>366,00</td><td>730,00</td><td>1175,48</td><td>&nbsp;</td><td>1175,48</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>1136,24</td><td>1172,00</td><td>439,00</td><td>731,00</td><td>1253,59</td><td>&nbsp;</td><td>1253,59</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>1058,76</td><td>1023,00</td><td>296,00</td><td>724,00</td><td>1198,46</td><td>&nbsp;</td><td>1198,46</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>933,16</td><td>1068,00</td><td>343,00</td><td>724,00</td><td>941,48</td><td>&nbsp;</td><td>941,48</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>869,16</td><td>1043,00</td><td>301,00</td><td>741,00</td><td>718,80</td><td>&nbsp;</td><td>718,80</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>827,28</td><td>848,00</td><td>107,00</td><td>742,00</td><td>679,00</td><td>&nbsp;</td><td>679,00</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>686,38</td><td>513,00</td><td>0,00</td><td>513,00</td><td>618,32</td><td>&nbsp;</td><td>618,32</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>533,26</td><td>610,00</td><td>0,00</td><td>610,00</td><td>564,08</td><td>&nbsp;</td><td>564,08</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>508,11</td><td>522,00</td><td>0,00</td><td>521,00</td><td>563,59</td><td>&nbsp;</td><td>563,59</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>488,17</td><td>495,00</td><td>0,00</td><td>492,00</td><td>583,39</td><td>&nbsp;</td><td>583,39</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,87</td><td>421,59</td><td>518,00</td><td>0,00</td><td>517,00</td><td>566,98</td><td>&nbsp;</td><td>566,98</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>491,93</td><td>291,00</td><td>0,00</td><td>291,00</td><td>605,69</td><td>&nbsp;</td><td>605,69</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>523,94</td><td>531,00</td><td>0,00</td><td>531,00</td><td>629,05</td><td>&nbsp;</td><td>629,05</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>536,10</td><td>578,00</td><td>0,00</td><td>577,00</td><td>564,21</td><td>&nbsp;</td><td>564,21</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>560,06</td><td>567,00</td><td>0,00</td><td>564,00</td><td>513,09</td><td>&nbsp;</td><td>513,09</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>525,89</td><td>498,00</td><td>0,00</td><td>498,00</td><td>470,84</td><td>&nbsp;</td><td>470,84</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>515,00</td><td>515,00</td><td>0,00</td><td>513,00</td><td>432,24</td><td>&nbsp;</td><td>432,24</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>462,05</td><td>497,00</td><td>0,00</td><td>496,00</td><td>405,35</td><td>&nbsp;</td><td>405,35</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>273,95</td><td>253,00</td><td>0,00</td><td>252,00</td><td>392,03</td><td>&nbsp;</td><td>392,03</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>440,05</td><td>461,00</td><td>0,00</td><td>461,00</td><td>373,94</td><td>&nbsp;</td><td>373,94</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>482,90</td><td>441,00</td><td>0,00</td><td>439,00</td><td>366,80</td><td>&nbsp;</td><td>366,80</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>437,00</td><td>437,00</td><td>0,00</td><td>436,00</td><td>343,28</td><td>&nbsp;</td><td>343,28</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>390,06</td><td>397,00</td><td>0,00</td><td>395,00</td><td>337,83</td><td>&nbsp;</td><td>337,83</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>379,05</td><td>414,00</td><td>0,00</td><td>411,00</td><td>321,78</td><td>&nbsp;</td><td>321,78</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>409,00</td><td>409,00</td><td>0,00</td><td>407,00</td><td>297,81</td><td>&nbsp;</td><td>297,81</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>255,90</td><td>200,00</td><td>0,00</td><td>198,00</td><td>275,95</td><td>&nbsp;</td><td>275,95</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>307,10</td><td>349,00</td><td>0,00</td><td>342,00</td><td>269,65</td><td>&nbsp;</td><td>269,65</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>386,89</td><td>373,00</td><td>0,00</td><td>372,00</td><td>281,89</td><td>&nbsp;</td><td>281,89</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>409,00</td><td>409,00</td><td>0,00</td><td>408,00</td><td>309,03</td><td>&nbsp;</td><td>309,03</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>395,01</td><td>367,00</td><td>0,00</td><td>366,00</td><td>340,23</td><td>&nbsp;</td><td>340,23</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>365,18</td><td>344,00</td><td>0,00</td><td>342,00</td><td>379,19</td><td>&nbsp;</td><td>379,19</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>216,78</td><td>139,00</td><td>0,00</td><td>138,00</td><td>580,85</td><td>&nbsp;</td><td>580,85</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>194,17</td><td>265,00</td><td>0,00</td><td>262,00</td><td>1032,83</td><td>&nbsp;</td><td>1032,83</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>526,92</td><td>590,00</td><td>0,00</td><td>586,00</td><td>959,46</td><td>&nbsp;</td><td>959,46</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>467,50</td><td>530,00</td><td>0,00</td><td>527,00</td><td>585,72</td><td>&nbsp;</td><td>585,72</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>480,11</td><td>494,00</td><td>0,00</td><td>490,00</td><td>507,96</td><td>&nbsp;</td><td>507,96</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>477,61</td><td>443,00</td><td>0,00</td><td>440,00</td><td>462,41</td><td>&nbsp;</td><td>462,41</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>312,84</td><td>278,00</td><td>0,00</td><td>273,00</td><td>453,72</td><td>&nbsp;</td><td>453,72</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,92</td><td>279,29</td><td>397,00</td><td>0,00</td><td>394,00</td><td>430,81</td><td>&nbsp;</td><td>430,81</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>266,61</td><td>107,00</td><td>0,00</td><td>105,00</td><td>385,08</td><td>&nbsp;</td><td>385,08</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>346,15</td><td>409,00</td><td>0,00</td><td>405,00</td><td>357,18</td><td>&nbsp;</td><td>357,18</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>409,00</td><td>409,00</td><td>0,00</td><td>407,00</td><td>334,55</td><td>&nbsp;</td><td>334,55</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>417,06</td><td>424,00</td><td>0,00</td><td>421,00</td><td>329,84</td><td>&nbsp;</td><td>329,84</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>445,95</td><td>425,00</td><td>0,00</td><td>422,00</td><td>351,57</td><td>&nbsp;</td><td>351,57</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>321,97</td><td>245,00</td><td>0,00</td><td>241,00</td><td>400,26</td><td>&nbsp;</td><td>400,26</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>433,88</td><td>462,00</td><td>0,00</td><td>460,00</td><td>449,99</td><td>&nbsp;</td><td>449,99</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>299,96</td><td>201,00</td><td>0,00</td><td>198,00</td><td>547,96</td><td>&nbsp;</td><td>547,96</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>409,00</td><td>409,00</td><td>0,00</td><td>407,00</td><td>626,08</td><td>&nbsp;</td><td>626,08</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>446,06</td><td>439,00</td><td>0,00</td><td>436,00</td><td>586,10</td><td>&nbsp;</td><td>586,10</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>458,23</td><td>522,00</td><td>0,00</td><td>520,00</td><td>548,04</td><td>&nbsp;</td><td>548,04</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>497,94</td><td>519,00</td><td>0,00</td><td>517,00</td><td>583,41</td><td>&nbsp;</td><td>583,41</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>472,81</td><td>522,00</td><td>0,00</td><td>521,00</td><td>678,42</td><td>&nbsp;</td><td>678,42</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>476,56</td><td>546,00</td><td>0,00</td><td>545,00</td><td>666,76</td><td>&nbsp;</td><td>666,76</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>391,64</td><td>259,00</td><td>0,00</td><td>256,00</td><td>543,08</td><td>&nbsp;</td><td>543,08</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>319,83</td><td>249,00</td><td>0,00</td><td>245,00</td><td>462,61</td><td>&nbsp;</td><td>462,61</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>396,03</td><td>523,00</td><td>0,00</td><td>519,00</td><td>404,51</td><td>&nbsp;</td><td>404,51</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>428,94</td><td>436,00</td><td>0,00</td><td>434,00</td><td>374,18</td><td>&nbsp;</td><td>374,18</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>447,22</td><td>489,00</td><td>0,00</td><td>487,00</td><td>404,05</td><td>&nbsp;</td><td>404,05</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>532,89</td><td>519,00</td><td>0,00</td><td>515,00</td><td>490,88</td><td>&nbsp;</td><td>490,88</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>516,00</td><td>516,00</td><td>0,00</td><td>513,00</td><td>618,68</td><td>&nbsp;</td><td>618,68</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>498,09</td><td>407,00</td><td>0,00</td><td>405,00</td><td>863,07</td><td>&nbsp;</td><td>863,07</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>651,97</td><td>736,00</td><td>109,00</td><td>624,00</td><td>925,67</td><td>&nbsp;</td><td>925,67</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>726,50</td><td>789,00</td><td>25,00</td><td>760,00</td><td>722,92</td><td>&nbsp;</td><td>722,92</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>628,44</td><td>573,00</td><td>0,00</td><td>568,00</td><td>572,46</td><td>&nbsp;</td><td>572,46</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>542,08</td><td>465,00</td><td>0,00</td><td>462,00</td><td>491,57</td><td>&nbsp;</td><td>491,57</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>507,81</td><td>557,00</td><td>0,00</td><td>553,00</td><td>435,26</td><td>&nbsp;</td><td>435,26</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>481,31</td><td>404,00</td><td>0,00</td><td>400,00</td><td>390,19</td><td>&nbsp;</td><td>390,19</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>367,89</td><td>254,00</td><td>0,00</td><td>251,00</td><td>360,36</td><td>&nbsp;</td><td>360,36</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>344,23</td><td>444,00</td><td>0,00</td><td>439,00</td><td>339,23</td><td>&nbsp;</td><td>339,23</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>408,75</td><td>451,00</td><td>0,00</td><td>448,00</td><td>339,36</td><td>&nbsp;</td><td>339,36</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>443,19</td><td>408,00</td><td>0,00</td><td>405,00</td><td>376,48</td><td>&nbsp;</td><td>376,48</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>499,89</td><td>436,00</td><td>48,00</td><td>385,00</td><td>448,07</td><td>&nbsp;</td><td>448,07</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,50</td><td>660,40</td><td>531,00</td><td>6,00</td><td>522,00</td><td>755,24</td><td>&nbsp;</td><td>755,24</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>930,19</td><td>1031,00</td><td>407,00</td><td>621,00</td><td>1236,35</td><td>&nbsp;</td><td>1236,35</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>1721,46</td><td>1821,00</td><td>1109,00</td><td>710,00</td><td>1804,40</td><td>&nbsp;</td><td>1804,40</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>2107,30</td><td>2261,00</td><td>1544,00</td><td>718,00</td><td>1862,75</td><td>&nbsp;</td><td>1862,75</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>1879,72</td><td>1859,00</td><td>1219,00</td><td>640,00</td><td>1653,29</td><td>&nbsp;</td><td>1653,29</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>1714,23</td><td>1728,00</td><td>1049,00</td><td>679,00</td><td>1706,12</td><td>&nbsp;</td><td>1706,12</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>1254,77</td><td>1241,00</td><td>583,00</td><td>655,00</td><td>1527,16</td><td>&nbsp;</td><td>1527,16</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>932,68</td><td>863,00</td><td>239,00</td><td>620,00</td><td>1033,87</td><td>&nbsp;</td><td>1033,87</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>709,00</td><td>709,00</td><td>0,00</td><td>706,00</td><td>738,91</td><td>&nbsp;</td><td>738,91</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>582,55</td><td>666,00</td><td>0,00</td><td>661,00</td><td>655,34</td><td>&nbsp;</td><td>655,34</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,84</td><td>561,99</td><td>679,00</td><td>0,00</td><td>677,00</td><td>594,59</td><td>&nbsp;</td><td>594,59</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,80</td><td>430,69</td><td>458,00</td><td>13,00</td><td>443,00</td><td>559,65</td><td>&nbsp;</td><td>559,65</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,80</td><td>399,00</td><td>399,00</td><td>0,00</td><td>396,00</td><td>531,67</td><td>&nbsp;</td><td>531,67</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>401,75</td><td>347,00</td><td>0,00</td><td>346,00</td><td>507,36</td><td>&nbsp;</td><td>507,36</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>408,98</td><td>354,00</td><td>0,00</td><td>352,00</td><td>481,16</td><td>&nbsp;</td><td>481,16</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>438,16</td><td>362,00</td><td>0,00</td><td>358,00</td><td>466,96</td><td>&nbsp;</td><td>466,96</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>324,96</td><td>262,00</td><td>0,00</td><td>259,00</td><td>478,69</td><td>&nbsp;</td><td>478,69</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>401,12</td><td>373,00</td><td>0,00</td><td>369,00</td><td>519,49</td><td>&nbsp;</td><td>519,49</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>634,00</td><td>634,00</td><td>130,00</td><td>501,00</td><td>593,58</td><td>&nbsp;</td><td>593,58</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>911,42</td><td>1051,00</td><td>290,00</td><td>759,00</td><td>821,92</td><td>&nbsp;</td><td>821,92</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,77</td><td>1085,25</td><td>1243,00</td><td>484,00</td><td>757,00</td><td>1190,86</td><td>&nbsp;</td><td>1190,86</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,67</td><td>1158,18</td><td>1226,00</td><td>492,00</td><td>731,00</td><td>1247,81</td><td>&nbsp;</td><td>1247,81</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,57</td><td>1182,75</td><td>1250,00</td><td>496,00</td><td>750,00</td><td>1024,93</td><td>&nbsp;</td><td>1024,93</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>1012,27</td><td>650,00</td><td>361,00</td><td>285,00</td><td>859,02</td><td>&nbsp;</td><td>859,02</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>582,62</td><td>470,00</td><td>0,00</td><td>466,00</td><td>741,92</td><td>&nbsp;</td><td>741,92</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>419,33</td><td>525,00</td><td>0,00</td><td>523,00</td><td>671,07</td><td>&nbsp;</td><td>671,07</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>721,06</td><td>728,00</td><td>146,00</td><td>579,00</td><td>648,61</td><td>&nbsp;</td><td>648,61</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>938,26</td><td>854,00</td><td>440,00</td><td>410,00</td><td>712,29</td><td>&nbsp;</td><td>712,29</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>853,12</td><td>839,00</td><td>222,00</td><td>614,00</td><td>732,95</td><td>&nbsp;</td><td>732,95</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>540,62</td><td>639,00</td><td>66,00</td><td>572,00</td><td>670,80</td><td>&nbsp;</td><td>670,80</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>484,68</td><td>365,00</td><td>6,00</td><td>355,00</td><td>620,27</td><td>&nbsp;</td><td>620,27</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>395,38</td><td>522,00</td><td>0,00</td><td>517,00</td><td>571,82</td><td>&nbsp;</td><td>571,82</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>394,56</td><td>464,00</td><td>26,00</td><td>435,00</td><td>522,86</td><td>&nbsp;</td><td>522,86</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>453,50</td><td>405,00</td><td>10,00</td><td>394,00</td><td>481,22</td><td>&nbsp;</td><td>481,22</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>417,89</td><td>390,00</td><td>0,00</td><td>385,00</td><td>476,41</td><td>&nbsp;</td><td>476,41</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>459,00</td><td>445,00</td><td>0,00</td><td>444,00</td><td>467,15</td><td>&nbsp;</td><td>467,15</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>387,07</td><td>338,00</td><td>0,00</td><td>334,00</td><td>440,39</td><td>&nbsp;</td><td>440,39</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>335,30</td><td>300,00</td><td>0,00</td><td>298,00</td><td>426,02</td><td>&nbsp;</td><td>426,02</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>220,12</td><td>381,00</td><td>39,00</td><td>342,00</td><td>414,30</td><td>&nbsp;</td><td>414,30</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>332,50</td><td>270,00</td><td>0,00</td><td>270,00</td><td>406,54</td><td>&nbsp;</td><td>406,54</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>317,94</td><td>311,00</td><td>0,00</td><td>308,00</td><td>403,49</td><td>&nbsp;</td><td>403,49</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,92</td><td>336,40</td><td>468,00</td><td>0,00</td><td>464,00</td><td>407,49</td><td>&nbsp;</td><td>407,49</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>421,72</td><td>401,00</td><td>13,00</td><td>387,00</td><td>406,27</td><td>&nbsp;</td><td>406,27</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>383,07</td><td>223,00</td><td>0,00</td><td>196,00</td><td>395,10</td><td>&nbsp;</td><td>395,10</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>262,00</td><td>262,00</td><td>0,00</td><td>259,00</td><td>388,85</td><td>&nbsp;</td><td>388,85</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>292,92</td><td>356,00</td><td>0,00</td><td>353,00</td><td>391,12</td><td>&nbsp;</td><td>391,12</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>317,50</td><td>380,00</td><td>0,00</td><td>378,00</td><td>383,63</td><td>&nbsp;</td><td>383,63</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>368,45</td><td>285,00</td><td>0,00</td><td>282,00</td><td>361,95</td><td>&nbsp;</td><td>361,95</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>354,55</td><td>438,00</td><td>0,00</td><td>436,00</td><td>354,44</td><td>&nbsp;</td><td>354,44</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>398,36</td><td>481,00</td><td>0,00</td><td>477,00</td><td>348,07</td><td>&nbsp;</td><td>348,07</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>368,09</td><td>188,00</td><td>0,00</td><td>186,00</td><td>333,31</td><td>&nbsp;</td><td>333,31</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>278,96</td><td>166,00</td><td>0,00</td><td>163,00</td><td>328,74</td><td>&nbsp;</td><td>328,74</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>291,25</td><td>474,00</td><td>4,00</td><td>467,00</td><td>323,06</td><td>&nbsp;</td><td>323,06</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>344,00</td><td>351,00</td><td>0,00</td><td>347,00</td><td>335,79</td><td>&nbsp;</td><td>335,79</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>421,00</td><td>435,00</td><td>0,00</td><td>432,00</td><td>327,75</td><td>&nbsp;</td><td>327,75</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>370,34</td><td>398,00</td><td>0,00</td><td>395,00</td><td>308,74</td><td>&nbsp;</td><td>308,74</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,82</td><td>349,99</td><td>453,00</td><td>0,00</td><td>449,00</td><td>304,64</td><td>&nbsp;</td><td>304,64</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>361,01</td><td>258,00</td><td>0,00</td><td>254,00</td><td>305,44</td><td>&nbsp;</td><td>305,44</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>279,22</td><td>196,00</td><td>0,00</td><td>191,00</td><td>311,11</td><td>&nbsp;</td><td>311,11</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>310,86</td><td>456,00</td><td>0,00</td><td>452,00</td><td>309,01</td><td>&nbsp;</td><td>309,01</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>481,92</td><td>420,00</td><td>0,00</td><td>418,00</td><td>303,42</td><td>&nbsp;</td><td>303,42</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,94</td><td>389,28</td><td>410,00</td><td>0,00</td><td>407,00</td><td>299,38</td><td>&nbsp;</td><td>299,38</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,85</td><td>441,00</td><td>503,00</td><td>0,00</td><td>499,00</td><td>297,18</td><td>&nbsp;</td><td>297,18</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,91</td><td>509,20</td><td>468,00</td><td>0,00</td><td>467,00</td><td>309,74</td><td>&nbsp;</td><td>309,74</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>514,14</td><td>569,00</td><td>0,00</td><td>565,00</td><td>298,39</td><td>&nbsp;</td><td>298,39</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>445,29</td><td>252,00</td><td>0,00</td><td>247,00</td><td>293,71</td><td>&nbsp;</td><td>293,71</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,91</td><td>372,57</td><td>511,00</td><td>0,00</td><td>508,00</td><td>289,88</td><td>&nbsp;</td><td>289,88</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>523,40</td><td>544,00</td><td>0,00</td><td>540,00</td><td>285,55</td><td>&nbsp;</td><td>285,55</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,85</td><td>519,40</td><td>540,00</td><td>0,00</td><td>536,00</td><td>281,50</td><td>&nbsp;</td><td>281,50</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>509,96</td><td>386,00</td><td>0,00</td><td>383,00</td><td>281,00</td><td>&nbsp;</td><td>281,00</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>497,00</td><td>497,00</td><td>0,00</td><td>495,00</td><td>280,42</td><td>&nbsp;</td><td>280,42</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>419,11</td><td>272,00</td><td>0,00</td><td>268,00</td><td>279,53</td><td>&nbsp;</td><td>279,53</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>265,18</td><td>258,00</td><td>0,00</td><td>207,00</td><td>272,43</td><td>&nbsp;</td><td>272,43</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>333,50</td><td>460,00</td><td>0,00</td><td>458,00</td><td>276,81</td><td>&nbsp;</td><td>276,81</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>447,06</td><td>440,00</td><td>0,00</td><td>436,00</td><td>272,26</td><td>&nbsp;</td><td>272,26</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>407,05</td><td>428,00</td><td>0,00</td><td>426,00</td><td>260,12</td><td>&nbsp;</td><td>260,12</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>358,17</td><td>379,00</td><td>0,00</td><td>375,00</td><td>259,13</td><td>&nbsp;</td><td>259,13</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>423,68</td><td>479,00</td><td>0,00</td><td>475,00</td><td>258,32</td><td>&nbsp;</td><td>258,32</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>438,40</td><td>459,00</td><td>0,00</td><td>455,00</td><td>254,35</td><td>&nbsp;</td><td>254,35</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>344,72</td><td>199,00</td><td>0,00</td><td>196,00</td><td>280,06</td><td>&nbsp;</td><td>280,06</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,03</td><td>319,26</td><td>396,00</td><td>0,00</td><td>393,00</td><td>324,62</td><td>&nbsp;</td><td>324,62</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>399,94</td><td>393,00</td><td>0,00</td><td>390,00</td><td>319,85</td><td>&nbsp;</td><td>319,85</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>447,89</td><td>434,00</td><td>0,00</td><td>429,00</td><td>286,00</td><td>&nbsp;</td><td>286,00</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>384,94</td><td>378,00</td><td>0,00</td><td>375,00</td><td>283,01</td><td>&nbsp;</td><td>283,01</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>424,95</td><td>390,00</td><td>0,00</td><td>385,00</td><td>278,63</td><td>&nbsp;</td><td>278,63</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>408,00</td><td>408,00</td><td>0,00</td><td>405,00</td><td>265,90</td><td>&nbsp;</td><td>265,90</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>339,91</td><td>220,00</td><td>0,00</td><td>217,00</td><td>256,81</td><td>&nbsp;</td><td>256,81</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>265,14</td><td>406,00</td><td>0,00</td><td>404,00</td><td>261,15</td><td>&nbsp;</td><td>261,15</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>435,89</td><td>408,00</td><td>0,00</td><td>404,00</td><td>270,89</td><td>&nbsp;</td><td>270,89</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>429,16</td><td>464,00</td><td>0,00</td><td>459,00</td><td>267,66</td><td>&nbsp;</td><td>267,66</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>377,00</td><td>391,00</td><td>0,00</td><td>390,00</td><td>319,03</td><td>&nbsp;</td><td>319,03</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>417,22</td><td>445,00</td><td>0,00</td><td>443,00</td><td>359,55</td><td>&nbsp;</td><td>359,55</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>415,17</td><td>422,00</td><td>0,00</td><td>418,00</td><td>412,93</td><td>&nbsp;</td><td>412,93</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>421,71</td><td>204,00</td><td>0,00</td><td>202,00</td><td>443,91</td><td>&nbsp;</td><td>443,91</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,11</td><td>262,74</td><td>411,00</td><td>0,00</td><td>410,00</td><td>445,23</td><td>&nbsp;</td><td>445,23</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>503,07</td><td>468,00</td><td>0,00</td><td>465,00</td><td>596,89</td><td>&nbsp;</td><td>596,89</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>456,94</td><td>464,00</td><td>0,00</td><td>460,00</td><td>692,03</td><td>&nbsp;</td><td>692,03</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>432,12</td><td>404,00</td><td>18,00</td><td>383,00</td><td>586,50</td><td>&nbsp;</td><td>586,50</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>431,83</td><td>361,00</td><td>17,00</td><td>340,00</td><td>455,92</td><td>&nbsp;</td><td>455,92</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>385,22</td><td>463,00</td><td>3,00</td><td>455,00</td><td>385,29</td><td>&nbsp;</td><td>385,29</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,49</td><td>479,30</td><td>258,00</td><td>0,00</td><td>255,00</td><td>343,77</td><td>&nbsp;</td><td>343,77</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>395,89</td><td>582,00</td><td>7,00</td><td>573,00</td><td>305,39</td><td>&nbsp;</td><td>305,39</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>614,00</td><td>614,00</td><td>13,00</td><td>598,00</td><td>270,73</td><td>&nbsp;</td><td>270,73</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,45</td><td>551,18</td><td>394,00</td><td>27,00</td><td>363,00</td><td>247,87</td><td>&nbsp;</td><td>247,87</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>347,36</td><td>369,00</td><td>14,00</td><td>350,00</td><td>244,72</td><td>&nbsp;</td><td>244,72</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>364,00</td><td>364,00</td><td>0,00</td><td>361,00</td><td>250,35</td><td>&nbsp;</td><td>250,35</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,34</td><td>363,71</td><td>421,00</td><td>0,00</td><td>416,00</td><td>255,43</td><td>&nbsp;</td><td>255,43</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>337,82</td><td>345,00</td><td>0,00</td><td>340,00</td><td>259,75</td><td>&nbsp;</td><td>259,75</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>282,62</td><td>445,00</td><td>0,00</td><td>442,00</td><td>257,41</td><td>&nbsp;</td><td>257,41</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>452,01</td><td>410,00</td><td>0,00</td><td>406,00</td><td>246,92</td><td>&nbsp;</td><td>246,92</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>558,37</td><td>502,00</td><td>13,00</td><td>486,00</td><td>238,91</td><td>&nbsp;</td><td>238,91</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>406,77</td><td>307,00</td><td>0,00</td><td>305,00</td><td>237,67</td><td>&nbsp;</td><td>237,67</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>396,47</td><td>482,00</td><td>0,00</td><td>479,00</td><td>233,71</td><td>&nbsp;</td><td>233,71</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>379,64</td><td>408,00</td><td>0,00</td><td>405,00</td><td>227,33</td><td>&nbsp;</td><td>227,33</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,48</td><td>467,88</td><td>282,00</td><td>0,00</td><td>281,00</td><td>225,02</td><td>&nbsp;</td><td>225,02</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,34</td><td>356,42</td><td>457,00</td><td>0,00</td><td>454,00</td><td>221,04</td><td>&nbsp;</td><td>221,04</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>445,82</td><td>453,00</td><td>0,00</td><td>451,00</td><td>211,92</td><td>&nbsp;</td><td>211,92</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>428,17</td><td>485,00</td><td>13,00</td><td>470,00</td><td>208,92</td><td>&nbsp;</td><td>208,92</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>387,46</td><td>451,00</td><td>0,00</td><td>449,00</td><td>207,73</td><td>&nbsp;</td><td>207,73</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>474,06</td><td>467,00</td><td>0,00</td><td>463,00</td><td>203,75</td><td>&nbsp;</td><td>203,75</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>485,60</td><td>415,00</td><td>0,00</td><td>412,00</td><td>199,30</td><td>&nbsp;</td><td>199,30</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>328,30</td><td>257,00</td><td>0,00</td><td>253,00</td><td>195,19</td><td>&nbsp;</td><td>195,19</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>356,98</td><td>513,00</td><td>0,00</td><td>509,00</td><td>192,65</td><td>&nbsp;</td><td>192,65</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>495,00</td><td>509,00</td><td>17,00</td><td>488,00</td><td>193,21</td><td>&nbsp;</td><td>193,21</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>464,38</td><td>541,00</td><td>17,00</td><td>522,00</td><td>194,18</td><td>&nbsp;</td><td>194,18</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>509,89</td><td>496,00</td><td>0,00</td><td>493,00</td><td>196,57</td><td>&nbsp;</td><td>196,57</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>471,94</td><td>465,00</td><td>0,00</td><td>463,00</td><td>192,77</td><td>&nbsp;</td><td>192,77</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>457,17</td><td>478,00</td><td>0,00</td><td>475,00</td><td>191,12</td><td>&nbsp;</td><td>191,12</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>382,81</td><td>257,00</td><td>0,00</td><td>254,00</td><td>192,03</td><td>&nbsp;</td><td>192,03</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>360,92</td><td>438,00</td><td>0,00</td><td>435,00</td><td>188,50</td><td>&nbsp;</td><td>188,50</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>478,00</td><td>478,00</td><td>0,00</td><td>476,00</td><td>184,62</td><td>&nbsp;</td><td>184,62</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>447,27</td><td>496,00</td><td>0,00</td><td>494,00</td><td>181,57</td><td>&nbsp;</td><td>181,57</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>436,23</td><td>450,00</td><td>0,00</td><td>446,00</td><td>185,51</td><td>&nbsp;</td><td>185,51</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>462,66</td><td>435,00</td><td>0,00</td><td>432,00</td><td>186,60</td><td>&nbsp;</td><td>186,60</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>463,83</td><td>443,00</td><td>0,00</td><td>441,00</td><td>192,18</td><td>&nbsp;</td><td>192,18</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>349,62</td><td>209,00</td><td>0,00</td><td>207,00</td><td>219,57</td><td>&nbsp;</td><td>219,57</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>392,52</td><td>435,00</td><td>0,00</td><td>434,00</td><td>334,08</td><td>&nbsp;</td><td>334,08</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,26</td><td>390,47</td><td>476,00</td><td>0,00</td><td>474,00</td><td>439,14</td><td>&nbsp;</td><td>439,14</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>409,30</td><td>388,00</td><td>0,00</td><td>385,00</td><td>420,42</td><td>&nbsp;</td><td>420,42</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>401,47</td><td>437,00</td><td>27,00</td><td>408,00</td><td>357,99</td><td>&nbsp;</td><td>357,99</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>349,76</td><td>378,00</td><td>0,00</td><td>374,00</td><td>296,80</td><td>&nbsp;</td><td>296,80</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>332,87</td><td>375,00</td><td>0,00</td><td>371,00</td><td>283,93</td><td>&nbsp;</td><td>283,93</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,19</td><td>256,07</td><td>221,00</td><td>0,00</td><td>218,00</td><td>293,53</td><td>&nbsp;</td><td>293,53</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>359,92</td><td>423,00</td><td>13,00</td><td>408,00</td><td>344,90</td><td>&nbsp;</td><td>344,90</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>287,89</td><td>385,00</td><td>0,00</td><td>381,00</td><td>365,00</td><td>&nbsp;</td><td>365,00</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,79</td><td>308,45</td><td>425,00</td><td>0,00</td><td>401,00</td><td>303,51</td><td>&nbsp;</td><td>303,51</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,88</td><td>226,57</td><td>165,00</td><td>0,00</td><td>162,00</td><td>259,89</td><td>&nbsp;</td><td>259,89</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,79</td><td>321,43</td><td>383,00</td><td>0,00</td><td>379,00</td><td>264,06</td><td>&nbsp;</td><td>264,06</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,82</td><td>360,49</td><td>340,00</td><td>0,00</td><td>339,00</td><td>268,40</td><td>&nbsp;</td><td>268,40</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,93</td><td>234,46</td><td>159,00</td><td>0,00</td><td>155,00</td><td>254,38</td><td>&nbsp;</td><td>254,38</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>285,37</td><td>354,00</td><td>0,00</td><td>351,00</td><td>238,98</td><td>&nbsp;</td><td>238,98</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>359,00</td><td>359,00</td><td>0,00</td><td>355,00</td><td>217,99</td><td>&nbsp;</td><td>217,99</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,80</td><td>311,51</td><td>332,00</td><td>0,00</td><td>329,00</td><td>193,77</td><td>&nbsp;</td><td>193,77</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,72</td><td>278,72</td><td>333,00</td><td>0,00</td><td>331,00</td><td>182,59</td><td>&nbsp;</td><td>182,59</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,75</td><td>336,25</td><td>316,00</td><td>0,00</td><td>313,00</td><td>179,23</td><td>&nbsp;</td><td>179,23</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>315,51</td><td>261,00</td><td>0,00</td><td>257,00</td><td>181,28</td><td>&nbsp;</td><td>181,28</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,82</td><td>121,17</td><td>128,00</td><td>0,00</td><td>125,00</td><td>173,71</td><td>&nbsp;</td><td>173,71</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,69</td><td>154,69</td><td>243,00</td><td>0,00</td><td>242,00</td><td>166,71</td><td>&nbsp;</td><td>166,71</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,83</td><td>201,14</td><td>106,00</td><td>0,00</td><td>103,00</td><td>173,68</td><td>&nbsp;</td><td>173,68</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,77</td><td>57,14</td><td>98,00</td><td>0,00</td><td>95,00</td><td>195,33</td><td>&nbsp;</td><td>195,33</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,79</td><td>109,54</td><td>96,00</td><td>0,00</td><td>95,00</td><td>226,87</td><td>&nbsp;</td><td>226,87</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,86</td><td>153,80</td><td>106,00</td><td>0,00</td><td>106,00</td><td>272,87</td><td>&nbsp;</td><td>272,87</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>210,75</td><td>142,00</td><td>0,00</td><td>141,00</td><td>528,14</td><td>&nbsp;</td><td>528,14</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>214,66</td><td>187,00</td><td>0,00</td><td>185,00</td><td>629,04</td><td>&nbsp;</td><td>629,04</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>283,66</td><td>256,00</td><td>0,00</td><td>255,00</td><td>487,10</td><td>&nbsp;</td><td>487,10</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>388,11</td><td>402,00</td><td>0,00</td><td>401,00</td><td>448,65</td><td>&nbsp;</td><td>448,65</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>472,56</td><td>514,00</td><td>0,00</td><td>513,00</td><td>394,19</td><td>&nbsp;</td><td>394,19</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>387,43</td><td>199,00</td><td>0,00</td><td>196,00</td><td>349,30</td><td>&nbsp;</td><td>349,30</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>301,59</td><td>259,00</td><td>0,00</td><td>256,00</td><td>316,50</td><td>&nbsp;</td><td>316,50</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,25</td><td>386,64</td><td>415,00</td><td>0,00</td><td>411,00</td><td>317,32</td><td>&nbsp;</td><td>317,32</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>269,30</td><td>148,00</td><td>0,00</td><td>148,00</td><td>364,00</td><td>&nbsp;</td><td>364,00</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>373,29</td><td>530,00</td><td>0,00</td><td>530,00</td><td>486,05</td><td>&nbsp;</td><td>486,05</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,31</td><td>561,01</td><td>483,00</td><td>0,00</td><td>481,00</td><td>640,91</td><td>&nbsp;</td><td>640,91</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,35</td><td>521,47</td><td>493,00</td><td>7,00</td><td>485,00</td><td>583,31</td><td>&nbsp;</td><td>583,31</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>396,54</td><td>608,00</td><td>13,00</td><td>594,00</td><td>414,64</td><td>&nbsp;</td><td>414,64</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,90</td><td>464,41</td><td>568,00</td><td>19,00</td><td>548,00</td><td>329,05</td><td>&nbsp;</td><td>329,05</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>516,43</td><td>378,00</td><td>0,00</td><td>377,00</td><td>338,62</td><td>&nbsp;</td><td>338,62</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>394,21</td><td>239,00</td><td>0,00</td><td>237,00</td><td>406,77</td><td>&nbsp;</td><td>406,77</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>287,90</td><td>457,00</td><td>0,00</td><td>454,00</td><td>534,23</td><td>&nbsp;</td><td>534,23</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>458,00</td><td>472,00</td><td>0,00</td><td>472,00</td><td>537,84</td><td>&nbsp;</td><td>537,84</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>372,85</td><td>310,00</td><td>0,00</td><td>307,00</td><td>412,48</td><td>&nbsp;</td><td>412,48</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,92</td><td>365,39</td><td>525,00</td><td>0,00</td><td>524,00</td><td>354,33</td><td>&nbsp;</td><td>354,33</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,89</td><td>450,40</td><td>471,00</td><td>0,00</td><td>470,00</td><td>314,77</td><td>&nbsp;</td><td>314,77</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,95</td><td>420,32</td><td>379,00</td><td>0,00</td><td>376,00</td><td>332,51</td><td>&nbsp;</td><td>332,51</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>311,49</td><td>277,00</td><td>0,00</td><td>274,00</td><td>463,41</td><td>&nbsp;</td><td>463,41</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,02</td><td>333,77</td><td>320,00</td><td>0,00</td><td>320,00</td><td>672,41</td><td>&nbsp;</td><td>672,41</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>429,51</td><td>464,00</td><td>0,00</td><td>464,00</td><td>876,40</td><td>&nbsp;</td><td>876,40</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>676,54</td><td>488,00</td><td>0,00</td><td>486,00</td><td>844,05</td><td>&nbsp;</td><td>844,05</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,49</td><td>609,05</td><td>430,00</td><td>0,00</td><td>430,00</td><td>729,26</td><td>&nbsp;</td><td>729,26</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,45</td><td>502,06</td><td>531,00</td><td>0,00</td><td>531,00</td><td>787,58</td><td>&nbsp;</td><td>787,58</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>452,65</td><td>503,00</td><td>0,00</td><td>502,00</td><td>696,09</td><td>&nbsp;</td><td>696,09</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,55</td><td>411,80</td><td>289,00</td><td>0,00</td><td>287,00</td><td>530,77</td><td>&nbsp;</td><td>530,77</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,34</td><td>252,61</td><td>404,00</td><td>0,00</td><td>403,00</td><td>492,89</td><td>&nbsp;</td><td>492,89</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>554,41</td><td>583,00</td><td>0,00</td><td>582,00</td><td>488,16</td><td>&nbsp;</td><td>488,16</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,29</td><td>627,94</td><td>635,00</td><td>0,00</td><td>635,00</td><td>651,89</td><td>&nbsp;</td><td>651,89</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>573,35</td><td>623,00</td><td>0,00</td><td>621,00</td><td>639,94</td><td>&nbsp;</td><td>639,94</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>611,12</td><td>597,00</td><td>0,00</td><td>596,00</td><td>443,35</td><td>&nbsp;</td><td>443,35</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>459,82</td><td>481,00</td><td>0,00</td><td>479,00</td><td>384,86</td><td>&nbsp;</td><td>384,86</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,33</td><td>357,19</td><td>272,00</td><td>0,00</td><td>272,00</td><td>363,83</td><td>&nbsp;</td><td>363,83</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>411,63</td><td>532,00</td><td>0,00</td><td>531,00</td><td>340,36</td><td>&nbsp;</td><td>340,36</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>547,10</td><td>603,00</td><td>0,00</td><td>602,00</td><td>300,72</td><td>&nbsp;</td><td>300,72</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>557,44</td><td>613,00</td><td>0,00</td><td>612,00</td><td>266,51</td><td>&nbsp;</td><td>266,51</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,00</td><td>449,00</td><td>449,00</td><td>0,00</td><td>446,00</td><td>248,98</td><td>&nbsp;</td><td>248,98</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,07</td><td>286,50</td><td>238,00</td><td>0,00</td><td>238,00</td><td>260,12</td><td>&nbsp;</td><td>260,12</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>280,45</td><td>322,00</td><td>0,00</td><td>321,00</td><td>299,93</td><td>&nbsp;</td><td>299,93</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,23</td><td>251,82</td><td>98,00</td><td>0,00</td><td>96,00</td><td>397,63</td><td>&nbsp;</td><td>397,63</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>146,52</td><td>328,00</td><td>0,00</td><td>328,00</td><td>405,86</td><td>&nbsp;</td><td>405,86</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,99</td><td>339,77</td><td>326,00</td><td>0,00</td><td>326,00</td><td>309,38</td><td>&nbsp;</td><td>309,38</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,01</td><td>319,89</td><td>306,00</td><td>0,00</td><td>305,00</td><td>278,65</td><td>&nbsp;</td><td>278,65</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,97</td><td>282,34</td><td>310,00</td><td>0,00</td><td>310,00</td><td>274,89</td><td>&nbsp;</td><td>274,89</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,96</td><td>316,06</td><td>323,00</td><td>0,00</td><td>323,00</td><td>248,87</td><td>&nbsp;</td><td>248,87</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,08</td><td>292,22</td><td>209,00</td><td>0,00</td><td>209,00</td><td>210,60</td><td>&nbsp;</td><td>210,60</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>255,86</td><td>101,00</td><td>0,00</td><td>101,00</td><td>196,72</td><td>&nbsp;</td><td>196,72</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,18</td><td>182,16</td><td>267,00</td><td>0,00</td><td>267,00</td><td>198,41</td><td>&nbsp;</td><td>198,41</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>276,25</td><td>234,00</td><td>0,00</td><td>234,00</td><td>194,19</td><td>&nbsp;</td><td>194,19</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>208,83</td><td>152,00</td><td>0,00</td><td>152,00</td><td>288,13</td><td>&nbsp;</td><td>288,13</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,31</td><td>234,94</td><td>242,00</td><td>0,00</td><td>242,00</td><td>344,40</td><td>&nbsp;</td><td>344,40</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>270,87</td><td>377,00</td><td>0,00</td><td>377,00</td><td>390,00</td><td>&nbsp;</td><td>390,00</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>276,25</td><td>234,00</td><td>0,00</td><td>234,00</td><td>570,95</td><td>&nbsp;</td><td>570,95</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,16</td><td>258,75</td><td>301,00</td><td>0,00</td><td>301,00</td><td>588,87</td><td>&nbsp;</td><td>588,87</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>246,99</td><td>289,00</td><td>0,00</td><td>289,00</td><td>497,82</td><td>&nbsp;</td><td>497,82</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,06</td><td>327,11</td><td>355,00</td><td>0,00</td><td>354,00</td><td>488,17</td><td>&nbsp;</td><td>488,17</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,10</td><td>355,89</td><td>328,00</td><td>0,00</td><td>328,00</td><td>499,86</td><td>&nbsp;</td><td>499,86</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,13</td><td>264,95</td><td>244,00</td><td>0,00</td><td>243,00</td><td>565,33</td><td>&nbsp;</td><td>565,33</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,04</td><td>362,27</td><td>425,00</td><td>0,00</td><td>425,00</td><td>576,11</td><td>&nbsp;</td><td>576,11</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,17</td><td>328,86</td><td>238,00</td><td>0,00</td><td>238,00</td><td>623,54</td><td>&nbsp;</td><td>623,54</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>336,12</td><td>308,00</td><td>0,00</td><td>308,00</td><td>835,99</td><td>&nbsp;</td><td>835,99</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,12</td><td>283,81</td><td>347,00</td><td>0,00</td><td>347,00</td><td>1124,53</td><td>&nbsp;</td><td>1124,53</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,38</td><td>555,14</td><td>371,00</td><td>0,00</td><td>371,00</td><td>1204,37</td><td>&nbsp;</td><td>1204,37</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>568,05</td><td>689,00</td><td>0,00</td><td>689,00</td><td>994,95</td><td>&nbsp;</td><td>994,95</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>673,95</td><td>653,00</td><td>0,00</td><td>653,00</td><td>764,55</td><td>&nbsp;</td><td>764,55</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>638,00</td><td>638,00</td><td>0,00</td><td>638,00</td><td>664,01</td><td>&nbsp;</td><td>664,01</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,30</td><td>564,02</td><td>458,00</td><td>0,00</td><td>458,00</td><td>597,37</td><td>&nbsp;</td><td>597,37</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>382,24</td><td>368,00</td><td>0,00</td><td>368,00</td><td>522,17</td><td>&nbsp;</td><td>522,17</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,20</td><td>467,93</td><td>553,00</td><td>68,00</td><td>485,00</td><td>507,50</td><td>&nbsp;</td><td>507,50</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,14</td><td>622,87</td><td>665,00</td><td>30,00</td><td>635,00</td><td>626,11</td><td>&nbsp;</td><td>626,11</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,21</td><td>692,19</td><td>643,00</td><td>0,00</td><td>643,00</td><td>803,17</td><td>&nbsp;</td><td>803,17</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>636,54</td><td>587,00</td><td>0,00</td><td>587,00</td><td>807,55</td><td>&nbsp;</td><td>807,55</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,27</td><td>548,90</td><td>556,00</td><td>0,00</td><td>556,00</td><td>788,22</td><td>&nbsp;</td><td>788,22</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,32</td><td>564,56</td><td>529,00</td><td>0,00</td><td>529,00</td><td>819,43</td><td>&nbsp;</td><td>819,43</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,39</td><td>510,07</td><td>460,00</td><td>0,00</td><td>460,00</td><td>845,38</td><td>&nbsp;</td><td>845,38</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>598,50</td><td>620,00</td><td>0,00</td><td>620,00</td><td>841,08</td><td>&nbsp;</td><td>841,08</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,37</td><td>656,16</td><td>649,00</td><td>0,00</td><td>649,00</td><td>847,66</td><td>&nbsp;</td><td>847,66</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,41</td><td>731,70</td><td>703,00</td><td>0,00</td><td>703,00</td><td>824,98</td><td>&nbsp;</td><td>824,98</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,42</td><td>651,19</td><td>644,00</td><td>14,00</td><td>630,00</td><td>743,59</td><td>&nbsp;</td><td>743,59</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>625,41</td><td>768,00</td><td>0,00</td><td>768,00</td><td>674,07</td><td>&nbsp;</td><td>674,07</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>604,73</td><td>654,00</td><td>0,00</td><td>654,00</td><td>625,02</td><td>&nbsp;</td><td>625,02</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,36</td><td>509,80</td><td>361,00</td><td>0,00</td><td>361,00</td><td>639,06</td><td>&nbsp;</td><td>639,06</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,09</td><td>436,22</td><td>627,00</td><td>0,00</td><td>627,00</td><td>729,47</td><td>&nbsp;</td><td>729,47</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,15</td><td>555,97</td><td>514,00</td><td>0,00</td><td>514,00</td><td>824,90</td><td>&nbsp;</td><td>824,90</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,22</td><td>604,27</td><td>555,00</td><td>0,00</td><td>555,00</td><td>883,38</td><td>&nbsp;</td><td>883,38</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,28</td><td>615,49</td><td>573,00</td><td>14,00</td><td>559,00</td><td>901,89</td><td>&nbsp;</td><td>901,89</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,24</td><td>580,64</td><td>609,00</td><td>0,00</td><td>609,00</td><td>864,69</td><td>&nbsp;</td><td>864,69</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>427,05</td><td>466,77</td><td>600,00</td><td>0,00</td><td>600,00</td><td>750,65</td><td>&nbsp;</td><td>750,65</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,73</td><td>323,43</td><td>543,00</td><td>0,00</td><td>543,00</td><td>696,05</td><td>&nbsp;</td><td>696,05</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,53</td><td>392,37</td><td>527,00</td><td>0,00</td><td>527,00</td><td>669,12</td><td>&nbsp;</td><td>669,12</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,39</td><td>550,31</td><td>633,00</td><td>5,00</td><td>628,00</td><td>646,92</td><td>&nbsp;</td><td>646,92</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,12</td><td>536,18</td><td>690,00</td><td>0,00</td><td>690,00</td><td>728,13</td><td>&nbsp;</td><td>728,13</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19041</td><td>BARIRI                                            </td><td>426,10</td><td>503,61</td><td>515,00</td><td>0,00</td><td>515,00</td><td>879,67</td><td>&nbsp;</td><td>879,67</td><td> 01/02/2018</td>
+		</tr>
+	</table>
+</div>

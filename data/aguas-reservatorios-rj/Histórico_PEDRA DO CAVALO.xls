@@ -1,0 +1,1537 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,05</td><td>14,97</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,97</td><td>28,89</td><td>14,97</td><td> 01/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,03</td><td>14,97</td><td>4,00</td><td>0,00</td><td>4,00</td><td>14,97</td><td>28,78</td><td>14,97</td><td> 02/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>14,48</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,48</td><td>28,73</td><td>14,48</td><td> 03/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,03</td><td>14,81</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,81</td><td>28,78</td><td>14,81</td><td> 04/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,04</td><td>96,30</td><td>3,00</td><td>0,00</td><td>3,00</td><td>96,30</td><td>28,83</td><td>96,30</td><td> 05/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,23</td><td>332,08</td><td>3,00</td><td>0,00</td><td>3,00</td><td>332,08</td><td>29,83</td><td>332,08</td><td> 06/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,77</td><td>659,92</td><td>4,00</td><td>0,00</td><td>4,00</td><td>659,92</td><td>32,71</td><td>659,92</td><td> 07/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,07</td><td>600,30</td><td>61,00</td><td>0,00</td><td>61,00</td><td>600,30</td><td>34,32</td><td>600,30</td><td> 08/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,20</td><td>438,49</td><td>160,00</td><td>0,00</td><td>160,00</td><td>438,49</td><td>35,03</td><td>438,49</td><td> 09/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,21</td><td>192,28</td><td>150,00</td><td>0,00</td><td>150,00</td><td>192,28</td><td>35,08</td><td>192,28</td><td> 10/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,18</td><td>132,60</td><td>160,00</td><td>0,00</td><td>160,00</td><td>132,60</td><td>34,92</td><td>132,60</td><td> 11/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,23</td><td>156,53</td><td>32,40</td><td>0,00</td><td>32,00</td><td>156,53</td><td>35,19</td><td>156,53</td><td> 12/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,23</td><td>73,07</td><td>87,00</td><td>0,00</td><td>86,00</td><td>73,07</td><td>35,19</td><td>73,07</td><td> 13/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,21</td><td>190,55</td><td>72,00</td><td>0,00</td><td>72,00</td><td>190,55</td><td>35,08</td><td>190,55</td><td> 14/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,21</td><td>191,52</td><td>73,00</td><td>0,00</td><td>70,00</td><td>191,52</td><td>35,08</td><td>191,52</td><td> 15/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,28</td><td>169,89</td><td>64,00</td><td>0,00</td><td>64,00</td><td>169,89</td><td>35,46</td><td>169,89</td><td> 16/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,32</td><td>181,32</td><td>43,00</td><td>0,00</td><td>40,00</td><td>181,32</td><td>35,68</td><td>181,32</td><td> 17/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,38</td><td>298,97</td><td>109,00</td><td>0,00</td><td>88,00</td><td>298,97</td><td>36,01</td><td>298,97</td><td> 18/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,37</td><td>138,94</td><td>123,00</td><td>0,00</td><td>123,00</td><td>138,94</td><td>35,95</td><td>138,94</td><td> 19/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,38</td><td>175,24</td><td>78,00</td><td>0,00</td><td>78,00</td><td>175,24</td><td>36,01</td><td>175,24</td><td> 20/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,48</td><td>497,81</td><td>90,10</td><td>0,00</td><td>90,10</td><td>497,81</td><td>36,55</td><td>497,81</td><td> 21/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,32</td><td>1703,18</td><td>226,00</td><td>66,00</td><td>160,00</td><td>1703,18</td><td>41,21</td><td>1703,18</td><td> 22/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,15</td><td>2197,37</td><td>1267,00</td><td>1109,00</td><td>157,00</td><td>2197,37</td><td>45,92</td><td>2197,37</td><td> 23/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,15</td><td>1177,23</td><td>1461,00</td><td>1303,00</td><td>157,00</td><td>1177,23</td><td>45,92</td><td>1177,23</td><td> 24/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,25</td><td>1599,84</td><td>1460,00</td><td>1300,00</td><td>160,00</td><td>1599,84</td><td>46,49</td><td>1599,84</td><td> 25/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,25</td><td>1290,45</td><td>1460,00</td><td>1300,00</td><td>160,00</td><td>1290,45</td><td>46,49</td><td>1290,45</td><td> 26/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,33</td><td>1236,88</td><td>1471,00</td><td>1318,00</td><td>160,00</td><td>1236,88</td><td>46,95</td><td>1236,88</td><td> 27/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,25</td><td>1394,67</td><td>1471,00</td><td>1311,00</td><td>160,00</td><td>1394,67</td><td>46,49</td><td>1394,67</td><td> 28/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>115,11</td><td>1366,69</td><td>1463,00</td><td>1302,00</td><td>160,00</td><td>1366,69</td><td>45,69</td><td>1366,69</td><td> 29/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,86</td><td>1179,84</td><td>1448,00</td><td>1287,00</td><td>160,00</td><td>1179,84</td><td>44,26</td><td>1179,84</td><td> 30/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,55</td><td>1179,34</td><td>1324,00</td><td>1162,00</td><td>161,98</td><td>1179,34</td><td>42,50</td><td>1179,34</td><td> 31/01/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,53</td><td>912,43</td><td>642,00</td><td>482,00</td><td>160,00</td><td>912,43</td><td>42,39</td><td>912,43</td><td> 01/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,58</td><td>856,68</td><td>595,00</td><td>435,00</td><td>160,00</td><td>856,68</td><td>42,67</td><td>856,68</td><td> 02/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,60</td><td>822,95</td><td>631,00</td><td>471,00</td><td>160,00</td><td>822,95</td><td>42,78</td><td>822,95</td><td> 03/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,54</td><td>782,08</td><td>700,00</td><td>540,00</td><td>160,00</td><td>782,08</td><td>42,45</td><td>782,08</td><td> 04/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,48</td><td>634,62</td><td>510,00</td><td>350,00</td><td>160,00</td><td>634,62</td><td>42,11</td><td>634,62</td><td> 05/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,49</td><td>474,53</td><td>508,00</td><td>350,00</td><td>158,00</td><td>474,53</td><td>42,16</td><td>474,53</td><td> 06/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,52</td><td>380,49</td><td>261,00</td><td>91,00</td><td>160,00</td><td>380,49</td><td>42,33</td><td>380,49</td><td> 07/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,50</td><td>315,15</td><td>213,00</td><td>55,00</td><td>160,00</td><td>315,15</td><td>42,22</td><td>315,15</td><td> 08/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,50</td><td>77,22</td><td>160,00</td><td>0,00</td><td>160,00</td><td>77,22</td><td>42,22</td><td>77,22</td><td> 09/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,48</td><td>77,52</td><td>160,00</td><td>0,00</td><td>160,00</td><td>77,52</td><td>42,11</td><td>77,52</td><td> 10/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,46</td><td>178,11</td><td>160,00</td><td>0,00</td><td>160,00</td><td>178,11</td><td>42,00</td><td>178,11</td><td> 11/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,45</td><td>145,27</td><td>114,00</td><td>0,00</td><td>114,00</td><td>145,27</td><td>41,94</td><td>145,27</td><td> 12/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,42</td><td>127,54</td><td>105,00</td><td>0,00</td><td>105,00</td><td>127,54</td><td>41,77</td><td>127,54</td><td> 13/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,40</td><td>111,22</td><td>106,00</td><td>0,00</td><td>106,00</td><td>111,22</td><td>41,66</td><td>111,22</td><td> 14/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,41</td><td>96,48</td><td>27,00</td><td>0,00</td><td>27,00</td><td>96,48</td><td>41,71</td><td>96,48</td><td> 15/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,43</td><td>83,85</td><td>60,00</td><td>0,00</td><td>60,00</td><td>83,85</td><td>41,83</td><td>83,85</td><td> 16/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,40</td><td>73,39</td><td>52,00</td><td>0,00</td><td>52,00</td><td>73,39</td><td>41,66</td><td>73,39</td><td> 17/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,41</td><td>66,33</td><td>60,00</td><td>0,00</td><td>60,00</td><td>66,33</td><td>41,71</td><td>66,33</td><td> 18/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,41</td><td>68,06</td><td>53,00</td><td>0,00</td><td>53,00</td><td>68,06</td><td>41,71</td><td>68,06</td><td> 19/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,43</td><td>59,98</td><td>27,00</td><td>0,00</td><td>27,00</td><td>59,98</td><td>41,83</td><td>59,98</td><td> 20/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,41</td><td>54,69</td><td>23,00</td><td>0,00</td><td>23,00</td><td>54,69</td><td>41,71</td><td>54,69</td><td> 21/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,39</td><td>49,42</td><td>47,00</td><td>0,00</td><td>47,00</td><td>49,42</td><td>41,60</td><td>49,42</td><td> 22/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,37</td><td>44,91</td><td>63,00</td><td>0,00</td><td>63,00</td><td>44,91</td><td>41,49</td><td>44,91</td><td> 23/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,35</td><td>41,62</td><td>37,00</td><td>0,00</td><td>37,00</td><td>41,62</td><td>41,38</td><td>41,62</td><td> 24/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,33</td><td>38,56</td><td>88,00</td><td>0,00</td><td>88,00</td><td>38,56</td><td>41,26</td><td>38,56</td><td> 25/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,28</td><td>35,55</td><td>50,00</td><td>0,00</td><td>50,00</td><td>35,55</td><td>40,98</td><td>35,55</td><td> 26/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,27</td><td>30,88</td><td>39,00</td><td>0,00</td><td>39,00</td><td>30,88</td><td>40,93</td><td>30,88</td><td> 27/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,24</td><td>28,73</td><td>37,00</td><td>0,00</td><td>37,00</td><td>28,73</td><td>40,76</td><td>28,73</td><td> 28/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,21</td><td>18,73</td><td>46,00</td><td>0,00</td><td>46,00</td><td>18,73</td><td>40,59</td><td>18,73</td><td> 29/02/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,18</td><td>31,15</td><td>49,00</td><td>0,00</td><td>49,00</td><td>31,15</td><td>40,43</td><td>31,15</td><td> 01/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,15</td><td>31,01</td><td>47,00</td><td>0,00</td><td>47,00</td><td>31,01</td><td>40,26</td><td>31,01</td><td> 02/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,12</td><td>30,77</td><td>62,00</td><td>0,00</td><td>62,00</td><td>30,77</td><td>40,09</td><td>30,77</td><td> 03/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,08</td><td>29,22</td><td>60,00</td><td>0,00</td><td>60,00</td><td>29,22</td><td>39,87</td><td>29,22</td><td> 04/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,04</td><td>30,88</td><td>40,00</td><td>0,00</td><td>40,00</td><td>30,88</td><td>39,65</td><td>30,88</td><td> 05/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>114,03</td><td>31,69</td><td>47,00</td><td>0,00</td><td>39,00</td><td>31,69</td><td>39,59</td><td>31,69</td><td> 06/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,98</td><td>27,06</td><td>54,00</td><td>0,00</td><td>54,00</td><td>27,06</td><td>39,31</td><td>27,06</td><td> 07/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,95</td><td>26,24</td><td>51,00</td><td>0,00</td><td>51,00</td><td>26,24</td><td>39,15</td><td>26,24</td><td> 08/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,90</td><td>26,52</td><td>51,00</td><td>0,00</td><td>51,00</td><td>26,52</td><td>38,87</td><td>26,52</td><td> 09/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,88</td><td>24,06</td><td>41,00</td><td>0,00</td><td>41,00</td><td>24,06</td><td>38,76</td><td>24,06</td><td> 10/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,83</td><td>23,36</td><td>58,00</td><td>0,00</td><td>58,00</td><td>23,36</td><td>38,48</td><td>23,36</td><td> 11/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,81</td><td>23,83</td><td>49,00</td><td>0,00</td><td>49,00</td><td>23,83</td><td>38,37</td><td>23,83</td><td> 12/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,77</td><td>24,34</td><td>20,00</td><td>0,00</td><td>20,00</td><td>24,34</td><td>38,15</td><td>24,34</td><td> 13/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,75</td><td>20,81</td><td>15,00</td><td>0,00</td><td>15,00</td><td>20,81</td><td>38,04</td><td>20,81</td><td> 14/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,72</td><td>21,01</td><td>40,00</td><td>0,00</td><td>40,00</td><td>21,01</td><td>37,87</td><td>21,01</td><td> 15/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,66</td><td>21,25</td><td>33,00</td><td>0,00</td><td>33,00</td><td>21,25</td><td>37,54</td><td>21,25</td><td> 16/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,67</td><td>24,06</td><td>11,00</td><td>0,00</td><td>11,00</td><td>24,06</td><td>37,60</td><td>24,06</td><td> 17/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,66</td><td>14,18</td><td>21,00</td><td>0,00</td><td>21,00</td><td>14,18</td><td>37,54</td><td>14,18</td><td> 18/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,65</td><td>22,51</td><td>8,00</td><td>0,00</td><td>8,00</td><td>22,51</td><td>37,49</td><td>22,51</td><td> 19/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,63</td><td>21,20</td><td>38,00</td><td>0,00</td><td>38,00</td><td>21,20</td><td>37,38</td><td>21,20</td><td> 20/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,59</td><td>7,19</td><td>17,00</td><td>0,00</td><td>17,00</td><td>7,19</td><td>37,16</td><td>7,19</td><td> 21/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,55</td><td>6,89</td><td>36,00</td><td>0,00</td><td>36,00</td><td>6,89</td><td>36,94</td><td>6,89</td><td> 22/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,53</td><td>6,89</td><td>45,00</td><td>0,00</td><td>45,00</td><td>6,89</td><td>36,83</td><td>6,89</td><td> 23/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,48</td><td>6,28</td><td>40,00</td><td>0,00</td><td>40,00</td><td>6,28</td><td>36,55</td><td>6,28</td><td> 24/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,45</td><td>18,28</td><td>4,00</td><td>0,00</td><td>4,00</td><td>18,28</td><td>36,39</td><td>18,28</td><td> 25/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,44</td><td>17,91</td><td>13,00</td><td>0,00</td><td>13,00</td><td>17,91</td><td>36,34</td><td>17,91</td><td> 26/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,43</td><td>7,85</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,85</td><td>36,28</td><td>7,85</td><td> 27/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,42</td><td>5,46</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,46</td><td>36,23</td><td>5,46</td><td> 28/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,44</td><td>5,46</td><td>10,00</td><td>0,00</td><td>10,00</td><td>5,46</td><td>36,34</td><td>5,46</td><td> 29/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,43</td><td>5,74</td><td>0,00</td><td>0,00</td><td>9,00</td><td>5,74</td><td>36,28</td><td>5,74</td><td> 30/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,39</td><td>5,20</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,20</td><td>36,06</td><td>5,20</td><td> 31/03/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,39</td><td>4,94</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,94</td><td>36,06</td><td>4,94</td><td> 01/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,37</td><td>8,28</td><td>4,00</td><td>0,00</td><td>4,00</td><td>8,28</td><td>35,95</td><td>8,28</td><td> 02/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,36</td><td>19,19</td><td>4,00</td><td>0,00</td><td>4,00</td><td>19,19</td><td>35,90</td><td>19,19</td><td> 03/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,35</td><td>5,46</td><td>5,00</td><td>0,00</td><td>5,00</td><td>5,46</td><td>35,84</td><td>5,46</td><td> 04/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,34</td><td>5,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,93</td><td>35,79</td><td>5,93</td><td> 05/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,33</td><td>5,46</td><td>21,00</td><td>0,00</td><td>21,00</td><td>5,46</td><td>35,74</td><td>5,46</td><td> 06/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,31</td><td>5,74</td><td>9,00</td><td>0,00</td><td>9,00</td><td>5,74</td><td>35,63</td><td>5,74</td><td> 07/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,29</td><td>5,46</td><td>27,00</td><td>0,00</td><td>27,00</td><td>5,46</td><td>35,52</td><td>5,46</td><td> 08/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,27</td><td>6,30</td><td>6,00</td><td>0,00</td><td>6,00</td><td>6,30</td><td>35,41</td><td>6,30</td><td> 09/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,25</td><td>6,59</td><td>8,00</td><td>0,00</td><td>8,00</td><td>6,59</td><td>35,30</td><td>6,59</td><td> 10/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,23</td><td>4,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,94</td><td>35,19</td><td>4,94</td><td> 11/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,22</td><td>5,74</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,74</td><td>35,14</td><td>5,74</td><td> 12/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,23</td><td>5,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,20</td><td>35,19</td><td>5,20</td><td> 13/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,22</td><td>5,46</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,46</td><td>35,14</td><td>5,46</td><td> 14/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,20</td><td>5,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,20</td><td>35,03</td><td>5,20</td><td> 15/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,19</td><td>10,74</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,74</td><td>34,97</td><td>10,74</td><td> 16/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,18</td><td>9,97</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,97</td><td>34,92</td><td>9,97</td><td> 17/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,17</td><td>5,74</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,74</td><td>34,87</td><td>5,74</td><td> 18/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,16</td><td>5,74</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,74</td><td>34,81</td><td>5,74</td><td> 19/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,15</td><td>5,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,75</td><td>34,76</td><td>5,75</td><td> 20/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,14</td><td>10,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,37</td><td>34,70</td><td>10,37</td><td> 21/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,13</td><td>10,76</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,76</td><td>34,65</td><td>10,76</td><td> 22/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,12</td><td>9,97</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,97</td><td>34,59</td><td>9,97</td><td> 23/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,11</td><td>9,23</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,23</td><td>34,54</td><td>9,23</td><td> 24/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,10</td><td>5,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,21</td><td>34,49</td><td>5,21</td><td> 25/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,09</td><td>5,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,21</td><td>34,43</td><td>5,21</td><td> 26/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,08</td><td>5,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,20</td><td>34,38</td><td>5,20</td><td> 27/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,06</td><td>5,18</td><td>12,00</td><td>0,00</td><td>12,00</td><td>5,18</td><td>34,27</td><td>5,18</td><td> 28/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,04</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>34,16</td><td>4,93</td><td> 29/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,03</td><td>7,69</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,69</td><td>34,11</td><td>7,69</td><td> 30/04/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,02</td><td>4,94</td><td>7,00</td><td>0,00</td><td>7,00</td><td>4,94</td><td>34,05</td><td>4,94</td><td> 01/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>113,00</td><td>4,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,94</td><td>33,95</td><td>4,94</td><td> 02/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,99</td><td>4,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,94</td><td>33,89</td><td>4,94</td><td> 03/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,98</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>33,84</td><td>4,93</td><td> 04/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,97</td><td>5,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,18</td><td>33,78</td><td>5,18</td><td> 05/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,97</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,78</td><td>5,45</td><td> 06/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,97</td><td>4,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,75</td><td>33,78</td><td>4,75</td><td> 07/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,99</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,89</td><td>5,18</td><td> 08/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,99</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,89</td><td>5,45</td><td> 09/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,97</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>33,78</td><td>4,93</td><td> 10/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,96</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,73</td><td>5,45</td><td> 11/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,95</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,68</td><td>5,18</td><td> 12/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,94</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,62</td><td>5,18</td><td> 13/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,93</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>33,57</td><td>4,68</td><td> 14/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,92</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>33,51</td><td>4,68</td><td> 15/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,94</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>33,62</td><td>4,93</td><td> 16/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,94</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>33,62</td><td>4,93</td><td> 17/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,91</td><td>5,18</td><td>0,00</td><td>0,00</td><td>3,08</td><td>5,18</td><td>33,46</td><td>5,18</td><td> 18/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,90</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,41</td><td>5,18</td><td> 19/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,89</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,35</td><td>5,18</td><td> 20/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,87</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,24</td><td>5,45</td><td> 21/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,87</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,24</td><td>5,45</td><td> 22/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,86</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>33,19</td><td>5,45</td><td> 23/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,85</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>33,14</td><td>5,18</td><td> 24/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,85</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>33,14</td><td>5,72</td><td> 25/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,85</td><td>7,51</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,51</td><td>33,14</td><td>7,51</td><td> 26/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,86</td><td>14,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,66</td><td>33,19</td><td>14,66</td><td> 27/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,85</td><td>8,51</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,51</td><td>33,14</td><td>8,51</td><td> 28/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,84</td><td>6,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,58</td><td>33,08</td><td>6,58</td><td> 29/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,84</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>33,08</td><td>5,72</td><td> 30/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,82</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>32,98</td><td>5,72</td><td> 31/05/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,80</td><td>5,46</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,46</td><td>32,87</td><td>5,46</td><td> 01/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,80</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>32,87</td><td>5,18</td><td> 02/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,79</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>32,81</td><td>4,68</td><td> 03/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,78</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,76</td><td>4,68</td><td> 04/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,77</td><td>4,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,44</td><td>32,71</td><td>4,44</td><td> 05/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,76</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,65</td><td>4,68</td><td> 06/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,74</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>32,55</td><td>4,44</td><td> 07/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,73</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>32,49</td><td>4,44</td><td> 08/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,72</td><td>4,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,21</td><td>32,44</td><td>4,21</td><td> 09/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,71</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,39</td><td>4,68</td><td> 10/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,70</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>32,33</td><td>4,44</td><td> 11/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,69</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,28</td><td>4,68</td><td> 12/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,68</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>32,23</td><td>4,44</td><td> 13/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,68</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,23</td><td>4,68</td><td> 14/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,67</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,17</td><td>4,68</td><td> 15/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,66</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,12</td><td>4,68</td><td> 16/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,65</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>32,07</td><td>4,44</td><td> 17/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,64</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>32,01</td><td>4,68</td><td> 18/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,63</td><td>4,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,67</td><td>31,96</td><td>4,67</td><td> 19/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,62</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>31,90</td><td>5,18</td><td> 20/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,62</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,90</td><td>4,93</td><td> 21/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,62</td><td>4,93</td><td>4,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,90</td><td>4,93</td><td> 22/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,61</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>31,85</td><td>4,68</td><td> 23/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,61</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>31,85</td><td>4,68</td><td> 24/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,60</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,80</td><td>4,93</td><td> 25/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,60</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>31,80</td><td>4,68</td><td> 26/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,59</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,74</td><td>4,93</td><td> 27/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,58</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>31,69</td><td>4,68</td><td> 28/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,56</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,58</td><td>4,93</td><td> 29/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,55</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>31,53</td><td>5,18</td><td> 30/06/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,55</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>31,53</td><td>5,18</td><td> 01/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,54</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>31,48</td><td>4,93</td><td> 02/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,54</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,48</td><td>5,45</td><td> 03/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,53</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,42</td><td>5,45</td><td> 04/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,52</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,37</td><td>5,45</td><td> 05/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,51</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,32</td><td>5,45</td><td> 06/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,51</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>31,32</td><td>5,72</td><td> 07/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,51</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>31,32</td><td>5,72</td><td> 08/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,50</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,27</td><td>5,45</td><td> 09/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,50</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>31,27</td><td>5,45</td><td> 10/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,49</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>31,21</td><td>5,72</td><td> 11/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>31,16</td><td>5,72</td><td> 12/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,47</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,11</td><td>5,45</td><td> 13/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,46</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>31,05</td><td>5,45</td><td> 14/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,43</td><td>5,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,18</td><td>30,89</td><td>5,18</td><td> 15/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,42</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>30,84</td><td>4,93</td><td> 16/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,41</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>30,79</td><td>4,93</td><td> 17/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,40</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>30,73</td><td>4,93</td><td> 18/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,39</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>30,68</td><td>4,68</td><td> 19/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,38</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>30,63</td><td>4,68</td><td> 20/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,37</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>30,58</td><td>4,93</td><td> 21/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,36</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>30,52</td><td>4,68</td><td> 22/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,35</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>30,47</td><td>4,44</td><td> 23/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,34</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>30,42</td><td>4,44</td><td> 24/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,32</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>30,31</td><td>4,44</td><td> 25/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,33</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>30,36</td><td>4,68</td><td> 26/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,32</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>30,31</td><td>4,68</td><td> 27/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,31</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>30,26</td><td>5,18</td><td> 28/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,30</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>30,20</td><td>5,06</td><td> 29/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,29</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>30,15</td><td>4,68</td><td> 30/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,28</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>30,10</td><td>4,68</td><td> 31/07/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,27</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>30,05</td><td>5,18</td><td> 01/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,26</td><td>4,80</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,80</td><td>29,99</td><td>4,80</td><td> 02/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,25</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>29,94</td><td>5,18</td><td> 03/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,24</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>29,89</td><td>5,06</td><td> 04/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,24</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>29,89</td><td>4,68</td><td> 05/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,24</td><td>4,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,80</td><td>29,89</td><td>4,80</td><td> 06/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,24</td><td>4,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,80</td><td>29,89</td><td>4,80</td><td> 07/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,23</td><td>4,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,80</td><td>29,83</td><td>4,80</td><td> 08/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,23</td><td>4,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,80</td><td>29,83</td><td>4,80</td><td> 09/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,22</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>29,78</td><td>4,68</td><td> 10/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,22</td><td>4,81</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,81</td><td>29,78</td><td>4,81</td><td> 11/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,21</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>29,73</td><td>5,06</td><td> 12/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,19</td><td>4,80</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,80</td><td>29,62</td><td>4,80</td><td> 13/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,17</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>29,52</td><td>5,45</td><td> 14/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,16</td><td>4,80</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,80</td><td>29,47</td><td>4,80</td><td> 15/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,15</td><td>4,56</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,56</td><td>29,41</td><td>4,56</td><td> 16/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,14</td><td>4,21</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,21</td><td>29,36</td><td>4,21</td><td> 17/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,13</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,31</td><td>3,88</td><td> 18/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,12</td><td>4,12</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,12</td><td>29,25</td><td>4,12</td><td> 19/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,11</td><td>4,12</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,12</td><td>29,20</td><td>4,12</td><td> 20/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,10</td><td>4,09</td><td>2,00</td><td>0,00</td><td>2,00</td><td>4,09</td><td>29,15</td><td>4,09</td><td> 21/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,09</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,10</td><td>3,88</td><td> 22/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,04</td><td>3,88</td><td> 23/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>4,34</td><td>4,00</td><td>0,00</td><td>&nbsp;</td><td>4,34</td><td>29,04</td><td>4,34</td><td> 24/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>4,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,93</td><td>29,04</td><td>4,93</td><td> 25/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>29,04</td><td>5,18</td><td> 26/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>5,19</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,19</td><td>29,04</td><td>5,19</td><td> 27/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>29,04</td><td>5,45</td><td> 28/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>5,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,58</td><td>29,04</td><td>5,58</td><td> 29/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,07</td><td>5,58</td><td>6,00</td><td>0,00</td><td>4,00</td><td>5,58</td><td>28,99</td><td>5,58</td><td> 30/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,06</td><td>6,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,00</td><td>28,94</td><td>6,00</td><td> 31/08/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,05</td><td>5,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,58</td><td>28,89</td><td>5,58</td><td> 01/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,04</td><td>6,14</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,14</td><td>28,83</td><td>6,14</td><td> 02/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,03</td><td>6,58</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,58</td><td>28,78</td><td>6,58</td><td> 03/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>6,58</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,58</td><td>28,73</td><td>6,58</td><td> 04/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>6,43</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,43</td><td>28,73</td><td>6,43</td><td> 05/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>6,14</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,14</td><td>28,73</td><td>6,14</td><td> 06/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,01</td><td>5,72</td><td>3,46</td><td>0,00</td><td>3,46</td><td>5,72</td><td>28,68</td><td>5,72</td><td> 07/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,99</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>28,57</td><td>5,45</td><td> 08/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,98</td><td>5,31</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,31</td><td>28,52</td><td>5,31</td><td> 09/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,97</td><td>5,06</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,06</td><td>28,47</td><td>5,06</td><td> 10/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,97</td><td>4,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,93</td><td>28,47</td><td>4,93</td><td> 11/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,96</td><td>4,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,80</td><td>28,42</td><td>4,80</td><td> 12/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,95</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>28,36</td><td>4,68</td><td> 13/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,94</td><td>4,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,44</td><td>28,31</td><td>4,44</td><td> 14/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,93</td><td>4,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,44</td><td>28,26</td><td>4,44</td><td> 15/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,92</td><td>4,32</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,32</td><td>28,21</td><td>4,32</td><td> 16/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,90</td><td>4,21</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,21</td><td>28,10</td><td>4,21</td><td> 17/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,89</td><td>7,65</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,65</td><td>28,05</td><td>7,65</td><td> 18/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,88</td><td>10,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>10,93</td><td>28,00</td><td>10,93</td><td> 19/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,87</td><td>10,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>10,93</td><td>27,94</td><td>10,93</td><td> 20/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,87</td><td>10,73</td><td>3,56</td><td>0,00</td><td>3,56</td><td>10,73</td><td>27,94</td><td>10,73</td><td> 21/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,86</td><td>11,14</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,14</td><td>27,89</td><td>11,14</td><td> 22/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,86</td><td>11,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,34</td><td>27,89</td><td>11,34</td><td> 23/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,85</td><td>11,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,73</td><td>27,84</td><td>11,73</td><td> 24/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,84</td><td>11,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,75</td><td>27,79</td><td>11,75</td><td> 25/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>11,96</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,96</td><td>27,74</td><td>11,96</td><td> 26/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>11,75</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,75</td><td>27,74</td><td>11,75</td><td> 27/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,82</td><td>11,96</td><td>3,60</td><td>0,00</td><td>3,60</td><td>11,96</td><td>27,68</td><td>11,96</td><td> 28/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>11,96</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,96</td><td>27,74</td><td>11,96</td><td> 29/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>11,96</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,96</td><td>27,74</td><td>11,96</td><td> 30/09/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>12,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,18</td><td>27,74</td><td>12,18</td><td> 01/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>11,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,34</td><td>27,74</td><td>11,34</td><td> 02/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,82</td><td>9,22</td><td>4,00</td><td>0,00</td><td>4,00</td><td>9,22</td><td>27,68</td><td>9,22</td><td> 03/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,82</td><td>5,83</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,83</td><td>27,68</td><td>5,83</td><td> 04/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,80</td><td>6,43</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,43</td><td>27,58</td><td>6,43</td><td> 05/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>5,58</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,58</td><td>27,53</td><td>5,58</td><td> 06/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>5,31</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,31</td><td>27,53</td><td>5,31</td><td> 07/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,80</td><td>6,03</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,03</td><td>27,58</td><td>6,03</td><td> 08/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,80</td><td>7,34</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,34</td><td>27,58</td><td>7,34</td><td> 09/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>6,15</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,15</td><td>27,53</td><td>6,15</td><td> 10/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>6,24</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,24</td><td>27,53</td><td>6,24</td><td> 11/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>6,51</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,51</td><td>27,53</td><td>6,51</td><td> 12/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,77</td><td>7,20</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,20</td><td>27,42</td><td>7,20</td><td> 13/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,75</td><td>61,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>61,88</td><td>27,32</td><td>61,88</td><td> 14/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,77</td><td>117,39</td><td>4,00</td><td>0,00</td><td>4,00</td><td>117,39</td><td>27,42</td><td>117,39</td><td> 15/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>97,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>97,55</td><td>27,74</td><td>97,55</td><td> 16/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,90</td><td>79,26</td><td>3,00</td><td>0,00</td><td>3,00</td><td>79,26</td><td>28,10</td><td>79,26</td><td> 17/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,95</td><td>65,96</td><td>3,00</td><td>0,00</td><td>3,00</td><td>65,96</td><td>28,36</td><td>65,96</td><td> 18/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,98</td><td>57,71</td><td>4,00</td><td>0,00</td><td>4,00</td><td>57,71</td><td>28,52</td><td>57,71</td><td> 19/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,00</td><td>51,08</td><td>4,00</td><td>0,00</td><td>4,00</td><td>51,08</td><td>28,62</td><td>51,08</td><td> 20/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>43,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>43,55</td><td>28,73</td><td>43,55</td><td> 21/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,04</td><td>38,36</td><td>3,00</td><td>0,00</td><td>3,00</td><td>38,36</td><td>28,83</td><td>38,36</td><td> 22/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,05</td><td>33,17</td><td>4,00</td><td>0,00</td><td>4,00</td><td>33,17</td><td>28,89</td><td>33,17</td><td> 23/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,06</td><td>29,47</td><td>3,00</td><td>0,00</td><td>3,00</td><td>29,47</td><td>28,94</td><td>29,47</td><td> 24/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,07</td><td>26,02</td><td>4,00</td><td>0,00</td><td>4,00</td><td>26,02</td><td>28,99</td><td>26,02</td><td> 25/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>23,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>23,44</td><td>29,04</td><td>23,44</td><td> 26/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,09</td><td>21,02</td><td>4,00</td><td>0,00</td><td>4,00</td><td>21,02</td><td>29,10</td><td>21,02</td><td> 27/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,09</td><td>19,02</td><td>4,00</td><td>0,00</td><td>4,00</td><td>19,02</td><td>29,10</td><td>19,02</td><td> 28/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>16,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>16,88</td><td>29,04</td><td>16,88</td><td> 29/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,07</td><td>12,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,18</td><td>28,99</td><td>12,18</td><td> 30/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,06</td><td>9,40</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,40</td><td>28,94</td><td>9,40</td><td> 31/10/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,05</td><td>7,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,67</td><td>28,89</td><td>7,67</td><td> 01/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,04</td><td>7,65</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,65</td><td>28,83</td><td>7,65</td><td> 02/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>7,51</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,51</td><td>28,73</td><td>7,51</td><td> 03/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,01</td><td>7,82</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,82</td><td>28,68</td><td>7,82</td><td> 04/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,00</td><td>7,83</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,83</td><td>28,62</td><td>7,83</td><td> 05/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,99</td><td>7,82</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,82</td><td>28,57</td><td>7,82</td><td> 06/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,98</td><td>7,19</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,19</td><td>28,52</td><td>7,19</td><td> 07/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,97</td><td>6,87</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,87</td><td>28,47</td><td>6,87</td><td> 08/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,96</td><td>6,43</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,43</td><td>28,42</td><td>6,43</td><td> 09/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,95</td><td>7,49</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,49</td><td>28,36</td><td>7,49</td><td> 10/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,94</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>28,31</td><td>5,45</td><td> 11/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,93</td><td>5,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,18</td><td>28,26</td><td>5,18</td><td> 12/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,93</td><td>5,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,45</td><td>28,26</td><td>5,45</td><td> 13/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,92</td><td>6,87</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,87</td><td>28,21</td><td>6,87</td><td> 14/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,91</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>28,15</td><td>5,45</td><td> 15/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,90</td><td>5,31</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,31</td><td>28,10</td><td>5,31</td><td> 16/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,89</td><td>6,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,00</td><td>28,05</td><td>6,00</td><td> 17/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,89</td><td>89,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>89,00</td><td>28,05</td><td>89,00</td><td> 18/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,91</td><td>32,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>32,00</td><td>28,15</td><td>32,00</td><td> 19/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,92</td><td>58,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>58,00</td><td>28,21</td><td>58,00</td><td> 20/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,97</td><td>103,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>103,00</td><td>28,47</td><td>103,00</td><td> 21/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,02</td><td>98,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>98,00</td><td>28,73</td><td>98,00</td><td> 22/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>82,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>82,00</td><td>29,04</td><td>82,00</td><td> 23/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,11</td><td>104,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>104,00</td><td>29,20</td><td>104,00</td><td> 24/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,18</td><td>140,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>140,00</td><td>29,57</td><td>140,00</td><td> 25/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,26</td><td>134,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>134,00</td><td>29,99</td><td>134,00</td><td> 26/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,35</td><td>107,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>107,00</td><td>30,47</td><td>107,00</td><td> 27/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,38</td><td>71,00</td><td>3,00</td><td>0,00</td><td>3,46</td><td>71,00</td><td>30,63</td><td>71,00</td><td> 28/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,43</td><td>63,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>63,00</td><td>30,89</td><td>63,00</td><td> 29/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,45</td><td>51,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>51,00</td><td>31,00</td><td>51,00</td><td> 30/11/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,47</td><td>42,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>42,00</td><td>31,11</td><td>42,00</td><td> 01/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>34,33</td><td>4,00</td><td>0,00</td><td>4,00</td><td>34,33</td><td>31,16</td><td>34,33</td><td> 02/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,49</td><td>28,80</td><td>4,00</td><td>0,00</td><td>4,00</td><td>28,80</td><td>31,21</td><td>28,80</td><td> 03/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,49</td><td>25,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>25,69</td><td>31,21</td><td>25,69</td><td> 04/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,50</td><td>22,83</td><td>3,00</td><td>0,00</td><td>3,00</td><td>22,83</td><td>31,27</td><td>22,83</td><td> 05/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,51</td><td>20,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>20,44</td><td>31,32</td><td>20,44</td><td> 06/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,50</td><td>19,02</td><td>4,00</td><td>0,00</td><td>4,00</td><td>19,02</td><td>31,27</td><td>19,02</td><td> 07/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,49</td><td>18,47</td><td>4,00</td><td>0,00</td><td>4,00</td><td>18,47</td><td>31,21</td><td>18,47</td><td> 08/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>18,20</td><td>4,00</td><td>0,00</td><td>4,00</td><td>18,20</td><td>31,16</td><td>18,20</td><td> 09/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>17,93</td><td>4,00</td><td>0,00</td><td>4,00</td><td>17,93</td><td>31,16</td><td>17,93</td><td> 10/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>16,38</td><td>4,00</td><td>0,00</td><td>4,00</td><td>16,38</td><td>31,16</td><td>16,38</td><td> 11/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,48</td><td>13,49</td><td>4,00</td><td>0,00</td><td>4,00</td><td>13,49</td><td>31,16</td><td>13,49</td><td> 12/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,47</td><td>11,96</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,96</td><td>31,11</td><td>11,96</td><td> 13/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,46</td><td>11,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,55</td><td>31,05</td><td>11,55</td><td> 14/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,45</td><td>11,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,55</td><td>31,00</td><td>11,55</td><td> 15/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,44</td><td>11,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,55</td><td>30,95</td><td>11,55</td><td> 16/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,43</td><td>11,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,34</td><td>30,89</td><td>11,34</td><td> 17/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,42</td><td>10,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,73</td><td>30,84</td><td>10,73</td><td> 18/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,42</td><td>9,04</td><td>4,00</td><td>0,00</td><td>4,00</td><td>9,04</td><td>30,84</td><td>9,04</td><td> 19/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,41</td><td>7,51</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,51</td><td>30,79</td><td>7,51</td><td> 20/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,40</td><td>6,28</td><td>3,00</td><td>0,00</td><td>3,39</td><td>6,28</td><td>30,73</td><td>6,28</td><td> 21/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,40</td><td>5,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,58</td><td>30,73</td><td>5,58</td><td> 22/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,39</td><td>7,35</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,35</td><td>30,68</td><td>7,35</td><td> 23/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,38</td><td>6,87</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,87</td><td>30,63</td><td>6,87</td><td> 24/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,37</td><td>5,59</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,59</td><td>30,58</td><td>5,59</td><td> 25/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,36</td><td>5,72</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,72</td><td>30,52</td><td>5,72</td><td> 26/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,34</td><td>5,06</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,06</td><td>30,42</td><td>5,06</td><td> 27/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,34</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>30,42</td><td>5,06</td><td> 28/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,33</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>30,36</td><td>4,93</td><td> 29/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,32</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>30,31</td><td>4,68</td><td> 30/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,31</td><td>3,98</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,98</td><td>30,26</td><td>3,98</td><td> 31/12/2016</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,29</td><td>4,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,44</td><td>30,15</td><td>4,44</td><td> 01/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,27</td><td>4,08</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,08</td><td>30,05</td><td>4,08</td><td> 02/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,26</td><td>4,44</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,44</td><td>29,99</td><td>4,44</td><td> 03/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,25</td><td>4,32</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,32</td><td>29,94</td><td>4,32</td><td> 04/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,24</td><td>4,09</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,09</td><td>29,89</td><td>4,09</td><td> 05/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,22</td><td>3,98</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,98</td><td>29,78</td><td>3,98</td><td> 06/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,20</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>29,68</td><td>3,76</td><td> 07/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,19</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,62</td><td>3,88</td><td> 08/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,18</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>29,57</td><td>3,76</td><td> 09/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,17</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,52</td><td>3,88</td><td> 10/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,15</td><td>3,76</td><td>3,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>29,41</td><td>3,76</td><td> 11/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,14</td><td>3,88</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,88</td><td>29,36</td><td>3,88</td><td> 12/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,13</td><td>3,76</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,76</td><td>29,31</td><td>3,76</td><td> 13/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,11</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>29,20</td><td>3,76</td><td> 14/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,09</td><td>3,82</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,82</td><td>29,10</td><td>3,82</td><td> 15/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,08</td><td>3,66</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,66</td><td>29,04</td><td>3,66</td><td> 16/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,06</td><td>3,66</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,66</td><td>28,94</td><td>3,66</td><td> 17/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,05</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>28,89</td><td>3,76</td><td> 18/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,04</td><td>3,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,94</td><td>28,83</td><td>3,94</td><td> 19/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,03</td><td>3,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,55</td><td>28,78</td><td>3,55</td><td> 20/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>112,00</td><td>3,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,55</td><td>28,62</td><td>3,55</td><td> 21/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,98</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>28,52</td><td>3,45</td><td> 22/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,97</td><td>3,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,45</td><td>28,47</td><td>3,45</td><td> 23/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,96</td><td>3,35</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,35</td><td>28,42</td><td>3,35</td><td> 24/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,95</td><td>3,56</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,56</td><td>28,36</td><td>3,56</td><td> 25/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,93</td><td>3,36</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,36</td><td>28,26</td><td>3,36</td><td> 26/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,91</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>28,15</td><td>3,66</td><td> 27/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,89</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>28,05</td><td>3,45</td><td> 28/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,88</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>28,00</td><td>3,45</td><td> 29/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,87</td><td>3,16</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,16</td><td>27,94</td><td>3,16</td><td> 30/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,86</td><td>3,15</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,15</td><td>27,89</td><td>3,15</td><td> 31/01/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,85</td><td>3,06</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,06</td><td>27,84</td><td>3,06</td><td> 01/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,84</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>27,79</td><td>3,45</td><td> 02/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,83</td><td>3,66</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,66</td><td>27,74</td><td>3,66</td><td> 03/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,81</td><td>3,66</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,66</td><td>27,63</td><td>3,66</td><td> 04/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,79</td><td>3,35</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,35</td><td>27,53</td><td>3,35</td><td> 05/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,78</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>27,48</td><td>3,45</td><td> 06/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,77</td><td>3,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,45</td><td>27,42</td><td>3,45</td><td> 07/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,75</td><td>3,45</td><td>3,00</td><td>0,00</td><td>3,56</td><td>3,45</td><td>27,32</td><td>3,45</td><td> 08/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,73</td><td>3,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,45</td><td>27,22</td><td>3,45</td><td> 09/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,71</td><td>3,35</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,35</td><td>27,11</td><td>3,35</td><td> 10/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,70</td><td>3,24</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,24</td><td>27,06</td><td>3,24</td><td> 11/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,69</td><td>3,15</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,15</td><td>27,01</td><td>3,15</td><td> 12/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,67</td><td>3,05</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,05</td><td>26,90</td><td>3,05</td><td> 13/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,66</td><td>3,15</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,15</td><td>26,85</td><td>3,15</td><td> 14/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,64</td><td>3,24</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,24</td><td>26,75</td><td>3,24</td><td> 15/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,62</td><td>3,15</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,15</td><td>26,64</td><td>3,15</td><td> 16/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,60</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>26,54</td><td>3,76</td><td> 17/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,58</td><td>3,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,55</td><td>26,44</td><td>3,55</td><td> 18/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,57</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>26,39</td><td>3,66</td><td> 19/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,55</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>26,28</td><td>3,66</td><td> 20/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>3,76</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,76</td><td>26,23</td><td>3,76</td><td> 21/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>3,76</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,76</td><td>26,18</td><td>3,76</td><td> 22/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,52</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>26,13</td><td>3,66</td><td> 23/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,49</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>25,97</td><td>3,45</td><td> 24/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,48</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>25,92</td><td>3,45</td><td> 25/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,47</td><td>3,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,45</td><td>25,87</td><td>3,45</td><td> 26/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,47</td><td>3,56</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,56</td><td>25,87</td><td>3,56</td><td> 27/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,46</td><td>4,09</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,09</td><td>25,82</td><td>4,09</td><td> 28/02/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,44</td><td>3,98</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,98</td><td>25,71</td><td>3,98</td><td> 01/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,43</td><td>3,66</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,66</td><td>25,66</td><td>3,66</td><td> 02/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,41</td><td>3,55</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,55</td><td>25,56</td><td>3,55</td><td> 03/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,39</td><td>3,53</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,53</td><td>25,46</td><td>3,53</td><td> 04/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,38</td><td>3,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,15</td><td>25,40</td><td>3,15</td><td> 05/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>2,78</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,78</td><td>25,35</td><td>2,78</td><td> 06/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,36</td><td>2,87</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,87</td><td>25,30</td><td>2,87</td><td> 07/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,34</td><td>2,60</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,60</td><td>25,20</td><td>2,60</td><td> 08/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,32</td><td>2,60</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,60</td><td>25,10</td><td>2,60</td><td> 09/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>2,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,69</td><td>24,99</td><td>2,69</td><td> 10/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>2,52</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,52</td><td>24,94</td><td>2,52</td><td> 11/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,28</td><td>2,60</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,60</td><td>24,89</td><td>2,60</td><td> 12/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>2,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,69</td><td>24,84</td><td>2,69</td><td> 13/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>2,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,69</td><td>24,79</td><td>2,69</td><td> 14/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>2,60</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,60</td><td>24,63</td><td>2,60</td><td> 15/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>2,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,69</td><td>24,53</td><td>2,69</td><td> 16/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,20</td><td>2,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,69</td><td>24,48</td><td>2,69</td><td> 17/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>3,23</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,23</td><td>24,53</td><td>3,23</td><td> 18/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>2,77</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,77</td><td>24,58</td><td>2,77</td><td> 19/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>2,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,18</td><td>24,58</td><td>2,18</td><td> 20/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>2,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,20</td><td>24,53</td><td>2,20</td><td> 21/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>2,52</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,52</td><td>24,28</td><td>2,52</td><td> 22/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>2,27</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,27</td><td>24,23</td><td>2,27</td><td> 23/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>1,96</td><td>3,00</td><td>0,00</td><td>3,00</td><td>1,96</td><td>24,12</td><td>1,96</td><td> 24/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,12</td><td>2,04</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,04</td><td>24,07</td><td>2,04</td><td> 25/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,11</td><td>2,19</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,19</td><td>24,02</td><td>2,19</td><td> 26/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,09</td><td>1,31</td><td>4,00</td><td>0,00</td><td>4,00</td><td>1,31</td><td>23,92</td><td>1,31</td><td> 27/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,07</td><td>1,69</td><td>4,00</td><td>0,00</td><td>4,00</td><td>1,69</td><td>23,82</td><td>1,69</td><td> 28/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,05</td><td>2,00</td><td>3,60</td><td>0,00</td><td>3,60</td><td>2,00</td><td>23,72</td><td>2,00</td><td> 29/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,04</td><td>2,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,00</td><td>23,66</td><td>2,00</td><td> 30/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>2,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>2,00</td><td>23,61</td><td>2,00</td><td> 31/03/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,02</td><td>3,46</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,46</td><td>23,56</td><td>3,46</td><td> 01/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>3,21</td><td>4,00</td><td>0,00</td><td>4,00</td><td>3,21</td><td>23,61</td><td>3,21</td><td> 02/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,04</td><td>29,46</td><td>4,00</td><td>0,00</td><td>4,00</td><td>29,46</td><td>23,66</td><td>29,46</td><td> 03/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,05</td><td>11,83</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,83</td><td>23,72</td><td>11,83</td><td> 04/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,04</td><td>11,21</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,21</td><td>23,66</td><td>11,21</td><td> 05/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>10,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,75</td><td>23,61</td><td>10,75</td><td> 06/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>9,77</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,77</td><td>23,61</td><td>9,77</td><td> 07/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,02</td><td>9,54</td><td>4,00</td><td>0,00</td><td>4,00</td><td>9,54</td><td>23,56</td><td>9,54</td><td> 08/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,02</td><td>7,16</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,16</td><td>23,56</td><td>7,16</td><td> 09/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,00</td><td>42,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>42,75</td><td>23,46</td><td>42,75</td><td> 10/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>108,13</td><td>4,00</td><td>0,00</td><td>4,00</td><td>108,13</td><td>23,61</td><td>108,13</td><td> 11/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,10</td><td>88,70</td><td>4,00</td><td>0,00</td><td>4,00</td><td>88,70</td><td>23,97</td><td>88,70</td><td> 12/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>70,91</td><td>4,00</td><td>0,00</td><td>4,00</td><td>70,91</td><td>24,12</td><td>70,91</td><td> 13/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>59,31</td><td>4,00</td><td>0,00</td><td>4,00</td><td>59,31</td><td>24,28</td><td>59,31</td><td> 14/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,20</td><td>50,96</td><td>4,00</td><td>0,00</td><td>4,00</td><td>50,96</td><td>24,48</td><td>50,96</td><td> 15/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,25</td><td>43,01</td><td>3,00</td><td>0,00</td><td>3,00</td><td>43,01</td><td>24,74</td><td>43,01</td><td> 16/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>38,26</td><td>4,00</td><td>0,00</td><td>4,00</td><td>38,26</td><td>24,79</td><td>38,26</td><td> 17/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>32,35</td><td>3,00</td><td>0,00</td><td>3,00</td><td>32,35</td><td>24,84</td><td>32,35</td><td> 18/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>29,40</td><td>4,00</td><td>0,00</td><td>4,00</td><td>29,40</td><td>24,94</td><td>29,40</td><td> 19/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>25,32</td><td>4,00</td><td>0,00</td><td>4,00</td><td>25,32</td><td>24,99</td><td>25,32</td><td> 20/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>22,47</td><td>4,00</td><td>0,00</td><td>4,00</td><td>22,47</td><td>24,99</td><td>22,47</td><td> 21/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>20,98</td><td>4,00</td><td>0,00</td><td>4,00</td><td>20,98</td><td>24,99</td><td>20,98</td><td> 22/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>20,10</td><td>4,00</td><td>0,00</td><td>4,00</td><td>20,10</td><td>24,99</td><td>20,10</td><td> 23/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>20,67</td><td>4,00</td><td>0,00</td><td>4,00</td><td>20,67</td><td>24,99</td><td>20,67</td><td> 24/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>17,89</td><td>4,00</td><td>0,00</td><td>4,00</td><td>17,89</td><td>24,99</td><td>17,89</td><td> 25/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>14,65</td><td>4,00</td><td>0,00</td><td>4,00</td><td>14,65</td><td>24,99</td><td>14,65</td><td> 26/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>12,83</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,83</td><td>24,99</td><td>12,83</td><td> 27/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,32</td><td>12,62</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,62</td><td>25,10</td><td>12,62</td><td> 28/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>12,30</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,30</td><td>25,05</td><td>12,30</td><td> 29/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>12,41</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,41</td><td>25,05</td><td>12,41</td><td> 30/04/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>11,97</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,97</td><td>24,99</td><td>11,97</td><td> 01/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>12,18</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,18</td><td>25,05</td><td>12,18</td><td> 02/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>12,81</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,81</td><td>25,05</td><td>12,81</td><td> 03/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,32</td><td>13,05</td><td>4,00</td><td>0,00</td><td>4,00</td><td>13,05</td><td>25,10</td><td>13,05</td><td> 04/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>12,83</td><td>4,00</td><td>0,00</td><td>4,00</td><td>12,83</td><td>25,15</td><td>12,83</td><td> 05/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>13,27</td><td>4,00</td><td>0,00</td><td>4,00</td><td>13,27</td><td>25,15</td><td>13,27</td><td> 06/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>13,49</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,49</td><td>25,15</td><td>13,49</td><td> 07/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>13,27</td><td>4,00</td><td>0,00</td><td>4,00</td><td>13,27</td><td>25,15</td><td>13,27</td><td> 08/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>11,96</td><td>4,00</td><td>0,00</td><td>4,00</td><td>11,96</td><td>25,05</td><td>11,96</td><td> 09/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>9,78</td><td>4,00</td><td>0,00</td><td>4,00</td><td>9,78</td><td>24,99</td><td>9,78</td><td> 10/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>8,51</td><td>4,00</td><td>0,00</td><td>4,00</td><td>8,51</td><td>24,99</td><td>8,51</td><td> 11/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>7,37</td><td>4,00</td><td>0,00</td><td>4,00</td><td>7,37</td><td>24,94</td><td>7,37</td><td> 12/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,28</td><td>5,72</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,72</td><td>24,89</td><td>5,72</td><td> 13/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>5,45</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,45</td><td>24,84</td><td>5,45</td><td> 14/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>24,79</td><td>4,68</td><td> 15/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,25</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>24,74</td><td>5,06</td><td> 16/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,24</td><td>4,68</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,68</td><td>24,69</td><td>4,68</td><td> 17/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>4,56</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,56</td><td>24,63</td><td>4,56</td><td> 18/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>4,56</td><td>4,00</td><td>0,00</td><td>4,00</td><td>4,56</td><td>24,63</td><td>4,56</td><td> 19/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>5,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,58</td><td>24,58</td><td>5,58</td><td> 20/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,20</td><td>5,58</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,58</td><td>24,48</td><td>5,58</td><td> 21/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>24,43</td><td>5,72</td><td> 22/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>5,72</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,72</td><td>24,43</td><td>5,72</td><td> 23/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>5,72</td><td>4,00</td><td>0,00</td><td>4,00</td><td>5,72</td><td>24,38</td><td>5,72</td><td> 24/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>6,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,00</td><td>24,38</td><td>6,00</td><td> 25/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>6,43</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,43</td><td>24,33</td><td>6,43</td><td> 26/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>6,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,58</td><td>24,28</td><td>6,58</td><td> 27/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>6,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,58</td><td>24,23</td><td>6,58</td><td> 28/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>6,28</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,28</td><td>24,23</td><td>6,28</td><td> 29/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>6,28</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,28</td><td>24,12</td><td>6,28</td><td> 30/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,12</td><td>6,14</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,14</td><td>24,07</td><td>6,14</td><td> 31/05/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,10</td><td>6,28</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,28</td><td>23,97</td><td>6,28</td><td> 01/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,09</td><td>31,65</td><td>3,00</td><td>0,00</td><td>3,00</td><td>31,65</td><td>23,92</td><td>31,65</td><td> 02/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,09</td><td>53,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>53,06</td><td>23,92</td><td>53,06</td><td> 03/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>52,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>52,06</td><td>24,12</td><td>52,06</td><td> 04/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>47,70</td><td>3,00</td><td>0,00</td><td>3,00</td><td>47,70</td><td>24,33</td><td>47,70</td><td> 05/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>42,22</td><td>3,00</td><td>0,00</td><td>3,00</td><td>42,22</td><td>24,43</td><td>42,22</td><td> 06/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>37,54</td><td>3,00</td><td>0,00</td><td>3,00</td><td>37,54</td><td>24,53</td><td>37,54</td><td> 07/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>33,64</td><td>3,00</td><td>0,00</td><td>3,00</td><td>33,64</td><td>24,58</td><td>33,64</td><td> 08/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>30,19</td><td>3,00</td><td>0,00</td><td>3,00</td><td>30,19</td><td>24,53</td><td>30,19</td><td> 09/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>27,71</td><td>3,00</td><td>0,00</td><td>3,00</td><td>27,71</td><td>24,58</td><td>27,71</td><td> 10/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>25,03</td><td>3,00</td><td>0,00</td><td>3,00</td><td>25,03</td><td>24,63</td><td>25,03</td><td> 11/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,25</td><td>23,76</td><td>3,00</td><td>0,00</td><td>3,00</td><td>23,76</td><td>24,74</td><td>23,76</td><td> 12/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>26,36</td><td>3,00</td><td>0,00</td><td>3,00</td><td>26,36</td><td>24,84</td><td>26,36</td><td> 13/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>37,17</td><td>3,00</td><td>0,00</td><td>3,00</td><td>37,17</td><td>24,79</td><td>37,17</td><td> 14/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>40,90</td><td>3,00</td><td>0,00</td><td>3,00</td><td>40,90</td><td>24,84</td><td>40,90</td><td> 15/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>37,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>37,94</td><td>24,99</td><td>37,94</td><td> 16/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>33,56</td><td>3,00</td><td>0,00</td><td>3,00</td><td>33,56</td><td>25,05</td><td>33,56</td><td> 17/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>29,84</td><td>3,00</td><td>0,00</td><td>3,00</td><td>29,84</td><td>25,15</td><td>29,84</td><td> 18/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,34</td><td>26,78</td><td>3,00</td><td>0,00</td><td>3,00</td><td>26,78</td><td>25,20</td><td>26,78</td><td> 19/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,35</td><td>23,13</td><td>4,00</td><td>0,00</td><td>4,00</td><td>23,13</td><td>25,25</td><td>23,13</td><td> 20/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,35</td><td>21,31</td><td>3,00</td><td>0,00</td><td>3,00</td><td>21,31</td><td>25,25</td><td>21,31</td><td> 21/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,36</td><td>19,86</td><td>4,00</td><td>0,00</td><td>4,00</td><td>19,86</td><td>25,30</td><td>19,86</td><td> 22/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>19,86</td><td>3,00</td><td>0,00</td><td>3,00</td><td>19,86</td><td>25,35</td><td>19,86</td><td> 23/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>18,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,21</td><td>25,35</td><td>18,21</td><td> 24/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>13,96</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,96</td><td>25,35</td><td>13,96</td><td> 25/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>11,14</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,14</td><td>25,35</td><td>11,14</td><td> 26/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>9,22</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,22</td><td>25,35</td><td>9,22</td><td> 27/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>7,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,67</td><td>25,35</td><td>7,67</td><td> 28/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,36</td><td>7,50</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,50</td><td>25,30</td><td>7,50</td><td> 29/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,35</td><td>7,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,00</td><td>25,25</td><td>7,00</td><td> 30/06/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,34</td><td>6,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,73</td><td>25,20</td><td>6,73</td><td> 01/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>7,19</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,19</td><td>25,15</td><td>7,19</td><td> 02/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>7,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,67</td><td>25,15</td><td>7,67</td><td> 03/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>8,89</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,89</td><td>24,99</td><td>8,89</td><td> 04/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>14,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,66</td><td>24,94</td><td>14,66</td><td> 05/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>13,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,72</td><td>24,99</td><td>13,72</td><td> 06/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>13,52</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,52</td><td>24,99</td><td>13,52</td><td> 07/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>13,05</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,05</td><td>24,94</td><td>13,05</td><td> 08/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>13,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,73</td><td>24,94</td><td>13,73</td><td> 09/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>16,89</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,89</td><td>24,94</td><td>16,89</td><td> 10/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>18,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,20</td><td>24,99</td><td>18,20</td><td> 11/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>17,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,67</td><td>24,99</td><td>17,67</td><td> 12/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,30</td><td>17,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,15</td><td>24,99</td><td>17,15</td><td> 13/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>16,12</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,12</td><td>25,05</td><td>16,12</td><td> 14/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>14,89</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,89</td><td>25,15</td><td>14,89</td><td> 15/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>14,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,66</td><td>25,15</td><td>14,66</td><td> 16/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>15,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>15,88</td><td>25,15</td><td>15,88</td><td> 17/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>33,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>33,94</td><td>25,15</td><td>33,94</td><td> 18/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,35</td><td>36,71</td><td>3,00</td><td>0,00</td><td>3,00</td><td>36,71</td><td>25,25</td><td>36,71</td><td> 19/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,34</td><td>39,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>39,20</td><td>25,20</td><td>39,20</td><td> 20/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>41,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>41,34</td><td>25,35</td><td>41,34</td><td> 21/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,39</td><td>37,12</td><td>3,00</td><td>0,00</td><td>3,00</td><td>37,12</td><td>25,46</td><td>37,12</td><td> 22/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,40</td><td>33,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>33,94</td><td>25,51</td><td>33,94</td><td> 23/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,43</td><td>34,71</td><td>3,00</td><td>0,00</td><td>3,00</td><td>34,71</td><td>25,66</td><td>34,71</td><td> 24/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,44</td><td>32,03</td><td>3,00</td><td>0,00</td><td>3,00</td><td>32,03</td><td>25,71</td><td>32,03</td><td> 25/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,47</td><td>29,11</td><td>3,00</td><td>0,00</td><td>3,00</td><td>29,11</td><td>25,87</td><td>29,11</td><td> 26/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,48</td><td>26,02</td><td>3,00</td><td>0,00</td><td>3,00</td><td>26,02</td><td>25,92</td><td>26,02</td><td> 27/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>23,13</td><td>3,00</td><td>0,00</td><td>3,00</td><td>23,13</td><td>26,02</td><td>23,13</td><td> 28/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>21,31</td><td>3,00</td><td>0,00</td><td>3,00</td><td>21,31</td><td>26,02</td><td>21,31</td><td> 29/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,51</td><td>19,30</td><td>4,00</td><td>0,00</td><td>4,00</td><td>19,30</td><td>26,08</td><td>19,30</td><td> 30/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,52</td><td>18,20</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,20</td><td>26,13</td><td>18,20</td><td> 31/07/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,52</td><td>16,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,88</td><td>26,13</td><td>16,88</td><td> 01/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>16,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,37</td><td>26,18</td><td>16,37</td><td> 02/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>16,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,88</td><td>26,18</td><td>16,88</td><td> 03/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>17,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,15</td><td>26,18</td><td>17,15</td><td> 04/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>17,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,06</td><td>26,18</td><td>17,06</td><td> 05/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>19,02</td><td>3,00</td><td>0,00</td><td>3,00</td><td>19,02</td><td>26,18</td><td>19,02</td><td> 06/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>20,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>20,44</td><td>26,18</td><td>20,44</td><td> 07/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>23,13</td><td>3,00</td><td>0,00</td><td>3,00</td><td>23,13</td><td>26,18</td><td>23,13</td><td> 08/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>23,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>23,44</td><td>26,18</td><td>23,44</td><td> 09/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>22,52</td><td>3,00</td><td>0,00</td><td>3,00</td><td>22,52</td><td>26,23</td><td>22,52</td><td> 10/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>20,43</td><td>3,00</td><td>0,00</td><td>3,00</td><td>20,43</td><td>26,23</td><td>20,43</td><td> 11/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>18,47</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,47</td><td>26,23</td><td>18,47</td><td> 12/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>16,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,88</td><td>26,23</td><td>16,88</td><td> 13/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>15,14</td><td>3,00</td><td>0,00</td><td>3,00</td><td>15,14</td><td>26,23</td><td>15,14</td><td> 14/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,54</td><td>14,41</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,41</td><td>26,23</td><td>14,41</td><td> 15/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>13,05</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,05</td><td>26,18</td><td>13,05</td><td> 16/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>12,38</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,38</td><td>26,18</td><td>12,38</td><td> 17/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,53</td><td>12,98</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,98</td><td>26,18</td><td>12,98</td><td> 18/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,52</td><td>11,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,55</td><td>26,13</td><td>11,55</td><td> 19/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,51</td><td>11,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,75</td><td>26,08</td><td>11,75</td><td> 20/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>11,75</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,75</td><td>26,02</td><td>11,75</td><td> 21/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,49</td><td>11,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,55</td><td>25,97</td><td>11,55</td><td> 22/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>9,77</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,77</td><td>26,02</td><td>9,77</td><td> 23/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>8,17</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,17</td><td>26,02</td><td>8,17</td><td> 24/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,50</td><td>6,73</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,73</td><td>26,02</td><td>6,73</td><td> 25/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,51</td><td>6,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,00</td><td>26,08</td><td>6,00</td><td> 26/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,51</td><td>6,01</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,01</td><td>26,08</td><td>6,01</td><td> 27/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,49</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>25,97</td><td>5,18</td><td> 28/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,47</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,87</td><td>5,06</td><td> 29/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,46</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,82</td><td>5,06</td><td> 30/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,46</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>25,82</td><td>4,93</td><td> 31/08/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,45</td><td>6,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,73</td><td>25,77</td><td>6,73</td><td> 01/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,43</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>25,66</td><td>4,44</td><td> 02/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,44</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,71</td><td>5,06</td><td> 03/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,45</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>25,77</td><td>5,18</td><td> 04/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,45</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>25,77</td><td>4,93</td><td> 05/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,44</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>25,71</td><td>4,93</td><td> 06/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,43</td><td>4,80</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,80</td><td>25,66</td><td>4,80</td><td> 07/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,42</td><td>4,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,45</td><td>25,61</td><td>4,45</td><td> 08/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,42</td><td>4,46</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,46</td><td>25,61</td><td>4,46</td><td> 09/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,40</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>25,51</td><td>5,18</td><td> 10/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,40</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,51</td><td>5,06</td><td> 11/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,38</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>25,40</td><td>4,93</td><td> 12/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>4,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,68</td><td>25,35</td><td>4,68</td><td> 13/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,37</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,35</td><td>5,06</td><td> 14/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,35</td><td>4,80</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,80</td><td>25,25</td><td>4,80</td><td> 15/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,34</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>25,20</td><td>5,06</td><td> 16/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,33</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>25,15</td><td>5,18</td><td> 17/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,32</td><td>5,31</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,31</td><td>25,10</td><td>5,31</td><td> 18/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>25,05</td><td>5,18</td><td> 19/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,31</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>59,14</td><td>5,06</td><td> 20/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,29</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>58,89</td><td>5,18</td><td> 21/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,28</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>58,77</td><td>5,06</td><td> 22/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>58,65</td><td>4,93</td><td> 23/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,27</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>58,65</td><td>4,93</td><td> 24/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>5,06</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,06</td><td>58,53</td><td>5,06</td><td> 25/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,26</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>58,53</td><td>5,18</td><td> 26/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,24</td><td>5,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,00</td><td>58,28</td><td>5,00</td><td> 27/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,24</td><td>9,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,00</td><td>58,28</td><td>9,00</td><td> 28/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>25,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>25,00</td><td>58,16</td><td>25,00</td><td> 29/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>23,50</td><td>3,00</td><td>0,00</td><td>3,00</td><td>23,50</td><td>58,04</td><td>23,50</td><td> 30/09/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>30,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>30,18</td><td>57,92</td><td>30,18</td><td> 01/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>28,74</td><td>3,00</td><td>0,00</td><td>3,00</td><td>28,74</td><td>57,92</td><td>28,74</td><td> 02/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>27,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>27,37</td><td>57,92</td><td>27,37</td><td> 03/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>25,03</td><td>4,00</td><td>0,00</td><td>4,00</td><td>25,03</td><td>58,04</td><td>25,03</td><td> 04/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>22,82</td><td>3,00</td><td>0,00</td><td>3,00</td><td>22,82</td><td>58,04</td><td>22,82</td><td> 05/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>21,31</td><td>3,00</td><td>0,00</td><td>3,00</td><td>21,31</td><td>58,04</td><td>21,31</td><td> 06/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>18,47</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,47</td><td>58,04</td><td>18,47</td><td> 07/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,23</td><td>16,63</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,63</td><td>58,16</td><td>16,63</td><td> 08/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>13,73</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,73</td><td>58,04</td><td>13,73</td><td> 09/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,22</td><td>11,14</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,14</td><td>58,04</td><td>11,14</td><td> 10/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,21</td><td>9,22</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,22</td><td>57,92</td><td>9,22</td><td> 11/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,20</td><td>7,83</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,83</td><td>57,80</td><td>7,83</td><td> 12/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>7,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,67</td><td>57,68</td><td>7,67</td><td> 13/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>7,19</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,19</td><td>57,56</td><td>7,19</td><td> 14/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>6,28</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,28</td><td>57,56</td><td>6,28</td><td> 15/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>5,72</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,72</td><td>57,32</td><td>5,72</td><td> 16/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>5,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>5,18</td><td>57,20</td><td>5,18</td><td> 17/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>4,93</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,93</td><td>57,20</td><td>4,93</td><td> 18/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>4,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,44</td><td>56,95</td><td>4,44</td><td> 19/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>4,32</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,32</td><td>56,95</td><td>4,32</td><td> 20/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,12</td><td>4,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,21</td><td>56,83</td><td>4,21</td><td> 21/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,10</td><td>4,32</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,32</td><td>56,59</td><td>4,32</td><td> 22/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,09</td><td>4,09</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,09</td><td>56,47</td><td>4,09</td><td> 23/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,08</td><td>4,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,58</td><td>56,35</td><td>4,58</td><td> 24/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,06</td><td>4,21</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,21</td><td>56,11</td><td>4,21</td><td> 25/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,05</td><td>4,09</td><td>3,00</td><td>0,00</td><td>3,00</td><td>4,09</td><td>55,99</td><td>4,09</td><td> 26/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,04</td><td>3,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,88</td><td>55,87</td><td>3,88</td><td> 27/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>3,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,88</td><td>55,75</td><td>3,88</td><td> 28/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>55,75</td><td>3,66</td><td> 29/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,02</td><td>3,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,88</td><td>55,63</td><td>3,88</td><td> 30/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,99</td><td>3,55</td><td>3,21</td><td>0,00</td><td>3,00</td><td>3,55</td><td>55,27</td><td>3,55</td><td> 31/10/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,98</td><td>3,45</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,45</td><td>55,15</td><td>3,45</td><td> 01/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,97</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>55,03</td><td>3,66</td><td> 02/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,96</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>54,91</td><td>3,66</td><td> 03/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,95</td><td>3,66</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,66</td><td>54,78</td><td>3,66</td><td> 04/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,94</td><td>3,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,55</td><td>54,67</td><td>3,55</td><td> 05/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,93</td><td>3,55</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,55</td><td>54,55</td><td>3,55</td><td> 06/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,92</td><td>3,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>3,15</td><td>54,42</td><td>3,15</td><td> 07/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,92</td><td>2,87</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>2,87</td><td>54,42</td><td>2,87</td><td> 08/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,89</td><td>2,69</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,69</td><td>54,06</td><td>2,69</td><td> 09/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,88</td><td>2,69</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,69</td><td>53,95</td><td>2,69</td><td> 10/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,87</td><td>2,60</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,60</td><td>53,83</td><td>2,60</td><td> 11/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,86</td><td>2,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,37</td><td>53,71</td><td>2,37</td><td> 12/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,84</td><td>2,69</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,69</td><td>53,47</td><td>2,69</td><td> 13/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,84</td><td>2,39</td><td>3,00</td><td>0,00</td><td>3,00</td><td>2,39</td><td>53,47</td><td>2,39</td><td> 14/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,85</td><td>14,76</td><td>3,00</td><td>0,00</td><td>3,00</td><td>14,76</td><td>53,59</td><td>14,76</td><td> 15/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,85</td><td>9,44</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,44</td><td>53,59</td><td>9,44</td><td> 16/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,86</td><td>6,81</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,81</td><td>53,71</td><td>6,81</td><td> 17/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,85</td><td>7,91</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,91</td><td>53,59</td><td>7,91</td><td> 18/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,85</td><td>54,48</td><td>3,00</td><td>0,00</td><td>3,00</td><td>54,48</td><td>53,59</td><td>54,48</td><td> 19/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,87</td><td>118,87</td><td>4,00</td><td>0,00</td><td>4,00</td><td>118,87</td><td>53,83</td><td>118,87</td><td> 20/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,93</td><td>116,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>116,37</td><td>54,55</td><td>116,37</td><td> 21/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,98</td><td>99,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>99,00</td><td>55,15</td><td>99,00</td><td> 22/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>80,60</td><td>3,00</td><td>0,00</td><td>3,00</td><td>80,60</td><td>55,75</td><td>80,60</td><td> 23/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,07</td><td>34,27</td><td>3,00</td><td>0,00</td><td>3,00</td><td>34,27</td><td>56,23</td><td>34,27</td><td> 24/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,10</td><td>54,98</td><td>3,00</td><td>0,00</td><td>3,00</td><td>54,98</td><td>56,59</td><td>54,98</td><td> 25/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>46,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>46,15</td><td>56,95</td><td>46,15</td><td> 26/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,14</td><td>39,71</td><td>3,00</td><td>0,00</td><td>3,00</td><td>39,71</td><td>57,07</td><td>39,71</td><td> 27/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>34,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>34,00</td><td>57,20</td><td>34,00</td><td> 28/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>30,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>30,00</td><td>57,32</td><td>30,00</td><td> 29/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>28,50</td><td>3,00</td><td>0,00</td><td>3,00</td><td>28,50</td><td>57,44</td><td>28,50</td><td> 30/11/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>22,94</td><td>3,00</td><td>0,00</td><td>3,00</td><td>22,94</td><td>57,56</td><td>22,94</td><td> 01/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>21,33</td><td>3,00</td><td>0,00</td><td>3,00</td><td>21,33</td><td>57,44</td><td>21,33</td><td> 02/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>18,15</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,15</td><td>57,32</td><td>18,15</td><td> 03/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>18,05</td><td>3,00</td><td>0,00</td><td>3,00</td><td>18,05</td><td>57,20</td><td>18,05</td><td> 04/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>10,16</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,16</td><td>57,20</td><td>10,16</td><td> 05/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,14</td><td>8,17</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,17</td><td>57,07</td><td>8,17</td><td> 06/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>7,19</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,19</td><td>56,95</td><td>7,19</td><td> 07/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,12</td><td>8,00</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,00</td><td>56,83</td><td>8,00</td><td> 08/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,10</td><td>12,18</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,18</td><td>56,59</td><td>12,18</td><td> 09/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>25,97</td><td>3,00</td><td>0,00</td><td>3,00</td><td>25,97</td><td>57,20</td><td>25,97</td><td> 10/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>17,77</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,77</td><td>57,44</td><td>17,77</td><td> 11/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>9,47</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,47</td><td>57,44</td><td>9,47</td><td> 12/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,16</td><td>17,60</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,60</td><td>57,32</td><td>17,60</td><td> 13/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>16,48</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,48</td><td>57,20</td><td>16,48</td><td> 14/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>69,91</td><td>3,00</td><td>0,00</td><td>3,00</td><td>69,91</td><td>57,20</td><td>69,91</td><td> 15/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>32,26</td><td>3,00</td><td>0,00</td><td>3,00</td><td>32,26</td><td>57,68</td><td>32,26</td><td> 16/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>20,07</td><td>3,00</td><td>0,00</td><td>3,00</td><td>20,07</td><td>57,68</td><td>20,07</td><td> 17/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>13,57</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,57</td><td>57,68</td><td>13,57</td><td> 18/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,19</td><td>11,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,58</td><td>57,68</td><td>11,58</td><td> 19/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>11,25</td><td>0,00</td><td>0,00</td><td>&nbsp;</td><td>11,25</td><td>57,56</td><td>11,25</td><td> 20/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>10,47</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,47</td><td>57,56</td><td>10,47</td><td> 21/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>12,58</td><td>12,00</td><td>0,00</td><td>12,00</td><td>12,58</td><td>57,44</td><td>12,58</td><td> 22/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,17</td><td>11,67</td><td>8,00</td><td>0,00</td><td>8,00</td><td>11,67</td><td>57,44</td><td>11,67</td><td> 23/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,15</td><td>10,52</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,52</td><td>57,20</td><td>10,52</td><td> 24/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,14</td><td>9,39</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,39</td><td>57,07</td><td>9,39</td><td> 25/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,13</td><td>12,13</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,13</td><td>56,95</td><td>12,13</td><td> 26/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>10,10</td><td>3,00</td><td>0,00</td><td>3,12</td><td>10,10</td><td>57,56</td><td>10,10</td><td> 27/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,18</td><td>9,64</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,64</td><td>57,56</td><td>9,64</td><td> 28/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,07</td><td>8,35</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,35</td><td>56,23</td><td>8,35</td><td> 29/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,07</td><td>1,67</td><td>3,00</td><td>0,00</td><td>3,00</td><td>1,67</td><td>56,23</td><td>1,67</td><td> 30/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,07</td><td>1,62</td><td>3,00</td><td>0,00</td><td>3,00</td><td>1,62</td><td>56,23</td><td>1,62</td><td> 31/12/2017</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,06</td><td>1,24</td><td>3,00</td><td>0,00</td><td>3,00</td><td>1,24</td><td>56,11</td><td>1,24</td><td> 01/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,05</td><td>8,33</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,33</td><td>55,99</td><td>8,33</td><td> 02/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,03</td><td>8,17</td><td>8,00</td><td>0,00</td><td>3,10</td><td>8,17</td><td>55,75</td><td>8,17</td><td> 03/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,01</td><td>6,22</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,22</td><td>55,51</td><td>6,22</td><td> 04/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>111,01</td><td>7,04</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,04</td><td>55,51</td><td>7,04</td><td> 05/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,99</td><td>6,58</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,58</td><td>55,27</td><td>6,58</td><td> 06/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,98</td><td>6,88</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,88</td><td>55,15</td><td>6,88</td><td> 07/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,97</td><td>32,09</td><td>3,00</td><td>0,00</td><td>3,00</td><td>32,09</td><td>55,03</td><td>32,09</td><td> 08/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,97</td><td>20,48</td><td>3,00</td><td>0,00</td><td>3,00</td><td>20,48</td><td>55,03</td><td>20,48</td><td> 09/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,98</td><td>14,20</td><td>3,21</td><td>0,00</td><td>3,21</td><td>14,20</td><td>55,15</td><td>14,20</td><td> 10/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,99</td><td>11,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,34</td><td>55,27</td><td>11,34</td><td> 11/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,99</td><td>12,61</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,61</td><td>55,27</td><td>12,61</td><td> 12/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,97</td><td>12,29</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,29</td><td>55,03</td><td>12,29</td><td> 13/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,96</td><td>10,30</td><td>3,00</td><td>0,00</td><td>3,00</td><td>10,30</td><td>54,91</td><td>10,30</td><td> 14/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,96</td><td>9,22</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,22</td><td>54,91</td><td>9,22</td><td> 15/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,94</td><td>8,68</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,68</td><td>54,67</td><td>8,68</td><td> 16/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,93</td><td>8,51</td><td>3,00</td><td>0,00</td><td>&nbsp;</td><td>8,51</td><td>54,55</td><td>8,51</td><td> 17/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,92</td><td>9,05</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,05</td><td>54,42</td><td>9,05</td><td> 18/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,90</td><td>17,40</td><td>3,00</td><td>0,00</td><td>3,00</td><td>17,40</td><td>54,19</td><td>17,40</td><td> 19/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,89</td><td>16,63</td><td>3,00</td><td>0,00</td><td>3,00</td><td>16,63</td><td>54,06</td><td>16,63</td><td> 20/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,88</td><td>15,87</td><td>3,00</td><td>0,00</td><td>3,00</td><td>15,87</td><td>53,95</td><td>15,87</td><td> 21/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,88</td><td>15,37</td><td>3,00</td><td>0,00</td><td>3,00</td><td>15,37</td><td>53,95</td><td>15,37</td><td> 22/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,88</td><td>13,95</td><td>3,00</td><td>0,00</td><td>3,00</td><td>13,95</td><td>53,95</td><td>13,95</td><td> 23/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,86</td><td>12,61</td><td>3,00</td><td>0,00</td><td>3,00</td><td>12,61</td><td>53,71</td><td>12,61</td><td> 24/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,86</td><td>11,34</td><td>3,00</td><td>0,00</td><td>3,00</td><td>11,34</td><td>53,71</td><td>11,34</td><td> 25/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,84</td><td>9,96</td><td>3,00</td><td>0,00</td><td>3,00</td><td>9,96</td><td>53,47</td><td>9,96</td><td> 26/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,84</td><td>9,59</td><td>4,00</td><td>0,00</td><td>4,00</td><td>9,59</td><td>53,47</td><td>9,59</td><td> 27/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,83</td><td>8,33</td><td>3,00</td><td>0,00</td><td>3,00</td><td>8,33</td><td>53,35</td><td>8,33</td><td> 28/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,80</td><td>7,51</td><td>3,00</td><td>0,00</td><td>3,00</td><td>7,51</td><td>52,99</td><td>7,51</td><td> 29/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,79</td><td>6,87</td><td>3,00</td><td>0,00</td><td>3,00</td><td>6,87</td><td>52,87</td><td>6,87</td><td> 30/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,78</td><td>6,50</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,50</td><td>52,75</td><td>6,50</td><td> 31/01/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>110,77</td><td>3,00</td><td>4,00</td><td>0,00</td><td>4,00</td><td>6,20</td><td>56,56</td><td>6,20</td><td> 01/02/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6,20</td><td>&nbsp;</td><td>6,20</td><td> 02/02/2018</td>
+		</tr><tr>
+			<td>19117</td><td>PEDRA DO CAVALO                                   </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>6,20</td><td>&nbsp;</td><td>6,20</td><td> 03/02/2018</td>
+		</tr>
+	</table>
+</div>
