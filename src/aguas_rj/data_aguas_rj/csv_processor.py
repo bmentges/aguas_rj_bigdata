@@ -4,19 +4,16 @@ import csv
 
 import pandas
 
-from aguas_rj.config import AGUAS_RJ_DATA_OUTPUT_FOLDER
-
-SCHEMA_FILE = '{}/schema.csv'.format(AGUAS_RJ_DATA_OUTPUT_FOLDER)
-DATA_FILE = '{}/all_data.csv'.format(AGUAS_RJ_DATA_OUTPUT_FOLDER)
+from aguas_rj.config import SCHEMA_OUTPUT_FILE, DATA_OUTPUT_FILE
 
 
 def run():
-    with open(SCHEMA_FILE) as f:
+    with open(SCHEMA_OUTPUT_FILE) as f:
         reader = csv.reader(f)
         for row in reader:
             schema = row
 
-    dataframes = pandas.read_csv(DATA_FILE, header=None, names=schema)
+    dataframes = pandas.read_csv(DATA_OUTPUT_FILE, header=None, names=schema)
     print(dataframes)
 
 

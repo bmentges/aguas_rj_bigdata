@@ -1,19 +1,24 @@
 from __future__ import unicode_literals
 
 import os
+import re
 import errno
 import glob
 import logging
 import csv
 import gzip
 import shutil
+from dateutil.parser import parse
 from functools import reduce
 
 from bs4 import BeautifulSoup
 
 from aguas_rj.config import AGUAS_RJ_DATA_INPUT_FOLDER, AGUAS_RJ_DATA_OUTPUT_FOLDER
+from aguas_rj.config import SCHEMA_OUTPUT_FILE, DATA_OUTPUT_FILE
 
 logger = logging.getLogger(__name__)
+
+DATE_MATCHER = re.compile('(?P<day>[ 0123][0-9])/(?P<month>[0-1][0-9])/(?P<year>[1-2][0-9][0-9][0-9])')
 
 
 def run():
@@ -23,14 +28,14 @@ def run():
     print('There are {} files to process. Starting...'.format(str(len(files_to_process))))
 
     write_schema(files_to_process[0])
-    write_data(AGUAS_RJ_DATA_OUTPUT_FOLDER, files_to_process)
+    write_data(files_to_process)
 
     print("The end. Success.")
 
 
-def write_data(output_directory, files_to_process):
-    output_file = '{}all_data.csv'.format(output_directory)
-    output_gz_file = '{}all_data.csv.gz'.format(output_directory)
+def write_data(files_to_process):
+    output_file = DATA_OUTPUT_FILE
+    output_gz_file = '{}.gz'.format(output_file)
 
     with open(output_file, 'w') as f:
         lines_written = list(map(lambda file: process(file, f), files_to_process))
@@ -63,8 +68,8 @@ def write_schema(from_file):
         table = soup.select_one('table')
         schema = [th.text for th in table.select('tr th')]
 
-    schema_file_name = '{}/output/schema.csv'.format(AGUAS_RJ_DATA_INPUT_FOLDER)
-    schema_gz_file_name = '{}/output/schema.csv.gz'.format(AGUAS_RJ_DATA_INPUT_FOLDER)
+    schema_file_name = SCHEMA_OUTPUT_FILE
+    schema_gz_file_name = '{}.gz'.format(schema_file_name)
 
     with open(schema_file_name, 'w') as f:
         writer = csv.writer(f)
@@ -92,7 +97,17 @@ def process_html(html_raw, file_to_append_data):
 
 
 def line_formatter(line):
-    return line.replace(',', '.').strip()
+    line_replaced = line.replace(',', '.').strip()
+
+    if DATE_MATCHER.match(line_replaced):
+        try:
+            date = parse(line_replaced, dayfirst=True)
+            line_replaced = date.strftime('%Y-%m-%d')
+            print(line_replaced)
+        except ValueError:
+            pass
+
+    return line_replaced
 
 
 def ensure_directory_exists(directory):
