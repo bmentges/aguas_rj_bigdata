@@ -6,4 +6,4 @@ http://sar.ana.gov.br/MedicaoSin?dropDownListEstados=20&dropDownListReservatorio
 
 Filtrando por cada reservatório obtive o "Baixar como Excel" que na verdade está em HTML. Internamente é a tabela do site.
 
-Os dados são de 01-01-2016 a 03/02/2018
+Os dados são de 01-01-2016 a 03-02-2018 (DD-MM-YYYY)
