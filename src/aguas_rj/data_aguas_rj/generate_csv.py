@@ -103,7 +103,6 @@ def line_formatter(line):
         try:
             date = parse(line_replaced, dayfirst=True)
             line_replaced = date.strftime('%Y-%m-%d')
-            print(line_replaced)
         except ValueError:
             pass
 
