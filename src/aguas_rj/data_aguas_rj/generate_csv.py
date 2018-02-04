@@ -20,6 +20,7 @@ def run():
     output_directory = '{}/output/'.format(AGUAS_DATA_INPUT_FOLDER)
     ensure_directory_exists(output_directory)
     files_to_process = glob.glob('{}/*.html'.format(AGUAS_DATA_INPUT_FOLDER))
+    files_to_process.sort()
     print('There are {} files to process. Starting...'.format(str(len(files_to_process))))
 
     write_schema(files_to_process[0])
