@@ -8,5 +8,5 @@ DEVELOPMENT_ENVIRONMENT = 'dev'
 STAGING_ENVIRONMENT = 'staging'
 PRODUCTION_ENVIRONMENT = 'prod'
 
-AGUAS_DATA_INPUT_FOLDER = '/Users/bruno.carvalho/projects/personal/data-aguas-rj/data/aguas-reservatorios-rj'
-
+current_dir = os.path.dirname(os.path.abspath(__file__))
+AGUAS_DATA_INPUT_FOLDER = '{}/../../../data/aguas-reservatorios-rj'.format(current_dir)
