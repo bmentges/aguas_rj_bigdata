@@ -1,1 +1,1 @@
-web: gunicorn site.site_config.wsgi --log-file -
+web: gunicorn --pythonpath="$PWD/site" site_config.wsgi --log-file -
