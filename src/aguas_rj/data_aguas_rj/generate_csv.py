@@ -11,20 +11,19 @@ from functools import reduce
 
 from bs4 import BeautifulSoup
 
-from aguas_rj.config import AGUAS_DATA_INPUT_FOLDER
+from aguas_rj.config import AGUAS_RJ_DATA_INPUT_FOLDER, AGUAS_RJ_DATA_OUTPUT_FOLDER
 
 logger = logging.getLogger(__name__)
 
 
 def run():
-    output_directory = '{}/output/'.format(AGUAS_DATA_INPUT_FOLDER)
-    ensure_directory_exists(output_directory)
-    files_to_process = glob.glob('{}/*.html'.format(AGUAS_DATA_INPUT_FOLDER))
+    ensure_directory_exists(AGUAS_RJ_DATA_OUTPUT_FOLDER)
+    files_to_process = glob.glob('{}/*.html'.format(AGUAS_RJ_DATA_INPUT_FOLDER))
     files_to_process.sort()
     print('There are {} files to process. Starting...'.format(str(len(files_to_process))))
 
     write_schema(files_to_process[0])
-    write_data(output_directory, files_to_process)
+    write_data(AGUAS_RJ_DATA_OUTPUT_FOLDER, files_to_process)
 
     print("The end. Success.")
 
@@ -64,8 +63,8 @@ def write_schema(from_file):
         table = soup.select_one('table')
         schema = [th.text for th in table.select('tr th')]
 
-    schema_file_name = '{}/output/schema.csv'.format(AGUAS_DATA_INPUT_FOLDER)
-    schema_gz_file_name = '{}/output/schema.csv.gz'.format(AGUAS_DATA_INPUT_FOLDER)
+    schema_file_name = '{}/output/schema.csv'.format(AGUAS_RJ_DATA_INPUT_FOLDER)
+    schema_gz_file_name = '{}/output/schema.csv.gz'.format(AGUAS_RJ_DATA_INPUT_FOLDER)
 
     with open(schema_file_name, 'w') as f:
         writer = csv.writer(f)
