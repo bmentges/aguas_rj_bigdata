@@ -6,3 +6,5 @@ staticfiles
 db.sqlite3
 output/
 __pycache__
+*.log
+input/**/*.html

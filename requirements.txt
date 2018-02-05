@@ -6,3 +6,4 @@ django-heroku==0.2.0
 gunicorn==19.7.1
 pandas==0.22.0
 matplotlib==2.1.2
+selenium==3.8.1
