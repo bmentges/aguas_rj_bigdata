@@ -23,7 +23,7 @@ DATE_MATCHER = re.compile('(?P<day>[ 0123][0-9])/(?P<month>[0-1][0-9])/(?P<year>
 
 def run():
     ensure_directory_exists(AGUAS_RJ_DATA_OUTPUT_FOLDER)
-    files_to_process = glob.glob('{}/*.html'.format(AGUAS_RJ_DATA_INPUT_FOLDER))
+    files_to_process = glob.glob('{}/input/**/*.html'.format(AGUAS_RJ_DATA_INPUT_FOLDER))
     files_to_process.sort()
     print('There are {} files to process. Starting...'.format(str(len(files_to_process))))
 
