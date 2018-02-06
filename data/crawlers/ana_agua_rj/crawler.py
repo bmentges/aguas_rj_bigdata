@@ -6,6 +6,7 @@ import errno
 import shutil
 import logging
 import datetime
+import tarfile
 from time import sleep
 from tempfile import TemporaryDirectory
 from urllib.parse import quote_plus as querystring_parser
@@ -23,6 +24,7 @@ class ANACrawler():
     BASE_URL = 'http://sar.ana.gov.br/MedicaoSin?dropDownListEstados=20&dropDownListReservatorios={}&dataInicial={}&dataFinal={}&button=Buscar'
     BASE_FILE_NAME = 'Histórico_{}.xls'
     DATA_OUTPUT_FOLDER_BASE = '{}/../../aguas-reservatorios-rj/input'.format(os.path.dirname(os.path.realpath(__file__)))
+    DOWNLOAD_TIMEOUT = 10
 
     def __init__(self, data_inicio, data_fim):
         self.tmp_dir = TemporaryDirectory()
@@ -36,7 +38,7 @@ class ANACrawler():
         for reservatorio, nome in RESERVATORIOS:
             try:
                 self.download_file(reservatorio, nome)
-            except RuntimeError as e:
+            except (RuntimeError, Exception):
                 print('error downloading {}, try again later'.format(reservatorio))
                 print('continuing with the next one...')
 
@@ -87,13 +89,17 @@ class ANACrawler():
 
             finished = False
 
+            seconds = 0
             while not finished:
+                if seconds >= self.DOWNLOAD_TIMEOUT:
+                    raise Exception('timeout')
                 if os.path.isfile(arquivo_full_path):
                     driver.close()
                     finished = True
-                    print('download completed: {}'.format(arquivo_full_path))
+                    print('download completed: {}'.format(output_file))
                 else:
                     print('waiting download...')
+                    seconds += 1
                     sleep(1)
 
             self.downloaded.append(output_file)
@@ -103,6 +109,18 @@ class ANACrawler():
 
     def post_process(self):
         self.tmp_dir.cleanup()
+        self.tar_every_input()
+
+    def tar_every_input(self):
+        path = self.output_folder
+        output_gz = '{}/all_raw_inputs_from_ANA.tar.gz'.format(path)
+
+        with tarfile.open(output_gz, "w:gz") as tar:
+            with os.scandir(path) as it:
+                for entry in it:
+                    if entry.is_file() and entry.name.endswith('.html'):
+                        tar.add(entry.path)
+
 
     def _convert_date_to_querystring(self, date):
         return querystring_parser(date)

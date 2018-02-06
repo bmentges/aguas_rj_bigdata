@@ -8,3 +8,4 @@ output/
 __pycache__
 *.log
 **/input/**/*.html
+.DS_Store
