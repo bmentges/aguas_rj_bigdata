@@ -24,6 +24,12 @@ TODO:
 
 O projeto usa o python 3.6 com todas as dependências descritas no `requirements.txt`
 
+#### Os Dados do Projeto
+
+Os dados foram e são obtidos do site da Agência Nacional de Águas. Para mais detalhes consulte o README dos dados:
+
+https://github.com/bmentges/aguas_rj_bigdata/blob/master/data/README.md 
+
 #### Como gerar o CSV dos dados da ANA e carregar no Banco de Dados:
 
 ##### Passo 1. Descompactar os arquivos de input:
