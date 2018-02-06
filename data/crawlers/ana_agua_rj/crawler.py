@@ -14,7 +14,7 @@ from urllib.parse import quote_plus as querystring_parser
 from unidecode import unidecode
 from selenium import webdriver
 
-from reservatorios import RESERVATORIOS
+from reservatorios import RESERVATORIOS_RJ
 
 logger = logging.getLogger(__name__)
 
@@ -35,7 +35,7 @@ class ANACrawler():
         print(self.DATA_OUTPUT_FOLDER_BASE)
 
     def run(self):
-        for reservatorio, nome in RESERVATORIOS:
+        for reservatorio, nome in RESERVATORIOS_RJ:
             try:
                 self.download_file(reservatorio, nome)
             except (RuntimeError, Exception):

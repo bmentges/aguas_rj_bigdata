@@ -8,7 +8,7 @@ O primeiro spike do projeto será processar o nível de água dos reservatórios
 
 ## Big Data
 
-Os dados obtidos do site estão na pasta `data/aguas-reservatorios-rj/*.html`. Estes são os arquivos gerados pelo botão "Exportar para Excel" do site da Ana.
+Os dados obtidos do site estão na pasta `data/aguas-reservatorios-rj/**/*.tar.gz`. Estes são os arquivos gerados pelo botão "Exportar para Excel" do site da Ana.
 
 TODO:
 
@@ -24,9 +24,23 @@ TODO:
 
 O projeto usa o python 3.6 com todas as dependências descritas no `requirements.txt`
 
-#### Como gerar o CSV dos dados da ANA:
+#### Como gerar o CSV dos dados da ANA e carregar no Banco de Dados:
 
-`Using virtualenvwrapper`:
+##### Passo 1. Descompactar os arquivos de input:
+
+```
+// No diretório raiz do projeto:
+$ 
+$ cd data/aguas-reservatorios-rj/01-01-1993-TO-31-12-1999/
+$ tar -zxvf all_raw_inputs_from_ANA.tar.gz
+$ cd data/aguas-reservatorios-rj/01-01-2000-TO-31-12-2009/
+$ tar -zxvf all_raw_inputs_from_ANA.tar.gz
+$ cd data/aguas-reservatorios-rj/01-01-2010-TO-05-02-2018/
+$ tar -zxvf all_raw_inputs_from_ANA.tar.gz
+```
+##### Passo 2. Rodar o gerador de csv 
+
+`Usando o virtualenvwrapper`:
 
 ```
 // No diretório do projeto:
