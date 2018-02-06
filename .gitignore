@@ -4,7 +4,7 @@ venv
 staticfiles
 .env
 db.sqlite3
-output/
+**/output/*.csv
 __pycache__
 *.log
 **/input/**/*.html

@@ -24,7 +24,7 @@ Com isso os HTMLs foram baixados para `data/aguas-reservatorios-rj/input/` nos s
 * `01-01-2000-TO-31-12-2009`
 * `01-01-2010-TO-05-02-2018`
 
-Lá estão todos os arquivos de input provenientes do site da ANA.
+Todos os arquivos totalizam 1.237.940 registros diários dos reservatórios de 1993 até 2018.
 
 Do jeito que o crawler foi feito, é simples de manter um DELTA com as futuras atualizações.
 

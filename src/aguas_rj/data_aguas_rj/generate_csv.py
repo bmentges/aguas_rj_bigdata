@@ -19,13 +19,17 @@ from aguas_rj.config import SCHEMA_OUTPUT_FILE, DATA_OUTPUT_FILE
 logger = logging.getLogger(__name__)
 
 DATE_MATCHER = re.compile('(?P<day>[ 0123][0-9])/(?P<month>[0-1][0-9])/(?P<year>[1-2][0-9][0-9][0-9])')
+COUNTER = 0
+COUNT_FILES_TO_PROCESS = 0
 
 
 def run():
+    global COUNT_FILES_TO_PROCESS
     ensure_directory_exists(AGUAS_RJ_DATA_OUTPUT_FOLDER)
     files_to_process = glob.glob('{}/input/**/*.html'.format(AGUAS_RJ_DATA_INPUT_FOLDER))
     files_to_process.sort()
     print('There are {} files to process. Starting...'.format(str(len(files_to_process))))
+    COUNT_FILES_TO_PROCESS = len(files_to_process)
 
     write_schema(files_to_process[0])
     write_data(files_to_process)
@@ -49,8 +53,18 @@ def write_data(files_to_process):
     print('Generated file: {}'.format(output_gz_file))
 
 
-def process(file_name, file_to_append_data):
+def count():
+    global COUNTER
+    global COUNT_FILES_TO_PROCESS
+    COUNTER += 1
 
+    percentage = '{:.1%}'.format(COUNTER / COUNT_FILES_TO_PROCESS)
+
+    print('..: {}/{} ({}) '.format(COUNTER, COUNT_FILES_TO_PROCESS, percentage))
+
+
+def process(file_name, file_to_append_data):
+    count()
     print('processing file {}'.format(file_name.split("/")[-1]))
 
     with open(file_name) as f:
@@ -118,4 +132,5 @@ def ensure_directory_exists(directory):
 
 
 if __name__ == '__main__':
+
     run()
