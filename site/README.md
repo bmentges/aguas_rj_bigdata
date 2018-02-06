@@ -12,3 +12,12 @@ Para configurar localmente, rode o seguinte comando:
 $ export DATABASE_URL=postgres://user:password@localhost/aguas_rj
 ```
 
+## Setup Local
+
+```sh
+// Dentro do diretório raiz do projeto...
+$ pip install -r requirements.txt
+$ cd site/
+$ python manage.py migrate
+$ python manage.py runserver
+```
