@@ -7,9 +7,9 @@ from django.utils import timezone
 
 
 class Reservatorio(models.Model):
-    '''
+    """
     Classe que representa um repositório de agua
-    '''
+    """
     nome = models.CharField(max_length=200)
     estado = models.CharField(max_length=2, default='RJ')
     codigo_ana = models.IntegerField(default=0)
@@ -33,9 +33,9 @@ class Reservatorio(models.Model):
 
 
 class Medicao(models.Model):
-    '''
+    """
     Classe que representa uma medição de um repositório. É esperado milhões de registros aqui.
-    '''
+    """
     repositorio = models.ForeignKey(Reservatorio, on_delete=models.CASCADE)
     cota = models.DecimalField('Cota (m)', max_digits=10, decimal_places=2, default=Decimal(0.0))
     afluencia = models.DecimalField('Afluência (m³/s)', max_digits=10, decimal_places=2, default=Decimal(0.0))
