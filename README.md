@@ -16,6 +16,20 @@ ps: aceito doação de infraestrutura. requirements são:
 4. 1 a 2 Gb de ram
 5. Conectividade com a internet e um ip que nao mude, ou um [sub]domínio.
 
+## APIs
+
+As APIs utilizam o django-rest-framework (http://www.django-rest-framework.org/).
+
+Endpoints disponíveis para consulta:
+
+1. GET http://bmentges.pythonanywhere.com/api/v1/reservatorios/
+    - API que retorna os dados dos reservatórios 
+    - 150 reservatorios no total, hoje
+
+2. GET http://bmentges.pythonanywhere.com/api/v1/medicoes/
+    - API que retorna as medições dos reservatórios. 
+    - Mais de 1 milhão de linhas, de 1993 a 2018.
+
 ## Big Data
 
 Os dados obtidos do site estão na pasta `data/aguas-reservatorios-rj/**/*.tar.gz`. Estes são os arquivos gerados pelo botão "Exportar para Excel" do site da Ana.
