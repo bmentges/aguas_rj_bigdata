@@ -141,7 +141,9 @@ REST_FRAMEWORK = {
     # or allow read-only access for unauthenticated users.
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
-    ]
+    ],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 50
 }
 
 """
@@ -300,5 +302,3 @@ RESERVATORIOS_RJ = ((1, "14 DE JULHO", 19083),
                     (148, "VIGARIO", 19101),
                     (149, "VOLTA GRANDE", 19009),
                     (150, "XINGO", 19126))
-
-RESERVATORIOS_RJ_HASH = dict(((codigo_ana, nome) for _, nome, codigo_ana in RESERVATORIOS_RJ))

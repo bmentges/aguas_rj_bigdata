@@ -8,3 +8,4 @@ __pycache__
 *.log
 **/input/**/*.html
 .DS_Store
+db.sqlite3
