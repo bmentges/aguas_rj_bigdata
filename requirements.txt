@@ -8,3 +8,6 @@ pandas==0.22.0
 matplotlib==2.1.2
 selenium==3.8.1
 psycopg2==2.7.3.2
+djangorestframework==3.7.7
+django-filter==1.1.0
+markdown==2.6.11
