@@ -14,6 +14,7 @@ class ReservatorioViewSet(viewsets.ModelViewSet):
     queryset = Reservatorio.objects.all()
     serializer_class = ReservatorioSerializer
     permission_classes = [IsAuthenticatedOrReadOnly]
+    filter_fields = ('nome', 'codigo_ana')
 
 
 class MedicaoViewSet(viewsets.ModelViewSet):
@@ -23,3 +24,4 @@ class MedicaoViewSet(viewsets.ModelViewSet):
     queryset = Medicao.objects.all()
     serializer_class = MedicaoSerializer
     permission_classes = [IsAuthenticatedOrReadOnly]
+    filter_fields = ('data_da_medicao',)

@@ -38,7 +38,7 @@ TODO:
 
 - [x] Obter os dados do site da Agência Nacional de Águas (ANA)
 - [x] Converter os dados para um único .CSV
-- [x] Colocar os dados em produção (free por hora, muitas limitações)
+- [x] Colocar os dados em produção (free por enquanto, muitas limitações)
 - [ ] Plotar o gráfico por reservatório
 - [ ] Calcular média geral do Estado por dia, gerando um novo CSV
 - [ ] Plotar o gráfico geral do Estado
