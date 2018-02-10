@@ -1,8 +1,6 @@
-# Projeto Big Data GovBR
+# Reservatórios de Águas do Estado do Rio de Janeiro
 
-O objetivo do projeto é processar os dados públicos em larga escala para obtermos melhores informações sobre como nosso governo atua.
-
-O primeiro spike do projeto será processar o nível de água dos reservatórios do RJ.
+O objetivo do projeto será monitorar o nível de água dos reservatórios do RJ.
 
 # Organização do Projeto
 
@@ -14,6 +12,7 @@ TODO:
 
 - [x] Obter os dados do site da Agência Nacional de Águas (ANA)
 - [x] Converter os dados para um único .CSV
+- [x] Colocar os dados em produção (free por hora, muitas limitações)
 - [ ] Plotar o gráfico por reservatório
 - [ ] Calcular média geral do Estado por dia, gerando um novo CSV
 - [ ] Plotar o gráfico geral do Estado
@@ -34,7 +33,7 @@ https://github.com/bmentges/aguas_rj_bigdata/blob/master/data/README.md
 
 ##### Passo 1. Descompactar os arquivos de input:
 
-```
+```sh
 // No diretório raiz do projeto:
 $ 
 $ cd data/aguas-reservatorios-rj/01-01-1993-TO-31-12-1999/
@@ -48,7 +47,7 @@ $ tar -zxvf all_raw_inputs_from_ANA.tar.gz
 
 `Usando o virtualenvwrapper`:
 
-```
+```sh
 // No diretório do projeto:
 $ mkvirtualenv aguas_data_rj
 $ workon aguas_data_rj
@@ -64,6 +63,20 @@ Este processador lê os arquivos em `data/aguas-reservatorios-rj/input/**/*.html
 * Também gera as versões compactadas em .gz dos mesmos arquivos (bem menores):
     - `data/aguas-reservatorios-rj/output/schema.csv.gz`
     - `data/aguas-reservatorios-rj/output/all_data.csv.gz`
+
+##### Passo 3. Rodar os comandos que populam o banco de dados
+
+`Usando o virtualenvwrapper`:
+
+```sh
+// No diretório do projeto
+// ps: A ordem é importante
+$ workon aguas_data_rj
+$ cd site
+$ python manage.py migrate
+$ python manage.py load_reservatorios
+$ python manage.py load_medicoes_rj
+```
 
 ## Site
 

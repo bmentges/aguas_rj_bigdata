@@ -11,12 +11,23 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 """
 
 import os
+import gzip
+import shutil
+from pathlib import Path
+
 import django_heroku
 
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# Uncompress production database if present
+sqlite3db_gz = Path('{}/db.sqlite3.gz'.format(BASE_DIR))
+if sqlite3db_gz.is_file():
+    with open('{}/db.sqlite3'.format(BASE_DIR), 'wb') as f_out:
+        with gzip.open(sqlite3db_gz, 'rb', 9) as f_in:
+            shutil.copyfileobj(f_in, f_out)
+        os.remove(sqlite3db_gz)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
