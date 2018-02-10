@@ -4,6 +4,18 @@ O objetivo do projeto será monitorar o nível de água dos reservatórios do RJ
 
 # Organização do Projeto
 
+## Onde?
+
+http://bmentges.pythonanywhere.com/
+
+ps: aceito doação de infraestrutura. requirements são:
+
+1. 1 servidor linux
+2. 5 Gb de disco (plus se tiver como usar também um S3 bucket - barato pra big data)
+3. Um banco de dados sem limite de linhas (30Gb+ pro banco seria ótimo)
+4. 1 a 2 Gb de ram
+5. Conectividade com a internet e um ip que nao mude, ou um [sub]domínio.
+
 ## Big Data
 
 Os dados obtidos do site estão na pasta `data/aguas-reservatorios-rj/**/*.tar.gz`. Estes são os arquivos gerados pelo botão "Exportar para Excel" do site da Ana.
