@@ -106,4 +106,6 @@ $ python manage.py load_medicoes_rj
 
 ## Site
 
-O site é um django simples preparado para deploy no Heroku, por simplicidade e custos atuais.
+O site é um django simples preparado para deploy no PythonAnywhere, por simplicidade e custos atuais.
+
+Para mais informações sobre como instalar e rodar localmente, leia o arquivo https://github.com/bmentges/aguas_rj_bigdata/blob/master/site/README.md
