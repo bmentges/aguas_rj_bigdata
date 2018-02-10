@@ -121,7 +121,6 @@ class ANACrawler():
                     if entry.is_file() and entry.name.endswith('.html'):
                         tar.add(entry.path)
 
-
     def _convert_date_to_querystring(self, date):
         return querystring_parser(date)
 
