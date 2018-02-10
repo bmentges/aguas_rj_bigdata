@@ -43,7 +43,7 @@ TODO:
 - [ ] Calcular média geral do Estado por dia, gerando um novo CSV
 - [ ] Plotar o gráfico geral do Estado
 
-### Documentação
+### Artefatos
 
 #### Python 3.6
 
