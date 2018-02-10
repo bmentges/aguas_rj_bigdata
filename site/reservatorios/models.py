@@ -60,4 +60,5 @@ class Medicao(models.Model):
         verbose_name_plural = 'medições'
         indexes = [
             models.Index(fields=['data_da_medicao']),
+            models.Index(fields=['volume_util']),
             ]
