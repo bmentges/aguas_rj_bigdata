@@ -14,13 +14,11 @@ class Command(BaseCommand):
             return
         else:
             created = 0
-            for (_id, nome) in settings.RESERVATORIOS_RJ:
+            for (_, nome, codigo_ana) in settings.RESERVATORIOS_RJ:
                 repo = Repositorio()
-                repo.codigo_ana = _id
+                repo.codigo_ana = codigo_ana
                 repo.estado = 'RJ'
                 repo.nome = nome
                 repo.save()
                 created += 1
             self.stdout.write("Criados {} repositorios no banco de dados".format(created))
-
-
