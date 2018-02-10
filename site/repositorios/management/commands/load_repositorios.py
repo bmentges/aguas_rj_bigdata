@@ -1,17 +1,26 @@
 from __future__ import unicode_literals
 
-from django.core.management.base import BaseCommand, CommandError
+from django.core.management.base import BaseCommand
+from django.conf import settings
+from repositorios.models import Repositorio
 
 
 class Command(BaseCommand):
-    """
-    Comando para subir a lista de reservatorios pro banco de dados
-    """
     help = 'Carrega os repositórios iniciais do projeto no banco de dados'
 
-    def add_arguments(self, parser):
-        parser.add_argument('poll_id', nargs='+', type=int)
-
     def handle(self, *args, **options):
-        #TODO
-        pass
+        if Repositorio.objects.all():
+            self.stdout.write("Ja existem repositorios carregados no banco de dados")
+            return
+        else:
+            created = 0
+            for (_id, nome) in settings.RESERVATORIOS_RJ:
+                repo = Repositorio()
+                repo.codigo_ana = _id
+                repo.estado = 'RJ'
+                repo.nome = nome
+                repo.save()
+                created += 1
+            self.stdout.write("Criados {} repositorios no banco de dados".format(created))
+
+
