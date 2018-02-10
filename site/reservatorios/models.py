@@ -6,7 +6,7 @@ from django.db import models
 from django.utils import timezone
 
 
-class Repositorio(models.Model):
+class Reservatorio(models.Model):
     '''
     Classe que representa um repositório de agua
     '''
@@ -29,14 +29,14 @@ class Repositorio(models.Model):
         if not self.id:
             self.created_at = timezone.now()
         self.updated_at = timezone.now()
-        return super(Repositorio, self).save(*args, **kwargs)
+        return super(Reservatorio, self).save(*args, **kwargs)
 
 
 class Medicao(models.Model):
     '''
     Classe que representa uma medição de um repositório. É esperado milhões de registros aqui.
     '''
-    repositorio = models.ForeignKey(Repositorio, on_delete=models.CASCADE)
+    repositorio = models.ForeignKey(Reservatorio, on_delete=models.CASCADE)
     cota = models.DecimalField('Cota (m)', max_digits=10, decimal_places=2, default=Decimal(0.0))
     afluencia = models.DecimalField('Afluência (m³/s)', max_digits=10, decimal_places=2, default=Decimal(0.0))
     defluencia = models.DecimalField('Defluência (m³/s)', max_digits=10, decimal_places=2, default=Decimal(0.0))

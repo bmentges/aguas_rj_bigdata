@@ -2,7 +2,7 @@ from django.apps import AppConfig
 
 
 class RepositoriosConfig(AppConfig):
-    name = 'repositorios'
+    name = 'reservatorios'
 
     class Meta:
         verbose_name = 'repositório'

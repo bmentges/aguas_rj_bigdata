@@ -10,7 +10,7 @@ class GenerateMetricsMapReduce(MRJob):
     Este é um MapReduce para extrair estatísticas dos reservatorios
     """
     def mapper(self, _, line):
-        pass
+        (id, )
 
     def reducer(self, repositorio, values):
         pass
