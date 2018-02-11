@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Reservatórios de Águas do RJ",
+  "name": "Monitoramento dos Reservatórios de Águas do RJ",
   "icons": [
     {
       "src": "favicon.ico",
