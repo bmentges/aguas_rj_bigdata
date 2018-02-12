@@ -37,7 +37,7 @@ class ReservatorioViewSet(viewsets.ModelViewSet):
         last_year = today + relativedelta(months=-12)
 
         objetos = list(Medicao.objects.filter(reservatorio__pk=pk,
-                                      data_da_medicao__range=(last_year, today)))
+                                      data_da_medicao__range=(last_year, today)).order_by('-data_da_medicao'))
 
         serializer = MedicaoSerializer(objetos, many=True)
 
