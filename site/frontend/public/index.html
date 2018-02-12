@@ -12,50 +12,18 @@
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
     <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
+      Notice the use of /static/%PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
       Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      Unlike "/favicon.ico" or "favicon.ico", "/static/%PUBLIC_URL%/favicon.ico" will
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>Monitoramento dos Reservatórios de Águas do Estado do Rio de Janeiro - Dados da Agência Nacional de Águas</title>
-    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <style type="text/css">
-      .jumbotron {
-          background: #532f8c;
-          color: white;
-          padding-bottom: 80px
-      }
-      .jumbotron .btn-primary {
-          background: #845ac7;
-          border-color: #845ac7
-      }
-      .jumbotron .btn-primary:hover {
-          background: #7646c1
-      }
-      .jumbotron p {
-          color: #d9ccee;
-          max-width: 75%;
-          margin: 1em auto 2em
-      }
-      .navbar+.jumbotron {
-          margin-top: -20px
-      }
-      .jumbotron .lang-logo {
-          display: block;
-          background: #b01302;
-          border-radius: 50%;
-          overflow: hidden;
-          width: 100px;
-          height: 100px;
-          margin: auto;
-          border: 2px solid white
-      }
-      .jumbotron .lang-logo img {
-          max-width: 100%
-      }
+
   </style>
   </head>
   <body>
@@ -78,19 +46,13 @@
     </nav>
     <div class="jumbotron text-center">
       <div class="container">
-        <a href="/" class="lang-logo">
-          <img src="{% static 'lang-logo.png'%}">
-        </a>
         <h2>Reservatórios de Água do Estado do RJ</h2>
       </div>
     </div>
-    <div class="container">
-      <div class="alert alert-info text-center" role="alert">
-        Projeto no Github: <a href="https://github.com/bmentges/aguas_rj_bigdata">https://github.com/bmentges/aguas_rj_bigdata</a>
-      </div>
-    </div>
+
+    <!-- React entry point. Olhe em: project_root/frontend/src/index.js e siga a trilha-->
     <div id="root"></div>
-    {% block content %}{% endblock %}
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   </body>

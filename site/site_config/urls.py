@@ -18,6 +18,6 @@ router.register(r'medicoes', MedicaoViewSet)
 urlpatterns = [
     url(r'^$', home_views.index, name='index'),
     path('admin/', admin.site.urls),
-    url(r'^api/v1/', include(router.urls)),
+    url(r'^api/v1/', include(router.urls)),  # rest_framework starting endpoint
     url(r'^api/v1/api-auth/', include('rest_framework.urls')),
 ]
