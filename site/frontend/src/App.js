@@ -64,7 +64,7 @@ class App extends Component {
                         onReservatorioSelect={ reservatorio => ( this.selectReservatorio(reservatorio) ) } />
                 </div>
             </div>
-            <div className="row">
+            <div className="row painel-detalhe">
                 <div className="col-md detalhe-reservatorio">
                     <ReservatorioDetail reservatorio={this.state.selectedReservatorio} />
                 </div>
