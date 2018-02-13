@@ -1,56 +1,16 @@
 import React, { Component } from 'react';
-import axios from 'axios';
-
 import './App.css';
-
-import ReservatorioList from './components/reservatorio_list';
-import ReservatorioDetail from './components/reservatorio_detail';
+import PropTypes from 'prop-types';
+import VisibleReservatorioList from './containers/visible_reservatorio_list';
+import VisibleReservatorioDetail from './containers/visible_reservatorio_detail';
 
 class App extends Component {
 
-  constructor(props) {
-    super(props);
-
-    this.state = {
-        reservatorios: [],
-        selectedReservatorio: null
-    };
-
-    this.fetchReservatorios();
-  }
-
-  fetchReservatorios() {
-    // para a home, só os 4 principais: Paraibuna, Jaguari, Funil e Santa Branca.
-    const reservatorios = [97, 70, 46, 128];
-
-    reservatorios.map((id) => {
-      axios.get(`/api/v1/reservatorios/${id}/`)
-        .then(response => {
-          console.log(response);
-          this.addReservatorioToState(response.data);
-        })
-        .catch(function (error) {
-          console.log(error);
-        });
-      return true;
-    });
-  }
-
-  addReservatorioToState(reservatorio) {
-    this.state.reservatorios.push(reservatorio);
-
-    if (!this.state.selectedReservatorio) {
-      this.setState({
-          reservatorios: this.state.reservatorios,
-          selectedReservatorio: reservatorio
-      });
-    } else {
-      this.setState({reservatorios: this.state.reservatorios});
-    }
-  }
-
-  selectReservatorio(reservatorio) {
-      this.setState({selectedReservatorio: reservatorio});
+  componentDidCatch(error, errorInfo) {
+    // Catch errors in any components below and re-render with error message
+    // You can also log error messages to an error reporting service here
+      console.log(error);
+      console.log(errorInfo);
   }
 
   render() {
@@ -58,20 +18,20 @@ class App extends Component {
         <div className="container">
             <div className="row">
                 <div className="col-md">
-                    <ReservatorioList
-                        reservatorios={this.state.reservatorios}
-                        active={this.state.selectedReservatorio}
-                        onReservatorioSelect={ reservatorio => ( this.selectReservatorio(reservatorio) ) } />
+                    <VisibleReservatorioList />
                 </div>
             </div>
             <div className="row painel-detalhe">
                 <div className="col-md detalhe-reservatorio">
-                    <ReservatorioDetail reservatorio={this.state.selectedReservatorio} />
+                    <VisibleReservatorioDetail />
                 </div>
             </div>
         </div>
     );
   }
+
 }
+
+App.contextTypes = { store: PropTypes.object };
 
 export default App;

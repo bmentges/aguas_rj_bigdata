@@ -1,13 +1,11 @@
-import React, { Component } from 'react';
+import React  from 'react';
+import PropTypes from 'prop-types';
 
-
-class ReservatorioDetail extends Component {
-
-    render() {
-        if (!this.props.reservatorio) {
+function ReservatorioDetail({selectedReservatorio}) {
+    if (!selectedReservatorio) {
             return (
                 <div className="reservatorio-detail">
-
+                    Carregando reservatórios... aguarde.
                 </div>
             );
         } else {
@@ -15,15 +13,23 @@ class ReservatorioDetail extends Component {
                 <div className="reservatorio-detail">
                     Dados do reservatorio: <br/>
                     <ul>
-                        <li>Id: {this.props.reservatorio.id}<br/></li>
-                        <li>Nome: {this.props.reservatorio.nome}<br/></li>
-                        <li>Código ANA: {this.props.reservatorio.codigo_ana}<br/></li>
-                        <li>Estado: {this.props.reservatorio.estado}<br/></li>
+                        <li>Id: {selectedReservatorio.id}<br/></li>
+                        <li>Nome: {selectedReservatorio.nome}<br/></li>
+                        <li>Código ANA: {selectedReservatorio.codigo_ana}<br/></li>
+                        <li>Estado: {selectedReservatorio.estado}<br/></li>
                     </ul>
                 </div>
             );
         }
-    }
 }
+
+ReservatorioDetail.propTypes = {
+	selectedReservatorio: PropTypes.shape({
+    id: PropTypes.number.isRequired,
+    nome: PropTypes.bool.isRequired,
+    estado: PropTypes.string.isRequired,
+		codigo_ana: PropTypes.number.isRequired,
+  })
+};
 
 export default ReservatorioDetail;
