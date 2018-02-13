@@ -1,14 +1,2 @@
-mrjob==0.6.1
-beautifulsoup4==4.6.0
-ipython==6.2.1
-django==2.0.2
-django-heroku==0.2.0
-gunicorn==19.7.1
-pandas==0.22.0
-matplotlib==2.1.2
-selenium==3.8.1
-psycopg2==2.7.3.2
-djangorestframework==3.7.7
-django-filter==1.1.0
-markdown==2.6.11
-python-dateutil==2.6.1
+-r site/requirements.txt
+-r data/requirements.txt
