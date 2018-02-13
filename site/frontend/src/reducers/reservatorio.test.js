@@ -1,8 +1,8 @@
 import React from 'react';
 import {reservoirDownloadedAction} from '../constants/actionTypes';
-import reservatorioReducer, {INITIAL_STATE} from './reservatorio';
+import globalStateReducer, {INITIAL_STATE} from './reservatorio';
 
-test("deve adicionar reservatorio na lista", () => {
+test("deve adicionar reservatorio na lista global", () => {
   const reservatorio = "abc";
 
   const expected = {
@@ -11,12 +11,12 @@ test("deve adicionar reservatorio na lista", () => {
     fetching_data: false,
   }
 
-  const resultado = reservatorioReducer(INITIAL_STATE, reservoirDownloadedAction(reservatorio));
+  const resultado = globalStateReducer(INITIAL_STATE, reservoirDownloadedAction(reservatorio));
 
   expect(resultado).toEqual(expected);
 });
 
-test("deve adicionar reservatorio na lista quando ja estiver populada", () => {
+test("deve adicionar reservatorio na lista global quando já estiver populada", () => {
   const reservatorio1 = {id: "abc"};
   const reservatorio2 = {id: "def"};
 
@@ -29,14 +29,13 @@ test("deve adicionar reservatorio na lista quando ja estiver populada", () => {
   const action = reservoirDownloadedAction(reservatorio1);
   const action2 = reservoirDownloadedAction(reservatorio2);
 
-  const resultado = reservatorioReducer(reservatorioReducer(INITIAL_STATE, action), action2);
+  const resultado = globalStateReducer(globalStateReducer(INITIAL_STATE, action), action2);
 
   expect(resultado).toEqual(expected);
 });
 
-test("deve pegar o estado inicial por padrao", () => {
-
-  const resultado = reservatorioReducer(INITIAL_STATE, {});
+test("deve pegar o estado inicial por padrão", () => {
+  const resultado = globalStateReducer(INITIAL_STATE, {});
 
   expect(resultado).toEqual(INITIAL_STATE);
 });
