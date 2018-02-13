@@ -15,8 +15,7 @@ const loggerMiddleware = createLogger();
 let store = createStore(
     globalStateReducer,
     applyMiddleware(
-        asyncDispatchMiddleware,
-        loggerMiddleware
+        asyncDispatchMiddleware
     ));
 
 store.dispatch(fetchInitialDataAction());
