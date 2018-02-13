@@ -4,7 +4,7 @@ import ReservatorioList from "../components/reservatorio_list";
 
 const mapStateToProps = (state) => ({
   reservatorios: state.reservatorios,
-  selectedReservatorio: state.selectReservatorio
+  selectedReservatorio: state.selectedReservatorio
 });
 
 const mapDispatchToProps = {
