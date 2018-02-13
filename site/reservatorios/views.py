@@ -34,7 +34,7 @@ class ReservatorioViewSet(viewsets.ModelViewSet):
         :return:
         """
         today = date.today()
-        last_year = today + relativedelta(months=-12)
+        last_year = today + relativedelta(months=-12*10)  # 10 anos
 
         objetos = list(Medicao.objects.filter(reservatorio__pk=pk,
                                       data_da_medicao__range=(last_year, today)).order_by('-data_da_medicao'))

@@ -7,7 +7,7 @@ const getData = (selectedReservatorio) => {
     return [];
   }
   return selectedReservatorio.medicoes.map((medicao, index) => {
-    if ((index % 7) === 0) { // quero 1 a cada 7 registros pra plotar no gráfico, 1 por semana ta bom.
+    if ((index % 45) === 0) { // quero 1 a cada 7 registros pra plotar no gráfico, 1 por semana ta bom.
       return dataReducer(medicao);
     } else {
       return null;
