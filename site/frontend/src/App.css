@@ -88,3 +88,11 @@
   background-color: #ddd;
   border: 1px solid #ddd;
 }
+
+.chart-container {
+  margin-left: 10px;
+}
+
+.chart-container .the-chart {
+  margin-top: 10px;
+}

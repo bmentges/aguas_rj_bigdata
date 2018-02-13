@@ -14,9 +14,8 @@ function ReservatorioDetail({selectedReservatorio}) {
         <div className="reservatorio-detail">
           Dados do reservatorio: <br/>
           <ul>
-            <li>Id: {selectedReservatorio.id}<br/></li>
             <li>Nome: {selectedReservatorio.nome}<br/></li>
-            <li>Código ANA: {selectedReservatorio.codigo_ana}<br/></li>
+            <li>Código ANA (Agência Nacional de Águas): {selectedReservatorio.codigo_ana}<br/></li>
             <li>Estado: {selectedReservatorio.estado}<br/></li>
           </ul>
         </div>
