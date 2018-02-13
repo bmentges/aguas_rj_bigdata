@@ -63,7 +63,6 @@ export default function globalStateReducer(state = INITIAL_STATE, action) {
       };
 
       if (state.selectedReservatorio.id === action.reservatorio.id) {
-        console.log(`achei!!!! ${state.selectedReservatorio.id} === ${action.reservatorio.id}`);
         new_state.reservatorios.forEach((reservatorio) => {
           if (reservatorio.id === action.reservatorio.id) {
             action.asyncDispatch(selectReservatorioAction(reservatorio));
@@ -114,7 +113,6 @@ export function reservatorioReducer(state=RESERVATORIO_INITIAL_STATE, action) {
       if (state.id !== action.reservatorio.id) {
         return state;
       }
-      console.log(`Medicao adicionada a reservatorio ${action.reservatorio.id}`);
       return {...state, medicoes: action.medicoes};
     default:
       return state;
