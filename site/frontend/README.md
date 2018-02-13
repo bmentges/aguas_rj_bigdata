@@ -1,3 +1,27 @@
+# Frontend ReactJS + Redux
+
+O projeto foi utilizado como forma de aprendizado em React + Redux
+
+Podemos perceber suas limitações quando nos deparamos com requests assíncronos,
+fazendo necessário o uso de middleware customizado, para não 
+ter que adicionar mais uma dependência: react-thunk
+
+## Para funcionar corretamente:
+```sh 
+$ cd <proj_dir>
+$ cd site/frontend/
+$ npm install
+$ npm run build
+$ cd ..
+$ python manage.py runserver
+```
+
+Sim, cada vez que for testar o ideal é rodar npm run build e o Django. Porque? Porque a API está lá, e cross-origin, 
+enfim, aquela 
+chatice toda. Tem como melhorar? Ajuda é bem vinda.
+
+# Documentação do create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
