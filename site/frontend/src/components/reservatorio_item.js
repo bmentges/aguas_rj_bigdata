@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class ReservatorioItem extends Component {
 
 	render() {
-		let active = this.props.active ? this.props.active : '';
+		let active = this.props.active ? 'active' : '';
 
 		return (
 			<li onClick={() => this.props.onReservatorioSelect(this.props.reservatorio)} className={`nav-item ${active}`} >

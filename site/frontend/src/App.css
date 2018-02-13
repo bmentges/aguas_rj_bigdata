@@ -23,57 +23,68 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .jumbotron {
-    background: #532f8c;
-    color: white;
-    padding-bottom: 10px
+  background: #532f8c;
+  color: white;
+  padding-bottom: 10px
 }
+
 .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7
+  background: #845ac7;
+  border-color: #845ac7
 }
+
 .jumbotron .btn-primary:hover {
-    background: #7646c1
+  background: #7646c1
 }
+
 .jumbotron p {
-    color: #d9ccee;
-    max-width: 75%;
-    margin: 1em auto 2em
+  color: #d9ccee;
+  max-width: 75%;
+  margin: 1em auto 2em
 }
-.navbar+.jumbotron {
-    margin-top: -65px
+
+.navbar + .jumbotron {
+  margin-top: -65px
 }
+
 .jumbotron .lang-logo {
-    display: block;
-    background: #b01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white
+  display: block;
+  background: #b01302;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border: 2px solid white
 }
+
 .jumbotron .lang-logo img {
-    max-width: 100%
+  max-width: 100%
 }
 
 .reservatorio-detail img {
-    float: left;
+  float: left;
 }
 
 .detalhe-reservatorio {
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin: 4px;
-    background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 4px;
+  background-color: #fff;
 }
 
 .painel-detalhe {
-    background-color: #eee;
+  background-color: #ddd;
+  border: 1px solid #ddd;
 }
