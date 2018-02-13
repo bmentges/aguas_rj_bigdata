@@ -15,8 +15,7 @@ const loggerMiddleware = createLogger();
 let store = createStore(
     reservatorioReducer,
     applyMiddleware(
-        asyncDispatchMiddleware,
-        loggerMiddleware
+        asyncDispatchMiddleware
     ));
 
 store.dispatch(fetchInitialDataAction());
