@@ -13,12 +13,23 @@ $ cd site/frontend/
 $ npm install
 $ npm run build
 $ cd ..
+$ python manage.py collectstatic
 $ python manage.py runserver
 ```
 
 Sim, cada vez que for testar o ideal é rodar npm run build e o Django. Porque? Porque a API está lá, e cross-origin, 
 enfim, aquela 
 chatice toda. Tem como melhorar? Ajuda é bem vinda.
+
+## Para rodar os testes
+
+```bash
+$ cd <project_dir>
+$ cd site/
+$ cd frontend/
+$ npm run test
+// O servidor ficará monitorando os testes e rodará automaticamente
+```
 
 # Documentação do create-react-app
 

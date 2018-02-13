@@ -7,8 +7,6 @@ import VisibleReservatorioDetail from './containers/visible_reservatorio_detail'
 class App extends Component {
 
   componentDidCatch(error, errorInfo) {
-    // Catch errors in any components below and re-render with error message
-    // You can also log error messages to an error reporting service here
       console.log(error);
       console.log(errorInfo);
   }

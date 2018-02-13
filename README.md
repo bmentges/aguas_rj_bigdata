@@ -109,3 +109,27 @@ $ python manage.py load_medicoes_rj
 O site é um django simples preparado para deploy no PythonAnywhere, por simplicidade e custos atuais.
 
 Para mais informações sobre como instalar e rodar localmente, leia o arquivo https://github.com/bmentges/aguas_rj_bigdata/blob/master/site/README.md
+
+### Frontend
+
+O frontend do site foi totalmente feito com ReactJS+Redux e por enquanto está sendo servido diretamente pelo Django.
+
+Local: <project_dir>/site/frontend
+
+#### Como rodar o site localmente
+
+Após carregar o banco de dados como descrito na seção anterior, faça o seguinte:
+
+```bash
+$ cd <project_dir>
+$ cd site/
+$ workon bigdata // criar este virtualenv com o virtualenvwrapper
+$ pip install -r requirements.txt
+$ cd frontend/
+$ npm install
+$ npm run build
+$ cd ..
+$ python manage.py collectstatic
+$ python manage.py runserver
+// O servidor estará disponível em http://localhost:8000/
+```

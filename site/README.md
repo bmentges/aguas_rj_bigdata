@@ -8,10 +8,16 @@ Por enquanto estamos utilizando o sqlite3 para trabalhar os dados tanto localmen
 
 ## Setup Local
 
-```sh
-// Dentro do diretório raiz do projeto...
-$ pip install -r requirements.txt
+```bash
+$ cd <project_dir>
 $ cd site/
-$ python manage.py migrate
+$ workon bigdata // criar este virtualenv com o virtualenvwrapper
+$ pip install -r requirements.txt
+$ cd frontend/
+$ npm install
+$ npm run build
+$ cd ..
+$ python manage.py collectstatic
 $ python manage.py runserver
+// O servidor estará disponível em http://localhost:8000/
 ```
